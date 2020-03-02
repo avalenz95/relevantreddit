@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -41,7 +42,7 @@ type redditAuth struct {
 
 // }
 
-func request() {
+func request() string {
 	//Load Environment Variables
 	err := godotenv.Load()
 	if err != nil {
@@ -72,9 +73,16 @@ func request() {
 		// handle err
 	}
 	defer resp.Body.Close()
+
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+
+	}
+
+	return string(content)
 }
 
 func main() {
-	request()
+	fmt.Println(request())
 
 }
