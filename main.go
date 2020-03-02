@@ -1,8 +1,11 @@
 package main
 
 import (
+	"fmt"
 	"log"
+	"net/http"
 	"os"
+	"strings"
 
 	"github.com/joho/godotenv"
 )
@@ -38,8 +41,7 @@ type redditAuth struct {
 
 // }
 
-func main() {
-
+func request() {
 	//Load Environment Variables
 	err := godotenv.Load()
 	if err != nil {
@@ -50,5 +52,29 @@ func main() {
 	client := os.Getenv("SCRIPT_CLIENT")
 	username := os.Getenv("USERNAME")
 	password := os.Getenv("PASSWORD")
+
+	body := strings.NewReader(fmt.Sprintf("grant_type=password&username=%s&password=%s", username, password))
+
+	//Create new http post request
+	req, err := http.NewRequest("POST", "https://www.reddit.com/api/v1/access_token", body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	//Set authorization request
+	req.SetBasicAuth(client, secretKey)
+
+	//Curl command header entries
+	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		// handle err
+	}
+	defer resp.Body.Close()
+}
+
+func main() {
+	request()
 
 }
