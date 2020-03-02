@@ -36,7 +36,8 @@ import (
 // secretKey := os.Getenv("REDDIT_SECRET")
 
 // }
-//Token
+
+//TokenRequest stores authentication request
 type tokenRequest struct {
 	AccessToken string `json:"access_token"`
 	TokenType   string `json:"token_type"`
@@ -44,7 +45,30 @@ type tokenRequest struct {
 	Scope       string `json:"scope"`
 }
 
-func request() tokenRequest {
+func readResponse() {
+
+}
+
+//Sends an http request returns response in bytes
+func sendRequest(request *http.Request) []byte {
+
+	response, err := http.DefaultClient.Do(request)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer response.Body.Close()
+
+	content, err := ioutil.ReadAll(response.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	return content
+}
+
+func requestToken() tokenRequest {
 	//Load Environment Variables
 	err := godotenv.Load()
 	if err != nil {
@@ -70,16 +94,7 @@ func request() tokenRequest {
 	//header entries
 	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", username))
 
-	resp, err := http.DefaultClient.Do(req)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer resp.Body.Close()
-
-	content, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-
-	}
+	content := sendRequest(req)
 	//Create empty token request variable
 	var tokenRequest = tokenRequest{}
 
@@ -89,6 +104,25 @@ func request() tokenRequest {
 	return tokenRequest
 }
 
+func useToken(tr tokenRequest) {
+
+	req, err := http.NewRequest("GET", "https://oauth.reddit.com/api/v1/me", nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	req.Header.Set("Authorization", fmt.Sprintf("%s %s", tr.TokenType, tr.AccessToken))
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+
+}
+
 func main() {
-	fmt.Print(request())
+
+	fmt.Print(requestToken())
+
 }
