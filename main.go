@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -35,8 +36,15 @@ import (
 // secretKey := os.Getenv("REDDIT_SECRET")
 
 // }
+//Token
+type tokenRequest struct {
+	AccessToken string `json:"access_token"`
+	TokenType   string `json:"token_type"`
+	Expires     int    `json:"expires_in"`
+	Scope       string `json:"scope"`
+}
 
-func request() string {
+func request() tokenRequest {
 	//Load Environment Variables
 	err := godotenv.Load()
 	if err != nil {
@@ -64,7 +72,7 @@ func request() string {
 
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
-		// handle err
+		log.Fatal(err)
 	}
 	defer resp.Body.Close()
 
@@ -72,10 +80,15 @@ func request() string {
 	if err != nil {
 
 	}
+	//Create empty token request variable
+	var tokenRequest = tokenRequest{}
 
-	return string(content)
+	//parse json into token struct
+	json.Unmarshal(content, &tokenRequest)
+
+	return tokenRequest
 }
 
 func main() {
-	fmt.Println(request())
+	fmt.Print(request())
 }
