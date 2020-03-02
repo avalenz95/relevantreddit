@@ -11,12 +11,6 @@ import (
 	"github.com/joho/godotenv"
 )
 
-type redditAuth struct {
-	ClientID      string
-	ClientSecret  string
-	response_type "code"
-}
-
 // func future_auth() {
 // 	ctx := context.Background()
 
@@ -65,8 +59,8 @@ func request() string {
 	//Set authorization request
 	req.SetBasicAuth(client, secretKey)
 
-	//Curl command header entries
-	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
+	//header entries
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", username))
 
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
@@ -84,5 +78,4 @@ func request() string {
 
 func main() {
 	fmt.Println(request())
-
 }
