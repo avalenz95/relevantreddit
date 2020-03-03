@@ -38,11 +38,19 @@ import (
 // }
 
 //TokenRequest stores authentication request
-type tokenRequest struct {
+type token struct {
 	AccessToken string `json:"access_token"`
 	TokenType   string `json:"token_type"`
 	Expires     int    `json:"expires_in"`
 	Scope       string `json:"scope"`
+}
+
+//Store user credentials for easier access
+type credentials struct {
+	SecretKey string
+	Client    string
+	Username  string
+	Password  string
 }
 
 func readResponse() {
@@ -68,19 +76,30 @@ func sendRequest(request *http.Request) []byte {
 	return content
 }
 
-func requestToken() tokenRequest {
-	//Load Environment Variables
+//Load enviornment variables
+func loadEnvironment() credentials {
 	err := godotenv.Load()
+
 	if err != nil {
 		log.Fatal("Error loading environment variables")
 	}
 
-	secretKey := os.Getenv("SCRIPT_REDDIT_SECRET")
-	client := os.Getenv("SCRIPT_CLIENT")
-	username := os.Getenv("USERNAME")
-	password := os.Getenv("PASSWORD")
+	var cred = credentials{}
 
-	body := strings.NewReader(fmt.Sprintf("grant_type=password&username=%s&password=%s", username, password))
+	cred.SecretKey = os.Getenv("SCRIPT_REDDIT_SECRET")
+	cred.Client = os.Getenv("SCRIPT_CLIENT")
+	cred.Username = os.Getenv("USERNAME")
+	cred.Password = os.Getenv("PASSWORD")
+
+	return cred
+
+}
+
+//Request a token from reddit server
+func requestToken(creds credentials) token {
+	//Load Environment Variables
+
+	body := strings.NewReader(fmt.Sprintf("grant_type=password&username=%s&password=%s", creds.Username, creds.Password))
 
 	//Create new http post request
 	req, err := http.NewRequest("POST", "https://www.reddit.com/api/v1/access_token", body)
@@ -89,14 +108,14 @@ func requestToken() tokenRequest {
 	}
 
 	//Set authorization request
-	req.SetBasicAuth(client, secretKey)
+	req.SetBasicAuth(creds.Client, creds.SecretKey)
 
 	//header entries
-	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", username))
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
 
 	content := sendRequest(req)
 	//Create empty token request variable
-	var tokenRequest = tokenRequest{}
+	var tokenRequest = token{}
 
 	//parse json into token struct
 	json.Unmarshal(content, &tokenRequest)
@@ -104,25 +123,41 @@ func requestToken() tokenRequest {
 	return tokenRequest
 }
 
-func useToken(tr tokenRequest) {
-
+//
+func useToken(t token, creds credentials) []byte {
+	//get api endpoint
 	req, err := http.NewRequest("GET", "https://oauth.reddit.com/api/v1/me", nil)
 	if err != nil {
 		log.Fatal(err)
 	}
+	//Set required headers
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+	req.Header.Set("Authorization", fmt.Sprintf("%s %s", t.TokenType, t.AccessToken))
 
-	req.Header.Set("Authorization", fmt.Sprintf("%s %s", tr.TokenType, tr.AccessToken))
-
+	//send request
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer resp.Body.Close()
 
+	//convert response
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	return content
 }
 
 func main() {
 
-	fmt.Print(requestToken())
+	credentials := loadEnvironment()
+
+	token := requestToken(credentials)
+
+	fmt.Println(token)
+
+	fmt.Println(string(useToken(token, credentials)))
 
 }
