@@ -12,6 +12,30 @@ import (
 	"github.com/joho/godotenv"
 )
 
+type subredditContent struct {
+	Subreddit struct {
+		BannerImg         string      `json:"banner_img"`
+		CommunityIcon     string      `json:"community_icon"`
+		IconColor         string      `json:"icon_color"`
+		DisplayName       string      `json:"display_name"`
+		HeaderImg         interface{} `json:"header_img"`
+		Title             string      `json:"title"`
+		IconImg           string      `json:"icon_img"`
+		Description       string      `json:"description"`
+		Subscribers       int         `json:"subscribers"`
+		Name              string      `json:"name"`
+		URL               string      `json:"url"`
+		UserIsModerator   bool        `json:"user_is_moderator"`
+		PublicDescription string      `json:"public_description"`
+		SubredditType     string      `json:"subreddit_type"`
+		UserIsSubscriber  bool        `json:"user_is_subscriber"`
+	} `json:"subreddit"`
+
+	OauthClientID string `json:"oauth_client_id"`
+	Name          string `json:"name"`
+	CommentKarma  int    `json:"comment_karma"`
+}
+
 // func future_auth() {
 // 	ctx := context.Background()
 
