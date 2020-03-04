@@ -12,28 +12,21 @@ import (
 	"github.com/joho/godotenv"
 )
 
-type subredditContent struct {
-	Subreddit struct {
-		BannerImg         string      `json:"banner_img"`
-		CommunityIcon     string      `json:"community_icon"`
-		IconColor         string      `json:"icon_color"`
-		DisplayName       string      `json:"display_name"`
-		HeaderImg         interface{} `json:"header_img"`
-		Title             string      `json:"title"`
-		IconImg           string      `json:"icon_img"`
-		Description       string      `json:"description"`
-		Subscribers       int         `json:"subscribers"`
-		Name              string      `json:"name"`
-		URL               string      `json:"url"`
-		UserIsModerator   bool        `json:"user_is_moderator"`
-		PublicDescription string      `json:"public_description"`
-		SubredditType     string      `json:"subreddit_type"`
-		UserIsSubscriber  bool        `json:"user_is_subscriber"`
-	} `json:"subreddit"`
-
-	OauthClientID string `json:"oauth_client_id"`
-	Name          string `json:"name"`
-	CommentKarma  int    `json:"comment_karma"`
+//subreddits holds content from api
+type subreddits struct {
+	Data struct {
+		Children []struct {
+			Data struct {
+				DisplayName         string `json:"display_name"`
+				Subscribers         int    `json:"subscribers"`
+				Name                string `json:"name"`
+				ID                  string `json:"id"`
+				DisplayNamePrefixed string `json:"display_name_prefixed"`
+				Description         string `json:"description"`
+				URL                 string `json:"url"`
+			} `json:"data"`
+		} `json:"children"`
+	} `json:"data"`
 }
 
 // func future_auth() {
@@ -75,10 +68,6 @@ type credentials struct {
 	Client    string
 	Username  string
 	Password  string
-}
-
-func readResponse() {
-
 }
 
 //Sends an http request returns response in bytes
@@ -150,7 +139,7 @@ func requestToken(creds credentials) token {
 //
 func useToken(t token, creds credentials) []byte {
 	//get api endpoint
-	req, err := http.NewRequest("GET", "https://oauth.reddit.com/api/v1/me", nil)
+	req, err := http.NewRequest("GET", "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100", nil)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -171,7 +160,19 @@ func useToken(t token, creds credentials) []byte {
 		log.Fatal(err)
 	}
 
+	var rc = subreddits{}
+	json.Unmarshal(content, &rc)
+	testLoop(rc)
+
 	return content
+}
+
+func testLoop(rc subreddits) {
+
+	for _, item := range rc.Data.Children {
+		fmt.Println(item.Data.DisplayName)
+	}
+
 }
 
 func main() {
@@ -182,6 +183,6 @@ func main() {
 
 	fmt.Println(token)
 
-	fmt.Println(string(useToken(token, credentials)))
+	useToken(token, credentials)
 
 }
