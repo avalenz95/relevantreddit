@@ -112,7 +112,7 @@ func requestToken(creds credentials) token {
 	return tokenRequest
 }
 
-//variaic args - closest thing to an optional argument
+//variadic argument - closest thing to an optional argument accepts a variable number of arguments usd as a list
 func useToken(t token, creds credentials, after ...string) subreddits {
 	//variables init
 	var req *http.Request
@@ -154,10 +154,16 @@ func useToken(t token, creds credentials, after ...string) subreddits {
 
 //displays subreddit
 func subcribedReddits(rc subreddits) {
+	//Loop through all of a requests subreddits
 	for _, item := range rc.Data.Children {
 		fmt.Println(item.Data.DisplayNamePrefixed)
+		parseSubreddit(item)
 	}
-	fmt.Println("Next 100")
+	fmt.Println(rc.Data.After)
+}
+
+func parseSubreddit(reddit struct{}) {
+
 }
 
 func main() {
@@ -166,10 +172,13 @@ func main() {
 
 	token := requestToken(credentials)
 
+	//Use token once
 	rc := useToken(token, credentials)
 
-	useToken(token, credentials, rc.Data.After)
-
+	//send multiple requests till all are pulled
+	for rc.Data.After != "" {
+		rc = useToken(token, credentials, rc.Data.After)
+	}
 }
 
 type subredditContent []struct {
