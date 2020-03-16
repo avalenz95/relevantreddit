@@ -44,7 +44,7 @@ Dates 3/16-3/25
 ## Wireframes
 [Wireframes]
 
-[wireframes]:https://docs.google.com/document/d/1dW9VQhzdhIMjk91pIOSK6QzCHAgmU0Gw3VObpRDU_ag/edit?usp=sharing
+[wireframes]:https://docs.google.com/presentation/d/1OXu_IBKy5Veua1cZZwVq4nogK0yFZiGpvx_R-Q3LsUE/edit?usp=sharing
 
 
 ## Evaluation
