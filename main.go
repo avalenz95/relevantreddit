@@ -1,17 +1,6 @@
 package main
 
-import (
-	"encoding/json"
-	"fmt"
-	"io/ioutil"
-	"log"
-	"net/http"
-	"os"
-	"strings"
-
-	"github.com/joho/godotenv"
-)
-
+/*
 //subreddits holds content from api
 type subreddits struct {
 	Data struct {
@@ -152,6 +141,7 @@ func useToken(t token, creds credentials, after ...string) subreddits {
 	return rc
 }
 
+/*
 //displays subreddit
 func subcribedReddits(rc subreddits) {
 	//Loop through all of a requests subreddits
@@ -160,25 +150,29 @@ func subcribedReddits(rc subreddits) {
 		parseSubreddit(item)
 	}
 	fmt.Println(rc.Data.After)
-}
-
+}*/
+/*
 func parseSubreddit(reddit struct{}) {
 
 }
-
+*/
 func main() {
 
 	credentials := loadEnvironment()
 
-	token := requestToken(credentials)
+	authRequest(credentials)
+	/*
+		credentials := loadEnvironment()
 
-	//Use token once
-	rc := useToken(token, credentials)
+		token := requestToken(credentials)
 
-	//send multiple requests till all are pulled
-	for rc.Data.After != "" {
-		rc = useToken(token, credentials, rc.Data.After)
-	}
+		//Use token once
+		rc := useToken(token, credentials)
+
+		//send multiple requests till all are pulled
+		for rc.Data.After != "" {
+			rc = useToken(token, credentials, rc.Data.After)
+		}*/
 }
 
 type subredditContent []struct {

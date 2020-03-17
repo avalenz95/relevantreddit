@@ -1,14 +1,12 @@
 //Handle user authentication
-package auth
+package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
-	"strings"
 
 	"github.com/joho/godotenv"
 )
@@ -21,18 +19,37 @@ type credentials struct {
 	Password  string
 }
 
-func authRequest() {
-	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize", nil)
+//Load enviornment variables
+func loadEnvironment() credentials {
+	err := godotenv.Load()
+
 	if err != nil {
-		log.Print(err)
-		os.Exit(1)
+		log.Fatal("Error loading environment variables")
 	}
 
+	var cred = credentials{}
+
+	cred.SecretKey = os.Getenv("SCRIPT_REDDIT_SECRET")
+	cred.Client = os.Getenv("APP_CLIENT")
+	cred.Username = os.Getenv("USERNAME")
+	cred.Password = os.Getenv("PASSWORD")
+
+	return cred
+
+}
+
+func authRequest(cred credentials) {
+	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize.compact", nil)
+	if err != nil {
+		log.Print(err)
+	}
+
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", cred.Username))
 	//Build request query string
 	q := req.URL.Query()
-	q.Add("client_id", os.Getenv("APP_CLIENT"))
+	q.Add("client_id", cred.Client)
 	q.Add("response_type", "code")
-	q.Add("state", "foo & bar")
+	q.Add("state", "foobar")                                               //verify user is user CSRF
 	q.Add("redirect_uri", "https://www.github.com/ablades/relevantreddit") //temp redirect url
 	q.Add("duration", "temporary")                                         //temp for now may switch to perm later
 	q.Add("scope", "mysubreddits identity history")
@@ -40,6 +57,29 @@ func authRequest() {
 	req.URL.RawQuery = q.Encode()
 
 	fmt.Println(req.URL.String())
+
+	sendRequest(req)
+}
+
+//Sends an http request returns response in bytes
+func sendRequest(request *http.Request) []byte {
+	fmt.Println("Before request")
+	response, err := http.DefaultClient.Do(request)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer response.Body.Close()
+
+	//set up middleware? to handle request ect?
+
+	content, err := ioutil.ReadAll(response.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(string(content))
+	return content
 }
 
 /*
