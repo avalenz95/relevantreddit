@@ -15,6 +15,10 @@ const useStyles = makeStyles(theme => ({
   title: {
     flexGrow: 1,
   },
+  bar: {
+    background: 'linear-gradient(45deg, #f12711 30%, #f5af19 90%)'
+  },
+
 }));
 
 export default function ButtonAppBar() {
@@ -23,7 +27,7 @@ export default function ButtonAppBar() {
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Toolbar>
+        <Toolbar className={classes.bar}>
           <Typography variant="h6" align="left" className={classes.title}>
             Relevant for Reddit
           </Typography>
