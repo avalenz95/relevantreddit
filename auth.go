@@ -35,7 +35,54 @@ func loadEnvironment() credentials {
 	cred.Password = os.Getenv("PASSWORD")
 
 	return cred
+}
 
+func redditMiddleware() {
+	http.HandleFunc("/", handleMain)
+	http.HandleFunc("/RedditLogin", handleRedditLogin)
+	http.HandleFunc("/RedditCallback", handleRedditCallback)
+	fmt.Println(http.ListenAndServe(":3000", nil))
+
+}
+
+func handleMain(w http.ResponseWriter, r *http.Request) {
+	const htmlIndex = `
+	<html>
+		<body>
+			<a href="/RedditLogin">Log in with Google</a>
+		</body>
+	</html>
+	`
+	fmt.Fprintf(w, htmlIndex)
+}
+
+func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
+
+	cred := loadEnvironment()
+
+	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize.compact", nil)
+	if err != nil {
+		log.Print(err)
+	}
+
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", cred.Username))
+	//Build request query string
+	q := req.URL.Query()
+	q.Add("client_id", cred.Client)
+	q.Add("response_type", "code")
+	q.Add("state", "foobar")                                       //verify user is user CSRF
+	q.Add("redirect_uri", "http://localhost:3000/RedditCallback.") //temp redirect url
+	q.Add("duration", "temporary")                                 //temp for now may switch to perm later
+	q.Add("scope", "mysubreddits identity history")
+
+	req.URL.RawQuery = q.Encode()
+
+	url := req.URL.String()
+
+	http.Redirect(w, r, url, http.StatusTemporaryRedirect)
+}
+
+func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 }
 
 func authRequest(cred credentials) {
@@ -57,8 +104,6 @@ func authRequest(cred credentials) {
 	req.URL.RawQuery = q.Encode()
 
 	fmt.Println(req.URL.String())
-
-	sendRequest(req)
 }
 
 //Sends an http request returns response in bytes
