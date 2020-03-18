@@ -136,13 +136,6 @@ func subcribedReddits(rc subreddits) {
 	fmt.Println(rc.Data.After)
 }
 
-//Struct that will go into the db
-type redditUser struct {
-	Name string
-	//key is r/[subreddit] value list of keywords
-	subreddits map[string][]string
-}
-
 /*
 func parseSubreddit(reddit struct{}) {
 

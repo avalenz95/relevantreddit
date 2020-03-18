@@ -1,5 +1,13 @@
 package main
 
+//Struct that will go into the db
+type appUserProfile struct {
+	RedditName string
+	//key is r/[subreddit] value list of keywords
+	Subreddits map[string][]string
+}
+
+//User info from api endpoint
 type userInfo struct {
 	PrefNightmode bool   `json:"pref_nightmode"`
 	OauthClientID string `json:"oauth_client_id"`
