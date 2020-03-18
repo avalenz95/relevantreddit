@@ -57,11 +57,12 @@ func redditMiddleware() {
 
 }
 
+//temp till connect react frontend
 func handleMain(w http.ResponseWriter, r *http.Request) {
 	const htmlIndex = `
 	<html>
 		<body>
-			<a href="/RedditLogin">Log in with Google</a>
+			<a href="/RedditLogin">Authenticate with Reddit</a>
 		</body>
 	</html>
 	`
@@ -151,17 +152,7 @@ func useToken(t token, after ...string) {
 	req.Header.Set("Authorization", fmt.Sprintf("%s %s", t.TokenType, t.AccessToken))
 
 	//send request
-	resp, err := http.DefaultClient.Do(req)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer resp.Body.Close()
-
-	//convert response
-	content, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
+	content := sendRequest(req)
 
 	fmt.Println(string(content))
 	/*
