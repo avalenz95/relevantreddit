@@ -73,7 +73,7 @@ func requestToken(code string) token {
 	return tokenRequest
 }
 
-func getUsername(t token, endpoint string) {
+func getUserInfo(t token, endpoint string) userInfo {
 	req, err := http.NewRequest("GET", endpoint, nil)
 	if err != nil {
 		log.Fatal(err)
@@ -90,7 +90,7 @@ func getUsername(t token, endpoint string) {
 
 	json.Unmarshal(content, &userContent)
 
-	fmt.Println(userContent.Name)
+	return userContent
 }
 
 func useToken(t token, url string) subreddits {
@@ -112,7 +112,6 @@ func useToken(t token, url string) subreddits {
 	var rc = subreddits{}
 
 	json.Unmarshal(content, &rc)
-	subcribedReddits(rc)
 
 	return rc
 }
