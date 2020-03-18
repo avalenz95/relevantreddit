@@ -61,10 +61,16 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	//
 	token := requestToken(code)
 
-	rc := useToken(token)
+	url := "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100"
+	rc := useToken(token, url)
 
 	//send multiple requests till all are pulled
 	for rc.Data.After != "" {
-		rc = useToken(token, rc.Data.After)
+		url = fmt.Sprintf("https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100&after=%s", rc.Data.After)
+		rc = useToken(token, url)
 	}
+
+	endpoint := "https://oauth.reddit.com/api/v1/me"
+
+	getUsername(token, endpoint)
 }

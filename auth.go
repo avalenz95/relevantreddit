@@ -73,21 +73,34 @@ func requestToken(code string) token {
 	return tokenRequest
 }
 
-//variadic argument - closest thing to an optional argument accepts a variable number of arguments usd as a list
-func useToken(t token, after ...string) subreddits {
-	//variables init
-	var req *http.Request
-	var err error
-
-	//Pull a users subreddits
-	if len(after) == 1 {
-		req, err = http.NewRequest("GET", fmt.Sprintf("https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100&after=%s", after[0]), nil)
-	} else {
-		req, err = http.NewRequest("GET", "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100", nil)
-	}
+func getUsername(t token, endpoint string) {
+	req, err := http.NewRequest("GET", endpoint, nil)
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	//Set required headers
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+	req.Header.Set("Authorization", fmt.Sprintf("%s %s", t.TokenType, t.AccessToken))
+
+	//send request
+	content := sendRequest(req)
+
+	var userContent = userInfo{}
+
+	json.Unmarshal(content, &userContent)
+
+	fmt.Println(userContent.Name)
+}
+
+func useToken(t token, url string) subreddits {
+
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+	//api/v1/me
+
 	//Set required headers
 	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
 	req.Header.Set("Authorization", fmt.Sprintf("%s %s", t.TokenType, t.AccessToken))
