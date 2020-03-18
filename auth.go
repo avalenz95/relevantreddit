@@ -70,19 +70,24 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	q := req.URL.Query()
 	q.Add("client_id", cred.Client)
 	q.Add("response_type", "code")
-	q.Add("state", "foobar")                                       //verify user is user CSRF
-	q.Add("redirect_uri", "http://localhost:3000/RedditCallback.") //temp redirect url
-	q.Add("duration", "temporary")                                 //temp for now may switch to perm later
+	q.Add("state", "foobar")                                      //verify user is user CSRF
+	q.Add("redirect_uri", "http://localhost:3000/RedditCallback") //temp redirect url
+	q.Add("duration", "temporary")                                //temp for now may switch to perm later
 	q.Add("scope", "mysubreddits identity history")
 
 	req.URL.RawQuery = q.Encode()
 
 	url := req.URL.String()
 
+	fmt.Println(url)
+
 	http.Redirect(w, r, url, http.StatusTemporaryRedirect)
 }
 
 func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("here")
+
+	fmt.Println(r.FormValue("code"))
 }
 
 func authRequest(cred credentials) {
