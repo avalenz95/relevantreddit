@@ -61,6 +61,10 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	//
 	token := requestToken(code)
 
-	useToken(token)
+	rc := useToken(token)
 
+	//send multiple requests till all are pulled
+	for rc.Data.After != "" {
+		rc = useToken(token, rc.Data.After)
+	}
 }

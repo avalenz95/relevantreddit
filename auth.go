@@ -74,7 +74,7 @@ func requestToken(code string) token {
 }
 
 //variadic argument - closest thing to an optional argument accepts a variable number of arguments usd as a list
-func useToken(t token, after ...string) {
+func useToken(t token, after ...string) subreddits {
 	//variables init
 	var req *http.Request
 	var err error
@@ -95,14 +95,13 @@ func useToken(t token, after ...string) {
 	//send request
 	content := sendRequest(req)
 
-	fmt.Println(string(content))
-	/*
-		var rc = subreddits{}
+	//fmt.Println(string(content))
+	var rc = subreddits{}
 
-		json.Unmarshal(content, &rc)
-		subcribedReddits(rc)
+	json.Unmarshal(content, &rc)
+	subcribedReddits(rc)
 
-		return rc */
+	return rc
 }
 
 //Sends an http request returns response in bytes
@@ -122,6 +121,6 @@ func sendRequest(request *http.Request) []byte {
 		log.Fatal(err)
 	}
 
-	fmt.Println(string(content))
+	//fmt.Println(string(content))
 	return content
 }

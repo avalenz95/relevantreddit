@@ -1,6 +1,7 @@
 package main
 
-/*
+import "fmt"
+
 //subreddits holds content from api
 type subreddits struct {
 	Data struct {
@@ -19,6 +20,7 @@ type subreddits struct {
 	} `json:"data"`
 }
 
+/*
 //TokenRequest stores authentication request
 type token struct {
 	AccessToken string `json:"access_token"`
@@ -141,16 +143,24 @@ func useToken(t token, creds credentials, after ...string) subreddits {
 	return rc
 }
 
-/*
+*/
 //displays subreddit
 func subcribedReddits(rc subreddits) {
 	//Loop through all of a requests subreddits
 	for _, item := range rc.Data.Children {
 		fmt.Println(item.Data.DisplayNamePrefixed)
-		parseSubreddit(item)
+		//parseSubreddit(item)
 	}
 	fmt.Println(rc.Data.After)
-}*/
+}
+
+//Struct that will go into the db
+type redditUser struct {
+	Name string
+	//key is r/[subreddit] value list of keywords
+	subreddits map[string][]string
+}
+
 /*
 func parseSubreddit(reddit struct{}) {
 
