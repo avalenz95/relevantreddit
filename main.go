@@ -157,7 +157,7 @@ func parseSubreddit(reddit struct{}) {
 }
 */
 func main() {
-
+	loadEnvironment()
 	//credentials := loadEnvironment()
 	redditMiddleware()
 	//authRequest(credentials)

@@ -8,36 +8,38 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"strings"
 
 	"github.com/joho/godotenv"
 )
 
 //Store user credentials for easier access
 type credentials struct {
-	SecretKey string
-	Client    string
-	Username  string
-	Password  string
+	Secret   string
+	Client   string
+	Username string
+	Password string
+	Redirect string
 }
 
+var creds credentials
+
 //Load enviornment variables
-func loadEnvironment() credentials {
+func loadEnvironment() {
 	err := godotenv.Load()
 
 	if err != nil {
 		log.Fatal("Error loading environment variables")
 	}
 
-	var cred = credentials{}
-
-	cred.SecretKey = os.Getenv("SCRIPT_REDDIT_SECRET")
-	cred.Client = os.Getenv("APP_CLIENT")
-	cred.Username = os.Getenv("USERNAME")
-	cred.Password = os.Getenv("PASSWORD")
-
-	return cred
+	creds.Secret = os.Getenv("APP_SECRET")
+	creds.Client = os.Getenv("APP_CLIENT")
+	creds.Username = os.Getenv("USERNAME")
+	creds.Password = os.Getenv("PASSWORD")
+	creds.Redirect = "http://localhost:3000/RedditCallback"
 }
 
+//Handles request/response intermidary actions
 func redditMiddleware() {
 	http.HandleFunc("/", handleMain)
 	http.HandleFunc("/RedditLogin", handleRedditLogin)
@@ -57,9 +59,8 @@ func handleMain(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, htmlIndex)
 }
 
+//Redirect user to authorization page
 func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
-
-	cred := loadEnvironment()
 
 	url, err := url.Parse("reddit.com/api/v1/authorize.compact")
 	if err != nil {
@@ -67,11 +68,11 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	}
 	url.Scheme = "https"
 	q := url.Query()
-	q.Add("client_id", cred.Client)
+	q.Add("client_id", creds.Client)
 	q.Add("response_type", "code")
-	q.Add("state", "foobar")                                      //verify user is user CSRF
-	q.Add("redirect_uri", "http://localhost:3000/RedditCallback") //temp redirect url
-	q.Add("duration", "temporary")                                //temp for now may switch to perm later
+	q.Add("state", "foobar")              //verify user is user CSRF
+	q.Add("redirect_uri", creds.Redirect) //temp redirect url
+	q.Add("duration", "temporary")        //temp for now may switch to perm later
 	q.Add("scope", "mysubreddits identity history")
 
 	url.RawQuery = q.Encode()
@@ -80,12 +81,20 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 }
 
+//Handle unser response from reddit
 func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("here")
 	//Get first parameter with query name
-	fmt.Println(r.FormValue("code"))
+	code := r.FormValue("code")
+	state := r.FormValue("state") //TODO : Verify states are same
+	fmt.Println(state)
+	fmt.Println(code)
+	//
+	requestToken(code)
+
 }
 
+/*
 func authRequest(cred credentials) {
 	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize.compact", nil)
 	if err != nil {
@@ -105,6 +114,32 @@ func authRequest(cred credentials) {
 	req.URL.RawQuery = q.Encode()
 
 	fmt.Println(req.URL.String())
+}
+*/
+//Request a token from reddit server
+func requestToken(code string) {
+	//Load Environment Variables
+	body := strings.NewReader(fmt.Sprintf("grant_type=authorization_code&code=%s&redirect_uri=%s", code, creds.Redirect))
+	//Create new http post request
+	request, err := http.NewRequest("POST", "https://www.reddit.com/api/v1/access_token", body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	//Set authorization header request
+	request.SetBasicAuth(creds.Client, creds.Secret)
+	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+
+	sendRequest(request)
+
+	//fmt.Println(string(content))
+	//Create empty token request variable
+	//var tokenRequest = token{}
+
+	//parse json into token struct
+	//json.Unmarshal(content, &tokenRequest)
+
+	//return tokenRequest
 }
 
 //Sends an http request returns response in bytes
