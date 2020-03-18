@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
 	"os"
 
 	"github.com/joho/godotenv"
@@ -60,14 +61,12 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 
 	cred := loadEnvironment()
 
-	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize.compact", nil)
+	url, err := url.Parse("reddit.com/api/v1/authorize.compact")
 	if err != nil {
-		log.Print(err)
+		log.Fatal(err)
 	}
-
-	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", cred.Username))
-	//Build request query string
-	q := req.URL.Query()
+	url.Scheme = "https"
+	q := url.Query()
 	q.Add("client_id", cred.Client)
 	q.Add("response_type", "code")
 	q.Add("state", "foobar")                                      //verify user is user CSRF
@@ -75,18 +74,15 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	q.Add("duration", "temporary")                                //temp for now may switch to perm later
 	q.Add("scope", "mysubreddits identity history")
 
-	req.URL.RawQuery = q.Encode()
-
-	url := req.URL.String()
-
+	url.RawQuery = q.Encode()
 	fmt.Println(url)
 
-	http.Redirect(w, r, url, http.StatusTemporaryRedirect)
+	http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 }
 
 func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("here")
-
+	//Get first parameter with query name
 	fmt.Println(r.FormValue("code"))
 }
 
