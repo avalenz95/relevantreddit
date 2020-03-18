@@ -2,6 +2,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -20,6 +21,14 @@ type credentials struct {
 	Username string
 	Password string
 	Redirect string
+}
+
+//TokenRequest stores authentication request
+type token struct {
+	AccessToken string `json:"access_token"`
+	TokenType   string `json:"token_type"`
+	Expires     int    `json:"expires_in"`
+	Scope       string `json:"scope"`
 }
 
 var creds credentials
@@ -90,35 +99,15 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	fmt.Println(state)
 	fmt.Println(code)
 	//
-	requestToken(code)
+	token := requestToken(code)
+
+	useToken(token)
 
 }
 
-/*
-func authRequest(cred credentials) {
-	req, err := http.NewRequest("GET", "https://www.reddit.com/api/v1/authorize.compact", nil)
-	if err != nil {
-		log.Print(err)
-	}
-
-	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", cred.Username))
-	//Build request query string
-	q := req.URL.Query()
-	q.Add("client_id", cred.Client)
-	q.Add("response_type", "code")
-	q.Add("state", "foobar")                                               //verify user is user CSRF
-	q.Add("redirect_uri", "https://www.github.com/ablades/relevantreddit") //temp redirect url
-	q.Add("duration", "temporary")                                         //temp for now may switch to perm later
-	q.Add("scope", "mysubreddits identity history")
-
-	req.URL.RawQuery = q.Encode()
-
-	fmt.Println(req.URL.String())
-}
-*/
 //Request a token from reddit server
-func requestToken(code string) {
-	//Load Environment Variables
+func requestToken(code string) token {
+
 	body := strings.NewReader(fmt.Sprintf("grant_type=authorization_code&code=%s&redirect_uri=%s", code, creds.Redirect))
 	//Create new http post request
 	request, err := http.NewRequest("POST", "https://www.reddit.com/api/v1/access_token", body)
@@ -130,16 +119,58 @@ func requestToken(code string) {
 	request.SetBasicAuth(creds.Client, creds.Secret)
 	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
 
-	sendRequest(request)
+	response := sendRequest(request)
 
 	//fmt.Println(string(content))
 	//Create empty token request variable
-	//var tokenRequest = token{}
+	var tokenRequest = token{}
 
 	//parse json into token struct
-	//json.Unmarshal(content, &tokenRequest)
+	json.Unmarshal(response, &tokenRequest)
 
-	//return tokenRequest
+	return tokenRequest
+}
+
+//variadic argument - closest thing to an optional argument accepts a variable number of arguments usd as a list
+func useToken(t token, after ...string) {
+	//variables init
+	var req *http.Request
+	var err error
+
+	//Pull a users subreddits
+	if len(after) == 1 {
+		req, err = http.NewRequest("GET", fmt.Sprintf("https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100&after=%s", after[0]), nil)
+	} else {
+		req, err = http.NewRequest("GET", "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100", nil)
+	}
+	if err != nil {
+		log.Fatal(err)
+	}
+	//Set required headers
+	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+	req.Header.Set("Authorization", fmt.Sprintf("%s %s", t.TokenType, t.AccessToken))
+
+	//send request
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+
+	//convert response
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(string(content))
+	/*
+		var rc = subreddits{}
+
+		json.Unmarshal(content, &rc)
+		subcribedReddits(rc)
+
+		return rc */
 }
 
 //Sends an http request returns response in bytes
@@ -162,67 +193,3 @@ func sendRequest(request *http.Request) []byte {
 	fmt.Println(string(content))
 	return content
 }
-
-/*
-//Request a token from reddit server
-func requestToken(creds credentials) token {
-	//Load Environment Variables
-
-	body := strings.NewReader(fmt.Sprintf("grant_type=password&username=%s&password=%s", creds.Username, creds.Password))
-
-	//Create new http post request
-	req, err := http.NewRequest("POST", "https://www.reddit.com/api/v1/access_token", body)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	//Set authorization request
-	req.SetBasicAuth(creds.Client, creds.SecretKey)
-
-	//header entries
-	req.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
-
-	content := sendRequest(req)
-	//Create empty token request variable
-	var tokenRequest = token{}
-
-	//parse json into token struct
-	json.Unmarshal(content, &tokenRequest)
-
-	return tokenRequest
-}
-
-//Load enviornment variables
-func loadEnvironment() credentials {
-	err := godotenv.Load()
-
-	if err != nil {
-		log.Fatal("Error loading environment variables")
-	}
-
-	var cred = credentials{}
-
-	cred.SecretKey = os.Getenv("SCRIPT_REDDIT_SECRET")
-	cred.Client = os.Getenv("SCRIPT_CLIENT")
-	cred.Username = os.Getenv("USERNAME")
-	cred.Password = os.Getenv("PASSWORD")
-
-	return cred
-
-}
-
-func auth() {
-
-	credentials := loadEnvironment()
-
-	token := requestToken(credentials)
-
-	//Use token once
-	rc := useToken(token, credentials)
-
-	//send multiple requests till all are pulled
-	for rc.Data.After != "" {
-		rc = useToken(token, credentials, rc.Data.After)
-	}
-}
-*/
