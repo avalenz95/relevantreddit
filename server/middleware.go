@@ -1,11 +1,47 @@
 package main
 
 import (
+	"context"
 	"fmt"
 	"log"
 	"net/http"
 	"net/url"
+
+	"go.mongodb.org/mongo-driver/mongo"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
+
+/*DB MIDDLEWARE*/
+
+var collection *mongo.Collection
+
+//Create mongodb cllection
+
+func init() {
+
+	//Client options
+	clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
+
+	//Connect to DB
+	client, err := mongo.Connect(context.TODO(), clientOptions)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = client.Ping(context.TODO(), nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println("Connected to MongoDB!")
+
+	collection = client.Database("test").Collection("Users")
+
+	fmt.Println("Collection: %s instance created!", collectionName)
+
+}
+
+/*REDDIT MIDDLEWARE*/
 
 //Handles request/response intermidary actions
 func redditMiddleware() {
