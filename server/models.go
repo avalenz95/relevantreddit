@@ -1,10 +1,12 @@
 package main
 
+import "go.mongodb.org/mongo-driver/bson/primitive"
+
 //Struct that will go into the db
-type appUserProfile struct {
-	RedditName string
-	//key is r/[subreddit] value list of keywords
-	Subreddits map[string][]string
+type UserProfile struct {
+	ID         primitive.ObjectID  `json:"_id,omitempty" bson:"_id,omitempty"`
+	RedditName string              `json:"username,omitempty"`
+	Subreddits map[string][]string `json:"subreddits,omitempty"` //key is r/[subreddit] value list of keywords
 }
 
 //User info from api endpoint

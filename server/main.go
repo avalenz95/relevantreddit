@@ -129,7 +129,7 @@ func useToken(t token, creds credentials, after ...string) subreddits {
 
 */
 //displays subreddit
-func subcribedReddits(rc subreddits, u *appUserProfile) {
+func subcribedReddits(rc subreddits, u *UserProfile) {
 	//Loop through all of a requests subreddits
 	for _, item := range rc.Data.Children {
 		fmt.Printf("Added: %s to user profile. \n", item.Data.DisplayNamePrefixed)

@@ -72,6 +72,7 @@ func requestToken(code string) token {
 
 	return tokenRequest
 }
+
 func getUserInfo(t token, endpoint string) userInfo {
 	req, err := http.NewRequest("GET", endpoint, nil)
 	if err != nil {

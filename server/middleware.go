@@ -61,7 +61,7 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	//
 	token := requestToken(code)
 
-	var appUser appUserProfile
+	var appUser UserProfile
 	appUser.Subreddits = make(map[string][]string)
 
 	url := "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100"
