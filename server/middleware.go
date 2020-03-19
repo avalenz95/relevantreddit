@@ -37,9 +37,26 @@ func init() {
 
 	collection = client.Database("test").Collection("Users")
 
-	fmt.Println("Collection: %s instance created!", collectionName)
+	fmt.Println("Collection: Users instance created!")
 
 }
+
+//Insert user into DB
+func insertUser(user UserProfile) {
+	inserted, err := collection.InsertOne(context.Background(), user)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Printf("Inserted profile %s --> %v \n", user.RedditName, inserted.InsertedID)
+}
+func getAllUsers()          {}
+func getAllUserSubreddits() {}
+func updateKeywords()       {}
+func removeUser()           {}
+func removeKeyword()        {}
+func removeSubreddit()      {}
+func addSubreddit()         {}
 
 /*REDDIT MIDDLEWARE*/
 
