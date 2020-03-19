@@ -31,7 +31,7 @@ func handleMain(w http.ResponseWriter, r *http.Request) {
 //Redirect user to authorization page
 func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 
-	url, err := url.Parse("reddit.com/api/v1/authorize.compact")
+	url, err := url.Parse("reddit.com/api/v1/authorize")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -45,7 +45,7 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	q.Add("scope", "mysubreddits identity history")
 
 	url.RawQuery = q.Encode()
-	fmt.Println(url)
+	fmt.Printf("Redirecting to: %s \n", url)
 
 	http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 }
