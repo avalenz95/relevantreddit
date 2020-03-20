@@ -48,15 +48,16 @@ func insertUser(user UserProfile) {
 		log.Fatal(err)
 	}
 
-	fmt.Printf("Inserted profile %s --> %v \n", user.RedditName, inserted.InsertedID)
+	fmt.Printf("Inserted profile %+v --> %v \n", user, inserted.InsertedID)
 }
-func getAllUsers()          {}
-func getAllUserSubreddits() {}
-func updateKeywords()       {}
-func removeUser()           {}
-func removeKeyword()        {}
-func removeSubreddit()      {}
-func addSubreddit()         {}
+
+func getAllUsers()       {}
+func getUserSubreddits() {}
+func updateKeywords()    {}
+func removeUser()        {}
+func removeKeyword()     {}
+func removeSubreddit()   {}
+func addSubreddit()      {}
 
 /*REDDIT MIDDLEWARE*/
 

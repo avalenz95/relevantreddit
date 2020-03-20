@@ -2,7 +2,7 @@ package main
 
 import "go.mongodb.org/mongo-driver/bson/primitive"
 
-//Struct that will go into the db
+//UserProfile that goes into DB
 type UserProfile struct {
 	ID         primitive.ObjectID  `json:"_id,omitempty" bson:"_id,omitempty"`
 	RedditName string              `json:"username,omitempty"`
