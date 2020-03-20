@@ -69,3 +69,33 @@ type subredditContent []struct {
 		After string `json:"after"`
 	} `json:"data"`
 }
+
+type aboutSubreddit struct {
+	Data struct {
+		DisplayName           string  `json:"display_name"`
+		HeaderImg             string  `json:"header_img"`
+		Title                 string  `json:"title"`
+		PrimaryColor          string  `json:"primary_color"`
+		ActiveUserCount       int     `json:"active_user_count"`
+		IconImg               string  `json:"icon_img"`
+		DisplayNamePrefixed   string  `json:"display_name_prefixed"`
+		Subscribers           int     `json:"subscribers"`
+		Name                  string  `json:"name"`
+		PublicDescription     string  `json:"public_description"`
+		CommunityIcon         string  `json:"community_icon"`
+		BannerBackgroundImage string  `json:"banner_background_image"`
+		DescriptionHTML       string  `json:"description_html"`
+		HeaderTitle           string  `json:"header_title"`
+		HeaderSize            []int   `json:"header_size"`
+		KeyColor              string  `json:"key_color"`
+		Created               float64 `json:"created"`
+		PublicDescriptionHTML string  `json:"public_description_html"`
+		BannerImg             string  `json:"banner_img"`
+		BannerBackgroundColor string  `json:"banner_background_color"`
+		ID                    string  `json:"id"`
+		Description           string  `json:"description"`
+		URL                   string  `json:"url"`
+		BannerSize            []int   `json:"banner_size"`
+		MobileBannerImage     string  `json:"mobile_banner_image"`
+	} `json:"data"`
+}

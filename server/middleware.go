@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
+	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -50,23 +51,20 @@ func insertUser(user UserProfile) {
 	fmt.Printf("Inserted profile %+v --> %v \n", user, inserted.InsertedID)
 }
 
-func getAllUsers()       {}
-func getUserSubreddits() {}
-func updateKeywords()    {}
-func removeUser()        {}
-func removeKeyword()     {}
-func removeSubreddit()   {}
-func addSubreddit()      {}
+func getAllUsers() {}
+func getUserSubreddits() {
 
-/*REDDIT MIDDLEWARE*/
+}
+func updateKeywords()  {}
+func removeUser()      {}
+func removeKeyword()   {}
+func removeSubreddit() {}
+func addSubreddit()    {}
 
-//Handles request/response intermidary actions
-func redditMiddleware() {
-	http.HandleFunc("/", handleMain)
-	http.HandleFunc("/RedditLogin", handleRedditLogin)
-	http.HandleFunc("/RedditCallback", handleRedditCallback)
-	fmt.Println(http.ListenAndServe(":3000", nil))
+func handleUser(w http.ResponseWriter, r *http.Request) {
+	params := mux.Vars(r)
 
+	fmt.Printf("Passed in Username is: %s ", params["username"])
 }
 
 //temp till connect react frontend
@@ -74,7 +72,7 @@ func handleMain(w http.ResponseWriter, r *http.Request) {
 	const htmlIndex = `
 	<html>
 		<body>
-			<a href="/RedditLogin">Authenticate with Reddit</a>
+			<a href="/r/login">Authenticate with Reddit</a>
 		</body>
 	</html>
 	`
@@ -135,5 +133,14 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	appUser.RedditName = getUserInfo(token, endpoint).Name
 
 	fmt.Print(appUser)
+
+	// url = fmt.Sprintf("/u/%s", appUser.RedditName)
+
+	routeURL, err := route.Get("user").URL("username", appUser.RedditName)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(routeURL)
 
 }
