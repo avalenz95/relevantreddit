@@ -18,9 +18,8 @@ var collection *mongo.Collection
 //Create mongodb cllection
 
 func init() {
-
 	//Client options
-	clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
+	clientOptions := options.Client().ApplyURI("mongodb+srv://ablades:atlaspass@cluster0-pwh5o.mongodb.net/test?retryWrites=true&w=majority")
 
 	//Connect to DB
 	client, err := mongo.Connect(context.TODO(), clientOptions)

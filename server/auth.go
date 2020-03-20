@@ -20,6 +20,7 @@ type credentials struct {
 	Username string
 	Password string
 	Redirect string
+	MongoURI string
 }
 
 //TokenRequest stores authentication request
