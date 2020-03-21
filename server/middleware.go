@@ -8,6 +8,7 @@ import (
 	"net/url"
 
 	"github.com/gorilla/mux"
+	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -49,6 +50,17 @@ func insertUser(user UserProfile) {
 	}
 
 	fmt.Printf("Inserted profile %+v --> %v \n", user, inserted.InsertedID)
+}
+
+//findUser in DB
+func findUser(userName string) bool {
+	filter := bson.M{"RedditName": userName}
+	err := collection.FindOne(context.Background(), filter)
+	if err != nil {
+		fmt.Printf("User: %s not found. \n", userName)
+		return false
+	}
+	return true
 }
 
 func getAllUsers() {}
