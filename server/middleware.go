@@ -46,20 +46,23 @@ func init() {
 func insertUser(user UserProfile) {
 	inserted, err := collection.InsertOne(context.Background(), user)
 	if err != nil {
+		fmt.Printf("Failed to insert profile %+v  \n", user)
 		log.Fatal(err)
 	}
 
-	fmt.Printf("Inserted profile %+v --> %v \n", user, inserted.InsertedID)
+	fmt.Printf("Inserted profile %s --> %v \n", user.RedditName, inserted.InsertedID)
 }
 
 //findUser in DB
 func findUser(userName string) bool {
-	filter := bson.M{"RedditName": userName}
-	err := collection.FindOne(context.Background(), filter)
-	if err != nil {
+	filter := bson.M{"redditname": userName}
+	result := collection.FindOne(context.Background(), filter)
+	if result.Err() != nil {
 		fmt.Printf("User: %s not found. \n", userName)
 		return false
 	}
+
+	fmt.Printf("Found User %s", userName)
 	return true
 }
 
@@ -76,7 +79,7 @@ func addSubreddit()    {}
 func handleUser(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
 	w.Write([]byte(params["username"]))
-	fmt.Printf("Passed in Username is: %s ", params["username"])
+	fmt.Printf("Passed in Username is: %s \n", params["username"])
 }
 
 //temp till connect react frontend
@@ -145,6 +148,10 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	appUser.RedditName = getUserInfo(token, endpoint).Name
 
 	fmt.Print(appUser)
+
+	insertUser(appUser)
+
+	findUser(appUser.RedditName)
 
 	//redirect user to their homepage
 	routeURL, _ := route.Get("user").URL("username", appUser.RedditName)
