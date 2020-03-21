@@ -63,7 +63,7 @@ func addSubreddit()    {}
 
 func handleUser(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
-
+	w.Write([]byte(params["username"]))
 	fmt.Printf("Passed in Username is: %s ", params["username"])
 }
 
@@ -134,13 +134,8 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 
 	fmt.Print(appUser)
 
-	// url = fmt.Sprintf("/u/%s", appUser.RedditName)
-
-	routeURL, err := route.Get("user").URL("username", appUser.RedditName)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	fmt.Println(routeURL)
+	//redirect user to their homepage
+	routeURL, _ := route.Get("user").URL("username", appUser.RedditName)
+	http.Redirect(w, r, routeURL.String(), http.StatusPermanentRedirect)
 
 }
