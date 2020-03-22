@@ -50,7 +50,7 @@ func insertUser(user UserProfile) {
 		log.Fatal(err)
 	}
 
-	fmt.Printf("Inserted profile %s --> %v \n", user.RedditName, inserted.InsertedID)
+	fmt.Printf("\n Inserted profile %s --> %v \n", user.RedditName, inserted.InsertedID)
 }
 
 //findUser in DB
@@ -62,7 +62,7 @@ func findUser(userName string) bool {
 		return false
 	}
 
-	fmt.Printf("Found User %s", userName)
+	fmt.Printf("Found %s \n", userName)
 	return true
 }
 
@@ -70,7 +70,17 @@ func getAllUsers() {}
 func getUserSubreddits() {
 
 }
-func updateKeywords()  {}
+func updateKeywords(userName string, subreddit string, newWords []string) {
+
+	//  db.users.update ({"_id": '123'}, {$set: {"friends.0.emails.0.video.status" : 'Inactive'} });
+	//filter := bson.M{"redditname": userName}
+	//mapUpdate := fmt.Sprintf("subreddits.%s", subreddit)
+	//update := bson.D{{"$set", bson.D{{mapUpdate, "newemail@example.com"}}}}
+	//update := bson.D{{"$set", bson.D{{"email", "newemail@example.com"}}}}
+
+	//collection.UpdateOne(context.Background())
+}
+
 func removeUser()      {}
 func removeKeyword()   {}
 func removeSubreddit() {}
@@ -118,43 +128,43 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 
 //Handle unser response from reddit
 func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
-	fmt.Println("here")
 	//Get first parameter with query name
 	code := r.FormValue("code")
 	state := r.FormValue("state") //TODO : Verify states are same
 	fmt.Println(state)
 	fmt.Println(code)
-	//
+
+	//Request token from reddit server
 	token := requestToken(code)
 
-	var appUser UserProfile
-	appUser.Subreddits = make(map[string][]string)
+	//Pull user info from endpoint
+	userInfo := getUserInfo(token, "https://oauth.reddit.com/api/v1/me")
 
-	url := "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100"
-	rc := useToken(token, url)
+	//Check if user is in DB
+	if !findUser(userInfo.Name) {
+		fmt.Println("User Not Found! Creating User")
+		//Create User Profile
+		var appUser UserProfile
+		//Update fields
+		appUser.RedditName = userInfo.Name
+		appUser.Subreddits = make(map[string][]string)
 
-	subcribedReddits(rc, &appUser)
+		url := "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100"
+		rc := useToken(token, url)
+		//Get all of a users subreddits
+		subscribedReddits(rc, &appUser)
+		for rc.Data.After != "" {
+			url = fmt.Sprintf("https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100&after=%s", rc.Data.After)
+			rc = useToken(token, url)
 
-	//send multiple requests till all are pulled
-	for rc.Data.After != "" {
-		url = fmt.Sprintf("https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100&after=%s", rc.Data.After)
-		rc = useToken(token, url)
-
-		subcribedReddits(rc, &appUser)
+			subscribedReddits(rc, &appUser)
+		}
+	} else {
+		fmt.Println("User found... Redirecting")
 	}
 
-	endpoint := "https://oauth.reddit.com/api/v1/me"
-
-	appUser.RedditName = getUserInfo(token, endpoint).Name
-
-	fmt.Print(appUser)
-
-	insertUser(appUser)
-
-	findUser(appUser.RedditName)
-
 	//redirect user to their homepage
-	routeURL, _ := route.Get("user").URL("username", appUser.RedditName)
+	routeURL, _ := route.Get("user").URL("username", userInfo.Name)
 	http.Redirect(w, r, routeURL.String(), http.StatusPermanentRedirect)
 
 }

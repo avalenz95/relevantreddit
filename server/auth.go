@@ -119,7 +119,6 @@ func useToken(t token, url string) subreddits {
 
 //Sends an http request returns response in bytes
 func sendRequest(request *http.Request) []byte {
-	fmt.Println("Before request")
 	response, err := http.DefaultClient.Do(request)
 	if err != nil {
 		log.Fatal(err)
