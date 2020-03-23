@@ -97,5 +97,5 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 }
 
 func parseSubreddit(subreddit string) {
-
+	[/r/subreddit]/new
 }

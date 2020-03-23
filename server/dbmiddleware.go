@@ -1,10 +1,10 @@
 package main
 
 import (
-
 	"context"
-	"log"
 	"fmt"
+	"log"
+
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -64,7 +64,6 @@ func findUser(userName string) primitive.M {
 	return filter
 }
 
-
 //Update keywords in database
 func updateKeywords(userName string, subreddit string, newWords []string) {
 
@@ -98,9 +97,8 @@ func addSubreddit(userName string, subreddit string) {
 	collection.UpdateOne(context.Background(), filter, update)
 }
 
-
 func removeUser()      {}
 func removeSubreddit() {}
-func getAllUsers() {}
+func getAllUsers()     {}
 
 func getUserSubreddits() {}

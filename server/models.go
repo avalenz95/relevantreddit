@@ -34,8 +34,8 @@ type subreddits struct {
 	} `json:"data"`
 }
 
-//Content from each subreddit
-type subredditContent []struct {
+//structure of a subreddit post
+type posts []struct {
 	Kind string `json:"kind"`
 	Data struct {
 		Modhash  string `json:"modhash"`
@@ -70,6 +70,7 @@ type subredditContent []struct {
 	} `json:"data"`
 }
 
+//the about page for a subreddit
 type aboutSubreddit struct {
 	Data struct {
 		DisplayName           string  `json:"display_name"`
@@ -97,5 +98,52 @@ type aboutSubreddit struct {
 		URL                   string  `json:"url"`
 		BannerSize            []int   `json:"banner_size"`
 		MobileBannerImage     string  `json:"mobile_banner_image"`
+	} `json:"data"`
+}
+
+//The comments for a subreddit
+type comments []struct {
+	Kind string `json:"kind"`
+	Data struct {
+		Modhash  string      `json:"modhash"`
+		Dist     interface{} `json:"dist"`
+		Children []struct {
+			Kind string `json:"kind"`
+			Data struct {
+				TotalAwardsReceived int         `json:"total_awards_received"`
+				ApprovedAtUtc       interface{} `json:"approved_at_utc"`
+				Ups                 int         `json:"ups"`
+				ModReasonBy         interface{} `json:"mod_reason_by"`
+				BannedBy            interface{} `json:"banned_by"`
+				AuthorFlairType     string      `json:"author_flair_type"`
+				LinkID              string      `json:"link_id"`
+				Replies             string      `json:"replies"`
+				ID                  string      `json:"id"`
+				Gilded              int         `json:"gilded"`
+				Archived            bool        `json:"archived"`
+				Author              string      `json:"author"`
+				ParentID            string      `json:"parent_id"`
+				Score               int         `json:"score"`
+				SubredditID         string      `json:"subreddit_id"`
+				Body                string      `json:"body"`
+				Downs               int         `json:"downs"`
+				BodyHTML            string      `json:"body_html"`
+				Gildings            struct {
+				} `json:"gildings"`
+				Stickied              bool   `json:"stickied"`
+				Subreddit             string `json:"subreddit"`
+				Permalink             string `json:"permalink"`
+				Locked                bool   `json:"locked"`
+				Name                  string `json:"name"`
+				Created               int    `json:"created"`
+				CreatedUtc            int    `json:"created_utc"`
+				SubredditNamePrefixed string `json:"subreddit_name_prefixed"`
+				Controversiality      int    `json:"controversiality"`
+				Depth                 int    `json:"depth"`
+				Distinguished         string `json:"distinguished"`
+			} `json:"data,omitempty"`
+		} `json:"children"`
+		After  interface{} `json:"after"`
+		Before interface{} `json:"before"`
 	} `json:"data"`
 }
