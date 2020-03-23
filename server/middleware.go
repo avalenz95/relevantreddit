@@ -9,6 +9,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -54,16 +55,16 @@ func insertUser(user UserProfile) {
 }
 
 //findUser in DB
-func findUser(userName string) bool {
+func findUser(userName string) primitive.M {
 	filter := bson.M{"redditname": userName}
 	result := collection.FindOne(context.Background(), filter)
 	if result.Err() != nil {
 		fmt.Printf("User: %s not found. \n", userName)
-		return false
+		return nil
 	}
 
 	fmt.Printf("Found %s \n", userName)
-	return true
+	return filter
 }
 
 func getAllUsers() {}
@@ -72,11 +73,10 @@ func getUserSubreddits() {
 }
 func updateKeywords(userName string, subreddit string, newWords []string) {
 
-	//  db.users.update ({"_id": '123'}, {$set: {"friends.0.emails.0.video.status" : 'Inactive'} });
-	// db.inventory.update({ _id: 2 },{ $addToSet: { tags: { $each: [ "camera", "electronics", "accessories" ] } } } )
-	filter := bson.M{"redditname": userName}
+	filter := findUser(userName)
 	key := fmt.Sprintf("subreddits.%s", subreddit)
 
+	//Add all words to array
 	for _, word := range newWords {
 		update := bson.D{{"$addToSet", bson.D{{key, word}}}}
 
@@ -86,8 +86,16 @@ func updateKeywords(userName string, subreddit string, newWords []string) {
 
 }
 
+func removeKeyword(userName string, subreddit string, word string) {
+
+	filter := findUser(userName)
+	key := fmt.Sprintf("subreddits.%s", subreddit)
+
+	update := bson.D{{"$pull", bson.D{{key, word}}}}
+	collection.UpdateOne(context.Background(), filter, update)
+}
+
 func removeUser()      {}
-func removeKeyword()   {}
 func removeSubreddit() {}
 func addSubreddit()    {}
 
@@ -146,7 +154,7 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	userInfo := getUserInfo(token, "https://oauth.reddit.com/api/v1/me")
 
 	//Check if user is in DB
-	if findUser(userInfo.Name) == false {
+	if findUser(userInfo.Name) == nil {
 		fmt.Println("User Not Found! Creating User")
 		//Create User Profile
 		var appUser UserProfile
@@ -169,7 +177,7 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 
 	} else {
 		fmt.Println("User found... Redirecting")
-		updateKeywords(userInfo.Name, "r/apexlegends", []string{"test1", "test2"})
+		//updateKeywords(userInfo.Name, "r/apexlegends", []string{"test1", "test2"})
 	}
 
 	//redirect user to their homepage
