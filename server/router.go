@@ -15,7 +15,7 @@ func router() *mux.Router {
 	route.HandleFunc("/r/callback", handleRedditCallback).Methods("GET", "OPTIONS")
 
 	/* DB/Endpoint routes */
-	route.HandleFunc("/u/{username}", handleUser).Methods("GET", "OPTIONS").Name("user")
+	route.HandleFunc("/u/{username}", getUserContent).Methods("GET", "OPTIONS").Name("user") //Users homepage
 
 	return route
 

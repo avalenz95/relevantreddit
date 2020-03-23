@@ -64,6 +64,22 @@ func findUser(userName string) primitive.M {
 	return filter
 }
 
+func getContent(userName string) []primitive.M {
+
+	var userProfile UserProfile
+	//Find user in store result in user profile
+	err := collection.FindOne(context.Background(), bson.M{"redditname": userName}).Decode(&userProfile)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	//loop over all subreddits and content
+	for key, element := range userProfile.Subreddits {
+		fmt.Println("Key:", key, "=>", "Element:", element)
+	}
+
+}
+
 //Update keywords in database
 func updateKeywords(userName string, subreddit string, newWords []string) {
 

@@ -9,10 +9,14 @@ import (
 	"github.com/gorilla/mux"
 )
 
-func handleUser(w http.ResponseWriter, r *http.Request) {
+func getUserContent(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	//payload :=
+	//json.NewEncoder(w).Encode(payload)
 	params := mux.Vars(r)
-	w.Write([]byte(params["username"]))
-	fmt.Printf("Passed in Username is: %s \n", params["username"])
+	getContent(params["username"])
+	//fmt.Printf("Passed in Username is: %s \n", params["username"])
 }
 
 //temp till connect react frontend
