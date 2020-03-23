@@ -71,6 +71,8 @@ func getAllUsers() {}
 func getUserSubreddits() {
 
 }
+
+//Update keywords in database
 func updateKeywords(userName string, subreddit string, newWords []string) {
 
 	filter := findUser(userName)
@@ -86,6 +88,7 @@ func updateKeywords(userName string, subreddit string, newWords []string) {
 
 }
 
+//Remove keyword from the database
 func removeKeyword(userName string, subreddit string, word string) {
 
 	filter := findUser(userName)
@@ -97,7 +100,13 @@ func removeKeyword(userName string, subreddit string, word string) {
 
 func removeUser()      {}
 func removeSubreddit() {}
-func addSubreddit()    {}
+
+//Add Subreddit to database
+func addSubreddit(userName string, subreddit string) {
+	filter := findUser(userName)
+	update := bson.D{{"$addToSet", bson.D{{subreddit, []string{}}}}}
+	collection.UpdateOne(context.Background(), filter, update)
+}
 
 func handleUser(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
