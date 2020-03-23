@@ -28,11 +28,8 @@ export default function ButtonAppBar() {
     <div className={classes.root}>
       <AppBar position="static">
         <Toolbar className={classes.bar}>
-          <Typography variant="h6" align="left" className={classes.title}>
-            Relevant for Reddit
-          </Typography>
-          <Button color="inherit">Sign Up</Button>
-          <Button color="inherit">Login</Button>
+          <Typography variant="h6" align="left" className={classes.title}>Relevant for Reddit</Typography>
+          <Button color="inherit">Authenticate with Reddit</Button>
         </Toolbar>
       </AppBar>
     </div>
