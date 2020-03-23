@@ -73,12 +73,17 @@ func getUserSubreddits() {
 func updateKeywords(userName string, subreddit string, newWords []string) {
 
 	//  db.users.update ({"_id": '123'}, {$set: {"friends.0.emails.0.video.status" : 'Inactive'} });
-	//filter := bson.M{"redditname": userName}
-	//mapUpdate := fmt.Sprintf("subreddits.%s", subreddit)
-	//update := bson.D{{"$set", bson.D{{mapUpdate, "newemail@example.com"}}}}
-	//update := bson.D{{"$set", bson.D{{"email", "newemail@example.com"}}}}
+	// db.inventory.update({ _id: 2 },{ $addToSet: { tags: { $each: [ "camera", "electronics", "accessories" ] } } } )
+	filter := bson.M{"redditname": userName}
+	key := fmt.Sprintf("subreddits.%s", subreddit)
 
-	//collection.UpdateOne(context.Background())
+	for _, word := range newWords {
+		update := bson.D{{"$addToSet", bson.D{{key, word}}}}
+
+		fmt.Printf("%s ---> %s \n", word, subreddit)
+		collection.UpdateOne(context.Background(), filter, update)
+	}
+
 }
 
 func removeUser()      {}
@@ -141,7 +146,7 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	userInfo := getUserInfo(token, "https://oauth.reddit.com/api/v1/me")
 
 	//Check if user is in DB
-	if !findUser(userInfo.Name) {
+	if findUser(userInfo.Name) == false {
 		fmt.Println("User Not Found! Creating User")
 		//Create User Profile
 		var appUser UserProfile
@@ -159,8 +164,12 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 
 			subscribedReddits(rc, &appUser)
 		}
+
+		insertUser(appUser)
+
 	} else {
 		fmt.Println("User found... Redirecting")
+		updateKeywords(userInfo.Name, "r/apexlegends", []string{"test1", "test2"})
 	}
 
 	//redirect user to their homepage
