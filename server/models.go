@@ -35,7 +35,7 @@ type subreddits struct {
 }
 
 //structure of a subreddit post
-type posts []struct {
+type rPosts []struct {
 	Kind string `json:"kind"`
 	Data struct {
 		Modhash  string `json:"modhash"`
@@ -102,7 +102,7 @@ type aboutSubreddit struct {
 }
 
 //The comments for a subreddit
-type comments []struct {
+type rComments []struct {
 	Kind string `json:"kind"`
 	Data struct {
 		Modhash  string      `json:"modhash"`
@@ -147,3 +147,5 @@ type comments []struct {
 		Before interface{} `json:"before"`
 	} `json:"data"`
 }
+
+/* https://api.reddit.com/r/politics/comments/fmzu7n/trump_has_completely_mishandled_the_coronavirus?limit=2/*/
