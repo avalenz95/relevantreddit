@@ -3,6 +3,7 @@ import axios from "axios";
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
+import Button from '@material-ui/core/Button';
 
 let endpoint = "http://localhost:8080";
 
@@ -15,6 +16,16 @@ class RedditContent extends Component {
             items: []
         };
     }
+
+    //When the user clicks authenticate with reddit
+    onAuth = () => {
+        axios.get(endpoint + "/r/login").then(response => {
+            console.log(response);
+            if (response.data) {
+                this.getContent(response.data.username)
+            }
+        })
+    };
 
     getContent = username => {
         axios.get(endpoint + "/u/" + username).then(response => {
@@ -46,6 +57,7 @@ class RedditContent extends Component {
         <div>
           <div>
             <Typography variant="h1" component="h2"> Subreddits </Typography>
+            <Button color="inherit" type="submit" onClick={this.onAuth}>Authenticate with Reddit</Button>
           </div>
 
           <div className="row">{this.state.items}</div>
