@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import axios from "axios";
-import Card from '@material-ui/core/Card';
-import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import Cookies from 'js-cookie';
@@ -18,6 +16,11 @@ class RedditContent extends Component {
     }
 
 
+    componentDidMount() {
+      this.getContent()
+    }
+
+
     //When the user clicks authenticate with reddit
     onAuth = () => {
         axios.get(endpoint + "/r/login").then((response) => {
@@ -27,28 +30,17 @@ class RedditContent extends Component {
     };
 
     getContent = () => {
-        axios.get(endpoint + "/user").then(response => {
-            console.log(response);
-            if (response.data) {
-                this.setState({
-                    items: response.data.map(item => {
-                        return (
-                            <Card>
-                              <CardContent>
-                                <Typography>
-                                  {item.Subreddits}
-                                </Typography>
-                              </CardContent>
-                            </Card>
-                          );
-                    })
-                })
-            } else {
-                this.setState({
-                    items: ["NOTHING"]
-                });
-            }
+      var userName = Cookies.get("username")
+      if(userName){
+        
+        axios.get(endpoint + "/user/" + userName).then(response => {
+          console.log(response);
+          console.log("endpoint reached");
         });
+      } else {
+          console.log("endpoint not reached")
+      }
+
     };
 
     render() {

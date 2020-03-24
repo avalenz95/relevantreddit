@@ -6,18 +6,20 @@ import (
 	"log"
 	"net/http"
 	"net/url"
+
+	"github.com/gorilla/mux"
 )
 
 func getUserContent(w http.ResponseWriter, r *http.Request) {
-	//Get username cookie
-	userName, err := r.Cookie("username")
-	if err != nil {
-		fmt.Printf("No cookie found.")
-	} else {
-		fmt.Printf("Using cookie: %s", userName.String())
-		redditMap := getContent(userName.Value)
-		json.NewEncoder(w).Encode(redditMap)
-	}
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	//Get parameters passed in
+
+	params := mux.Vars(r)
+	fmt.Println(len(params))
+	fmt.Printf("Gettings Content from User: %s \n", params["username"])
+	redditMap := getContent(params["username"])
+	json.NewEncoder(w).Encode(redditMap)
 }
 
 //temp till connect react frontend
@@ -96,6 +98,9 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("User found... Redirecting")
 		//updateKeywords(userInfo.Name, "r/apexlegends", []string{"test1", "test2"})
 	}
+
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 
 	//create user cookie
 	cookie := http.Cookie{
