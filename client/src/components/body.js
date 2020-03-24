@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-//import Card from '@material-ui/core/Card';
+import Card from '@material-ui/core/Card';
 import Cookies from 'js-cookie';
 
 let endpoint = "http://localhost:8080";
@@ -42,7 +42,13 @@ class RedditContent extends Component {
 
           this.setState({
             value: "Welcome: " + response.data.username,
-            items : Object.keys(response.data.subreddits),
+            items : Object.keys(response.data.subreddits).map(item =>{
+              return (
+                <div className="row">
+                  <Card>{item}</Card>
+                </div>
+              )
+            }),
             // items: response.data.subreddits.map(item => {
 
             //   return (
