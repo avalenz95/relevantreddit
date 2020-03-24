@@ -19,11 +19,10 @@ class RedditContent extends Component {
 
     //When the user clicks authenticate with reddit
     onAuth = () => {
-        axios.get(endpoint + "/r/login").then(response => {
+        axios.get(endpoint + "/r/login").then((response) => {
             console.log(response);
-            if (response.data) {
-                this.getContent(response.data.username)
-            }
+            console.log("test");
+            window.location.replace(response.request.responseURL);
         })
     };
 
