@@ -16,10 +16,6 @@ class RedditContent extends Component {
         };
     }
 
-    componentDidMount() {
-        this.getContent();
-    }
-
     getContent = username => {
         axios.get(endpoint + "/u/" + username).then(response => {
             console.log(response);
@@ -47,14 +43,13 @@ class RedditContent extends Component {
 
     render() {
         return (
+        <div>
           <div>
-            <div className="row">
-            </div>
-            <div className="row">
-            </div>
-            <div className="row">
-            </div>
+            <Typography variant="h1" component="h2"> Subreddits </Typography>
           </div>
+
+          <div className="row">{this.state.items}</div>
+        </div>
         );
       }
 }
