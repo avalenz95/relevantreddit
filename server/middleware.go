@@ -6,17 +6,17 @@ import (
 	"log"
 	"net/http"
 	"net/url"
-
-	"github.com/gorilla/mux"
 )
 
 func getUserContent(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
-	w.Header().Set("Access-Control-Allow-Origin", "*")
+	//Get username cookie
+	userName, err := r.Cookie("username")
+	if err != nil {
+		log.Fatal(err)
+	}
 	//payload :=
-	//json.NewEncoder(w).Encode(payload)
-	params := mux.Vars(r)
-	redditMap := getContent(params["username"])
+	fmt.Printf("Using cookie: %s", userName.String())
+	redditMap := getContent(userName.String())
 	json.NewEncoder(w).Encode(redditMap)
 	//fmt.Printf("Passed in Username is: %s \n", params["username"])
 }
@@ -35,6 +35,8 @@ func handleMain(w http.ResponseWriter, r *http.Request) {
 
 //Redirect user to authorization page
 func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 
 	url, err := url.Parse("reddit.com/api/v1/authorize")
 	if err != nil {
@@ -96,8 +98,16 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 		//updateKeywords(userInfo.Name, "r/apexlegends", []string{"test1", "test2"})
 	}
 
+	//create user cookie
+	cookie := http.Cookie{
+		Name:  "username",
+		Value: userInfo.Name,
+		Path:  "/",
+	}
+	http.SetCookie(w, &cookie)
+
 	//redirect user to their homepage
-	routeURL, _ := route.Get("user").URL("username", userInfo.Name)
+	routeURL, _ := route.Get("user").URL()
 	http.Redirect(w, r, routeURL.String(), http.StatusPermanentRedirect)
 
 }
