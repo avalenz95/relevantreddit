@@ -13,8 +13,7 @@ class RedditContent extends Component {
 
         this.state = {
             value: '',
-            items: [],
-            //items: []
+            subreddits: [],
         };
     }
 
@@ -42,13 +41,22 @@ class RedditContent extends Component {
 
           this.setState({
             value: "Welcome: " + response.data.username,
-            items : Object.keys(response.data.subreddits).map(item =>{
+      
+            subreddits: Object.entries(response.data.subreddits).map(([k,v]) => {
+
+              const keywords = []
+              //Create buttons for each keyword
+              for (var i = 0; i < v.length; i++) {
+                keywords.push(<Button>{v[i]}</Button>)
+              }
+
+              //Display key alongside keywords
               return (
                 <div className="row">
-                  <Card>{item}</Card>
+                  <Card>Key:{k} {keywords}</Card>       
                 </div>
               )
-            }),
+            })
             // items: response.data.subreddits.map(item => {
 
             //   return (
@@ -75,7 +83,8 @@ class RedditContent extends Component {
           </div>
 
           <div className="row">{this.state.value}</div>
-          <div className="row">{this.state.items}</div>
+          <br></br>
+          <div className="row">{this.state.subreddits}</div>
         </div>
         );
       }
