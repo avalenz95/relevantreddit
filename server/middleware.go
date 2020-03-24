@@ -12,13 +12,12 @@ func getUserContent(w http.ResponseWriter, r *http.Request) {
 	//Get username cookie
 	userName, err := r.Cookie("username")
 	if err != nil {
-		log.Fatal(err)
+		fmt.Printf("No cookie found.")
+	} else {
+		fmt.Printf("Using cookie: %s", userName.String())
+		redditMap := getContent(userName.Value)
+		json.NewEncoder(w).Encode(redditMap)
 	}
-	//payload :=
-	fmt.Printf("Using cookie: %s", userName.String())
-	redditMap := getContent(userName.String())
-	json.NewEncoder(w).Encode(redditMap)
-	//fmt.Printf("Passed in Username is: %s \n", params["username"])
 }
 
 //temp till connect react frontend
@@ -104,10 +103,11 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 		Value: userInfo.Name,
 		Path:  "/",
 	}
+
 	http.SetCookie(w, &cookie)
 
 	//redirect user to their homepage
-	routeURL, _ := route.Get("user").URL()
-	http.Redirect(w, r, routeURL.String(), http.StatusPermanentRedirect)
+	//routeURL, _ := route.Get("user").URL()
+	http.Redirect(w, r, "http://localhost:3000", http.StatusPermanentRedirect)
 
 }

@@ -4,9 +4,9 @@ import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
+import Cookies from 'js-cookie';
 
 let endpoint = "http://localhost:8080";
-
 
 class RedditContent extends Component {
     constructor(props) {
@@ -17,12 +17,12 @@ class RedditContent extends Component {
         };
     }
 
+
     //When the user clicks authenticate with reddit
     onAuth = () => {
         axios.get(endpoint + "/r/login").then((response) => {
             console.log(response);
             window.location.replace(response.request.responseURL);
-
         })
     };
 
