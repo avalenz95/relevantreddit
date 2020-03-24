@@ -12,7 +12,8 @@ class RedditContent extends Component {
         super(props);
 
         this.state = {
-            value: ''
+            value: '',
+            items: [],
             //items: []
         };
     }
@@ -41,6 +42,7 @@ class RedditContent extends Component {
 
           this.setState({
             value: "Welcome: " + response.data.username,
+            items : Object.keys(response.data.subreddits),
             // items: response.data.subreddits.map(item => {
 
             //   return (
@@ -67,6 +69,7 @@ class RedditContent extends Component {
           </div>
 
           <div className="row">{this.state.value}</div>
+          <div className="row">{this.state.items}</div>
         </div>
         );
       }
