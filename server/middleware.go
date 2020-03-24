@@ -14,12 +14,11 @@ func getUserContent(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
 	//Get parameters passed in
-
 	params := mux.Vars(r)
-	fmt.Println(len(params))
 	fmt.Printf("Gettings Content from User: %s \n", params["username"])
 	redditMap := getContent(params["username"])
 	json.NewEncoder(w).Encode(redditMap)
+
 }
 
 //temp till connect react frontend
