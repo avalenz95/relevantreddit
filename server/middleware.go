@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
@@ -15,7 +16,8 @@ func getUserContent(w http.ResponseWriter, r *http.Request) {
 	//payload :=
 	//json.NewEncoder(w).Encode(payload)
 	params := mux.Vars(r)
-	getContent(params["username"])
+	redditMap := getContent(params["username"])
+	json.NewEncoder(w).Encode(redditMap)
 	//fmt.Printf("Passed in Username is: %s \n", params["username"])
 }
 

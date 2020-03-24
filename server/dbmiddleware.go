@@ -64,7 +64,7 @@ func findUser(userName string) primitive.M {
 	return filter
 }
 
-func getContent(userName string) []primitive.M {
+func getContent(userName string) map[string][]string {
 
 	var userProfile UserProfile
 	//Find user in store result in user profile
@@ -78,6 +78,7 @@ func getContent(userName string) []primitive.M {
 		fmt.Println("Key:", key, "=>", "Element:", element)
 	}
 
+	return userProfile.Subreddits
 }
 
 //Update keywords in database
