@@ -8,13 +8,16 @@ let endpoint = "http://localhost:8080";
 
 
 class RedditContent extends Component {
-
     constructor(props) {
         super(props);
 
         this.state = {
             items: []
         };
+    }
+
+    componentDidMount() {
+        this.getContent();
     }
 
     getContent = username => {
@@ -41,6 +44,19 @@ class RedditContent extends Component {
             }
         });
     };
+
+    render() {
+        return (
+          <div>
+            <div className="row">
+            </div>
+            <div className="row">
+            </div>
+            <div className="row">
+            </div>
+          </div>
+        );
+      }
 }
 
 
