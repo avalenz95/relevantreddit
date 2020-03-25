@@ -1,15 +1,31 @@
 import React, { Component } from "react";
 import axios from "axios";
+import { withStyles } from '@material-ui/styles';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-import Card from '@material-ui/core/Card';
+import Grid from '@material-ui/core/Grid';
+import Paper from '@material-ui/core/Paper';
 import Cookies from 'js-cookie';
 
 let endpoint = "http://localhost:8080";
 
+const useStyles = theme => ({
+  root: {
+    flexGrow: 1,
+  },
+  paper: {
+    square: 'false',
+    background: 'blue',
+    display: 'flex',
+    flexWrap: 'wrap',
+  }
+});
+
+
 class RedditContent extends Component {
     constructor(props) {
         super(props);
+
 
         this.state = {
             value: '',
@@ -52,9 +68,9 @@ class RedditContent extends Component {
 
               //Display key alongside keywords
               return (
-                <div className="row">
-                  <Card>Key:{k} {keywords}</Card>       
-                </div>
+                <Grid item xs={12}>
+                  <Paper className={useStyles.paper}>Key:{k} {keywords}</Paper>
+                </Grid>
               )
             })
             // items: response.data.subreddits.map(item => {
@@ -65,7 +81,6 @@ class RedditContent extends Component {
             //   );
             // })
           });
-
         });
       } else {
           console.log("endpoint not reached")
@@ -75,13 +90,19 @@ class RedditContent extends Component {
     };
 
     render() {
+      const { classes } = this.props;
+
         return (
         <div>
           <div>
             <Typography variant="h1" component="h2"> Subreddits </Typography>
             <Button color="inherit" type="submit" onClick={this.onAuth}>Authenticate with Reddit</Button>
           </div>
-
+          <div className={useStyles.root}>
+          <Grid container spacing={3}>
+            {this.state.subreddits}
+          </Grid>
+          </div>
           <div className="row">{this.state.value}</div>
           <br></br>
           <div className="row">{this.state.subreddits}</div>
@@ -91,4 +112,5 @@ class RedditContent extends Component {
 }
 
 
-export default RedditContent;
+export default withStyles(useStyles)(RedditContent);
+
