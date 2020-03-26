@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
-import { withStyles } from '@material-ui/styles';
+import { makeStyles } from '@material-ui/styles';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import Grid from '@material-ui/core/Grid';
@@ -9,17 +9,17 @@ import Cookies from 'js-cookie';
 
 let endpoint = "http://localhost:8080";
 
-const useStyles = theme => ({
+const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
   },
   paper: {
-    square: 'false',
-    background: 'blue',
+    square: 'true',
+    backgroundColor: 'blue',
     display: 'flex',
     flexWrap: 'wrap',
   }
-});
+}));
 
 
 class RedditContent extends Component {
@@ -31,6 +31,19 @@ class RedditContent extends Component {
             value: '',
             subreddits: [],
         };
+
+
+        this.useStyles = makeStyles(theme => ({
+          root: {
+            flexGrow: 1,
+          },
+          paper: {
+            square: 'true',
+            backgroundColor: 'blue',
+            display: 'flex',
+            flexWrap: 'wrap',
+          }
+        }));
     }
 
 
@@ -69,17 +82,10 @@ class RedditContent extends Component {
               //Display key alongside keywords
               return (
                 <Grid item xs={12}>
-                  <Paper className={useStyles.paper}>Key:{k} {keywords}</Paper>
+                  <Paper variant="outlined" elevation={1} className={this.useStyles.paper}>Key:{k} {keywords}</Paper>
                 </Grid>
               )
             })
-            // items: response.data.subreddits.map(item => {
-
-            //   return (
-            
-            //     <Card>{item}</Card>
-            //   );
-            // })
           });
         });
       } else {
@@ -90,7 +96,19 @@ class RedditContent extends Component {
     };
 
     render() {
-      const { classes } = this.props;
+
+      const useStyles = makeStyles(theme => ({
+        root: {
+          flexGrow: 1,
+          backgroundColor: 'red',
+        },
+        paper: {
+          square: 'true',
+          backgroundColor: 'blue',
+          display: 'flex',
+          flexWrap: 'wrap',
+        }
+      }));
 
         return (
         <div>
@@ -112,5 +130,5 @@ class RedditContent extends Component {
 }
 
 
-export default withStyles(useStyles)(RedditContent);
+export default RedditContent;
 
