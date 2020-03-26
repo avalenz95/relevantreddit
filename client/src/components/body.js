@@ -6,20 +6,9 @@ import Button from '@material-ui/core/Button';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
 import Cookies from 'js-cookie';
+import RedditGrid from './redditgrid';
 
 let endpoint = "http://localhost:8080";
-
-const useStyles = makeStyles(theme => ({
-  root: {
-    flexGrow: 1,
-  },
-  paper: {
-    square: 'true',
-    backgroundColor: 'blue',
-    display: 'flex',
-    flexWrap: 'wrap',
-  }
-}));
 
 
 class RedditContent extends Component {
@@ -30,6 +19,7 @@ class RedditContent extends Component {
         this.state = {
             value: '',
             subreddits: [],
+            propsubreddits: {},
         };
 
 
@@ -70,7 +60,7 @@ class RedditContent extends Component {
 
           this.setState({
             value: "Welcome: " + response.data.username,
-      
+            propsubreddits: response.data.subreddits,
             subreddits: Object.entries(response.data.subreddits).map(([k,v]) => {
 
               const keywords = []
@@ -97,33 +87,24 @@ class RedditContent extends Component {
 
     render() {
 
-      const useStyles = makeStyles(theme => ({
-        root: {
-          flexGrow: 1,
-          backgroundColor: 'red',
-        },
-        paper: {
-          square: 'true',
-          backgroundColor: 'blue',
-          display: 'flex',
-          flexWrap: 'wrap',
-        }
-      }));
-
         return (
         <div>
           <div>
             <Typography variant="h1" component="h2"> Subreddits </Typography>
             <Button color="inherit" type="submit" onClick={this.onAuth}>Authenticate with Reddit</Button>
           </div>
-          <div className={useStyles.root}>
+          <RedditGrid subreddits={this.state.propsubreddits}></RedditGrid>
+
+
+          {/* <div className={useStyles.root}>
           <Grid container spacing={3}>
             {this.state.subreddits}
           </Grid>
           </div>
           <div className="row">{this.state.value}</div>
           <br></br>
-          <div className="row">{this.state.subreddits}</div>
+          <div className="row">{this.state.subreddits}</div> */}
+
         </div>
         );
       }

@@ -1,6 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
+import RedditItem from './reddititem';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -15,7 +16,7 @@ const useStyles = makeStyles(theme => ({
     return (
       <div className={classes.root}>
         <Grid container spacing={3}>
-            <RedditItem></RedditItem>
+            <RedditItem subreddit={this.props.subreddits}> </RedditItem>
         </Grid>
       </div>
     );

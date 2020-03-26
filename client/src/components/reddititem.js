@@ -2,6 +2,8 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import GridItem from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
+import { Typography } from '@material-ui/core';
+import RedditKeywords from './keywordbutton';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -17,9 +19,19 @@ const useStyles = makeStyles(theme => ({
 export default function RedditItem() {
   const classes = useStyles();
 
+  var gridItems = Object.entries(this.props.subreddit).map(([key,values]) => {
+
+    return (
+        <GridItem className={classes.root}>
+            <Paper className={classes.paper}>
+                <Typography> {key} </Typography>
+                <RedditKeywords values={values}></RedditKeywords>
+            </Paper>
+        </GridItem>
+    )
+  })
+
   return (
-    <GridItem className={classes.root}>
-      <Paper className={classes.paper}>Key {}</Paper>
-    </GridItem>
+      {gridItems}
   );
 }
