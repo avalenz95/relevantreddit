@@ -16,12 +16,12 @@ const useStyles = makeStyles(theme => ({
     },
   }));
 
-export default function RedditItem() {
+export default function RedditItem(props) {
   const classes = useStyles();
+  const gridItems = []
+  Object.entries(props.subreddit).map(([key,values]) => {
 
-  var gridItems = Object.entries(this.props.subreddit).map(([key,values]) => {
-
-    return (
+    gridItems.push (
         <GridItem className={classes.root}>
             <Paper className={classes.paper}>
                 <Typography> {key} </Typography>
@@ -32,6 +32,6 @@ export default function RedditItem() {
   })
 
   return (
-      {gridItems}
+      gridItems
   );
 }

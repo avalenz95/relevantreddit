@@ -10,13 +10,12 @@ const useStyles = makeStyles(theme => ({
   }));
   
   
-  export default function RedditGrid() {
+  export default function RedditGrid(props) {
     const classes = useStyles();
-  
     return (
       <div className={classes.root}>
         <Grid container spacing={3}>
-            <RedditItem subreddit={this.props.subreddits}> </RedditItem>
+            <RedditItem subreddit={props.subreddits}> </RedditItem>
         </Grid>
       </div>
     );

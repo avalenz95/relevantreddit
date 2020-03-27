@@ -14,15 +14,15 @@ const useStyles = makeStyles(theme => ({
   }));
   
   
-  export default function RedditKeywords() {
+  export default function RedditKeywords(props) {
     const classes = useStyles();
 
     var keywordButtons = []
 
-    for (var i = 0; i < this.props.values.length; i++) {
+    for (var i = 0; i < props.values.length; i++) {
         keywordButtons.push(
             <Button className={classes.root}>
-                <Typography>{this.props.values[i]}</Typography>
+                <Typography>{props.values[i]}</Typography>
                 <IconButton aria-label="delete">
                     <DeleteIcon />
                 </IconButton>
@@ -35,6 +35,6 @@ const useStyles = makeStyles(theme => ({
       }
   
     return (
-        {keywordButtons}
+        keywordButtons
     );
   }
