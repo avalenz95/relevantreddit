@@ -18,23 +18,9 @@ class RedditContent extends Component {
 
         this.state = {
             value: '',
-            subreddits: [],
-            propsubreddits: {},
+            subreddits: {},
         };
-
-
-        this.useStyles = makeStyles(theme => ({
-          root: {
-            flexGrow: 1,
-          },
-          paper: {
-            square: 'true',
-            backgroundColor: 'blue',
-            display: 'flex',
-            flexWrap: 'wrap',
-          }
-        }));
-    }
+}
 
 
     componentDidMount() {
@@ -60,22 +46,7 @@ class RedditContent extends Component {
 
           this.setState({
             value: "Welcome: " + response.data.username,
-            propsubreddits: response.data.subreddits,
-            subreddits: Object.entries(response.data.subreddits).map(([k,v]) => {
-
-              const keywords = []
-              //Create buttons for each keyword
-              for (var i = 0; i < v.length; i++) {
-                keywords.push(<Button>{v[i]}</Button>)
-              }
-
-              //Display key alongside keywords
-              return (
-                <Grid item xs={12}>
-                  <Paper variant="outlined" elevation={1} className={this.useStyles.paper}>Key:{k} {keywords}</Paper>
-                </Grid>
-              )
-            })
+            subreddits: response.data.subreddits,
           });
         });
       } else {
@@ -93,18 +64,7 @@ class RedditContent extends Component {
             <Typography variant="h1" component="h2"> Subreddits </Typography>
             <Button color="inherit" type="submit" onClick={this.onAuth}>Authenticate with Reddit</Button>
           </div>
-          <RedditGrid subreddits={this.state.propsubreddits}></RedditGrid>
-
-
-          {/* <div className={useStyles.root}>
-          <Grid container spacing={3}>
-            {this.state.subreddits}
-          </Grid>
-          </div>
-          <div className="row">{this.state.value}</div>
-          <br></br>
-          <div className="row">{this.state.subreddits}</div> */}
-
+          <RedditGrid subreddits={this.state.subreddits}></RedditGrid>
         </div>
         );
       }

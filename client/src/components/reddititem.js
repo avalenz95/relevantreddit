@@ -1,6 +1,6 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import GridItem from '@material-ui/core/Grid';
+import { makeStyles, withTheme } from '@material-ui/core/styles';
+import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
 import { Typography } from '@material-ui/core';
 import RedditKeywords from './keywordbutton';
@@ -12,7 +12,9 @@ const useStyles = makeStyles(theme => ({
     paper: {
       padding: theme.spacing(2),
       textAlign: 'center',
-      color: theme.palette.text.secondary,
+      color: 'white',
+      backgroundImage: "url(https://www.w3schools.com/w3css/img_lights.jpg)",
+      
     },
   }));
 
@@ -22,12 +24,12 @@ export default function RedditItem(props) {
   Object.entries(props.subreddit).map(([key,values]) => {
 
     gridItems.push (
-        <GridItem className={classes.root}>
+        <Grid item className={classes.root}>
             <Paper className={classes.paper}>
                 <Typography> {key} </Typography>
                 <RedditKeywords values={values}></RedditKeywords>
             </Paper>
-        </GridItem>
+        </Grid>
     )
   })
 
