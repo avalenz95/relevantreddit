@@ -27,15 +27,28 @@ class RedditContent extends Component {
       this.getContent()
     }
 
+    //pull image 
+    getImg = sub => {
+      axios.get(endpoint + "/img/" + sub).then((response) => {
+        console.log(response)
+        //Use image
+        if(response != ""){
+          return response.data
+        }
+      })
+    }
+
 
     //When the user clicks authenticate with reddit
     onAuth = () => {
         axios.get(endpoint + "/r/login").then((response) => {
             console.log(response);
+            //Redirect user
             window.location.replace(response.request.responseURL);
         })
     };
 
+    //Gets the users reddit content from db
     getContent = () => {
       var userName = Cookies.get("username")
       if(userName){

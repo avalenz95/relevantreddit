@@ -24,7 +24,7 @@ export default function RedditItem(props) {
   Object.entries(props.subreddit).map(([key,values]) => {
 
     gridItems.push (
-        <Grid item className={classes.root}>
+        <Grid item xs={3} className={classes.root}>
             <Paper className={classes.paper}>
                 <Typography> {key} </Typography>
                 <RedditKeywords values={values}></RedditKeywords>

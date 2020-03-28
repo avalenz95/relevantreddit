@@ -6,7 +6,9 @@ import RedditItem from './reddititem';
 const useStyles = makeStyles(theme => ({
     root: {
       flexGrow: 1,
-      backgroundColor: 'blue',
+      direction: "column",
+      justify: "space-around",
+      alignItems: "center"
     },
   }));
   
@@ -15,7 +17,7 @@ const useStyles = makeStyles(theme => ({
     const classes = useStyles();
     return (
       <div className={classes.root}>
-        <Grid container spacing={3}>
+        <Grid container container direction="row" justify="space-around" alignItems="center" spacing={4}>
             <RedditItem subreddit={props.subreddits}> </RedditItem>
         </Grid>
       </div>
