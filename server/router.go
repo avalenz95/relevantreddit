@@ -16,7 +16,8 @@ func router() *mux.Router {
 	/* DB/Endpoint routes */
 	route.HandleFunc("/user/{username}", getUserContent).Methods("GET", "OPTIONS").Name("user") //Users homepage
 
-	//route.HandleFunc("/img/{subreddit}", imageGetFunction).Methods(GET, "OPTIONS"route for pulling subreddit image
+	route.HandleFunc("/img/r/{subreddit}", getSubredditImg).Methods("GET", "OPTIONS") //route for pulling subreddit image
+
 	return route
 
 }

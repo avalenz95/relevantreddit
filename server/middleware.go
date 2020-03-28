@@ -10,6 +10,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
+//get user content from db
 func getUserContent(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
@@ -18,6 +19,28 @@ func getUserContent(w http.ResponseWriter, r *http.Request) {
 	fmt.Printf("Gettings Content from User: %s \n", params["username"])
 	redditMap := getContent(params["username"])
 	json.NewEncoder(w).Encode(redditMap)
+
+}
+
+// get subreddit image from about section
+func getSubredditImg(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+
+	params := mux.Vars(r)
+	url := fmt.Sprintf("https://www.reddit.com/r/%s/about.json", params["subreddit"])
+	request, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+
+	content := sendRequest(request)
+	var as = aboutSubreddit{}
+	json.Unmarshal(content, &as)
+	fmt.Printf("Banner IMG: %s \n", as.Data.BannerImg)
+	json.NewEncoder(w).Encode(as.Data.BannerImg)
 
 }
 
