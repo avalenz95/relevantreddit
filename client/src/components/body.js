@@ -11,12 +11,14 @@ import RedditGrid from './redditgrid';
 let endpoint = "http://localhost:8080";
 
 
+
 class RedditContent extends Component {
     constructor(props) {
         super(props);
 
 
         this.state = {
+            paperImgs: [],
             value: '',
             subreddits: {},
         };
@@ -25,18 +27,31 @@ class RedditContent extends Component {
 
     componentDidMount() {
       this.getContent()
-    }
+    };
 
-    //pull image 
-    getImg = sub => {
-      axios.get(endpoint + "/img/" + sub).then((response) => {
-        console.log(response)
-        //Use image
-        if(response != ""){
-          return response.data
-        }
-      })
-    }
+
+    getImages = () => {
+      const { subreddits } = this.state
+      var images = []
+      console.log("here")
+      console.log(subreddits)
+      const test = Object.entries(subreddits).map(([key,values], index) => {
+        console.log("here2")
+        axios.get(endpoint + "/img/" + key).then((response) => {
+          console.log(response.data)
+    
+          //Use image
+          if(response.data != ""){
+            images.push(response.data)
+          } else {
+            images.push("https://www.w3schools.com/w3css/img_lights.jpg")
+          }
+          
+          console.log(images)
+        });
+    });
+  }
+
 
 
     //When the user clicks authenticate with reddit
@@ -57,11 +72,10 @@ class RedditContent extends Component {
           console.log(response);
           console.log("endpoint reached");
 
-          this.setState({
-            value: "Welcome: " + response.data.username,
-            subreddits: response.data.subreddits,
-          });
+          this.setState({value: "Welcome: " + response.data.username, subreddits: response.data.subreddits,}
+          , this.getImages);
         });
+
       } else {
           console.log("endpoint not reached")
           this.setState({items: []});
