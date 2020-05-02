@@ -30,3 +30,22 @@ func (node PrefixNode) numChildren() int {
 func (node PrefixNode) numUsers() int {
 	return len(node.Users)
 }
+
+//find child in parent node
+func (node PrefixNode) hasChild(child *PrefixNode) bool {
+
+	_, found := node.Children[child.Char]
+
+	if found {
+		return true
+	}
+	return false
+}
+
+//Add node
+func (node PrefixNode) addChild(child *PrefixNode) bool {
+	if node.hasChild(child) {
+		return false
+	}
+	return true
+}

@@ -16,13 +16,15 @@ func TestNew(t *testing.T) {
 		{'c'},
 		{'d'},
 		{'e'},
-		{'e'},
-		{'f'},
+		{'A'},
+		{'B'},
+		{'@'},
 	}
 
 	for _, test := range tests {
 
 		node := prefixnode.New(test.char)
+
 		//Check Character
 		if node.Char != test.char {
 			t.Errorf("Expected Character: %c, got %c instead.", test.char, node.Char)
@@ -43,6 +45,24 @@ func TestNew(t *testing.T) {
 			t.Errorf("Expected users number of users %v, found %v users instead.", 0, len(node.Users))
 		}
 
+	}
+
+}
+
+func TestisTerminal(t *testing.T) {
+
+	node := prefixnode.New('a')
+
+	//Check Terminal
+	if node.Terminal != false {
+		t.Errorf("Expected Terminal Value: %v, got %v  instead.", false, node.Terminal)
+	}
+
+	node.Terminal = true
+
+	//Check Terminal
+	if node.Terminal != true {
+		t.Errorf("Expected Terminal Value: %v, got %v  instead.", true, node.Terminal)
 	}
 
 }
