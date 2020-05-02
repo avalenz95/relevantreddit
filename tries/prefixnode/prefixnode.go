@@ -44,8 +44,12 @@ func (node PrefixNode) hasChild(child *PrefixNode) bool {
 
 //Add node
 func (node PrefixNode) addChild(child *PrefixNode) bool {
+
 	if node.hasChild(child) {
 		return false
 	}
+	//Add Node
+	node.Children[child.Char] = child
+
 	return true
 }
