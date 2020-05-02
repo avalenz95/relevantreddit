@@ -1,7 +1,6 @@
 import React from 'react';
-import { makeStyles, withTheme } from '@material-ui/core/styles';
+import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
-import axios from "axios";
 import Paper from '@material-ui/core/Paper';
 import { Typography } from '@material-ui/core';
 import RedditKeywords from './keywordbutton';

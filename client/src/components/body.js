@@ -1,10 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
-import { makeStyles } from '@material-ui/styles';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-import Grid from '@material-ui/core/Grid';
-import Paper from '@material-ui/core/Paper';
 import Cookies from 'js-cookie';
 import RedditGrid from './redditgrid';
 
@@ -29,28 +26,27 @@ class RedditContent extends Component {
       this.getContent()
     };
 
-
+    //Get all images from endpoint
     getImages = () => {
-      const { subreddits } = this.state
       var images = []
-      console.log("here")
-      console.log(subreddits)
-      const test = Object.entries(subreddits).map(([key,values], index) => {
-        console.log("here2")
+      Object.entries(this.state.subreddits).map(([key,values], index) => {
         axios.get(endpoint + "/img/" + key).then((response) => {
-          console.log(response.data)
     
           //Use image
           if(response.data != ""){
             images.push(response.data)
           } else {
+            //Generic image
             images.push("https://www.w3schools.com/w3css/img_lights.jpg")
           }
           
           console.log(images)
         });
-    });
-  }
+      });
+
+      this.setState({paperImgs: images});
+
+   }
 
 
 
