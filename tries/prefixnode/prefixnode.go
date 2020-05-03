@@ -31,10 +31,10 @@ func (node PrefixNode) NumUsers() int {
 	return len(node.Users)
 }
 
-//find child in parent node
-func (node PrefixNode) HasChild(child *PrefixNode) bool {
+//HasChild if node has child with given rune value
+func (node PrefixNode) HasChild(char rune) bool {
 
-	_, found := node.Children[child.Char]
+	_, found := node.Children[char]
 
 	if found {
 		return true
@@ -42,14 +42,23 @@ func (node PrefixNode) HasChild(child *PrefixNode) bool {
 	return false
 }
 
-//Add node
+//AddChild Node to parents children
 func (node PrefixNode) AddChild(child *PrefixNode) bool {
 
-	if node.HasChild(child) {
+	if node.HasChild(child.Char) {
 		return false
 	}
 	//Add Node
 	node.Children[child.Char] = child
 
 	return true
+}
+
+//GetChild Returns a pointer to child object
+func (node PrefixNode) GetChild(char rune) *PrefixNode {
+	if node.HasChild(char) {
+		return node.Children[char]
+	}
+
+	return nil
 }
