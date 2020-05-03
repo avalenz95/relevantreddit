@@ -26,23 +26,23 @@ func TestNew(t *testing.T) {
 		node := prefixnode.New(test.char)
 
 		//Check Character
-		if node.Char != test.char {
-			t.Errorf("Expected Character: %c, got %c instead.", test.char, node.Char)
+		if node.GetChar() != test.char {
+			t.Errorf("Expected Character: %c, got %c instead.", test.char, node.GetChar())
 		}
 
 		//Check Terminal
-		if node.Terminal != false {
-			t.Errorf("Expected Terminal Value: %v, got %v  instead.", false, node.Terminal)
+		if node.IsTerminal() != false {
+			t.Errorf("Expected Terminal Value: %v, got %v  instead.", false, node.IsTerminal())
 		}
 
 		//Check Children Node length
-		if len(node.Children) != 0 {
-			t.Errorf("Expected children nodes of length %v, instead got length %v.", 0, len(node.Children))
+		if len(node.GetChildren()) != 0 {
+			t.Errorf("Expected children nodes of length %v, instead got length %v.", 0, len(node.GetChildren()))
 		}
 
 		//Check count of users
-		if len(node.Users) != 0 {
-			t.Errorf("Expected users number of users %v, found %v users instead.", 0, len(node.Users))
+		if len(node.GetUsers()) != 0 {
+			t.Errorf("Expected users number of users %v, found %v users instead.", 0, len(node.GetUsers()))
 		}
 
 	}
@@ -102,4 +102,10 @@ func TestGetChild(t *testing.T) {
 		t.Errorf("Expected nil value, got %v instead", result1)
 	}
 
+}
+
+func TestAddUser(t *testing.T) {
+	node := prefixnode.New('a')
+
+	node.AddUser("Test")
 }
