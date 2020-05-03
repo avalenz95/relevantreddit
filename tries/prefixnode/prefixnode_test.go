@@ -83,3 +83,23 @@ func TestAddChild(t *testing.T) {
 		t.Errorf("Expected insertion to be invalid for %v", child1)
 	}
 }
+
+func TestGetChild(t *testing.T) {
+	node := prefixnode.New('a')
+	//Insert child
+	child := prefixnode.New('b')
+	node.AddChild(&child)
+
+	//
+	result := node.GetChild('b')
+	if result != &child {
+		t.Errorf("Expected return of prefix node %v. Instead got value, %v", child, result)
+	}
+
+	//
+	result1 := node.GetChild('c')
+	if result1 != nil {
+		t.Errorf("Expected nil value, got %v instead", result1)
+	}
+
+}
