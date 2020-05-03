@@ -1,40 +1,40 @@
 package prefixnode
 
-//PrefixNode in the trie
-type PrefixNode struct {
+//Node in the trie
+type Node struct {
 	char     rune
 	terminal bool
-	children map[rune]*PrefixNode
+	children map[rune]*Node
 	users    []string
 }
 
-//New creates a node with character and terminal value
-func New(char rune) PrefixNode {
+//New creates a n with character and terminal value
+func New(char rune) Node {
 
-	node := PrefixNode{
+	n := Node{
 		char,
 		false,
-		make(map[rune]*PrefixNode),
+		make(map[rune]*Node),
 		make([]string, 0, 0),
 	}
 
-	return node
+	return n
 }
 
-//IsTerminal checks to see if current node is the end of a word
-func (node PrefixNode) IsTerminal() bool {
-	return node.terminal
+//IsTerminal checks to see if current n is the end of a word
+func (n Node) IsTerminal() bool {
+	return n.terminal
 }
 
-//GetChar associated with node
-func (node PrefixNode) GetChar() rune {
-	return node.char
+//GetChar associated with n
+func (n Node) GetChar() rune {
+	return n.char
 }
 
-//HasChild if node has child with given rune value
-func (node PrefixNode) HasChild(char rune) bool {
+//HasChild if n has child with given rune value
+func (n Node) HasChild(char rune) bool {
 
-	_, found := node.children[char]
+	_, found := n.children[char]
 
 	if found {
 		return true
@@ -43,37 +43,37 @@ func (node PrefixNode) HasChild(char rune) bool {
 }
 
 //AddChild Node to parents children
-func (node PrefixNode) AddChild(child *PrefixNode) bool {
+func (n Node) AddChild(child *Node) bool {
 
-	if node.HasChild(child.char) {
+	if n.HasChild(child.char) {
 		return false
 	}
 	//Add Node
-	node.children[child.char] = child
+	n.children[child.char] = child
 
 	return true
 }
 
 //GetChild Returns a pointer to child object
-func (node PrefixNode) GetChild(char rune) *PrefixNode {
-	if node.HasChild(char) {
-		return node.children[char]
+func (n Node) GetChild(char rune) *Node {
+	if n.HasChild(char) {
+		return n.children[char]
 	}
 
 	return nil
 }
 
-//GetChildren of a given node
-func (node PrefixNode) GetChildren() map[rune]*PrefixNode {
-	return node.children
+//GetChildren of a given n
+func (n Node) GetChildren() map[rune]*Node {
+	return n.children
 }
 
 //AddUser at a terminal point
-func (node PrefixNode) AddUser(name string) {
-	node.users = append(node.users, name)
+func (n Node) AddUser(name string) {
+	n.users = append(n.users, name)
 }
 
-//GetUsers for a given node
-func (node PrefixNode) GetUsers() []string {
-	return node.users
+//GetUsers for a given n
+func (n Node) GetUsers() []string {
+	return n.users
 }
