@@ -49,7 +49,7 @@ func TestNew(t *testing.T) {
 
 }
 
-func TestIsTerminal(t *testing.T) {
+/*func TestIsTerminal(t *testing.T) {
 
 	node := prefixnode.New('a')
 
@@ -65,7 +65,7 @@ func TestIsTerminal(t *testing.T) {
 		t.Errorf("Expected Terminal Value: %v, got %v  instead.", true, node.Terminal)
 	}
 
-}
+}*/
 
 func TestAddChild(t *testing.T) {
 	node := prefixnode.New('a')

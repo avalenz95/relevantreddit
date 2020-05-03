@@ -16,7 +16,7 @@ func New(char rune) PrefixNode {
 	return node
 }
 
-//checks to see if  current node is terminal
+/*//checks to see if  current node is terminal
 func (node PrefixNode) isTerminal() bool {
 	return node.Terminal
 }
@@ -24,11 +24,14 @@ func (node PrefixNode) isTerminal() bool {
 //returns number of child nodes
 func (node PrefixNode) NumChildren() int {
 	return len(node.Children)
-}
+}*/
 
-//returns number of users associated with a node
+//NumUsers returns number of users associated with a terminal node
 func (node PrefixNode) NumUsers() int {
-	return len(node.Users)
+	if node.Terminal {
+		return len(node.Users)
+	}
+	return 0
 }
 
 //HasChild if node has child with given rune value
