@@ -22,17 +22,17 @@ func (node PrefixNode) isTerminal() bool {
 }
 
 //returns number of child nodes
-func (node PrefixNode) numChildren() int {
+func (node PrefixNode) NumChildren() int {
 	return len(node.Children)
 }
 
 //returns number of users associated with a node
-func (node PrefixNode) numUsers() int {
+func (node PrefixNode) NumUsers() int {
 	return len(node.Users)
 }
 
 //find child in parent node
-func (node PrefixNode) hasChild(child *PrefixNode) bool {
+func (node PrefixNode) HasChild(child *PrefixNode) bool {
 
 	_, found := node.Children[child.Char]
 
@@ -43,9 +43,9 @@ func (node PrefixNode) hasChild(child *PrefixNode) bool {
 }
 
 //Add node
-func (node PrefixNode) addChild(child *PrefixNode) bool {
+func (node PrefixNode) AddChild(child *PrefixNode) bool {
 
-	if node.hasChild(child) {
+	if node.HasChild(child) {
 		return false
 	}
 	//Add Node

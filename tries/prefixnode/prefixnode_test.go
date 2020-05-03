@@ -49,7 +49,7 @@ func TestNew(t *testing.T) {
 
 }
 
-func TestisTerminal(t *testing.T) {
+func TestIsTerminal(t *testing.T) {
 
 	node := prefixnode.New('a')
 
@@ -65,4 +65,21 @@ func TestisTerminal(t *testing.T) {
 		t.Errorf("Expected Terminal Value: %v, got %v  instead.", true, node.Terminal)
 	}
 
+}
+
+func TestAddChild(t *testing.T) {
+	node := prefixnode.New('a')
+	//Insert child
+	child := prefixnode.New('b')
+	result := node.AddChild(&child)
+	if result != true {
+		t.Errorf("Expected insertion of %v and return value of true.", child)
+	}
+
+	//Test duplicate insertion
+	child1 := prefixnode.New('b')
+	result1 := node.AddChild(&child1)
+	if result1 != false {
+		t.Errorf("Expected insertion to be invalid for %v", child1)
+	}
 }
