@@ -12,10 +12,10 @@ type Node struct {
 func New(char rune) Node {
 
 	n := Node{
-		char,
-		false,
-		make(map[rune]*Node),
-		make([]string, 0, 0),
+		char:     char,
+		terminal: false,
+		children: make(map[rune]*Node),
+		users:    make([]string, 0, 0),
 	}
 
 	return n
