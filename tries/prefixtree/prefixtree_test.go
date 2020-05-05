@@ -24,3 +24,9 @@ func TestNew(t *testing.T) {
 	}
 
 }
+
+func TestInsertKeyword(t *testing.T) {
+	tree := prefixtree.New("Test")
+
+	tree.InsertKeyword("apple", "becky")
+}

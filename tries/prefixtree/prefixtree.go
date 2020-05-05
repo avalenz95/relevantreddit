@@ -1,6 +1,7 @@
 package prefixtree
 
 import (
+	"fmt"
 	"rr/tries/prefixnode"
 )
 
@@ -28,39 +29,36 @@ func New(name string) PrefixTree {
 func (tree PrefixTree) InsertKeyword(word string, userName string) {
 	node := tree.root
 
-	for index, char := range word {
+	for _, char := range word {
 		//Node does not have child with character
 		if !node.HasChild(char) {
 			child := prefixnode.New(char)
 			node.AddChild(&child)
+			fmt.Printf("%v \n", node)
 			tree.size++
 		}
 
 		//Child already exists advance pointer
 		node = node.GetChild(char)
-
-		//End of word add username to word
-		if index == len(word)-1 {
-			node.AddUser(userName)
-		}
-
 	}
+	fmt.Printf("%v \n", node)
+	fmt.Printf("%c \n", node.GetChar())
+	node.AddUser(userName)
+	fmt.Println(node.GetUsers())
 
 }
 
 //Contains returns list of users associated with word
-func (tree PrefixTree) Contains(word string) []string {
+func (tree PrefixTree) Contains(word string) map[string]struct{} {
 	node := tree.root
 
 	//Loop until end of word is hit
 	for _, char := range word {
 		if node.HasChild(char) {
 			node = node.GetChild(char)
-		} else {
-			return nil
 		}
 	}
-
+	fmt.Printf("%v", node.GetUsers())
 	return node.GetUsers()
 }
 
