@@ -21,6 +21,11 @@ func New(char rune) Node {
 	return n
 }
 
+//Set node to terminal status(end of word)
+func (n Node) SetTerminal() {
+	n.terminal = true
+}
+
 //IsTerminal checks to see if current n is the end of a word
 func (n Node) IsTerminal() bool {
 	return n.terminal
