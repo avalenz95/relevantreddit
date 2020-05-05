@@ -25,7 +25,7 @@ func New(name string) PrefixTree {
 }
 
 //TODO: Replace USER STRING WITH USER OBJECT
-func (tree PrefixTree) insertKeyword(word string, userName string) {
+func (tree PrefixTree) InsertKeyword(word string, userName string) {
 	node := tree.root
 
 	for index, char := range word {
@@ -49,7 +49,7 @@ func (tree PrefixTree) insertKeyword(word string, userName string) {
 }
 
 //checks if a word is contained and returns list of users associated with word
-func (tree PrefixTree) contains(word string) []string {
+func (tree PrefixTree) Contains(word string) []string {
 	node := tree.root
 
 	//Loop until end of word is hit
@@ -65,15 +65,15 @@ func (tree PrefixTree) contains(word string) []string {
 }
 
 //Getters and setters
-func (tree PrefixTree) getName() string {
+func (tree PrefixTree) GetName() string {
 	return tree.name
 }
 
-func (tree PrefixTree) getSize() int {
+func (tree PrefixTree) GetSize() int {
 	return tree.size
 }
 
 //Testing purposes
-func (tree PrefixTree) getRoot() *prefixnode.Node {
+func (tree PrefixTree) GetRoot() *prefixnode.Node {
 	return tree.root
 }
