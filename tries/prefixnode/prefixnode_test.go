@@ -30,11 +30,6 @@ func TestNew(t *testing.T) {
 			t.Errorf("Expected Character: %c, got %c instead.", test.char, node.GetChar())
 		}
 
-		//Check Terminal
-		if node.IsTerminal() != false {
-			t.Errorf("Expected Terminal Value: %v, got %v  instead.", false, node.IsTerminal())
-		}
-
 		//Check Children Node length
 		if len(node.GetChildren()) != 0 {
 			t.Errorf("Expected children nodes of length %v, instead got length %v.", 0, len(node.GetChildren()))
@@ -48,24 +43,6 @@ func TestNew(t *testing.T) {
 	}
 
 }
-
-/*func TestIsTerminal(t *testing.T) {
-
-	node := prefixnode.New('a')
-
-	//Check Terminal
-	if node.Terminal != false {
-		t.Errorf("Expected Terminal Value: %v, got %v  instead.", false, node.Terminal)
-	}
-
-	node.Terminal = true
-
-	//Check Terminal
-	if node.Terminal != true {
-		t.Errorf("Expected Terminal Value: %v, got %v  instead.", true, node.Terminal)
-	}
-
-}*/
 
 func TestAddChild(t *testing.T) {
 	node := prefixnode.New('a')

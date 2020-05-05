@@ -3,7 +3,6 @@ package prefixnode
 //Node in the trie
 type Node struct {
 	char     rune
-	terminal bool
 	children map[rune]*Node
 	users    []string
 }
@@ -13,22 +12,11 @@ func New(char rune) Node {
 
 	n := Node{
 		char:     char,
-		terminal: false,
 		children: make(map[rune]*Node),
-		users:    make([]string, 0, 0),
+		users:    nil,
 	}
 
 	return n
-}
-
-//Set node to terminal status(end of word)
-func (n Node) SetTerminal() {
-	n.terminal = true
-}
-
-//IsTerminal checks to see if current n is the end of a word
-func (n Node) IsTerminal() bool {
-	return n.terminal
 }
 
 //GetChar associated with n

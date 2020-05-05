@@ -23,7 +23,7 @@ func New() PrefixTree {
 	return tree
 }
 
-//TODO: Replace USER STRING WIHT USER OBJECT
+//TODO: Replace USER STRING WITH USER OBJECT
 func (tree PrefixTree) insertKeyword(word string, userName string) {
 	node := tree.root
 
@@ -32,6 +32,7 @@ func (tree PrefixTree) insertKeyword(word string, userName string) {
 		if !node.HasChild(char) {
 			child := prefixnode.New(char)
 			node.AddChild(&child)
+			tree.size++
 		}
 
 		//Child already exists advance pointer
@@ -39,9 +40,23 @@ func (tree PrefixTree) insertKeyword(word string, userName string) {
 
 		//End of word add username to word
 		if index == len(word)-1 {
-			node.SetTerminal()
 			node.AddUser(userName)
+		}
+
+	}
+
+}
+
+//checks if a word is contained and returns list of users associated with word
+func (tree PrefixTree) contains(word string) []string {
+	node := tree.root
+
+	//Loop until end of word is hit
+	for _, char := range word {
+		if node.HasChild(char) {
+			node = node.GetChild(char)
 		}
 	}
 
+	return node.GetUsers()
 }
