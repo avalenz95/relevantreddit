@@ -24,7 +24,7 @@ func New(name string) PrefixTree {
 	return tree
 }
 
-//TODO: Replace USER STRING WITH USER OBJECT
+//InsertKeyword TODO: Replace USER STRING WITH USER OBJECT
 func (tree PrefixTree) InsertKeyword(word string, userName string) {
 	node := tree.root
 
@@ -48,7 +48,7 @@ func (tree PrefixTree) InsertKeyword(word string, userName string) {
 
 }
 
-//checks if a word is contained and returns list of users associated with word
+//Contains returns list of users associated with word
 func (tree PrefixTree) Contains(word string) []string {
 	node := tree.root
 
@@ -65,15 +65,18 @@ func (tree PrefixTree) Contains(word string) []string {
 }
 
 //Getters and setters
+
+//GetName returns the name of the tree
 func (tree PrefixTree) GetName() string {
 	return tree.name
 }
 
+//GetSize returns size of current tree
 func (tree PrefixTree) GetSize() int {
 	return tree.size
 }
 
-//Testing purposes
+//GetRoot returns rootnode in a tree
 func (tree PrefixTree) GetRoot() *prefixnode.Node {
 	return tree.root
 }
