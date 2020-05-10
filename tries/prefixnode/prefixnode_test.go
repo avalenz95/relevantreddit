@@ -1,6 +1,7 @@
 package prefixnode_test
 
 import (
+	"fmt"
 	"rr/tries/prefixnode"
 	"testing"
 )
@@ -37,7 +38,7 @@ func TestNew(t *testing.T) {
 
 		//Check count of users
 		if len(node.GetUsers()) != 0 {
-			t.Errorf("Expected users number of users %v, found %v users instead.", 0, len(node.GetUsers()))
+			t.Errorf("Expected users number of users %v, found %v users instead.", 0, node.GetUsers())
 		}
 
 	}
@@ -79,10 +80,23 @@ func TestGetChild(t *testing.T) {
 		t.Errorf("Expected nil value, got %v instead", result1)
 	}
 
+	node = child
+	child1 := prefixnode.New('c')
+	node.AddChild(&child1)
+
+	result2 := node.GetChild('c')
+	if result2 != &child1 {
+		t.Errorf("Expected node, got %v instead", result2)
+	}
+
 }
 
 func TestAddUser(t *testing.T) {
 	node := prefixnode.New('a')
 
 	node.AddUser("Test")
+	fmt.Print("hello")
+	t.Log("Hello")
+	t.Log(node.GetUsers())
+
 }

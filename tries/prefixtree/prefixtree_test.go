@@ -29,4 +29,6 @@ func TestInsertKeyword(t *testing.T) {
 	tree := prefixtree.New("Test")
 
 	tree.InsertKeyword("apple", "becky")
+
+	print(tree.Contains("apple"))
 }

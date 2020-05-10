@@ -78,3 +78,25 @@ func (tree PrefixTree) GetSize() int {
 func (tree PrefixTree) GetRoot() *prefixnode.Node {
 	return tree.root
 }
+
+func (tree PrefixTree) printTrie() []string {
+	var words []string
+
+	//traverse through a tree
+	tree.traverse(tree.root, "", &words)
+
+	return words
+
+}
+
+//traverse the tree
+func (tree PrefixTree) traverse(node *prefixnode.Node, currentString string, list *[]string) {
+	if len(node.GetUsers()) > 0 {
+		*list = append(*list, currentString)
+	}
+
+	//recursively traverse children
+	for _, n := range node.GetChildren() {
+		tree.traverse(n, currentString+string(n.GetChar()), list)
+	}
+}
