@@ -2,8 +2,9 @@ package prefixtree_test
 
 import (
 	"fmt"
-	"rr/tries/prefixtree"
 	"testing"
+
+	"github.com/ablades/relevantreddit/tries/prefixtree"
 )
 
 func TestNew(t *testing.T) {

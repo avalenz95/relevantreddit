@@ -2,7 +2,8 @@ package prefixtree
 
 import (
 	"fmt"
-	"rr/tries/prefixnode"
+
+	"github.com/ablades/relevantreddit/tries/prefixnode"
 )
 
 //PrefixTree for nodes

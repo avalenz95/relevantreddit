@@ -1,6 +1,13 @@
 package main
 
-import "go.mongodb.org/mongo-driver/bson/primitive"
+import (
+	"go.mongodb.org/mongo-driver/bson/primitive"
+)
+
+//Tries for all subreddits
+type SubredditTries struct {
+	subreddits map[string][]tries.prefix
+}
 
 //UserProfile that goes into DB
 type UserProfile struct {
