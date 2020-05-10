@@ -1,12 +1,13 @@
 package main
 
 import (
+	"github.com/ablades/relevantreddit/tries/prefixtree"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
 //Tries for all subreddits
 type SubredditTries struct {
-	subreddits map[string][]tries.prefix
+	subreddits map[string][]prefixtree.PrefixTree
 }
 
 //UserProfile that goes into DB
