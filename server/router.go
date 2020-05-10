@@ -18,6 +18,9 @@ func router() *mux.Router {
 
 	route.HandleFunc("/img/r/{subreddit}", getSubredditImg).Methods("GET", "OPTIONS") //route for pulling subreddit image
 
+	//User wants to add a word
+	//User wants to delete a word
+
 	return route
 
 }
