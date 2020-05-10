@@ -79,7 +79,7 @@ func (tree PrefixTree) GetRoot() *prefixnode.Node {
 	return tree.root
 }
 
-func (tree PrefixTree) printTrie() []string {
+func (tree PrefixTree) PrintTrie() []string {
 	var words []string
 
 	//traverse through a tree
@@ -91,6 +91,7 @@ func (tree PrefixTree) printTrie() []string {
 
 //traverse the tree
 func (tree PrefixTree) traverse(node *prefixnode.Node, currentString string, list *[]string) {
+	//if users then we've hit a terminal character
 	if len(node.GetUsers()) > 0 {
 		*list = append(*list, currentString)
 	}
