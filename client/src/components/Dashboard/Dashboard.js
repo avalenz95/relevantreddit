@@ -1,7 +1,7 @@
 import React , {useState} from 'react'
 import axios from 'axios'
-import Cookies from 'js-cookie'
 import Grid from '../Grid/Grid.js'
+
 
 function Dashboard(props) {
     const {userName, endpoint} = props

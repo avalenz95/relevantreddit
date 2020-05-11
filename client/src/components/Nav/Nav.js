@@ -1,13 +1,15 @@
-import React, {useState}from 'react'
+import React from 'react'
 import axios from 'axios'
 import Cookies from 'js-cookie'
+import usePersistedState from '../../state'
 
 //Navigation for website
 function Nav(props) {
 
     const {endpoint, userName, onChange} = props
 
-    const [auth, setAuth] = useState(false);
+    const [auth, setAuth] = usePersistedState("auth", false)
+    //const [auth, setAuth] = useState(false);
 
     //Handle the user getting a name
     function handleName(event) {
@@ -20,12 +22,13 @@ function Nav(props) {
     function onAuth (event) {
         axios.get(endpoint + "/r/login").then((response) => {
             console.log(response)
-            setAuth(true)
             //Redirect user
-            window.location.replace(response.request.responseURL)
-            //Get username
-            handleName(event)
-        })
+            window.location.assign(response.request.responseURL);
+            //window.open(response.request.responseURL, '_blank');
+        }).then(
+            handleName(event),
+            setAuth(true)
+            )
     } 
 
     return (
