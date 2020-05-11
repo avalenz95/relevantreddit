@@ -2,7 +2,12 @@ import React from 'react'
 import './Card.css'
 
 function Card(props) {
-    const {name, imgUrl, keywords} = props
+    const {subName, imgUrl, keywords} = props
+    let style = {
+        card: {
+            backgroundImage: `url(${imgUrl})`,
+        }
+    }
 
     let tags = []
 
@@ -14,11 +19,10 @@ function Card(props) {
 
     return (
         //Card content
-        <div className="card">
-            <img src={imgUrl} alt="img" />
+        <div className="card" style={style.card}>
             <div className="container">
                 
-                <h4><b>{name}</b></h4>
+                <h4><b>{subName}</b></h4>
 
                 <div>
                     {tags}
