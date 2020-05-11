@@ -1,10 +1,12 @@
 import React from 'react'
 import axios from 'axios'
+import Cookies from 'js-cookie'
 
 //Navigation for website
 function Nav(props) {
 
     const {endpoint} = props
+    let userName = ""
     let isAuthenticated = false
 
     //Authentication request
@@ -14,13 +16,15 @@ function Nav(props) {
             //Redirect user
             window.location.replace(response.request.responseURL)
             isAuthenticated = true
+            //Get username
+            userName = Cookies.get("username")
         })
     } 
 
     return (
         <nav className="navbar">
             {isAuthenticated ? 
-            <span>Welcome!</span> 
+            <span>Welcome! {userName}</span> 
             : 
             <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
             }
