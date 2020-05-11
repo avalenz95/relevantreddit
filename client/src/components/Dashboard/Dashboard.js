@@ -23,9 +23,7 @@ function Dashboard() {
         <div className="dashboard">
             <Grid
                 endpoint={endpoint}
-                userName={userName}
                 subreddits={subreddits}
-
             />
         </div>
     )
