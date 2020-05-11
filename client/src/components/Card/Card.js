@@ -8,14 +8,12 @@ function Card(props) {
 
     const [word, setWord] = useState("")
 
+    let tags = []
 
     let style = {
         container: {
         }
     }
-
-    //List of keyword buttons
-    let tags = []
     //Add button for each keyword
     for (var i = 0; i < keywords.length; i++) {
         tags.push(
@@ -27,7 +25,8 @@ function Card(props) {
     function handleSubmit(event) {
         event.preventDefault()
         axios.get(`${endpoint}/add/${subName}/${userName}/${word}`).then(response => {
-            console.log(response);
+            console.log(response)
+            window.location.reload(true)
         })
     }
 
@@ -37,8 +36,7 @@ function Card(props) {
             <div className="container" style={style.container}>
                 
                 <h4><b>{subName}</b></h4>
-
-                <div>{tags}</div>
+                {tags}
 
                 <form onSubmit={handleSubmit}>
                     <label> Add New Keyword: 
