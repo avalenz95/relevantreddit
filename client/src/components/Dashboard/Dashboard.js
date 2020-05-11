@@ -2,6 +2,7 @@ import React, {Component} from "react"
 import axios from "axios"
 import Cookies from 'js-cookie'
 import Grid from '../Grid/Grid.js'
+import Nav from '../Nav/Nav.js'
 
 const  endpoint = "http://localhost:8080"
 
@@ -26,10 +27,11 @@ class Dashboard extends Component {
         let userName = Cookies.get("username")
 
         if (userName) {
-            this.setState({userName: {userName}})
+            this.setState({userName: userName})
             axios.get(endpoint + "/user/" + userName).then(response => {
                 console.log(response);
                 console.log("endpoint reached")
+                this.setState({subreddits: response.data.subreddits})
             })
         }
     }
@@ -37,11 +39,17 @@ class Dashboard extends Component {
     render() {
         return (
             <div className="dashboard">
-                <Grid
-                    endpoint={endpoint}
-                    subreddits={this.state.subreddits}
-                    userName={this.state.userName}
-                />
+
+            <Nav
+                endpoint={endpoint} 
+                userName={this.state.userName}
+            />
+                
+            <Grid
+                endpoint={endpoint}
+                subreddits={this.state.subreddits}
+                userName={this.state.userName}
+            />
             </div>
         )
     }
