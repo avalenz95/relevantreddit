@@ -1,34 +1,50 @@
-import React , {useState} from 'react'
-import axios from 'axios'
+import React, {Component} from "react"
+import axios from "axios"
+import Cookies from 'js-cookie'
 import Grid from '../Grid/Grid.js'
 
+const  endpoint = "http://localhost:8080"
 
-function Dashboard(props) {
-    const {userName, endpoint} = props
-    //Gets the users reddit content from db
-    //let userName = Cookies.get("username")
-    //const [userName, setName] = useState("")
-    let [subreddits, setSubs] = useState(null)
+class Dashboard extends Component {
+    constructor(props){
+        super(props)
 
-
-//figure out a way to make sure this doesnt happen every single time the dashboard loads
-    if (userName) {
-        axios.get(endpoint + "/user/" + userName).then(response => {
-            console.log(response)
-            console.log("endpoint reached")
-            setSubs(response.data.subreddits)
-        })
+        this.state = {
+            subreddits: {},
+            userName: ""
+        }
     }
 
-    return(
-        <div className="dashboard">
-            <Grid
-                endpoint={endpoint}
-                subreddits={subreddits}
-                userName={userName}
-            />
-        </div>
-    )
+    //Check if component is active
+    componentDidMount() {
+        this.getContent()
+    }
+
+    //Get a users content
+    getContent() {
+
+        let userName = Cookies.get("username")
+
+        if (userName) {
+            this.setState({userName: {userName}})
+            axios.get(endpoint + "/user/" + userName).then(response => {
+                console.log(response);
+                console.log("endpoint reached")
+            })
+        }
+    }
+
+    render() {
+        return (
+            <div className="dashboard">
+                <Grid
+                    endpoint={endpoint}
+                    subreddits={this.state.subreddits}
+                    userName={this.state.userName}
+                />
+            </div>
+        )
+    }
 }
 
-export default Dashboard
+export default Dashboard;
