@@ -1,29 +1,36 @@
-import React from 'react'
+import React, {useState}from 'react'
 import axios from 'axios'
 import Cookies from 'js-cookie'
 
 //Navigation for website
 function Nav(props) {
 
-    const {endpoint} = props
-    let userName = ""
-    let isAuthenticated = false
+    const {endpoint, userName, onChange} = props
+
+    const [auth, setAuth] = useState(false);
+
+    //Handle the user getting a name
+    function handleName(event) {
+        event.target.userName = Cookies.get("username")
+
+        onChange(event.target.userName)
+    }
 
     //Authentication request
-    function onAuth () {
+    function onAuth (event) {
         axios.get(endpoint + "/r/login").then((response) => {
             console.log(response)
+            setAuth(true)
             //Redirect user
             window.location.replace(response.request.responseURL)
-            isAuthenticated = true
             //Get username
-            userName = Cookies.get("username")
+            handleName(event)
         })
     } 
 
     return (
         <nav className="navbar">
-            {isAuthenticated ? 
+            {auth ? 
             <span>Welcome! {userName}</span> 
             : 
             <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
