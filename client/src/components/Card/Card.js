@@ -1,8 +1,10 @@
 import React, {useState} from 'react'
+import axios from "axios"
 import './Card.css'
 
 function Card(props) {
-    const {subName, imgUrl, keywords} = props
+    // eslint-disable-next-line no-unused-vars
+    const {subName, imgUrl, keywords, endpoint, userName} = props
 
     const [word, setWord] = useState("")
 
@@ -17,12 +19,16 @@ function Card(props) {
     //Add button for each keyword
     for (var i = 0; i < keywords.length; i++) {
         tags.push(
-            <button>{keywords[i]}</button>
+            <button key={`${keywords[i]}`}>{keywords[i]}</button>
         )
     }
 
+    //call api with keyword and users name along with the subreddit
     function handleSubmit(event) {
         event.preventDefault()
+        axios.get(`${endpoint}/add/${subName}/${userName}/${word}`).then(response => {
+            console.log(response);
+        })
     }
 
     return (
@@ -32,15 +38,15 @@ function Card(props) {
                 
                 <h4><b>{subName}</b></h4>
 
-                <div>
-                    {tags}
-                </div>
+                <div>{tags}</div>
+
                 <form onSubmit={handleSubmit}>
                     <label> Add New Keyword: 
                         <input type="text" value={word} onChange={event => setWord(event.target.value)}/>
                     </label>
                     <input type="submit" value="Submit" />
                 </form>
+
             </div>
         </div>
         

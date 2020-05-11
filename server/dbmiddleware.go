@@ -73,7 +73,7 @@ func getContent(userName string) UserProfile {
 		log.Fatal(err)
 	}
 
-	//loop over all subreddits and content
+	//loop over all subreddits and content just a test TODO:REMOVE
 	for key, element := range userProfile.Subreddits {
 		fmt.Println("Key:", key, "=>", "Element:", element)
 	}
@@ -82,19 +82,15 @@ func getContent(userName string) UserProfile {
 }
 
 //Update keywords in database
-func updateKeywords(userName string, subreddit string, newWords []string) {
-
+func updateKeywords(userName string, subreddit string, newWord string) {
 	filter := findUser(userName)
-	key := fmt.Sprintf("subreddits.%s", subreddit)
+	key := fmt.Sprintf("subreddits.r/%s", subreddit)
 
 	//Add all words to array
-	for _, word := range newWords {
-		update := bson.D{{"$addToSet", bson.D{{key, word}}}}
+	update := bson.D{{"$addToSet", bson.D{{key, newWord}}}}
 
-		fmt.Printf("%s ---> %s \n", word, subreddit)
-		collection.UpdateOne(context.Background(), filter, update)
-	}
-
+	fmt.Printf("%s ---> %s \n", newWord, subreddit)
+	collection.UpdateOne(context.Background(), filter, update)
 }
 
 //Remove keyword from the database

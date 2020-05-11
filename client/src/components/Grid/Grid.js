@@ -6,7 +6,7 @@ import './Grid.css'
 
 
 function Grid(props) {
-    const {endpoint, subreddits} = props
+    const {endpoint, subreddits, userName} = props
     const cards = []
 
     if (subreddits) {
@@ -24,9 +24,11 @@ function Grid(props) {
                 //pass image as prop to card along with subreddits ect.
                 <Card 
                     key={index} 
+                    userName={userName}
                     subName={subName} 
                     keywords={keywords} 
-                    imgUrl={imgUrl} 
+                    imgUrl={imgUrl}
+                    endpoint={endpoint}
                 />
             )
         })

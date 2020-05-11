@@ -10,6 +10,15 @@ import (
 	"github.com/gorilla/mux"
 )
 
+func addKeyword(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	params := mux.Vars(r)
+	fmt.Println("Got keyword: ", params["keyword"], "for subreddit: ", params["subreddit"], " and user: ", params["username"])
+
+	updateKeywords(params["username"], params["subreddit"], params["keyword"])
+}
+
 //get user content from db
 func getUserContent(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")

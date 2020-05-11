@@ -1,6 +1,5 @@
-import React from 'react';
-import './App.css';
-import Nav from './components/Nav/Nav.js'
+import React from 'react'
+import './App.css'
 import Dashboard from './components/Dashboard/Dashboard.js'
 
 
@@ -13,7 +12,7 @@ function App() {
       <div className="App">
         <Dashboard endpoint={ep}/>
       </div>
-  );
+  )
 }
 
-export default App;
+export default App
