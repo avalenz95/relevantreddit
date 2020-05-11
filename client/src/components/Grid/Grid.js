@@ -5,14 +5,29 @@ import Cookies from 'js-cookie'
 function Grid(props) {
     const {endpoint, subreddits} = props
 
-    Object.entries(subreddits).map(([key, values], index) => {
+    Object.entries(subreddits).map(([name, keywords], index) => {
         //BUILD CARD HERE CARD.JS image, content exect
+        let imgUrl = ""
 
-        axios.get(endpoint + "/img/" + key).then((response) =>{
-            //response.data is the image url img = response.data
+        axios.get(endpoint + "/img/" + name).then((response) =>{
+            imgUrl = response.data
         })
 
+        <Card
+            imgUrl={imgUrl},
+            
+        />
         //pass image as prop to card along with subreddits ect.
 
     })
+
+
+
+    return (
+        <div className="grid">
+
+        </div>
+    )
 }
+
+export default Grid
