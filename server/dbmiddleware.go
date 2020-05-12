@@ -2,8 +2,10 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"log"
+	"net/http"
 
 	"github.com/ablades/relevantreddit/tries/prefixtree"
 	"go.mongodb.org/mongo-driver/bson"
@@ -37,7 +39,7 @@ func init() {
 
 	users = client.Database("test").Collection("Users")
 
-	tries = client.Database("test").Collection("SubTries")
+	tries = client.Database("test").Collection("Tries")
 
 	fmt.Println("Connected to Collections: Users  and Tries")
 
@@ -58,14 +60,15 @@ func createTrie(name string) *mongo.SingleResult {
 		tree:    tree,
 	}
 
+	//Insert into DB
 	inserted, err := tries.InsertOne(context.Background(), trie)
 	if err != nil {
 		fmt.Printf("Failed to insert trie %+v  \n", trie)
 		log.Fatal(err)
 	}
 
+	//Get and return recent insert
 	query := tries.FindOne(context.Background(), inserted.InsertedID)
-
 	return query
 
 }
@@ -82,6 +85,50 @@ func findTrie(name string) *mongo.SingleResult {
 	fmt.Printf("Trie: %s found. %v \n", name, query)
 
 	return query
+}
+
+//Add new word to trie in db
+func addToTrie(name string, keyword string, username string, triePtr *mongo.SingleResult) {
+
+	var trie SubTrie
+	//Decode db result into trie
+	triePtr.Decode(&trie)
+
+	//Insert word into trie
+	trie.tree.InsertKeyword(keyword, name)
+
+	//replace trie structure with new one
+	tries.ReplaceOne(context.Background(), bson.M{"subname": name}, trie)
+
+}
+
+// get subreddit image from about section add it TODO: HAVE IT SERVE AS AN UPDATE FUNCTION
+func addSubBanner(subname string) {
+	//Set up request
+	url := fmt.Sprintf("https://www.reddit.com/r/%s/about.json", subname)
+	request, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+
+	content := sendRequest(request)
+
+	var as = aboutSubreddit{}
+	json.Unmarshal(content, &as)
+	fmt.Printf("Banner URL: %s \n", as.Data.BannerImg)
+
+	//Find and decode trie
+	var trie SubTrie
+	triePtr := findTrie(subname)
+	triePtr.Decode(&trie)
+	//Add image to trie
+	trie.bannerURL = as.Data.BannerImg
+
+	//replace trie structure with new updated one
+	tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
+
 }
 
 //Insert user into DB
