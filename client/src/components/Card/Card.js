@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import axios from "axios"
 import './Card.css'
 
@@ -7,27 +7,34 @@ function Card(props) {
     const {subName, imgUrl, keywords, endpoint, userName} = props
 
     const [word, setWord] = useState("")
-
-    let tags = []
+    const [tags, setTags] = useState([])
 
     let style = {
         container: {
         }
     }
-    //Add button for each keyword
-    for (var i = 0; i < keywords.length; i++) {
-        tags.push(
-            <button key={`${keywords[i]}`}>{keywords[i]}</button>
-        )
-    }
 
+    useEffect(() => {
+        let words = []
+        for (var i = 0; i < keywords.length; i++) {
+            words.push(
+                <button key={`${keywords[i]}`}>{keywords[i]}</button>
+            )
+        }
+
+        setTags(words)
+        
+        }, [keywords])
+    
     //call api with keyword and users name along with the subreddit
     function handleSubmit(event) {
         event.preventDefault()
         axios.get(`${endpoint}/add/${subName}/${userName}/${word}`).then(response => {
             console.log(response)
-            window.location.reload(true)
         })
+
+        tags.push(<button key={`${word}`}>{word}</button>)
+        setTags(tags)
     }
 
     return (
