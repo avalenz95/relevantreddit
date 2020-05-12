@@ -7,8 +7,14 @@ import (
 
 //SubredditTries for all subreddits
 type SubredditTries struct {
-	ID         primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
-	subreddits map[string][]prefixtree.PrefixTree
+	ID   primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
+	subs map[string][]SubTrie
+}
+
+//SubTrie subreddit trie
+type SubTrie struct {
+	bannerURL string
+	prefixtree.PrefixTree
 }
 
 //UserProfile that goes into DB
