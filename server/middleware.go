@@ -17,7 +17,7 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
 	fmt.Println("Got keyword: ", params["keyword"], "for subreddit: ", params["subreddit"], " and user: ", params["username"])
 
-	updateKeywords(params["username"], params["subreddit"], params["keyword"])
+	updateUserKeywords(params["username"], params["subreddit"], params["keyword"])
 }
 
 //get user content from db

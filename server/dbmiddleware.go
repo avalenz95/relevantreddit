@@ -173,7 +173,7 @@ func getContent(userName string) UserProfile {
 }
 
 //Update keywords in database
-func updateKeywords(userName string, subreddit string, newWord string) {
+func updateUserKeywords(userName string, subreddit string, newWord string) {
 	filter := findUser(userName)
 	key := fmt.Sprintf("subreddits.r/%s", subreddit)
 
