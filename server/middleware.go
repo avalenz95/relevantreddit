@@ -10,6 +10,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
+//add keyword to user TODO add keyword to trie
 func addKeyword(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
@@ -89,7 +90,7 @@ func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 }
 
-//Handle unser response from reddit
+//Handle user response from reddit
 func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 	//Get first parameter with query name
 	code := r.FormValue("code")
@@ -114,6 +115,7 @@ func handleRedditCallback(w http.ResponseWriter, r *http.Request) {
 
 		url := "https://oauth.reddit.com/subreddits/mine/subscriber.json?limit=100"
 		rc := useToken(token, url)
+
 		//Get all of a users subreddits
 		subscribedReddits(rc, &appUser)
 		for rc.Data.After != "" {

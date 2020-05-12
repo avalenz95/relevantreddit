@@ -5,16 +5,12 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
-//SubredditTries for all subreddits
-type SubredditTries struct {
-	ID   primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
-	subs map[string][]SubTrie
-}
-
 //SubTrie subreddit trie
 type SubTrie struct {
+	ID        primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
+	subname   string
 	bannerURL string
-	prefixtree.PrefixTree
+	tree      prefixtree.PrefixTree
 }
 
 //UserProfile that goes into DB
