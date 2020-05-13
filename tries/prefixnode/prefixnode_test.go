@@ -2,8 +2,9 @@ package prefixnode_test
 
 import (
 	"fmt"
-	"rr/tries/prefixnode"
 	"testing"
+
+	"github.com/ablades/relevantreddit/tries/prefixnode"
 )
 
 //test creation of a node object
