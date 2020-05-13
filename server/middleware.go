@@ -18,6 +18,12 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("Got keyword: ", params["keyword"], "for subreddit: ", params["subreddit"], " and user: ", params["username"])
 
 	updateUserKeywords(params["username"], params["subreddit"], params["keyword"])
+
+	triePtr := findTrie(params["subreddit"])
+	fmt.Println(triePtr)
+
+	addToTrie(params["subreddit"], params["keyword"], params["username"], triePtr)
+
 }
 
 //get user content from db

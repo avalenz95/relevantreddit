@@ -1,2 +1,3 @@
-github.com/ablades/relevantreddit v0.0.0-20200510055828-5e246754e1e9 h1:ljUjJ+Eeu4DyXT8GIMXYhoiP1CRp7RHm3gQ4rRYxX80=
-github.com/ablades/relevantreddit v0.0.0-20200510055828-5e246754e1e9/go.mod h1:mxFjJtqCU0+bUXgjbKFW+TunwFRqscbghQyOLugvYr8=
+github.com/ablades/relevantreddit v1.0.3 h1:b2sibYh7l5D51IzMzT8gJxgYhUfE+0fdhehVFj36yIA=
+github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200512064748-76e0204a2f00 h1:Vo6RZ8oONz/B/2siBlc07C8/Snc8hjwGi7VoA66kW74=
+github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200512064748-76e0204a2f00/go.mod h1:z9DsE/lSwtAZtHKWMHwrnzTsDM/MXVj/aFlwOCXBKQA=

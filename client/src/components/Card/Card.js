@@ -14,6 +14,7 @@ function Card(props) {
         }
     }
 
+    //life cycle hooks, works like componentdidmount
     useEffect(() => {
         let words = []
         for (var i = 0; i < keywords.length; i++) {
@@ -35,6 +36,7 @@ function Card(props) {
 
         tags.push(<button key={`${word}`}>{word}</button>)
         setTags(tags)
+        setWord("")
     }
 
     return (

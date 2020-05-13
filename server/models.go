@@ -7,10 +7,10 @@ import (
 
 //SubTrie subreddit trie
 type SubTrie struct {
-	ID        primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
-	subname   string
-	bannerURL string
-	tree      prefixtree.PrefixTree
+	ID        primitive.ObjectID    `json:"_id,omitempty" bson:"_id,omitempty"`
+	Subname   string                `json:"subname,omitempty"`
+	BannerURL string                `json:"bannerurl,omitempty"`
+	Tree      prefixtree.PrefixTree `json:"tree,omitempty"`
 }
 
 //UserProfile that goes into DB

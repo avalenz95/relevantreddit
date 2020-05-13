@@ -56,8 +56,8 @@ func createTrie(name string) *mongo.SingleResult {
 	tree := prefixtree.New(name)
 
 	trie := SubTrie{
-		subname: name,
-		tree:    tree,
+		Subname: name,
+		Tree:    tree,
 	}
 
 	//Insert into DB
@@ -88,17 +88,17 @@ func findTrie(name string) *mongo.SingleResult {
 }
 
 //Add new word to trie in db
-func addToTrie(name string, keyword string, username string, triePtr *mongo.SingleResult) {
+func addToTrie(subname string, keyword string, username string, triePtr *mongo.SingleResult) {
 
 	var trie SubTrie
 	//Decode db result into trie
 	triePtr.Decode(&trie)
-
+	fmt.Printf("\n TRIE: >>> %v \n", trie)
 	//Insert word into trie
-	trie.tree.InsertKeyword(keyword, name)
+	//trie.Tree.InsertKeyword(keyword, username)
 
 	//replace trie structure with new one
-	tries.ReplaceOne(context.Background(), bson.M{"subname": name}, trie)
+	//tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
 
 }
 
@@ -124,7 +124,7 @@ func addSubBanner(subname string) {
 	triePtr := findTrie(subname)
 	triePtr.Decode(&trie)
 	//Add image to trie
-	trie.bannerURL = as.Data.BannerImg
+	trie.BannerURL = as.Data.BannerImg
 
 	//replace trie structure with new updated one
 	tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
