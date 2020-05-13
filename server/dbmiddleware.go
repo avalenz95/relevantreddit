@@ -46,7 +46,7 @@ func init() {
 }
 
 //Add a trie to collection
-func createTrie(name string) *mongo.SingleResult {
+func createTrie(name string) {
 	fmt.Printf("Creating... trie: %s \n", name)
 	//subname   string
 	//bannerURL string
@@ -66,39 +66,41 @@ func createTrie(name string) *mongo.SingleResult {
 		fmt.Printf("Failed to insert trie %+v  \n", trie)
 		log.Fatal(err)
 	}
-
-	//Get and return recent insert
-	query := tries.FindOne(context.Background(), inserted.InsertedID)
-	return query
+	fmt.Printf("%+v", inserted)
 
 }
 
-//look for a trie add it if it doesnt exist
-func findTrie(name string) *mongo.SingleResult {
-	filter := bson.M{"subname": name}
+//look for a trie add it if it doesnt exist REFORMAT LATER
+func foundTrie(subname string) bool {
+	filter := bson.M{"subname": subname}
 	query := tries.FindOne(context.Background(), filter)
 
 	if query.Err() == mongo.ErrNoDocuments {
-		fmt.Printf("Trie: %s not found.\n", name)
-		return createTrie(name)
+		fmt.Printf("Trie: %s not found.\n", subname)
+		createTrie(subname)
+		return false
 	}
-	fmt.Printf("Trie: %s found. %v \n", name, query)
+	fmt.Printf("Trie: %s found. %v \n", subname, query)
 
-	return query
+	return true
 }
 
 //Add new word to trie in db
-func addToTrie(subname string, keyword string, username string, triePtr *mongo.SingleResult) {
+func addToTrie(subname string, keyword string, username string) {
+
+	filter := bson.M{"subname": subname}
+	query := tries.FindOne(context.Background(), filter)
 
 	var trie SubTrie
 	//Decode db result into trie
-	triePtr.Decode(&trie)
-	fmt.Printf("\n TRIE: >>> %v \n", trie)
+	query.Decode(&trie)
+	fmt.Printf("\n TRIE: >>> %+v \n", trie)
 	//Insert word into trie
-	//trie.Tree.InsertKeyword(keyword, username)
+	trie.Tree.InsertKeyword(keyword, username)
 
+	fmt.Printf("\n INSERTED TRIE: >>> %+v \n", trie)
 	//replace trie structure with new one
-	//tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
+	tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
 
 }
 
@@ -121,8 +123,8 @@ func addSubBanner(subname string) {
 
 	//Find and decode trie
 	var trie SubTrie
-	triePtr := findTrie(subname)
-	triePtr.Decode(&trie)
+
+	//triePtr.Decode(&trie)
 	//Add image to trie
 	trie.BannerURL = as.Data.BannerImg
 

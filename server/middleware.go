@@ -19,10 +19,10 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 
 	updateUserKeywords(params["username"], params["subreddit"], params["keyword"])
 
-	triePtr := findTrie(params["subreddit"])
-	fmt.Println(triePtr)
+	foundTrie(params["subreddit"])
+	//fmt.Println(triePtr)
 
-	addToTrie(params["subreddit"], params["keyword"], params["username"], triePtr)
+	addToTrie(params["subreddit"], params["keyword"], params["username"])
 
 }
 
