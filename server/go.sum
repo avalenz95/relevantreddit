@@ -5,8 +5,12 @@ github.com/ablades/relevantreddit v0.0.0-20200510181355-4cf123353bda h1:2xu0jXYO
 github.com/ablades/relevantreddit v0.0.0-20200510181355-4cf123353bda/go.mod h1:mxFjJtqCU0+bUXgjbKFW+TunwFRqscbghQyOLugvYr8=
 github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200510182201-a0ff5edf1bc8 h1:yp4bfJYs5/3UYPectS7CqJHZSZK4idlFeFfka9niWNo=
 github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200510182201-a0ff5edf1bc8/go.mod h1:z9DsE/lSwtAZtHKWMHwrnzTsDM/MXVj/aFlwOCXBKQA=
+github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200513050705-05a567451cb6 h1:sWo8D2pbcGiBlWvVitmo3BxIUTiipslplgNSzdI+3j8=
+github.com/ablades/relevantreddit/tries/prefixnode v0.0.0-20200513050705-05a567451cb6/go.mod h1:z9DsE/lSwtAZtHKWMHwrnzTsDM/MXVj/aFlwOCXBKQA=
 github.com/ablades/relevantreddit/tries/prefixtree v0.0.0-20200510182201-a0ff5edf1bc8 h1:Btj4MsEHzp7qA1LQ1z0iZsYPoT7p6YekUHrhWWA7xxs=
 github.com/ablades/relevantreddit/tries/prefixtree v0.0.0-20200510182201-a0ff5edf1bc8/go.mod h1:QRDPWHemmjO+W2crZw1rnS1Qm4wBu9LTsgXZv7biwHY=
+github.com/ablades/relevantreddit/tries/prefixtree v0.0.0-20200513051207-14ee00851f78 h1:/a+MuerN42yplU7XKoLmw3dKpF1s9ClVz3Fcmwo1+fo=
+github.com/ablades/relevantreddit/tries/prefixtree v0.0.0-20200513051207-14ee00851f78/go.mod h1:MDB7yUrKra33AhVRn3ETCS1OzqoPkuWpfnN4mv73zqM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -98,6 +102,8 @@ golang.org/x/crypto v0.0.0-20190530122614-20be4c3c3ed5 h1:8dUaAV7K4uHsF56JQWkpre
 golang.org/x/crypto v0.0.0-20190530122614-20be4c3c3ed5/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79 h1:IaQbIIB2X/Mp/DKctl6ROxz1KyMlKp4uyvL6+kQ7C88=
 golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
+golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37 h1:cg5LA/zNPRzIXIWSCxQW10Rvpy94aQh3LT/ShoCpkHw=
+golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190311183353-d8887717615a/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/sync v0.0.0-20190227155943-e225da77a7e6/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
