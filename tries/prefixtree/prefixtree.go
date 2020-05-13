@@ -8,9 +8,9 @@ import (
 
 //PrefixTree for nodes
 type PrefixTree struct {
-	name string
-	root *prefixnode.Node
-	size int
+	Name string
+	Root *prefixnode.Node
+	Size int
 }
 
 //New tree with a default root node
@@ -18,9 +18,9 @@ func New(name string) PrefixTree {
 	rootNode := prefixnode.New('0')
 
 	tree := PrefixTree{
-		name: name,
-		root: &rootNode,
-		size: 0,
+		Name: name,
+		Root: &rootNode,
+		Size: 0,
 	}
 
 	return tree
@@ -28,7 +28,7 @@ func New(name string) PrefixTree {
 
 //InsertKeyword TODO: Replace USER STRING WITH USER OBJECT
 func (tree PrefixTree) InsertKeyword(word string, userName string) {
-	node := tree.root
+	node := tree.Root
 
 	for _, char := range word {
 		//Node does not have child with character
@@ -36,7 +36,7 @@ func (tree PrefixTree) InsertKeyword(word string, userName string) {
 			child := prefixnode.New(char)
 			node.AddChild(&child)
 			fmt.Printf("%v \n", node)
-			tree.size++
+			tree.Size++
 		}
 
 		//Child already exists advance pointer
@@ -51,7 +51,7 @@ func (tree PrefixTree) InsertKeyword(word string, userName string) {
 
 //Contains returns list of users associated with word
 func (tree PrefixTree) Contains(word string) map[string]struct{} {
-	node := tree.root
+	node := tree.Root
 
 	//Loop until end of word is hit
 	for _, char := range word {
@@ -67,24 +67,24 @@ func (tree PrefixTree) Contains(word string) map[string]struct{} {
 
 //GetName returns the name of the tree
 func (tree PrefixTree) GetName() string {
-	return tree.name
+	return tree.Name
 }
 
 //GetSize returns size of current tree
 func (tree PrefixTree) GetSize() int {
-	return tree.size
+	return tree.Size
 }
 
 //GetRoot returns rootnode in a tree
 func (tree PrefixTree) GetRoot() *prefixnode.Node {
-	return tree.root
+	return tree.Root
 }
 
 func (tree PrefixTree) PrintTrie() []string {
 	var words []string
 
 	//traverse through a tree
-	tree.traverse(tree.root, "", &words)
+	tree.traverse(tree.Root, "", &words)
 
 	return words
 
