@@ -1,6 +1,51 @@
-import React, {useState, useEffect} from 'react'
+import React, {Component} from 'react'
 import axios from "axios"
 import './Card.css'
+
+class Card extends Component {
+    
+    constructor(props){
+        super(props)
+        this.state = {
+            keyList: []
+        }
+    }
+
+    componentDidMount() {
+        //TODO Refactor state change
+    }
+
+    //call api with keyword and users name along with the subreddit
+    handleSubmit(event) {
+        //TODO: Refactor form submit for keywords https://reactjs.org/docs/forms.html
+    }
+
+
+    render() {
+        return (
+            //Card content
+            <div className="card">
+                <div className="container" style={style.container}>
+                    
+                    <h4><b>{subName}</b></h4>
+                    {tags}
+    
+                    <form onSubmit={this.handleSubmit}>
+                        <label> Add New Keyword: 
+                            <input type="text" value={word} onChange={event => setWord(event.target.value)}/>
+                        </label>
+                        <input type="submit" value="Submit" />
+                    </form>
+    
+                </div>
+            </div>
+            
+        )
+    }
+}
+
+
+/*
 
 function Card(props) {
     // eslint-disable-next-line no-unused-vars
@@ -35,8 +80,7 @@ function Card(props) {
         }).then(
             tags.push(<button key={`${word}`}>{word}</button>),
             setTags(tags),
-            setWord("")
-        )
+            setWord(""),)
     }
 
     return (
@@ -59,5 +103,6 @@ function Card(props) {
         
     )
 }
+*/
 
 export default Card
