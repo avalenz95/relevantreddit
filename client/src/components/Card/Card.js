@@ -32,11 +32,11 @@ function Card(props) {
         event.preventDefault()
         axios.get(`${endpoint}/add/${subName}/${userName}/${word}`).then(response => {
             console.log(response)
-        })
-
-        tags.push(<button key={`${word}`}>{word}</button>)
-        setTags(tags)
-        setWord("")
+        }).then(
+            tags.push(<button key={`${word}`}>{word}</button>),
+            setTags(tags),
+            setWord("")
+        )
     }
 
     return (

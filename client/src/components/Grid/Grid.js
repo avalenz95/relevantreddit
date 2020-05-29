@@ -18,7 +18,7 @@ function Grid(props) {
             //Retrieve an image
             axios.get(endpoint + "/img/" + subName).then((response) =>{
                 imgUrl = response.data
-            });
+            }).then(
 
             cards.push(
                 //pass image as prop to card along with subreddits ect.
@@ -30,6 +30,7 @@ function Grid(props) {
                     imgUrl={imgUrl}
                     endpoint={endpoint}
                 />
+            )
             )
         })
     }

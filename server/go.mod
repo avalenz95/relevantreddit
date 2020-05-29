@@ -3,7 +3,6 @@ module rr/server
 go 1.13
 
 require (
-	github.com/ablades/relevantreddit v0.0.0-20200510181355-4cf123353bda // indirect
 	github.com/ablades/relevantreddit/tries/prefixtree v0.0.0-20200513051207-14ee00851f78
 	github.com/gorilla/mux v1.7.4
 	github.com/joho/godotenv v1.3.0
