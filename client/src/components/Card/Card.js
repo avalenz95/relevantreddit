@@ -25,14 +25,14 @@ class Card extends Component {
         return (
             //Card content
             <div className="card">
-                <div className="container" style={style.container}>
+                <div className="container">
                     
-                    <h4><b>{subName}</b></h4>
-                    {tags}
+                    <h4><b>{this.props.subName}</b></h4>
+                    {this.props.tags}
     
                     <form onSubmit={this.handleSubmit}>
                         <label> Add New Keyword: 
-                            <input type="text" value={word} onChange={event => setWord(event.target.value)}/>
+                            <input type="text" value={this.props.word} />
                         </label>
                         <input type="submit" value="Submit" />
                     </form>
