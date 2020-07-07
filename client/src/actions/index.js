@@ -30,9 +30,9 @@ export const loadUsername = () => {
         const username = Cookies.get("username")
         // Send actions to dispatcher
         if(username){
-            dispatch(usernameSuccess)
+            dispatch(usernameSuccess(username))
         } else {
-            dispatch(usernameError)
+            dispatch(usernameError(username))
         }
     }
 }
@@ -46,10 +46,12 @@ export const subredditsSuccess = (data) => {
 
 export const subredditsError = (err) => {
     return {
-        type: SUBREDDITS_ERROR
+        type: SUBREDDITS_ERROR,
+        payload: {err}
     }
 }
 
+// Thunk - similar to a call back, function that wraps another function(action)
 export const loadSubreddits = (username) => {
     return async(dispatch) => {
         // Build url
