@@ -1,10 +1,13 @@
 import React from 'react'
 import axios from 'axios'
-
+import { useSelector } from 'react-redux'
 
 //Navigation for website
 function Nav(props) {
     const {endpoint, userName} = props
+
+    // name of reducer (its where the state is stored)
+    const name = useSelector(state => state.name)
 
     //Authentication request
     function onAuth () {
