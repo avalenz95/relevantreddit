@@ -32,7 +32,7 @@ export const loadUsername = () => {
         if(username){
             dispatch(usernameSuccess(username))
         } else {
-            dispatch(usernameError(""))
+            dispatch(usernameError())
         }
     }
 }
@@ -51,6 +51,7 @@ export const subredditsError = (err) => {
     }
 }
 
+//CONSIDER DOING ALL OF THE PARSING FOR SUBREDDITS HERE AND RETURNING THE ARRAY OF COMPONT
 // Thunk - similar to a call back, function that wraps another function(action)
 export const loadSubreddits = (username) => {
     return async(dispatch) => {
@@ -61,7 +62,7 @@ export const loadSubreddits = (username) => {
             const response = await fetch(url)
             const json = await response.json()
             // Send to dispatcher
-            dispatch(subredditsSuccess(json))
+            await dispatch(subredditsSuccess(json))
         } catch(err) {
             dispatch(subredditsError(err))
         }

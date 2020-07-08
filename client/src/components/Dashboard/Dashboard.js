@@ -2,14 +2,12 @@ import React, { useEffect } from "react"
 import Grid from '../Grid/Grid.js'
 import Nav from '../Nav/Nav.js'
 import { loadUsername } from "../../actions/index.js"
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch } from 'react-redux'
 
 const  endpoint = "http://localhost:8080"
 
 
 function Dashboard() {
-
-    const name = useSelector(state => state.name)
     const dispatch = useDispatch() // Get the dispatcher
 
     // Attempt to load username on component mount
@@ -22,6 +20,10 @@ function Dashboard() {
 
             <Nav
                 endpoint={endpoint} 
+            />
+                
+            <Grid
+                endpoint={endpoint}
             />
         </div>
     )

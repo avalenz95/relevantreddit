@@ -1,6 +1,6 @@
 import { SUBREDDITS_SUCCESS, SUBREDDITS_ERROR } from '../actions/index.js'
 // Deconstruct action to => {type, payload}
-const keywordReducer = (state = [], { type, payload }) => {
+const subredditReducer = (state = [], { type, payload }) => {
     switch(type){
         case SUBREDDITS_SUCCESS:
             return payload.data
@@ -13,4 +13,4 @@ const keywordReducer = (state = [], { type, payload }) => {
     }
 }
 
-export default keywordReducer
+export default subredditReducer

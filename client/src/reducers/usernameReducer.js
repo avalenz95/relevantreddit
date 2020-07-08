@@ -6,7 +6,7 @@ const usernameReducer = (state = "", { type, payload }) => {
             return payload.name
         
         case USERNAME_ERROR:
-            return payload.err
+            return ""
 
         default:
             return state
