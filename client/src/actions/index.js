@@ -32,7 +32,7 @@ export const loadUsername = () => {
         if(username){
             dispatch(usernameSuccess(username))
         } else {
-            dispatch(usernameError(username))
+            dispatch(usernameError(""))
         }
     }
 }

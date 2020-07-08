@@ -3,9 +3,8 @@ import axios from 'axios'
 import { useSelector } from 'react-redux'
 
 //Navigation for website
-function Nav(props) {
-    const {endpoint, userName} = props
-
+function Nav() {
+    const endpoint = "http://localhost:8080"
     // name of reducer (its where the state is stored)
     const name = useSelector(state => state.name)
 
@@ -21,8 +20,8 @@ function Nav(props) {
 
     return (
         <nav className="navbar">
-            {userName !== "" ? 
-            <span>Welcome! {userName}</span> 
+            {name !== "" ? 
+            <span>Welcome! {name}</span> 
             : 
             <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
             }

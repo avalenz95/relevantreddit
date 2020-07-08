@@ -1,14 +1,15 @@
-import React from "react"
+import React, { useEffect } from "react"
 import Grid from '../Grid/Grid.js'
 import Nav from '../Nav/Nav.js'
 import { loadUsername } from "../../actions/index.js"
+import { useDispatch, useSelector } from 'react-redux'
 
 const  endpoint = "http://localhost:8080"
 
 
 function Dashboard() {
 
-    const [name, setName] = useState("")
+    const name = useSelector(state => state.name)
     const dispatch = useDispatch() // Get the dispatcher
 
     // Attempt to load username on component mount
@@ -21,13 +22,6 @@ function Dashboard() {
 
             <Nav
                 endpoint={endpoint} 
-                userName={this.state.userName}
-            />
-                
-            <Grid
-                endpoint={endpoint}
-                subreddits={this.state.subreddits}
-                userName={this.state.userName}
             />
         </div>
     )
