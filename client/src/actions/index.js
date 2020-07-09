@@ -34,8 +34,9 @@ export const addKeywordToSub = (subreddit, username, keyword) => {
                 },
                 body: JSON.stringify(data),
             })
-            // Check created response
+
             await dispatch(keywordSuccess(response.status))
+            await dispatch(loadUserData(username))
 
         } catch(err) {
             dispatch(keywordError(err))

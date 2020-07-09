@@ -10,7 +10,8 @@ function Card(props) {
     const dispatch = useDispatch()
 
     let tags = []
-    tags = Object.entries(keywords).map((word, index) => {
+    // TODO: Figure out what's going on here.
+    tags = Object.entries(keywords).map(([_, word],index) => {
         return (
             <button key={index}>{word}</button>
         )
