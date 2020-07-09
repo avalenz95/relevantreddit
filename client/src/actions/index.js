@@ -13,12 +13,22 @@ export const ADD_KEYWORD = 'ADD_KEYWORD'
 export const KEYWORD_SUCCESS = 'KEYWORD_SUCCESS'
 export const KEYWORD_ERROR = 'KEYWORD_ERROR'
 
-export const addKeywordToSub = (subname, username, word) => {
+export const addKeywordToSub = (subreddit, username, keyword) => {
     return async(dispatch) => {
+        // Build Data 
+        const data = {
+            username: username,
+            subreddit: subreddit,
+            keyword: keyword,
+        }
+
         // Build url
-        const url = "http://localhost:8080/addkeyword"
+        const url = 'http://localhost:8080/addkeyword'
         // Send a post request
-        const response = await fetch(url)
+        const response = await fetch(url, {
+            method: 'POST',
+            body: JSON.stringify(data),
+        })
         // Check created response
         if (response.status == 201) {
             dispatch(keywordSuccess())
