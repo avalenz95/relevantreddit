@@ -30,7 +30,8 @@ export const loadUsername = () => {
         const username = Cookies.get("username")
         // Send actions to dispatcher
         if(username){
-            dispatch(usernameSuccess(username))
+            await dispatch(usernameSuccess(username))
+            await dispatch(loadUserData(username))
         } else {
             dispatch(usernameError())
         }

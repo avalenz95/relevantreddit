@@ -8,13 +8,9 @@ import { useDispatch, useSelector } from 'react-redux'
 
 function Grid(props) {
     const name = useSelector(state => state.name)
-    const dispatch = useDispatch() 
     let cards = []
-    const userData = useSelector(state => state.userData)
+    const userData = useSelector(state => state.userdata)
     // Attempt to load username on component mount
-    useEffect(() => {
-        dispatch(loadUserData(name))
-    })
     console.log(userData)
     const {endpoint} = props
     if (userData === null) {
