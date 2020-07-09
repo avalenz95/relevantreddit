@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"net/url"
@@ -10,22 +11,54 @@ import (
 	"github.com/gorilla/mux"
 )
 
+type Add struct {
+	U string `json:"username"`
+	S string `json:"subreddit"`
+	K string `json:"keyword"`
+}
+
+//Change access control later
 //add keyword to user TODO add keyword to trie
 func addKeyword(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	w.Header().Set("Context-Type", "application/json;charset=utf-8")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
-	// Get Post request values
-	keyword := r.FormValue("keyword")
-	sub := r.FormValue("subreddit")
-	username := r.FormValue("username")
-	fmt.Println("Got keyword: ", keyword, "for subreddit: ", sub, " and user: ", username)
+	w.Header().Set("Access-Control-Allow-Methods", "POST")
+	w.Header().Set("Access-Control-Allow-Headers", "Accept, Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization")
+	//temp struct
+	// TODO: Learn more about/handle preflight better
+	if r.Method == "OPTIONS" {
+		fmt.Printf("Preflight")
+	} else {
+		data := struct {
+			U string `json:"username"`
+			S string `json:"subreddit"`
+			K string `json:"keyword"`
+		}{}
+		// {"username":"BlueWrath","subreddit":"r/AppleMusic","keyword":"please"}
+		body, err := ioutil.ReadAll(r.Body)
+		if err != nil {
+			panic(err)
+		}
+		err = json.Unmarshal(body, &data)
+		if err != nil {
+			print("error")
+		}
+		fmt.Printf("%+v \n", data)
+		// Get Post request values
+		keyword := data.K
+		sub := data.S
+		username := data.U
 
-	//Update and add to trie
-	updateUserKeywords(username, sub, keyword)
-	foundTrie(sub)
-	//fmt.Println(triePtr)
-	// TODO: ADD TRIE CHECK HERE
-	w.WriteHeader(http.StatusCreated)
+		fmt.Println("Got keyword: ", keyword, "for subreddit: ", sub, " and user: ", username)
+
+		//Update and add to trie
+		updateUserKeywords(username, sub, keyword)
+		foundTrie(sub)
+		//fmt.Println(triePtr)
+		// TODO: ADD TRIE CHECK HERE
+		//Consider returning data?
+		w.WriteHeader(http.StatusCreated)
+	}
 
 }
 
