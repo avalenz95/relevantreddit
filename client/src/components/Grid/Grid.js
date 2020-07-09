@@ -9,7 +9,7 @@ function Grid(props) {
     const name = useSelector(state => state.name)
     const userData = useSelector(state => state.userdata)
     console.log(userData)
-    const {endpoint} = props
+    
     let cards = []
     if (userData === null) {
         return null
@@ -21,9 +21,9 @@ function Grid(props) {
                 //pass image as prop to card along with subreddits ect.
                 <Card 
                     key={index} 
+                    username={name}
                     subName={subName} 
                     keywords={keywords} 
-                    endpoint={endpoint}
                 />
             )
         })

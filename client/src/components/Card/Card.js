@@ -1,130 +1,41 @@
-import React, {Component} from 'react'
+import React, { useState } from 'react'
 import './Card.css'
+import { useDispatch } from 'react-redux'
+import { addKeywordToSub } from '../../actions'
 
 
 function Card(props) {
-    
-
-    return (
-        <div className="card">
-                <div className="container">
-                    
-                    <h4><b>{this.props.subName}</b></h4>
-                    {this.props.tags}
-    
-                    <form onSubmit={this.handleSubmit}>
-                        <label> Add New Keyword: 
-                            <input type="text" value={this.props.word} />
-                        </label>
-                        <input type="submit" value="Submit" />
-                    </form>
-    
-                </div>
-            </div>
-    )
-}
-
-class Card extends Component {
-    
-    constructor(props){
-        super(props)
-        this.state = {
-            keyList: []
-        }
-    }
-
-    componentDidMount() {
-        //TODO Refactor state change
-    }
-
-    //call api with keyword and users name along with the subreddit
-    handleSubmit(event) {
-        //TODO: Refactor form submit for keywords https://reactjs.org/docs/forms.html
-    }
-
-
-    render() {
-        return (
-            //Card content
-            <div className="card">
-                <div className="container">
-                    
-                    <h4><b>{this.props.subName}</b></h4>
-                    {this.props.tags}
-    
-                    <form onSubmit={this.handleSubmit}>
-                        <label> Add New Keyword: 
-                            <input type="text" value={this.props.word} />
-                        </label>
-                        <input type="submit" value="Submit" />
-                    </form>
-    
-                </div>
-            </div>
-            
-        )
-    }
-}
-
-
-/*
-
-function Card(props) {
-    // eslint-disable-next-line no-unused-vars
-    const {subName, imgUrl, keywords, endpoint, userName} = props
-
+    const { subName, username, keywords } = props
     const [word, setWord] = useState("")
-    const [tags, setTags] = useState([])
+    const dispatch = useDispatch()
 
-    let style = {
-        container: {
-        }
-    }
-
-    //life cycle hooks, works like componentdidmount
-    useEffect(() => {
-        let words = []
-        for (var i = 0; i < keywords.length; i++) {
-            words.push(
-                <button key={`${keywords[i]}`}>{keywords[i]}</button>
-            )
-        }
-
-        setTags(words)
-        
-        }, [keywords])
-    
-    //call api with keyword and users name along with the subreddit
-    function handleSubmit(event) {
-        event.preventDefault()
-        axios.get(`${endpoint}/add/${subName}/${userName}/${word}`).then(response => {
-            console.log(response)
-        }).then(
-            tags.push(<button key={`${word}`}>{word}</button>),
-            setTags(tags),
-            setWord(""),)
-    }
+    let tags = []
+    tags = Object.entries(keywords).map((word, index) => {
+        return (
+            <button>{word}</button>
+        )
+    })
 
     return (
-        //Card content
         <div className="card">
-            <div className="container" style={style.container}>
-                
-                <h4><b>{subName}</b></h4>
-                {tags}
-
-                <form onSubmit={handleSubmit}>
-                    <label> Add New Keyword: 
-                        <input type="text" value={word} onChange={event => setWord(event.target.value)}/>
-                    </label>
-                    <input type="submit" value="Submit" />
-                </form>
-
+                <div className="container">
+                    
+                    <h4><b>{subName}</b></h4>
+                    {tags}
+    
+                    <form onSubmit={e => {
+                        e.preventDefault()
+                        dispatch(addKeywordToSub(subName, username, word))
+                    }}>
+                        <label> Add New Keyword: 
+                            <input type="text" value={word} />
+                        </label>
+                        <input type="submit" value="Submit" onChange={event => setWord(event.target.value)}/>
+                    </form>
+    
+                </div>
             </div>
-        </div>
-        
     )
 }
-*/
 
 export default Card

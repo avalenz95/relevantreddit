@@ -30,7 +30,7 @@ export const addKeywordToSub = (subreddit, username, keyword) => {
             body: JSON.stringify(data),
         })
         // Check created response
-        if (response.status == 201) {
+        if (response.status === 201) {
             dispatch(keywordSuccess())
         } else {
             dispatch(keywordError(response.status))
