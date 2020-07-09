@@ -97,18 +97,6 @@ func getSubredditImg(w http.ResponseWriter, r *http.Request) {
 
 }
 
-//temp till connect react frontend
-func handleMain(w http.ResponseWriter, r *http.Request) {
-	const htmlIndex = `
-	<html>
-		<body>
-			<a href="/r/login">Authenticate with Reddit</a>
-		</body>
-	</html>
-	`
-	fmt.Fprintf(w, htmlIndex)
-}
-
 //Redirect user to authorization page
 func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
