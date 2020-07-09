@@ -27,7 +27,7 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 	//temp struct
 	// TODO: Learn more about/handle preflight better
 	if r.Method == "OPTIONS" {
-		fmt.Printf("Preflight")
+		fmt.Printf("Preflight \n")
 	} else {
 		data := struct {
 			U string `json:"username"`
@@ -66,12 +66,13 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 func getUserContent(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
-	//Get parameters passed in
-	params := mux.Vars(r)
-	fmt.Printf("Gettings Content from User: %s \n", params["username"])
-	redditMap := getContent(params["username"])
-	json.NewEncoder(w).Encode(redditMap)
-
+	if r.Method == "GET" {
+		//Get parameters passed in
+		params := mux.Vars(r)
+		fmt.Printf("Gettings Content from User: %s \n", params["username"])
+		redditMap := getContent(params["username"])
+		json.NewEncoder(w).Encode(redditMap)
+	}
 }
 
 // get subreddit image from about section

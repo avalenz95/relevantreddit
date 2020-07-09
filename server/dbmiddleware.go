@@ -177,7 +177,7 @@ func getContent(userName string) UserProfile {
 //Update keywords in database
 func updateUserKeywords(userName string, subreddit string, newWord string) {
 	filter := findUser(userName)
-	key := fmt.Sprintf("subreddits.r/%s", subreddit)
+	key := fmt.Sprintf("subreddits.%s", subreddit)
 
 	//Add all words to array
 	update := bson.D{{"$addToSet", bson.D{{key, newWord}}}}
