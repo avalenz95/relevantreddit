@@ -1,6 +1,29 @@
 import React, {Component} from 'react'
 import './Card.css'
 
+
+function Card(props) {
+    
+
+    return (
+        <div className="card">
+                <div className="container">
+                    
+                    <h4><b>{this.props.subName}</b></h4>
+                    {this.props.tags}
+    
+                    <form onSubmit={this.handleSubmit}>
+                        <label> Add New Keyword: 
+                            <input type="text" value={this.props.word} />
+                        </label>
+                        <input type="submit" value="Submit" />
+                    </form>
+    
+                </div>
+            </div>
+    )
+}
+
 class Card extends Component {
     
     constructor(props){

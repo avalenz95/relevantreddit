@@ -8,6 +8,39 @@ export const USERNAME_ERROR = 'USERNAME_ERROR'
 export const LOAD_USERDATA = 'LOAD_USERDATA'
 export const USERDATA_SUCCESS = 'USERDATA_SUCCESS'
 export const USERDATA_ERROR = 'USERDATA_ERROR'
+// Add a word
+export const ADD_KEYWORD = 'ADD_KEYWORD'
+export const KEYWORD_SUCCESS = 'KEYWORD_SUCCESS'
+export const KEYWORD_ERROR = 'KEYWORD_ERROR'
+
+export const addKeywordToSub = (subname, username, word) => {
+    return async(dispatch) => {
+        // Build url
+        const url = "http://localhost:8080/addkeyword"
+        // Send a post request
+        const response = await fetch(url)
+        // Check created response
+        if (response.status == 201) {
+            dispatch(keywordSuccess())
+        } else {
+            dispatch(keywordError(response.status))
+        }
+    }
+}
+
+// Retrieving username was successful
+export const keywordSuccess = () => {
+    return {
+        type: KEYWORD_SUCCESS,
+    }
+}
+// Retrieving username was unsuccessful
+export const keywordError = (err) => {
+    return {
+        type: KEYWORD_ERROR,
+        payload: {err}
+    }
+}
 
 // Retrieving username was successful
 export const usernameSuccess = (name) => {
