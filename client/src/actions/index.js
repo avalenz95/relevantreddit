@@ -24,17 +24,22 @@ export const addKeywordToSub = (subreddit, username, keyword) => {
 
         // Build url
         const url = 'http://localhost:8080/addkeyword'
-        // Send a post request
-        const response = await fetch(url, {
-            method: 'POST',
-            body: JSON.stringify(data),
-        })
-        // Check created response
-        if (response.status === 201) {
-            dispatch(keywordSuccess())
-        } else {
-            dispatch(keywordError(response.status))
-        }
+
+        try {
+            // Send a post request
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json;charset=utf-8'
+                },
+                body: JSON.stringify(data),
+            })
+            // Check created response
+            await dispatch(keywordSuccess(response.status))
+
+        } catch(err) {
+            dispatch(keywordError(err))
+    }
     }
 }
 

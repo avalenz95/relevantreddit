@@ -3,7 +3,7 @@ import './Card.css'
 import { useDispatch } from 'react-redux'
 import { addKeywordToSub } from '../../actions'
 
-
+// Displays a single subreddit along with associated keywords
 function Card(props) {
     const { subName, username, keywords } = props
     const [word, setWord] = useState("")
@@ -12,7 +12,7 @@ function Card(props) {
     let tags = []
     tags = Object.entries(keywords).map((word, index) => {
         return (
-            <button>{word}</button>
+            <button key={index}>{word}</button>
         )
     })
 
@@ -26,11 +26,16 @@ function Card(props) {
                     <form onSubmit={e => {
                         e.preventDefault()
                         dispatch(addKeywordToSub(subName, username, word))
+                        setWord("")
                     }}>
-                        <label> Add New Keyword: 
-                            <input type="text" value={word} />
-                        </label>
-                        <input type="submit" value="Submit" onChange={event => setWord(event.target.value)}/>
+   
+
+                        <input 
+                            name="word" 
+                            value={word}
+                            onChange={e => setWord(e.target.value)}
+                        />
+                        <button name="submit" type="submit">Submit</button>
                     </form>
     
                 </div>
