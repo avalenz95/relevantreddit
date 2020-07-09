@@ -62,7 +62,7 @@ export const loadSubreddits = (username) => {
             const response = await fetch(url)
             const json = await response.json()
             // Send to dispatcher
-            await dispatch(subredditsSuccess(json))
+            dispatch(subredditsSuccess(json))
         } catch(err) {
             dispatch(subredditsError(err))
         }

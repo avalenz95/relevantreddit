@@ -1,12 +1,13 @@
 import { SUBREDDITS_SUCCESS, SUBREDDITS_ERROR } from '../actions/index.js'
 // Deconstruct action to => {type, payload}
-const subredditReducer = (state = [], { type, payload }) => {
+const subredditReducer = (state = null, { type, payload }) => {
     switch(type){
         case SUBREDDITS_SUCCESS:
             return payload.data
         
         case SUBREDDITS_ERROR:
-            return payload.err
+            console.log(payload.err)
+            return null
 
         default:
             return state
