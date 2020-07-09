@@ -46,6 +46,7 @@ func loadEnvironment() {
 	creds.Username = os.Getenv("USERNAME")
 	creds.Password = os.Getenv("PASSWORD")
 	creds.Redirect = "http://localhost:8080/r/callback"
+
 }
 
 //Request a token from reddit server

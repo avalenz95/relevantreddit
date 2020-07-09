@@ -14,15 +14,18 @@ import (
 func addKeyword(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
-	params := mux.Vars(r)
-	fmt.Println("Got keyword: ", params["keyword"], "for subreddit: ", params["subreddit"], " and user: ", params["username"])
+	// Get Post request values
+	keyword := r.FormValue("keyword")
+	sub := r.FormValue("subreddit")
+	username := r.FormValue("username")
+	fmt.Println("Got keyword: ", keyword, "for subreddit: ", sub, " and user: ", username)
 
-	updateUserKeywords(params["username"], params["subreddit"], params["keyword"])
-
-	foundTrie(params["subreddit"])
+	//Update and add to trie
+	updateUserKeywords(username, sub, keyword)
+	foundTrie(sub)
 	//fmt.Println(triePtr)
-
-	addToTrie(params["subreddit"], params["keyword"], params["username"])
+	// TODO: ADD TRIE CHECK HERE
+	w.WriteHeader(http.StatusCreated)
 
 }
 
