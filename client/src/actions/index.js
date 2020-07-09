@@ -5,9 +5,9 @@ export const USERNAME_SUCCESS = 'USERNAME_SUCCESS'
 export const USERNAME_ERROR = 'USERNAME_ERROR'
 
 // Subreddits
-export const LOAD_SUBREDDITS = 'LOAD_SUBREDDITS'
-export const SUBREDDITS_SUCCESS = 'SUBREDDITS_SUCCESS'
-export const SUBREDDITS_ERROR = 'SUBREDDITS_ERROR'
+export const LOAD_USERDATA = 'LOAD_USERDATA'
+export const USERDATA_SUCCESS = 'USERDATA_SUCCESS'
+export const USERDATA_ERROR = 'USERDATA_ERROR'
 
 // Retrieving username was successful
 export const usernameSuccess = (name) => {
@@ -37,23 +37,23 @@ export const loadUsername = () => {
     }
 }
 
-export const subredditsSuccess = (data) => {
+export const userDataSuccess = (data) => {
     return {
-        type: SUBREDDITS_SUCCESS,
+        type: USERDATA_SUCCESS,
         payload: {data}
     }
 }
 
-export const subredditsError = (err) => {
+export const userDataError = (err) => {
     return {
-        type: SUBREDDITS_ERROR,
+        type: USERDATA_ERROR,
         payload: {err}
     }
 }
 
 //CONSIDER DOING ALL OF THE PARSING FOR SUBREDDITS HERE AND RETURNING THE ARRAY OF COMPONT
 // Thunk - similar to a call back, function that wraps another function(action)
-export const loadSubreddits = (username) => {
+export const loadUserData = (username) => {
     return async(dispatch) => {
         // Build url
         const url = "http://localhost:8080/user/" + username
@@ -62,9 +62,9 @@ export const loadSubreddits = (username) => {
             const response = await fetch(url)
             const json = await response.json()
             // Send to dispatcher
-            dispatch(subredditsSuccess(json))
+            dispatch(userDataSuccess(json))
         } catch(err) {
-            dispatch(subredditsError(err))
+            dispatch(userDataError(err))
         }
     }
 }

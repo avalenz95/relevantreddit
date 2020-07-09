@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux'
-import subredditReducer from './subredditReducer'
+import userdataReducer from './userdataReducer'
 import usernameReducer from './usernameReducer'
 
 
 export default combineReducers({
-    subreddits: subredditReducer,
+    userdata: userdataReducer,
     name: usernameReducer
 })

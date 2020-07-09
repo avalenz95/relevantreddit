@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import Card from '../Card/Card.js'
 import './Grid.css'
-import { loadSubreddits } from "../../actions/index.js"
+import { loadUserData } from "../../actions/index.js"
 import { useDispatch, useSelector } from 'react-redux'
 
 
@@ -10,19 +10,19 @@ function Grid(props) {
     const name = useSelector(state => state.name)
     const dispatch = useDispatch() 
     let cards = []
+    const userData = useSelector(state => state.userData)
     // Attempt to load username on component mount
     useEffect(() => {
-        dispatch(loadSubreddits(name))
+        dispatch(loadUserData(name))
     })
-    const subreddits = useSelector(state => state.subreddits)
-    console.log(subreddits)
+    console.log(userData)
     const {endpoint} = props
-    if (subreddits === null) {
+    if (userData === null) {
         return null
 
     } else {
                 // eslint-disable-next-line array-callback-return
-                cards = Object.entries(subreddits.subreddits).map(([subName, keywords], index) => {
+                cards = Object.entries(userData.subreddits).map(([subName, keywords], index) => {
                     return (
                         //pass image as prop to card along with subreddits ect.
                         <Card 
