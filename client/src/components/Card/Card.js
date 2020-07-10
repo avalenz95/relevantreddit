@@ -5,10 +5,10 @@ import { addKeywordToSub } from '../../actions'
 
 // Displays a single subreddit along with associated keywords
 function Card(props) {
-    const { subName, username, keywords } = props
+    const { subName, username, keywords, banner } = props
     const [word, setWord] = useState("")
     const dispatch = useDispatch()
-
+    console.log(banner)
     let tags = []
     // TODO: Figure out what's going on here.
     tags = Object.entries(keywords).map(([_, word],index) => {

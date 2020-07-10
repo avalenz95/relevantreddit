@@ -4,6 +4,41 @@ export const LOAD_USERNAME = 'LOAD_USERNAME'
 export const USERNAME_SUCCESS = 'USERNAME_SUCCESS'
 export const USERNAME_ERROR = 'USERNAME_ERROR'
 
+// Banners
+export const LOAD_BANNERS = 'LOAD_BANNERS'
+export const BANNERS_SUCCESS = 'BANNERS_SUCCESS'
+export const BANNERS_ERROR = 'BANNERS_ERROR'
+
+export const loadBannersSuccess = (data) => {
+    return {
+        type: BANNERS_SUCCESS,
+        payload: {data}
+    }
+}
+
+export const loadBannersError = (err) => {
+    return {
+        type: BANNERS_ERROR,
+        payload: {err}
+    }
+}
+
+export const loadBanners = (username) => {
+    return async(dispatch) => {
+        // Build url
+        const url = "http://localhost:8080/banners/" + username
+        // Send a request
+        try {
+            const response = await fetch(url)
+            const json = await response.json()
+            // Send to dispatcher
+            dispatch(loadBannersSuccess(json))
+        } catch(err) {
+            dispatch(loadBannersError(err))
+        }
+    }
+}
+
 // Subreddits
 export const LOAD_USERDATA = 'LOAD_USERDATA'
 export const USERDATA_SUCCESS = 'USERDATA_SUCCESS'
@@ -113,6 +148,7 @@ export const loadUserData = (username) => {
             const json = await response.json()
             // Send to dispatcher
             dispatch(userDataSuccess(json))
+            await dispatch(loadBanners(username))
         } catch(err) {
             dispatch(userDataError(err))
         }

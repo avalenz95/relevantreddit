@@ -5,11 +5,12 @@ import { useSelector } from 'react-redux'
 
 
 
-function Grid(props) {
+function Grid() {
     const name = useSelector(state => state.name)
     const userData = useSelector(state => state.userdata)
+    const banners = useSelector(state => state.banners)
     console.log(userData)
-    
+
     let cards = []
     if (userData === null) {
         return null
@@ -17,6 +18,7 @@ function Grid(props) {
     } else {
         // eslint-disable-next-line array-callback-return
         cards = Object.entries(userData.subreddits).map(([subName, keywords], index) => {
+            const banner = banners[subName]
             return (
                 //pass image as prop to card along with subreddits ect.
                 <Card 
@@ -24,6 +26,7 @@ function Grid(props) {
                     username={name}
                     subName={subName} 
                     keywords={keywords} 
+                    banner={banner}
                 />
             )
         })
