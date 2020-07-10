@@ -16,7 +16,7 @@ func router() *mux.Router {
 	routes.HandleFunc("/user/{username}", getUserContent).Methods("GET", "OPTIONS").Name("user") //Users homepage
 
 	// Get sub banner image
-	routes.HandleFunc("/banner/r/{subreddit}", getSubBanner).Methods("GET", "OPTIONS") //route for pulling subreddit image
+	routes.HandleFunc("/banners/{username}", getBanners).Methods("GET", "OPTIONS") //route for pulling subreddit image
 
 	//User wants to add a word
 	routes.HandleFunc("/addkeyword", addKeyword).Methods("POST", "OPTIONS")

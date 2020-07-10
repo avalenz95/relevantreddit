@@ -57,15 +57,21 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 }
 
 // Get request, sub banner from db
-func getSubBanner(w http.ResponseWriter, r *http.Request) {
+func getBanners(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
-
 	if r.Method == "GET" {
+
 		params := mux.Vars(r)
-		banner := getTrieBanner(fmt.Sprintf("/r/%s", params["subreddit"]))
-		fmt.Printf("Gettings Banner for %s from DB === %s \n", params["subreddit"], banner)
-		json.NewEncoder(w).Encode(banner)
+		userProfile := getContent(params["username"])
+
+		var banners map[string]string
+
+		for key := range userProfile.Subreddits {
+			banners[key] = getTrieBanner(key)
+		}
+
+		json.NewEncoder(w).Encode(banners)
 	}
 }
 

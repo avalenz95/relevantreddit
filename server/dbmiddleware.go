@@ -152,23 +152,23 @@ func insertUser(user UserProfile) {
 }
 
 //findUser in DB
-func findUser(userName string) primitive.M {
-	filter := bson.M{"redditname": userName}
+func findUser(username string) primitive.M {
+	filter := bson.M{"redditname": username}
 	result := users.FindOne(context.Background(), filter)
 	if result.Err() != nil {
-		fmt.Printf("User: %s not found. \n", userName)
+		fmt.Printf("User: %s not found. \n", username)
 		return nil
 	}
 
-	fmt.Printf("Found %s \n", userName)
+	fmt.Printf("Found %s \n", username)
 	return filter
 }
 
-func getContent(userName string) UserProfile {
+func getContent(username string) UserProfile {
 
 	var userProfile UserProfile
 	//Find user in store result in user profile
-	err := users.FindOne(context.Background(), bson.M{"redditname": userName}).Decode(&userProfile)
+	err := users.FindOne(context.Background(), bson.M{"redditname": username}).Decode(&userProfile)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -182,8 +182,8 @@ func getContent(userName string) UserProfile {
 }
 
 //Update keywords in database
-func updateUserKeywords(userName string, subreddit string, newWord string) {
-	filter := findUser(userName)
+func updateUserKeywords(username string, subreddit string, newWord string) {
+	filter := findUser(username)
 	key := fmt.Sprintf("subreddits.%s", subreddit)
 
 	//Add all words to array
@@ -194,9 +194,9 @@ func updateUserKeywords(userName string, subreddit string, newWord string) {
 }
 
 //Remove keyword from the database
-func removeKeyword(userName string, subreddit string, word string) {
+func removeKeyword(username string, subreddit string, word string) {
 
-	filter := findUser(userName)
+	filter := findUser(username)
 	key := fmt.Sprintf("subreddits.%s", subreddit)
 
 	update := bson.D{{"$pull", bson.D{{key, word}}}}
@@ -204,8 +204,8 @@ func removeKeyword(userName string, subreddit string, word string) {
 }
 
 //Add Subreddit to database
-func addSubreddit(userName string, subreddit string) {
-	filter := findUser(userName)
+func addSubreddit(username string, subreddit string) {
+	filter := findUser(username)
 	update := bson.D{{"$addToSet", bson.D{{subreddit, []string{}}}}}
 	users.UpdateOne(context.Background(), filter, update)
 }
