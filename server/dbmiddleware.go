@@ -107,6 +107,18 @@ func addKeywordToTrie(subname string, keyword string, username string) {
 
 }
 
+func getTrieBanner(subname string) string {
+	//get trie from db
+	filter := bson.M{"subname": subname}
+	query := tries.FindOne(context.Background(), filter)
+
+	var trie SubTrie
+	//Decode db result into trie
+	query.Decode(&trie)
+
+	return trie.BannerURL
+}
+
 // update a trie banner
 func updateTrieBanner(subname string) {
 	//get trie from db

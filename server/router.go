@@ -4,23 +4,24 @@ import (
 	"github.com/gorilla/mux"
 )
 
-var route = mux.NewRouter()
+var routes = mux.NewRouter()
 
 //Set routes dealing with api and db
 func router() *mux.Router {
 
 	/* Reddit Auth Routes */
-	route.HandleFunc("/r/login", handleRedditLogin).Methods("GET", "OPTIONS")
-	route.HandleFunc("/r/callback", handleRedditCallback).Methods("GET", "OPTIONS")
+	routes.HandleFunc("/r/login", handleRedditLogin).Methods("GET", "OPTIONS")
+	routes.HandleFunc("/r/callback", handleRedditCallback).Methods("GET", "OPTIONS")
 	/* DB/Endpoint routes */
-	route.HandleFunc("/user/{username}", getUserContent).Methods("GET", "OPTIONS").Name("user") //Users homepage
+	routes.HandleFunc("/user/{username}", getUserContent).Methods("GET", "OPTIONS").Name("user") //Users homepage
 
-	//route.HandleFunc("/img/r/{subreddit}", getSubredditImg).Methods("GET", "OPTIONS") //route for pulling subreddit image
+	// Get sub banner image
+	routes.HandleFunc("/banner/r/{subreddit}", getSubBanner).Methods("GET", "OPTIONS") //route for pulling subreddit image
 
 	//User wants to add a word
-	route.HandleFunc("/addkeyword", addKeyword).Methods("POST", "OPTIONS")
+	routes.HandleFunc("/addkeyword", addKeyword).Methods("POST", "OPTIONS")
 	//User wants to delete a word
 
-	return route
+	return routes
 
 }
