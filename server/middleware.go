@@ -65,12 +65,12 @@ func getBanners(w http.ResponseWriter, r *http.Request) {
 		params := mux.Vars(r)
 		userProfile := getContent(params["username"])
 
-		var banners map[string]string
+		banners := make(map[string]string)
 
 		for key := range userProfile.Subreddits {
+			fmt.Printf("key: %s struct: %+v \n", key, banners)
 			banners[key] = getTrieBanner(key)
 		}
-
 		json.NewEncoder(w).Encode(banners)
 	}
 }
