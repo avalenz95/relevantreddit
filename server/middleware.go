@@ -11,12 +11,6 @@ import (
 	"github.com/gorilla/mux"
 )
 
-type Add struct {
-	U string `json:"username"`
-	S string `json:"subreddit"`
-	K string `json:"keyword"`
-}
-
 //Change access control later
 //add keyword to user TODO add keyword to trie
 func addKeyword(w http.ResponseWriter, r *http.Request) {
@@ -76,12 +70,8 @@ func getUserContent(w http.ResponseWriter, r *http.Request) {
 }
 
 // get subreddit image from about section
-func getSubredditImg(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
-	w.Header().Set("Access-Control-Allow-Origin", "*")
-
-	params := mux.Vars(r)
-	url := fmt.Sprintf("https://www.reddit.com/r/%s/about.json", params["subreddit"])
+func fetchSubredditBanner(subname string) string {
+	url := fmt.Sprintf("https://www.reddit.com/%s/about.json", subname)
 	request, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		log.Fatal(err)
@@ -92,8 +82,8 @@ func getSubredditImg(w http.ResponseWriter, r *http.Request) {
 	content := sendRequest(request)
 	var as = aboutSubreddit{}
 	json.Unmarshal(content, &as)
-	fmt.Printf("Banner IMG: %s \n", as.Data.BannerImg)
-	json.NewEncoder(w).Encode(as.Data.BannerImg)
+	fmt.Printf("Fetched Banner url: %s \n", as.Data.BannerImg)
+	return as.Data.BannerImg
 
 }
 

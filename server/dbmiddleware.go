@@ -2,10 +2,8 @@ package main
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
 	"log"
-	"net/http"
 
 	"github.com/ablades/relevantreddit/tries/prefixtree"
 	"go.mongodb.org/mongo-driver/bson"
@@ -41,23 +39,28 @@ func init() {
 
 	tries = client.Database("test").Collection("Tries")
 
-	fmt.Println("Connected to Collections: Users  and Tries")
+	fmt.Println("Connected to Collections: Users, Tries")
 
 }
 
+//Create/Update Banners
+//
+
 //Add a trie to collection
-func createTrie(name string) {
-	fmt.Printf("Creating... trie: %s \n", name)
+func createTrie(subname string) {
+	fmt.Printf("Creating... trie: %s \n", subname)
 	//subname   string
 	//bannerURL string
 	//tree      prefixtree.PrefixTree
 
 	//Create a prefix tree
-	tree := prefixtree.New(name)
+	tree := prefixtree.New(subname)
+	bannerURL := fetchSubredditBanner(subname)
 
 	trie := SubTrie{
-		Subname: name,
-		Tree:    tree,
+		Subname:   subname,
+		Tree:      tree,
+		BannerURL: bannerURL,
 	}
 
 	//Insert into DB
@@ -86,7 +89,7 @@ func foundTrie(subname string) bool {
 }
 
 //Add new word to trie in db
-func addToTrie(subname string, keyword string, username string) {
+func addKeywordToTrie(subname string, keyword string, username string) {
 
 	filter := bson.M{"subname": subname}
 	query := tries.FindOne(context.Background(), filter)
@@ -104,34 +107,26 @@ func addToTrie(subname string, keyword string, username string) {
 
 }
 
-// get subreddit image from about section add it TODO: HAVE IT SERVE AS AN UPDATE FUNCTION
-func addSubBanner(subname string) {
-	//Set up request
-	url := fmt.Sprintf("https://www.reddit.com/r/%s/about.json", subname)
-	request, err := http.NewRequest("GET", url, nil)
-	if err != nil {
-		log.Fatal(err)
-	}
+// update a trie banner
+func updateTrieBanner(subname string) {
+	//get trie from db
+	filter := bson.M{"subname": subname}
+	query := tries.FindOne(context.Background(), filter)
 
-	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
-
-	content := sendRequest(request)
-
-	var as = aboutSubreddit{}
-	json.Unmarshal(content, &as)
-	fmt.Printf("Banner URL: %s \n", as.Data.BannerImg)
-
-	//Find and decode trie
 	var trie SubTrie
+	//Decode db result into trie
+	query.Decode(&trie)
+	fmt.Printf("\n Updating TRIE: >>> %v \n", trie.Subname)
 
-	//triePtr.Decode(&trie)
-	//Add image to trie
-	trie.BannerURL = as.Data.BannerImg
+	trie.BannerURL = fetchSubredditBanner(subname)
 
-	//replace trie structure with new updated one
+	//replace trie structure with new one
 	tries.ReplaceOne(context.Background(), bson.M{"subname": subname}, trie)
 
 }
+
+//Routine that will update all banner images in db
+func updateAllBanners() {}
 
 //Insert user into DB
 func insertUser(user UserProfile) {
