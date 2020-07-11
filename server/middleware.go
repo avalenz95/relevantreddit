@@ -68,7 +68,8 @@ func getBanners(w http.ResponseWriter, r *http.Request) {
 		banners := make(map[string]string)
 
 		for key := range userProfile.Subreddits {
-			fmt.Printf("key: %s struct: %+v \n", key, banners)
+			//fmt.Printf("key: %s struct: %+v \n", key, banners)
+			// foundTrie(key) A little bit of cheese never hurt anyone :) in all seriousness though this is slow af
 			banners[key] = getTrieBanner(key)
 		}
 		json.NewEncoder(w).Encode(banners)
