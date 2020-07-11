@@ -8,7 +8,7 @@ function Card(props) {
     const { subName, username, keywords, banner } = props
     const [word, setWord] = useState("")
     const dispatch = useDispatch()
-    console.log(banner)
+
     let tags = []
     // TODO: Figure out what's going on here.
     tags = Object.entries(keywords).map(([_, word],index) => {
@@ -20,7 +20,7 @@ function Card(props) {
     return (
         <div className="card">
                 <div className="container">
-                    
+                    <img src={banner} />
                     <h4><b>{subName}</b></h4>
                     {tags}
     
