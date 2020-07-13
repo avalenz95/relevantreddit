@@ -21,13 +21,13 @@ function Nav() {
 
     return (
         <nav className="navbar">
-            <div className="appname">
-                Relevant
+            <div className="title">
+                RELEVANT
             </div>
 
             <div className="appusername">
                 {name !== "" ? 
-                <span>Welcome! {name}</span> 
+                <span>r/{name}</span> 
                 : 
                 <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
                 }
