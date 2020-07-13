@@ -1,6 +1,7 @@
 import React from 'react'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
+import './Nav.css'
 
 //Navigation for website
 function Nav() {
@@ -20,11 +21,17 @@ function Nav() {
 
     return (
         <nav className="navbar">
-            {name !== "" ? 
-            <span>Welcome! {name}</span> 
-            : 
-            <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
-            }
+            <div className="appname">
+                Relevant
+            </div>
+
+            <div className="appusername">
+                {name !== "" ? 
+                <span>Welcome! {name}</span> 
+                : 
+                <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
+                }
+            </div>
         </nav>
     )
 }

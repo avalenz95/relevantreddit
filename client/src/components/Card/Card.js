@@ -18,9 +18,8 @@ function Card(props) {
     })
 
     return (
-        <div className="card">
+        <div className="card" style={{backgroundImage: `url(${banner})`}}>
                 <div className="container">
-                    <img src={banner} />
                     <h4><b>{subName}</b></h4>
                     {tags}
     
