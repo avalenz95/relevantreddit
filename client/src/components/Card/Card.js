@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Card.css'
 import { useDispatch } from 'react-redux'
 import { addKeywordToSub } from '../../actions'
-
+import Tag from '../Tag/Tag.js'
 // Displays a single subreddit along with associated keywords
 function Card(props) {
     const { subName, username, keywords, banner } = props
@@ -13,15 +13,20 @@ function Card(props) {
     // TODO: Figure out what's going on here.
     tags = Object.entries(keywords).map(([_, word],index) => {
         return (
-            <button key={index}>{word}</button>
+            <Tag word={word}/>
         )
     })
 
     return (
         <div className="card" style={{backgroundImage: `url(${banner})`}}>
                 <div className="container">
-                    <h4><b>{subName}</b></h4>
-                    {tags}
+                    <div className="subName">
+                    {subName}
+                    </div>
+                    
+                    <div className="tagGrid">
+                        {tags}
+                    </div>
     
                     <form onSubmit={e => {
                         e.preventDefault()
