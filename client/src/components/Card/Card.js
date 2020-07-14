@@ -3,6 +3,7 @@ import './Card.css'
 import { useDispatch } from 'react-redux'
 import { addKeywordToSub } from '../../actions'
 import Tag from '../Tag/Tag.js'
+
 // Displays a single subreddit along with associated keywords
 function Card(props) {
     const { subName, username, keywords, banner } = props
