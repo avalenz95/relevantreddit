@@ -27,7 +27,7 @@ function Nav() {
 
             <div className="appusername">
                 {name !== "" ? 
-                <span>r/{name}</span> 
+                <span>u/{name}</span> 
                 : 
                 <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
                 }
