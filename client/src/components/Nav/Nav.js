@@ -3,6 +3,7 @@ import axios from 'axios'
 import { useSelector } from 'react-redux'
 import './Nav.css'
 
+
 //Navigation for website
 function Nav() {
     const endpoint = "http://localhost:8080"
@@ -29,7 +30,14 @@ function Nav() {
                 {name !== "" ? 
                 <span>u/{name}</span> 
                 : 
-                <button type="submit" onClick={onAuth}>Authenticate with Reddit</button>
+                <button className="authButton" type="submit" onClick={onAuth}>
+                    <div className="authText">
+                        Authenticate with Reddit
+                    </div>
+                    <div className="authIcon">
+                        <img className="authIcon" src={process.env.PUBLIC_URL + '/reddit-icon.svg'} alt="redditauth" />  
+                    </div>
+                </button>
                 }
             </div>
         </nav>
