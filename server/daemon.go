@@ -16,20 +16,22 @@ func parseSubreddit(subreddit string, postAge float64) []rPosts {
 	request, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		log.Fatal(err)
+		return nil
+	} else {
+		data := sendRequest(request)
+
+		//check each post to make sure it falls within the time constraints
+		//add to list if it does. break if it does not
+		//make another requset if we still haven't hit the time limit or after still exists
+		var postList []rPosts
+
+		var posts = rPosts{}
+
+		//parse json subreddit struct
+		json.Unmarshal(data, &posts)
+
+		return postList
 	}
-	data := sendRequest(request)
-
-	//check each post to make sure it falls within the time constraints
-	//add to list if it does. break if it does not
-	//make another requset if we still haven't hit the time limit or after still exists
-	var postList []rPosts
-
-	var posts = rPosts{}
-
-	//parse json subreddit struct
-	json.Unmarshal(data, &posts)
-
-	return postList
 }
 
 //parse comments for a given subreddit post
@@ -42,12 +44,13 @@ func parseComments(relPath string) {
 	request, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		log.Fatal(err)
+	} else {
+		data := sendRequest(request)
+
+		var comments rComments
+
+		json.Unmarshal(data, &comments)
 	}
-	data := sendRequest(request)
-
-	var comments = rComments{}
-
-	json.Unmarshal(data, &comments)
 
 }
 
