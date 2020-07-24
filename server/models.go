@@ -209,7 +209,7 @@ type redditComments []struct {
 								Distinguished                interface{}   `json:"distinguished"`
 							} `json:"data"`
 						} `json:"children"`
-						After  interface{} `json:"after"`
+						After  string      `json:"after"`
 						Before interface{} `json:"before"`
 					} `json:"data"`
 				} `json:"replies"`
@@ -255,7 +255,7 @@ type redditComments []struct {
 				Depth                 int         `json:"depth"`
 			} `json:"data"`
 		} `json:"children"`
-		After  interface{} `json:"after"`
+		After  string      `json:"after"`
 		Before interface{} `json:"before"`
 	} `json:"data"`
 }

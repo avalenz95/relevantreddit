@@ -1,10 +1,14 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
+	"time"
+
+	"go.mongodb.org/mongo-driver/bson"
 )
 
 //pass in subreddit includes /r get posts from x time period
@@ -21,7 +25,7 @@ func fetchSubredditPosts(subreddit string) redditPosts {
 	}
 	data := sendRequest(request)
 
-	fmt.Printf("visiting: %s \n", url)
+	fmt.Printf("VISITING: %s \n", url)
 	//check each post to make sure it falls within the time constraints
 	//add to list if it does. break if it does not
 	//make another requset if we still haven't hit the time limit or after still exist
@@ -33,6 +37,7 @@ func fetchSubredditPosts(subreddit string) redditPosts {
 	for _, post := range posts.Data.Children {
 		fmt.Println(post.Data.Title)
 		fmt.Printf("Fetching Comments for: %s \n", post.Data.Permalink)
+		fetchComments(post.Data.Permalink)
 	}
 
 	return posts
@@ -58,7 +63,7 @@ func fetchComments(relPath string) {
 	var comments redditComments
 
 	json.Unmarshal(data, &comments)
-
+	//TODO: THINK ABUOT HOW TO HANDLE DEPTH
 	for _, c := range comments {
 		for _, comment := range c.Data.Children {
 			fmt.Printf(" -- %s \n", comment.Data.Body)
@@ -76,10 +81,38 @@ func parsePosts(posts []redditPosts) {
 }
 
 func daemon() {
+	//Make a notification map
+	//Anytime a keyword returns add that post to users notification map
 	// Get Tries Collection
+	ctx, cancel := context.WithTimeout(context.Background(), 50*time.Second)
+	defer cancel()
+	var allTries []*SubTrie
+
+	cursor, err := tries.Find(context.TODO(), bson.D{})
+	defer cursor.Close(ctx)
+	if err != nil {
+		log.Fatal(err)
+	} else {
+		for cursor.Next(ctx) {
+			var trie SubTrie
+			cursor.Decode(&trie)
+			allTries = append(allTries, &trie)
+		}
+	}
+
+	fmt.Printf("Tries: %+v", allTries)
+
+	for _, trie := range allTries {
+		fmt.Printf("", trie.Subname)
+		fetchSubredditPosts(trie.Subname)
+	}
+
 	//Unmarshall
 	//Iterate over all tries
-	//Call fetchPosts for each trie
+	//Call fetchPosts for each trie should probably be done concurrently
+
 	//Call fetchComments for each post
+	//Once channel is empty (all subs have been procceded)
+	//Start notifying users? maybe this should be concurrent instead? another channel?
 
 }
