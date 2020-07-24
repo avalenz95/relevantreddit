@@ -56,6 +56,7 @@ type redditPosts struct {
 			Data struct {
 				ApprovedAtUtc       interface{} `json:"approved_at_utc"`
 				Subreddit           string      `json:"subreddit"`
+				Selftext            string      `json:"selftext"`
 				Title               string      `json:"title"`
 				Name                string      `json:"name"`
 				Ups                 int         `json:"ups"`
@@ -112,8 +113,8 @@ type aboutSubreddit struct {
 	} `json:"data"`
 }
 
-//The comments for a subreddit
-type rComments []struct {
+//The comments for a subreddit TODO: DEAL WITH REPLIES
+type redditComments []struct {
 	Kind string `json:"kind"`
 	Data struct {
 		Modhash  string      `json:"modhash"`
@@ -121,38 +122,138 @@ type rComments []struct {
 		Children []struct {
 			Kind string `json:"kind"`
 			Data struct {
-				TotalAwardsReceived int         `json:"total_awards_received"`
-				ApprovedAtUtc       interface{} `json:"approved_at_utc"`
-				Ups                 int         `json:"ups"`
-				ModReasonBy         interface{} `json:"mod_reason_by"`
-				BannedBy            interface{} `json:"banned_by"`
-				AuthorFlairType     string      `json:"author_flair_type"`
-				LinkID              string      `json:"link_id"`
-				Replies             string      `json:"replies"`
-				ID                  string      `json:"id"`
-				Gilded              int         `json:"gilded"`
-				Archived            bool        `json:"archived"`
-				Author              string      `json:"author"`
-				ParentID            string      `json:"parent_id"`
-				Score               int         `json:"score"`
-				SubredditID         string      `json:"subreddit_id"`
-				Body                string      `json:"body"`
-				Downs               int         `json:"downs"`
-				BodyHTML            string      `json:"body_html"`
+				TotalAwardsReceived   int           `json:"total_awards_received"`
+				Ups                   int           `json:"ups"`
+				Awarders              []interface{} `json:"awarders"`
+				ModReasonBy           interface{}   `json:"mod_reason_by"`
+				BannedBy              interface{}   `json:"banned_by"`
+				AuthorFlairType       string        `json:"author_flair_type"`
+				RemovalReason         interface{}   `json:"removal_reason"`
+				LinkID                string        `json:"link_id"`
+				AuthorFlairTemplateID string        `json:"author_flair_template_id"`
+				Likes                 interface{}   `json:"likes"`
+				Replies               struct {
+					Kind string `json:"kind"`
+					Data struct {
+						Modhash  string      `json:"modhash"`
+						Dist     interface{} `json:"dist"`
+						Children []struct {
+							Kind string `json:"kind"`
+							Data struct {
+								TotalAwardsReceived   int           `json:"total_awards_received"`
+								ApprovedAtUtc         interface{}   `json:"approved_at_utc"`
+								Ups                   int           `json:"ups"`
+								Awarders              []interface{} `json:"awarders"`
+								ModReasonBy           interface{}   `json:"mod_reason_by"`
+								BannedBy              interface{}   `json:"banned_by"`
+								AuthorFlairType       string        `json:"author_flair_type"`
+								RemovalReason         interface{}   `json:"removal_reason"`
+								LinkID                string        `json:"link_id"`
+								AuthorFlairTemplateID interface{}   `json:"author_flair_template_id"`
+								Likes                 interface{}   `json:"likes"`
+								Replies               string        `json:"replies"`
+								UserReports           []interface{} `json:"user_reports"`
+								Saved                 bool          `json:"saved"`
+								ID                    string        `json:"id"`
+								BannedAtUtc           interface{}   `json:"banned_at_utc"`
+								ModReasonTitle        interface{}   `json:"mod_reason_title"`
+								Gilded                int           `json:"gilded"`
+								Archived              bool          `json:"archived"`
+								NoFollow              bool          `json:"no_follow"`
+								Author                string        `json:"author"`
+								CanModPost            bool          `json:"can_mod_post"`
+								SendReplies           bool          `json:"send_replies"`
+								ParentID              string        `json:"parent_id"`
+								Score                 int           `json:"score"`
+								AuthorFullname        string        `json:"author_fullname"`
+								ReportReasons         interface{}   `json:"report_reasons"`
+								ApprovedBy            interface{}   `json:"approved_by"`
+								AllAwardings          []interface{} `json:"all_awardings"`
+								SubredditID           string        `json:"subreddit_id"`
+								Collapsed             bool          `json:"collapsed"`
+								Body                  string        `json:"body"`
+								Edited                bool          `json:"edited"`
+								AuthorFlairCSSClass   interface{}   `json:"author_flair_css_class"`
+								IsSubmitter           bool          `json:"is_submitter"`
+								Downs                 int           `json:"downs"`
+								AuthorFlairRichtext   []interface{} `json:"author_flair_richtext"`
+								AuthorPatreonFlair    bool          `json:"author_patreon_flair"`
+								BodyHTML              string        `json:"body_html"`
+								Gildings              struct {
+								} `json:"gildings"`
+								CollapsedReason              interface{}   `json:"collapsed_reason"`
+								AssociatedAward              interface{}   `json:"associated_award"`
+								Stickied                     bool          `json:"stickied"`
+								AuthorPremium                bool          `json:"author_premium"`
+								SubredditType                string        `json:"subreddit_type"`
+								CanGild                      bool          `json:"can_gild"`
+								TopAwardedType               interface{}   `json:"top_awarded_type"`
+								AuthorFlairTextColor         interface{}   `json:"author_flair_text_color"`
+								ScoreHidden                  bool          `json:"score_hidden"`
+								Permalink                    string        `json:"permalink"`
+								NumReports                   interface{}   `json:"num_reports"`
+								Locked                       bool          `json:"locked"`
+								Name                         string        `json:"name"`
+								Created                      int           `json:"created"`
+								Subreddit                    string        `json:"subreddit"`
+								AuthorFlairText              interface{}   `json:"author_flair_text"`
+								TreatmentTags                []interface{} `json:"treatment_tags"`
+								CreatedUtc                   int           `json:"created_utc"`
+								SubredditNamePrefixed        string        `json:"subreddit_name_prefixed"`
+								Controversiality             int           `json:"controversiality"`
+								Depth                        int           `json:"depth"`
+								AuthorFlairBackgroundColor   interface{}   `json:"author_flair_background_color"`
+								CollapsedBecauseCrowdControl interface{}   `json:"collapsed_because_crowd_control"`
+								ModReports                   []interface{} `json:"mod_reports"`
+								ModNote                      interface{}   `json:"mod_note"`
+								Distinguished                interface{}   `json:"distinguished"`
+							} `json:"data"`
+						} `json:"children"`
+						After  interface{} `json:"after"`
+						Before interface{} `json:"before"`
+					} `json:"data"`
+				} `json:"replies"`
+				UserReports         []interface{} `json:"user_reports"`
+				Saved               bool          `json:"saved"`
+				ID                  string        `json:"id"`
+				BannedAtUtc         interface{}   `json:"banned_at_utc"`
+				ModReasonTitle      interface{}   `json:"mod_reason_title"`
+				Gilded              int           `json:"gilded"`
+				Archived            bool          `json:"archived"`
+				NoFollow            bool          `json:"no_follow"`
+				Author              string        `json:"author"`
+				CanModPost          bool          `json:"can_mod_post"`
+				SendReplies         bool          `json:"send_replies"`
+				ParentID            string        `json:"parent_id"`
+				Score               int           `json:"score"`
+				AuthorFullname      string        `json:"author_fullname"`
+				ReportReasons       interface{}   `json:"report_reasons"`
+				SubredditID         string        `json:"subreddit_id"`
+				Body                string        `json:"body"`
+				Edited              bool          `json:"edited"`
+				Downs               int           `json:"downs"`
+				AuthorFlairCSSClass string        `json:"author_flair_css_class"`
+				IsSubmitter         bool          `json:"is_submitter"`
+				Collapsed           bool          `json:"collapsed"`
+				AuthorFlairRichtext []interface{} `json:"author_flair_richtext"`
+				AuthorPatreonFlair  bool          `json:"author_patreon_flair"`
+				BodyHTML            string        `json:"body_html"`
 				Gildings            struct {
 				} `json:"gildings"`
-				Stickied              bool   `json:"stickied"`
-				Subreddit             string `json:"subreddit"`
-				Permalink             string `json:"permalink"`
-				Locked                bool   `json:"locked"`
-				Name                  string `json:"name"`
-				Created               int    `json:"created"`
-				CreatedUtc            int    `json:"created_utc"`
-				SubredditNamePrefixed string `json:"subreddit_name_prefixed"`
-				Controversiality      int    `json:"controversiality"`
-				Depth                 int    `json:"depth"`
-				Distinguished         string `json:"distinguished"`
-			} `json:"data,omitempty"`
+				Stickied              bool        `json:"stickied"`
+				AuthorPremium         bool        `json:"author_premium"`
+				SubredditType         string      `json:"subreddit_type"`
+				Permalink             string      `json:"permalink"`
+				NumReports            interface{} `json:"num_reports"`
+				Locked                bool        `json:"locked"`
+				Name                  string      `json:"name"`
+				Created               int         `json:"created"`
+				Subreddit             string      `json:"subreddit"`
+				CreatedUtc            int         `json:"created_utc"`
+				SubredditNamePrefixed string      `json:"subreddit_name_prefixed"`
+				Controversiality      int         `json:"controversiality"`
+				Depth                 int         `json:"depth"`
+			} `json:"data"`
 		} `json:"children"`
 		After  interface{} `json:"after"`
 		Before interface{} `json:"before"`
