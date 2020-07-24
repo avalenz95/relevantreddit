@@ -8,30 +8,35 @@ import (
 )
 
 //pass in subreddit includes /r get posts from x time period
-func parseSubreddit(subreddit string, postAge float64) []rPosts {
+func fetchSubredditPosts(subreddit string) redditPosts {
 	//build the initial url
-	url := fmt.Sprintf("https://api.reddit.com/%s/best", subreddit) // best temporarily for consistent input data
+	url := fmt.Sprintf("https://api.reddit.com/%s/new", subreddit) // best temporarily for consistent input data
 
 	//send a request
 	request, err := http.NewRequest("GET", url, nil)
+	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
+
 	if err != nil {
 		log.Fatal(err)
-		return nil
-	} else {
-		data := sendRequest(request)
-
-		//check each post to make sure it falls within the time constraints
-		//add to list if it does. break if it does not
-		//make another requset if we still haven't hit the time limit or after still exists
-		var postList []rPosts
-
-		var posts = rPosts{}
-
-		//parse json subreddit struct
-		json.Unmarshal(data, &posts)
-
-		return postList
 	}
+	data := sendRequest(request)
+
+	fmt.Printf("%+v", string(data))
+	//check each post to make sure it falls within the time constraints
+	//add to list if it does. break if it does not
+	//make another requset if we still haven't hit the time limit or after still exist
+	var posts redditPosts
+
+	//parse json subreddit struct
+	json.Unmarshal(data, &posts)
+
+	fmt.Printf("%+v", posts)
+
+	for _, post := range posts.Data.Children {
+		fmt.Println(post.Data.Title)
+	}
+
+	return posts
 }
 
 //parse comments for a given subreddit post
@@ -58,4 +63,6 @@ func parseComments(relPath string) {
 func evaluateComments() {}
 
 //Determine if post is within time range? may be redundant
-func evaluatePosts() {}
+func parsePosts(posts []redditPosts) {
+
+}

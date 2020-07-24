@@ -46,7 +46,7 @@ type subreddits struct {
 }
 
 //structure of a subreddit post
-type rPosts []struct {
+type redditPosts struct {
 	Kind string `json:"kind"`
 	Data struct {
 		Modhash  string `json:"modhash"`
