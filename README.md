@@ -5,15 +5,6 @@
 Relevant is meant to be a google alerts esque application specifically designed for reddit.
 
 
-## Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ablades"><img src="https://avatars2.githubusercontent.com/u/6531016?s=400&u=ba94822f7204f27e267a9b8d3428cd5a6bc76ca5&v=4" width="75px;" alt="Audi Blades"/><br /><sub><b>Audi Blades</b></sub></a><br />
-    </td>
-</table>
-
-
 
 ## Milestones
 - [x] Third Party Authentication with Reddit.
@@ -22,6 +13,7 @@ Relevant is meant to be a google alerts esque application specifically designed 
 - [x] Add Tries for improved Subreddit management
 - [x] Add React frontend
 - [x] Add Redux
+- [x] Start Daemon Building
 - [ ] Add more Redux actions/reducers
 - [ ] Improve authentication
 - [ ] Polish up frontend
