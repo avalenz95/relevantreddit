@@ -12,9 +12,9 @@ import (
 )
 
 //pass in subreddit includes /r get posts from x time period
-func fetchSubredditPosts(subreddit string) redditPosts {
+func fetchSubredditPosts(trie *SubTrie) {
 	//build the initial url
-	url := fmt.Sprintf("https://api.reddit.com/%s/new", subreddit) // best temporarily for consistent input data
+	url := fmt.Sprintf("https://api.reddit.com/%s/new", trie.Subname) // best temporarily for consistent input data
 
 	//send a request
 	request, err := http.NewRequest("GET", url, nil)
@@ -37,14 +37,13 @@ func fetchSubredditPosts(subreddit string) redditPosts {
 	for _, post := range posts.Data.Children {
 		fmt.Println(post.Data.Title)
 		fmt.Printf("Fetching Comments for: %s \n", post.Data.Permalink)
-		fetchComments(post.Data.Permalink)
+		//Get comments from each post
+		fetchComments(post.Data.Permalink, trie)
 	}
-
-	return posts
 }
 
 //parse comments for a given subreddit post
-func fetchComments(relPath string) {
+func fetchComments(relPath string, trie *SubTrie) {
 
 	//Url to comments of a post
 	url := fmt.Sprintf("https://api.reddit.com%s", relPath)
@@ -66,19 +65,24 @@ func fetchComments(relPath string) {
 	//TODO: THINK ABUOT HOW TO HANDLE DEPTH
 	for _, c := range comments {
 		for _, comment := range c.Data.Children {
-			fmt.Printf(" -- %s \n", comment.Data.Body)
+			//Check words against Trie
+			for _, word := comment.Data.Body {
+				users := trie.Tree.Contains(word)
+				//Send to channel
+				if len(users) > 0:
+			}
 		}
 	}
 
 }
 
-//determine if keywords exist in a given comment
-func evaluateComments() {}
 
 //Determine if post is within time range? may be redundant
 func parsePosts(posts []redditPosts) {
 
 }
+
+//
 
 func daemon() {
 	//Make a notification map
@@ -101,10 +105,10 @@ func daemon() {
 	}
 
 	fmt.Printf("Tries: %+v", allTries)
-
+	//channel := make(chan struct {})
 	for _, trie := range allTries {
-		fmt.Printf("", trie.Subname)
-		fetchSubredditPosts(trie.Subname)
+		fmt.Printf("%s \n  ------ \n", trie.Subname)
+		go fetchSubredditPosts(trie)
 	}
 
 	//Unmarshall
