@@ -4,7 +4,7 @@ package prefixnode
 type Node struct {
 	Char     rune
 	Children map[rune]*Node
-	Users    map[string]struct{}
+	Users    []string
 }
 
 //New creates a n with character and terminal value
@@ -13,7 +13,7 @@ func New(char rune) Node {
 	n := Node{
 		Char:     char,
 		Children: make(map[rune]*Node),
-		Users:    make(map[string]struct{}),
+		Users:    make([]string, 0),
 	}
 
 	return n
@@ -63,10 +63,10 @@ func (n Node) GetChildren() map[rune]*Node {
 
 //AddUser to usernames
 func (n Node) AddUser(name string) {
-	n.Users[name] = struct{}{}
+	n.Users = append(n.Users, name)
 }
 
 //GetUsers for a given n
-func (n Node) GetUsers() map[string]struct{} {
+func (n Node) GetUsers() []string {
 	return n.Users
 }
