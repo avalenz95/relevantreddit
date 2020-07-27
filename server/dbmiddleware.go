@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ablades/relevantreddit/tries/prefixtree"
+	"github.com/ablades/prefix"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -54,7 +54,7 @@ func createTrie(subname string) {
 	//tree      prefixtree.PrefixTree
 
 	//Create a prefix tree
-	tree := prefixtree.New(subname)
+	tree := prefix.NewTree(subname)
 	bannerURL := fetchSubredditBanner(subname)
 
 	trie := SubTrie{

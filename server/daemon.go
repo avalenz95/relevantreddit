@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"strings"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
@@ -62,20 +63,30 @@ func fetchComments(relPath string, trie *SubTrie) {
 	var comments redditComments
 
 	json.Unmarshal(data, &comments)
-	//TODO: THINK ABUOT HOW TO HANDLE DEPTH
+	//Process Comment
 	for _, c := range comments {
 		for _, comment := range c.Data.Children {
 			//Check words against Trie
-			for _, word := comment.Data.Body {
-				users := trie.Tree.Contains(word)
-				//Send to channel
-				if len(users) > 0:
+			processComment(comment.Data.Body, trie)
+		}
+	}
+}
+
+//Strip comment of punctuation and other characters
+func processComment(s string, trie *SubTrie) {
+	r := strings.NewReplacer(",", "", ".", "", ";", "")
+	s = r.Replace(s)
+	parsedComment := strings.Fields(s)
+	for _, word := range parsedComment {
+		users := trie.Tree.Contains(word)
+
+		if len(users) > 0 {
+			for _, user := range users {
+				//queue
 			}
 		}
 	}
-
 }
-
 
 //Determine if post is within time range? may be redundant
 func parsePosts(posts []redditPosts) {
@@ -86,12 +97,13 @@ func parsePosts(posts []redditPosts) {
 
 func daemon() {
 	//Make a notification map
+	notificationMap := make(map[string][]string)
+	notificationQueue := make(chan struct{ string string })
 	//Anytime a keyword returns add that post to users notification map
 	// Get Tries Collection
 	ctx, cancel := context.WithTimeout(context.Background(), 50*time.Second)
 	defer cancel()
 	var allTries []*SubTrie
-
 	cursor, err := tries.Find(context.TODO(), bson.D{})
 	defer cursor.Close(ctx)
 	if err != nil {
@@ -106,9 +118,10 @@ func daemon() {
 
 	fmt.Printf("Tries: %+v", allTries)
 	//channel := make(chan struct {})
+	//Gets posts for each trie concurrently
 	for _, trie := range allTries {
 		fmt.Printf("%s \n  ------ \n", trie.Subname)
-		go fetchSubredditPosts(trie)
+		go fetchSubredditPosts(trie, notificationQueue)
 	}
 
 	//Unmarshall
@@ -117,6 +130,5 @@ func daemon() {
 
 	//Call fetchComments for each post
 	//Once channel is empty (all subs have been procceded)
-	//Start notifying users? maybe this should be concurrent instead? another channel?
-
+	//Start notifying users? maybe this should be concurrent instead? another channel
 }

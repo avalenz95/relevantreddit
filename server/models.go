@@ -1,16 +1,16 @@
 package main
 
 import (
-	"github.com/ablades/relevantreddit/tries/prefixtree"
+	"github.com/ablades/prefix"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
 //SubTrie subreddit trie
 type SubTrie struct {
-	ID        primitive.ObjectID    `json:"_id,omitempty" bson:"_id,omitempty"`
-	Subname   string                `json:"subname,omitempty"`
-	BannerURL string                `json:"bannerurl,omitempty"`
-	Tree      prefixtree.PrefixTree `json:"tree,omitempty"`
+	ID        primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
+	Subname   string             `json:"subname,omitempty"`
+	BannerURL string             `json:"bannerurl,omitempty"`
+	Tree      prefix.Tree        `json:"tree,omitempty"`
 }
 
 //UserProfile that goes into DB
