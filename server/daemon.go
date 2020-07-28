@@ -125,7 +125,6 @@ func daemon() {
 	}
 
 	fmt.Printf("Tries: %+v", allTries)
-	//channel := make(chan struct {})
 	//Gets posts for each trie concurrently
 	for _, trie := range allTries {
 		fmt.Printf("%s \n  ------ \n", trie.Subname)
