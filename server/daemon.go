@@ -13,7 +13,7 @@ import (
 )
 
 //pass in subreddit includes /r get posts from x time period
-func fetchSubredditPosts(trie *SubTrie) {
+func fetchSubredditPosts(trie *SubTrie, queue chan notifcation) {
 	//build the initial url
 	url := fmt.Sprintf("https://api.reddit.com/%s/new", trie.Subname) // best temporarily for consistent input data
 
@@ -39,12 +39,12 @@ func fetchSubredditPosts(trie *SubTrie) {
 		fmt.Println(post.Data.Title)
 		fmt.Printf("Fetching Comments for: %s \n", post.Data.Permalink)
 		//Get comments from each post
-		fetchComments(post.Data.Permalink, trie)
+		fetchComments(post.Data.Permalink, trie, queue)
 	}
 }
 
 //parse comments for a given subreddit post
-func fetchComments(relPath string, trie *SubTrie) {
+func fetchComments(relPath string, trie *SubTrie, queue chan notifcation) {
 
 	//Url to comments of a post
 	url := fmt.Sprintf("https://api.reddit.com%s", relPath)
@@ -67,22 +67,25 @@ func fetchComments(relPath string, trie *SubTrie) {
 	for _, c := range comments {
 		for _, comment := range c.Data.Children {
 			//Check words against Trie
-			processComment(comment.Data.Body, trie)
+			processComment(comment.Data.Body, trie, queue)
 		}
 	}
 }
 
 //Strip comment of punctuation and other characters
-func processComment(s string, trie *SubTrie) {
+func processComment(comment string, trie *SubTrie, queue chan notifcation) {
 	r := strings.NewReplacer(",", "", ".", "", ";", "")
-	s = r.Replace(s)
-	parsedComment := strings.Fields(s)
+	parsedComment := strings.Fields(r.Replace(comment))
 	for _, word := range parsedComment {
 		users := trie.Tree.Contains(word)
 
 		if len(users) > 0 {
 			for _, user := range users {
-				//queue
+				queue <- notifcation{
+					name: user,
+					post: comment,
+					word: word,
+				}
 			}
 		}
 	}
@@ -94,11 +97,16 @@ func parsePosts(posts []redditPosts) {
 }
 
 //
+type notifcation struct {
+	name string
+	post string
+	word string
+}
 
 func daemon() {
 	//Make a notification map
-	notificationMap := make(map[string][]string)
-	notificationQueue := make(chan struct{ string string })
+	//notificationMap := make(map[string][]string)
+	notificationQueue := make(chan notifcation)
 	//Anytime a keyword returns add that post to users notification map
 	// Get Tries Collection
 	ctx, cancel := context.WithTimeout(context.Background(), 50*time.Second)
