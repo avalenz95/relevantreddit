@@ -83,7 +83,7 @@ func foundTrie(subname string) bool {
 		createTrie(subname)
 		return false
 	}
-	fmt.Printf("Trie: %s found. %v \n", subname, query)
+	fmt.Printf("Trie: %s found. \n", subname)
 
 	return true
 }

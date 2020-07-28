@@ -40,6 +40,7 @@ func fetchSubredditPosts(trie *SubTrie, queue chan notifcation) {
 		fmt.Printf("Fetching Comments for: %s \n", post.Data.Permalink)
 		//Get comments from each post
 		fetchComments(post.Data.Permalink, trie, queue)
+		fmt.Printf("----DONE FETCHING FOR %s \n", post.Data.Permalink)
 	}
 }
 
@@ -74,18 +75,14 @@ func fetchComments(relPath string, trie *SubTrie, queue chan notifcation) {
 
 //Strip comment of punctuation and other characters
 func processComment(comment string, trie *SubTrie, queue chan notifcation) {
+	fmt.Printf("  ---------  Processing comment: %s \n", comment)
 	r := strings.NewReplacer(",", "", ".", "", ";", "")
 	parsedComment := strings.Fields(r.Replace(comment))
 	for _, word := range parsedComment {
 		users := trie.Tree.Contains(word)
-
 		if len(users) > 0 {
 			for _, user := range users {
-				queue <- notifcation{
-					name: user,
-					post: comment,
-					word: word,
-				}
+				fmt.Printf("%s ----------- ADDED TO QUEUE -----------", user)
 			}
 		}
 	}
@@ -128,9 +125,9 @@ func daemon() {
 	//Gets posts for each trie concurrently
 	for _, trie := range allTries {
 		fmt.Printf("%s \n  ------ \n", trie.Subname)
-		go fetchSubredditPosts(trie, notificationQueue)
+		fetchSubredditPosts(trie, notificationQueue)
 	}
-
+	fmt.Println("HERE")
 	//Unmarshall
 	//Iterate over all tries
 	//Call fetchPosts for each trie should probably be done concurrently

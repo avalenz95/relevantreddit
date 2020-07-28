@@ -48,6 +48,7 @@ func addKeyword(w http.ResponseWriter, r *http.Request) {
 		//Update and add to trie
 		updateUserKeywords(username, sub, keyword)
 		foundTrie(sub)
+		addKeywordToTrie(sub, keyword, username)
 		//fmt.Println(triePtr)
 		// TODO: ADD TRIE CHECK HERE
 		//Consider returning data?
