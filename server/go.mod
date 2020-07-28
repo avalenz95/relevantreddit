@@ -6,7 +6,6 @@ require (
 	github.com/ablades/prefix v1.0.0
 	github.com/gorilla/mux v1.7.4
 	github.com/joho/godotenv v1.3.0
-	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/klauspost/compress v1.10.10 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	go.mongodb.org/mongo-driver v1.3.5
