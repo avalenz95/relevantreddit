@@ -7,13 +7,15 @@ import (
 	"log"
 	"net/http"
 	"strings"
+	"sync"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
 )
 
 //pass in subreddit includes /r get posts from x time period
-func fetchSubredditPosts(trie *SubTrie, queue chan notifcation) {
+func fetchSubredditPosts(trie *SubTrie, queue chan notifcation, wg *sync.WaitGroup) {
+	defer wg.Done() // wait for goroutine to finish before decrementing
 	//build the initial url
 	url := fmt.Sprintf("https://api.reddit.com/%s/new", trie.Subname) // best temporarily for consistent input data
 
@@ -82,10 +84,17 @@ func processComment(comment string, trie *SubTrie, queue chan notifcation) {
 		users := trie.Tree.Contains(word)
 		if len(users) > 0 {
 			for _, user := range users {
-				fmt.Printf("%s ----------- ADDED TO QUEUE -----------", user)
+				fmt.Printf("\033[32m Added Notification to channel for User: %s  with word: %s \n ", user, word)
+				//Add to channel
+				queue <- notifcation{
+					name: user,
+					msg:  fmt.Sprintf("Comment contains %s: \n %s \n", word, comment),
+				}
+
 			}
 		}
 	}
+
 }
 
 //Determine if post is within time range? may be redundant
@@ -96,14 +105,12 @@ func parsePosts(posts []redditPosts) {
 //
 type notifcation struct {
 	name string
-	post string
-	word string
+	msg  string
 }
 
 func daemon() {
 	//Make a notification map
 	//notificationMap := make(map[string][]string)
-	notificationQueue := make(chan notifcation)
 	//Anytime a keyword returns add that post to users notification map
 	// Get Tries Collection
 	ctx, cancel := context.WithTimeout(context.Background(), 50*time.Second)
@@ -121,13 +128,28 @@ func daemon() {
 		}
 	}
 
+	//Maintains count of go routines
+	var wg sync.WaitGroup
+
+	notificationQueue := make(chan notifcation)
 	fmt.Printf("Tries: %+v", allTries)
 	//Gets posts for each trie concurrently
 	for _, trie := range allTries {
 		fmt.Printf("%s \n  ------ \n", trie.Subname)
-		fetchSubredditPosts(trie, notificationQueue)
+		wg.Add(1)
+		go fetchSubredditPosts(trie, notificationQueue, &wg)
 	}
-	fmt.Println("HERE")
+	wg.Wait()                // Wait till goroutines finish
+	close(notificationQueue) // close channel - no more values will be added
+
+	//Create Map based off values in channel
+	notificationMap := make(map[string][]string)
+	for note := range notificationQueue {
+		notificationMap[note.name] = append(notificationMap[note.name], note.msg)
+		defer wg.Done()
+	}
+
+	fmt.Printf("\n --Map of Notifications-- \n  %+v \n", notificationMap)
 	//Unmarshall
 	//Iterate over all tries
 	//Call fetchPosts for each trie should probably be done concurrently
