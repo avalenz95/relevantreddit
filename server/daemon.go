@@ -36,7 +36,7 @@ func fetchSubredditPosts(trie *SubTrie, queue chan notifcation, wg *sync.WaitGro
 
 	//parse json subreddit struct
 	json.Unmarshal(data, &posts)
-	// use permalink for each post to pull comments
+	// use permalink for each post to pull comments TODO:Seems like first comment of every post is an empty one
 	for _, post := range posts.Data.Children {
 		fmt.Println(post.Data.Title)
 		fmt.Printf("Fetching Comments for: %s \n", post.Data.Permalink)
@@ -84,7 +84,7 @@ func processComment(comment string, trie *SubTrie, queue chan notifcation) {
 		users := trie.Tree.Contains(word)
 		if len(users) > 0 {
 			for _, user := range users {
-				fmt.Printf("\033[32m Added Notification to channel for User: %s  with word: %s \n ", user, word)
+				fmt.Printf("\033[32m Added Notification to channel for User: %s  with word: %s \033[0m \n ", user, word)
 				//Add to channel
 				queue <- notifcation{
 					name: user,
@@ -139,22 +139,17 @@ func daemon() {
 		wg.Add(1)
 		go fetchSubredditPosts(trie, notificationQueue, &wg)
 	}
-	wg.Wait()                // Wait till goroutines finish
+	fmt.Println("BEFORE WAIT")
+	wg.Wait() // Wait till goroutines finish
+	fmt.Println("AFTER WAIT")
 	close(notificationQueue) // close channel - no more values will be added
 
 	//Create Map based off values in channel
 	notificationMap := make(map[string][]string)
 	for note := range notificationQueue {
 		notificationMap[note.name] = append(notificationMap[note.name], note.msg)
-		defer wg.Done()
 	}
 
-	fmt.Printf("\n --Map of Notifications-- \n  %+v \n", notificationMap)
-	//Unmarshall
-	//Iterate over all tries
-	//Call fetchPosts for each trie should probably be done concurrently
+	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", notificationMap)
 
-	//Call fetchComments for each post
-	//Once channel is empty (all subs have been procceded)
-	//Start notifying users? maybe this should be concurrent instead? another channel
 }
