@@ -33,7 +33,7 @@ type token struct {
 
 var creds credentials
 
-//Load enviornment variables
+//Load environment variables
 func loadEnvironment() {
 	err := godotenv.Load("../.env")
 
@@ -127,7 +127,7 @@ func sendRequest(request *http.Request) []byte {
 
 	defer response.Body.Close()
 
-	//set up middleware? to handle request ect?
+	//set up middleware? to handle request etc?
 
 	content, err := ioutil.ReadAll(response.Body)
 	if err != nil {

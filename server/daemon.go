@@ -145,7 +145,7 @@ func daemon() {
 		}
 	}()
 
-	wg.Wait()        //Wait till all goroutines are finished before closing channel and continuting
+	wg.Wait()        //Wait till all goroutines are finished before closing channel and continuing
 	close(noteQueue) // close channel - no more values will be added
 
 	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", masterMap)
