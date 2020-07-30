@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"regexp"
 	"strings"
 	"sync"
 	"time"
@@ -15,7 +16,8 @@ import (
 
 //pass in subreddit includes /r get posts from x time period
 func fetchSubredditPosts(trie *SubTrie, queue chan notifcation, wg *sync.WaitGroup) {
-	defer wg.Done() // wait for goroutine to finish before decrementing
+	//defer wg.Done() // wait for goroutine to finish before decrementing
+	defer fmt.Printf("\033[32m Done with %s \033[0m", trie.Subname)
 	//build the initial url
 	url := fmt.Sprintf("https://api.reddit.com/%s/new", trie.Subname) // best temporarily for consistent input data
 
@@ -78,18 +80,18 @@ func fetchComments(relPath string, trie *SubTrie, queue chan notifcation) {
 //Strip comment of punctuation and other characters
 func processComment(comment string, trie *SubTrie, queue chan notifcation) {
 	fmt.Printf("  ---------  Processing comment: %s \n", comment)
+	//Remove links and urls
+	re, _ := regexp.Compile(`((\[(.+)\]\(.+\))|(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*))`)
+
 	r := strings.NewReplacer(",", "", ".", "", ";", "")
 	parsedComment := strings.Fields(r.Replace(comment))
+
 	for _, word := range parsedComment {
 		users := trie.Tree.Contains(word)
 		if len(users) > 0 {
 			for _, user := range users {
 				fmt.Printf("\033[32m Added Notification to channel for User: %s  with word: %s \033[0m \n ", user, word)
 				//Add to channel
-				queue <- notifcation{
-					name: user,
-					msg:  fmt.Sprintf("Comment contains %s: \n %s \n", word, comment),
-				}
 
 			}
 		}
@@ -132,23 +134,23 @@ func daemon() {
 	var wg sync.WaitGroup
 
 	notificationQueue := make(chan notifcation)
-	fmt.Printf("Tries: %+v", allTries)
+	fmt.Println("Tries")
 	//Gets posts for each trie concurrently
+	wgCounter := 0
 	for _, trie := range allTries {
-		fmt.Printf("%s \n  ------ \n", trie.Subname)
-		wg.Add(1)
-		go fetchSubredditPosts(trie, notificationQueue, &wg)
+		fmt.Printf(" %s \n", trie.Subname)
+		wgCounter++
+		//wg.Add(1)
+		fetchSubredditPosts(trie, notificationQueue, &wg)
+		fmt.Println(wgCounter)
 	}
 	fmt.Println("BEFORE WAIT")
-	wg.Wait() // Wait till goroutines finish
+	//wg.Wait() // Wait till goroutines finish
 	fmt.Println("AFTER WAIT")
 	close(notificationQueue) // close channel - no more values will be added
 
 	//Create Map based off values in channel
 	notificationMap := make(map[string][]string)
-	for note := range notificationQueue {
-		notificationMap[note.name] = append(notificationMap[note.name], note.msg)
-	}
 
 	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", notificationMap)
 

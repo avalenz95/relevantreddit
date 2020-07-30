@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
-	"net/http"
 )
 
 //displays subreddit
@@ -22,9 +20,9 @@ func main() {
 	loadEnvironment()
 
 	//Start router
-	r := router()
+	//r := router()
 	daemon()
 
 	fmt.Println("Starting server on the port 8080...")
-	log.Fatal(http.ListenAndServe(":8080", r))
+	//log.Fatal(http.ListenAndServe(":8080", r))
 }
