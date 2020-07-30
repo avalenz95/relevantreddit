@@ -14,7 +14,7 @@ import (
 )
 
 //pass in subreddit includes /r get posts from x time period
-func fetchSubredditPosts(trie *SubTrie, queue chan map[string][]string, wg *sync.WaitGroup) {
+func fetchSubredditPosts(trie *SubTrie, queue chan notification, wg *sync.WaitGroup) {
 	defer wg.Done() // wait for goroutine to finish before decrementing
 	defer fmt.Printf("\033[32m Done with %s \033[0m", trie.Subname)
 	//build the initial url
@@ -48,7 +48,7 @@ func fetchSubredditPosts(trie *SubTrie, queue chan map[string][]string, wg *sync
 }
 
 //parse comments for a given subreddit post
-func fetchComments(relPath string, trie *SubTrie, queue chan map[string][]string) {
+func fetchComments(relPath string, trie *SubTrie, queue chan notification) {
 
 	//Url to comments of a post
 	url := fmt.Sprintf("https://api.reddit.com%s", relPath)
@@ -68,30 +68,29 @@ func fetchComments(relPath string, trie *SubTrie, queue chan map[string][]string
 
 	json.Unmarshal(data, &comments)
 
-	noteMap := make(map[string][]string)
-	//Process Comment
+	//Process Comment TODO: FIGURE OUT HOW TO PROCESS DUPLICATE WORDS(OR IF I EVEN WANT TO)
 	for _, c := range comments {
 		for _, comment := range c.Data.Children {
-			//Check words against Trie
 			r := strings.NewReplacer(",", "", ".", "", ";", "")
 			parsedComment := strings.Fields(r.Replace(comment.Data.Body))
 
+			//Check every word in comment against trie
 			for _, word := range parsedComment {
 				users := trie.Tree.Contains(word)
+				//At least one user wants to be notified
 				if len(users) > 0 {
 					for _, user := range users {
 						fmt.Printf("\033[32m Added Notification to channel for User: %s  with word: %s \033[0m \n ", user, word)
 						//Add to channel
-						msg := fmt.Sprintf("Comment contains %s: \n %s \n", word, comment.Data.Body)
-						noteMap[user] = append(noteMap[user], msg)
+						queue <- notification{
+							username: user,
+							msg:      fmt.Sprintf("Comment contains %s: \n %s \n", word, comment.Data.Body),
+						}
 					}
 				}
 			}
 		}
 	}
-
-	queue <- noteMap
-
 }
 
 //Determine if post is within time range? may be redundant
@@ -100,6 +99,10 @@ func parsePosts(posts []redditPosts) {
 }
 
 //
+type notification struct {
+	username string
+	msg      string
+}
 
 func daemon() {
 	//Make a notification map
@@ -124,7 +127,7 @@ func daemon() {
 	//Maintains count of go routines
 	var wg sync.WaitGroup
 	masterMap := make(map[string][]string)
-	noteQueue := make(chan map[string][]string, len(allTries))
+	noteQueue := make(chan notification)
 
 	//Create Map based off values in channel
 	fmt.Println("Tries")
@@ -138,12 +141,11 @@ func daemon() {
 	//Read from channel until it's closed
 	go func() {
 		for note := range noteQueue {
-			fmt.Println(note)
+			masterMap[note.username] = append(masterMap[note.username], note.msg)
 		}
 	}()
 
-	wg.Wait() //Wait till all goroutines are finished before continuing
-	fmt.Println("AFTER WAIT")
+	wg.Wait()        //Wait till all goroutines are finished before closing channel and continuting
 	close(noteQueue) // close channel - no more values will be added
 
 	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", masterMap)
