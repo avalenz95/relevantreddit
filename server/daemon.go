@@ -98,7 +98,6 @@ func parsePosts(posts []redditPosts) {
 
 }
 
-//
 type notification struct {
 	username string
 	msg      string
@@ -108,7 +107,7 @@ func daemon() {
 	//Make a notification map
 	//noteMap := make(map[string][]string)
 	//Anytime a keyword returns add that post to users notification map
-	// Get Tries Collection
+	//Get Tries Collection
 	ctx, cancel := context.WithTimeout(context.Background(), 50*time.Second)
 	defer cancel()
 	var allTries []*SubTrie
@@ -146,7 +145,7 @@ func daemon() {
 	}()
 
 	wg.Wait()        //Wait till all goroutines are finished before closing channel and continuing
-	close(noteQueue) // close channel - no more values will be added
+	close(noteQueue) //Close channel - no more values will be added
 
 	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", masterMap)
 
