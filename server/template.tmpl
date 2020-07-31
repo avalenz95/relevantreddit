@@ -1,0 +1,11 @@
+# Relevant for Reddit Digest for {{ .User }}
+<table>
+<tr style="color:red">
+<td>## {{ .User }}</td>
+</tr>
+{{ range $comment := .Content }}
+<tr>
+<td>{{$comment}}</td>
+</tr>
+{{end}}
+</table>

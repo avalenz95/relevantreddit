@@ -6,8 +6,10 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"os"
 	"strings"
 	"sync"
+	"text/template"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
@@ -98,6 +100,23 @@ func parsePosts(posts []redditPosts) {
 
 }
 
+type mNote struct {
+	User    string
+	Content []string
+}
+
+//Build Message from markdown template
+func toMarkdown(masterMap map[string][]string) {
+	f, _ := os.Create("file.md")
+	t := template.Must(template.New("template.tmpl").ParseFiles("template.tmpl"))
+	for key, value := range masterMap {
+		err := t.Execute(f, mNote{User: key, Content: value})
+		if err != nil {
+			panic(err)
+		}
+	}
+}
+
 type notification struct {
 	username string
 	msg      string
@@ -147,6 +166,7 @@ func daemon() {
 	wg.Wait()        //Wait till all goroutines are finished before closing channel and continuing
 	close(noteQueue) //Close channel - no more values will be added
 
-	fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", masterMap)
+	//fmt.Printf("\n --Map of Notifications-- \n  %+v \n  END DAEMON :))))) \n \n", masterMap)
+	toMarkdown(masterMap)
 
 }
