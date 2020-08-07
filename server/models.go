@@ -8,9 +8,9 @@ import (
 //SubTrie subreddit trie
 type SubTrie struct {
 	ID        primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"`
-	Subname   string             `json:"subname,omitempty"`
-	BannerURL string             `json:"bannerurl,omitempty"`
-	Tree      prefix.Tree        `json:"tree,omitempty"`
+	Subname   string             `json:"subname,omitempty" bson:"subname,omitempty"`
+	BannerURL string             `json:"bannerurl,omitempty" bson:"bannerurl,omitempty"`
+	Tree      prefix.Tree        `json:"tree,omitempty" bson:"tree,omitempty"`
 }
 
 //UserProfile that goes into DB

@@ -123,14 +123,9 @@ func addKeywordToTrie(subname string, keyword string, username string) {
 
 //TODO: Optimize so only one get needs to be done for all subreddits
 func getTrieBanner(subname string) string {
-	//get trie from db
-	filter := bson.M{"subname": subname}
-	query := tries.FindOne(context.Background(), filter)
-
 	var trie SubTrie
-	//Decode db result into trie
-	query.Decode(&trie)
-
+	//get trie from db
+	tries.FindOne(context.Background(), SubTrie{Subname: subname}).Decode(&trie)
 	return trie.BannerURL
 }
 

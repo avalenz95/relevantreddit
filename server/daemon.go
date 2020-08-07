@@ -122,7 +122,7 @@ type notification struct {
 	msg      string
 }
 
-
+/*
 func notify() {
 	"reddit.com/api/compose", map[string]string{
 		"to":      user,
@@ -130,7 +130,7 @@ func notify() {
 		"text":    text,
 	},
 	//One line post request
-	frm := http.PostForm()
+	form := http.PostForm()
 	url := fmt.Sprintf("reddit.com/api/compose", subname)
 	request, err := http.NewRequest("GET", url, nil)
 	if err != nil {
@@ -140,7 +140,7 @@ func notify() {
 	request.Header.Set("User-Agent", fmt.Sprintf("relevant_for_reddit/0.0 (by /u/%s)", creds.Username))
 
 	sendRequest(request)
-}
+}*/
 
 func daemon() {
 	//Make a notification map
