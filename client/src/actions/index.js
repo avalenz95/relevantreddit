@@ -154,3 +154,44 @@ export const loadUserData = (username) => {
         }
     }
 }
+
+
+// Authentication
+export const LOAD_AUTH = 'LOAD_AUTH'
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_ERROR = 'AUTH_ERROR'
+
+
+export const authSuccess = () => {
+    return {
+        type: AUTH_SUCCESS
+    }
+}
+
+export const authError = (err) => {
+    return {
+        type: AUTH_ERROR,
+        payload: {err}
+    }
+}
+
+export const loadAuth = () => {
+    return async(dispatch) => {
+        // Build url
+        const url = "http://localhost:8080/r/login"
+        // Send a request
+        try {
+            const response = await fetch(url, {
+                method: 'GET',
+                mode: 'cors',
+                headers: {
+                    'Access-Control-Allow-Origin': '*',
+                }
+            })
+            dispatch(authSuccess())
+            window.location.assign(response.request.responseURL)
+        } catch(err) {
+            dispatch(authError(err))
+        }
+    }
+}

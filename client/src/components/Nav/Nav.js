@@ -1,25 +1,18 @@
 import React from 'react'
-import axios from 'axios'
-import { useSelector } from 'react-redux'
+import { useSelector, useDispatch } from 'react-redux'
 import './Nav.css'
+import { loadAuth } from '../../actions'
 
 
 //Navigation for website
 function Nav() {
-    const endpoint = "http://localhost:8080"
+    const dispatch = useDispatch()
     // name of reducer (its where the state is stored)
     const name = useSelector(state => state.name)
-
     //Authentication request
     function onAuth () {
-        axios.get(endpoint + "/r/login").then((response) => {
-            console.log(response)
-
-            window.location.assign(response.request.responseURL);
-            //window.open(response.request.responseURL, '_blank');
-        })
-     } 
-
+        dispatch(loadAuth())
+    } 
     return (
         <nav className="navbar">
             <div className="title">
