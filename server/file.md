@@ -1,4 +1,16 @@
-# Relevant for Reddit Digest for BlueWrath
+# Relevant for Reddit Digest for relred_throwaway
+<table>
+<tr style="color:red">
+<td>## relred_throwaway</td>
+</tr>
+
+<tr>
+<td>Comment contains test: 
+ Definitely agree to what was said! My sister was having the same problem. She does the job well! But her MUM says she’s too serious. Doesn’t smile. You don’t always have to be smiling but I was always told, if you want the part you gotta play the part. If your RDO or ACO is in you be a little more extra than usual smile a little more. One little technique I do is crack little jokes here and there with my team so I’m constantly smiling! Lol after months she passed her harvest program and is up for a kitchen test after that promotion to shift leader. You got this! Just remember like one of my girls used to say, lights, camera, action! Lol 
+</td>
+</tr>
+
+</table># Relevant for Reddit Digest for BlueWrath
 <table>
 <tr style="color:red">
 <td>## BlueWrath</td>
@@ -6,4754 +18,3526 @@
 
 <tr>
 <td>Comment contains Audi: 
- Rs front grille, bumper and splitter, black Audi rings  and black plasti dipped wheels 
+ I concur.  The LED DRLs on the 8.5 are one of the best DRL designs Audi ever produced.  I love the way they wrap around the whole light creating the "squinting eye" effect. [I am also biased.](https://imgur.com/a/0Pvgg0G) 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains Audi: 
- Congrats! Welcome to the Audi family, car looks stunning ;) 
+ Congrats! She's a beauty.
+
+
+
+Side note - I know where you got it! =) 
+Grew up next to Nashua, and as a kid, driving by the 2 Audi and Porsche dealers there I'd always tell myself one day I'd go back and get either one of those cars from either one of those dealerships. Still a dream in progress for me, but enjoy tearing up those streets! 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains strength: 
- Is this a good training split? I love strength training AND running so it’s hard to fit both in.
+<td>Comment contains lifting): 
+ 7 Months progress (1 Dieting and 6 lifting).
 
-Monday- running (usually 5 miles, walking and sprinting some if tired towards the end)
+120kg -&gt; 97kg 180cm
 
-Tuesday: legs
+https://i.imgur.com/HzafsN5.jpg
+
+Thoughts? (Sorry for shitty pics lol) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
  
-Wednesday: upper body, more back than chest
+25M / 5'8 / 176 lbs
 
-Thursday: cardio, running or swimming
+215 -&gt; 178 https://imgur.com/a/FrYGeig
 
-Friday: upper body, more chest than back
 
-Saturday: legs 
-
-Sunday: rest
-
-For reference I am a 20F, at about 20% bf. 5’6 and 125 lbs 
+Been dieting and lifting for the last year and a half, happy with the progress so far but my concern isn't really losing weight at this point, it's putting on muscle. Was wondering if anyone had any tips or critiques of perhaps body parts that seem lagging or just anything else they have noticed. Been doing 3 month rotations of NSuns and PPL both 6 times a week. Also eat 1850 calories a day with greater than 150 grams of protein and ~50 grams of fat. Whatever is left over is filled with carbs. If I had to guess I have another 20 lbs to lose 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- My goal is just to have abs and slim down I’m 5’8 158lbs. For the past month I’ve been doing those YouTube 30 mins hiit exercises and eating at a deficit.  I’m just not sure if it’s appropriate ideally I would hit the gym for weight lifting but they are closed. Anyone have any tips/advice 
-</td>
-</tr>
+ [M / 192cm / 19 / 188lbs ](https://imgur.com/gallery/ezZXlDH)
 
-<tr>
-<td>Comment contains lift: 
- Hi guys,before i hammer you with questions, i just show you how my current plan is and what i want to change to help me eliminate my weaknesses. (Original GZCL programm)
-
-Week 1
-
-* Monday
-
-T1 = Benchpress 3x5 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-This is repeated for the whole week with the different exercises. Basically my T1 lift, followed by one lift for the same muscle and 1 or 2 lifts for a different muscle group endig with an isolation exercise.
-
-The only thing that changes from week to week are the T1 reps/sets and percantages.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 2 looks like this :
-
-T1 = Benchpress 3x3 @ 90% last set AMRAP
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 3
-
-T1 = Benchpress 3x2 @ 95% + 1x5 @ 80%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 4
-
-T1 = Benchpress 2x2 @ 95% + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 5
-
-T1 = Benchpress 3x1 @ 100% AMRAP all sets + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-&amp;#x200B;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 6 deloade and week 7 is testing new maxes. Repeat
-
-&amp;#x200B;
-
-Soooo, how is this looking so far?Im not really sure what exactly the progression should look like from a workout to workout or even a "block" to "block" perspective. Im not a native english speaker, so even though i have codys book, it sometimes is a bit cumbersome to read it. The formatting i have through the amazon app is horrendous and i dont see it described anywhere in there. So if there is something i should change, please give me some pointers!
-
-Next question would be attacking my weak points. Im absolutely awful at deads for volume/reps. For the most part of my lifting career i, at most, did 2x5 or 3x2 for deads. This is biting me hard right know.For example, my max DL is around 250kg and while the plan says i should do 212 3x5, i cant do it, not even close. First set i get 4, second only 3, you get the picture. Same for the 3x3 AMRAP the next week, 3 reps on the first set and only 2 on the second.
-
-What i planed on doing is adding extra volume DLs to the plan on the shoulder day (which has the second back session). Seems that like a reasonable plan for fixing my god awful condition of volume DLs?
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Besides that, what is your approach to cutting? Its long overdue for me to start a cut or atleast a "recomp" but i have no clue what to do with my numbers. When i cant hit certain targets while in a defficit, should i just lower them some?
-
-&amp;#x200B;
-
-Some hepl will be greatly appreciated and thanks in advance my friends! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Hi guys,before i hammer you with questions, i just show you how my current plan is and what i want to change to help me eliminate my weaknesses. (Original GZCL programm)
-
-Week 1
-
-* Monday
-
-T1 = Benchpress 3x5 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-This is repeated for the whole week with the different exercises. Basically my T1 lift, followed by one lift for the same muscle and 1 or 2 lifts for a different muscle group endig with an isolation exercise.
-
-The only thing that changes from week to week are the T1 reps/sets and percantages.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 2 looks like this :
-
-T1 = Benchpress 3x3 @ 90% last set AMRAP
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 3
-
-T1 = Benchpress 3x2 @ 95% + 1x5 @ 80%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 4
-
-T1 = Benchpress 2x2 @ 95% + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 5
-
-T1 = Benchpress 3x1 @ 100% AMRAP all sets + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-&amp;#x200B;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 6 deloade and week 7 is testing new maxes. Repeat
-
-&amp;#x200B;
-
-Soooo, how is this looking so far?Im not really sure what exactly the progression should look like from a workout to workout or even a "block" to "block" perspective. Im not a native english speaker, so even though i have codys book, it sometimes is a bit cumbersome to read it. The formatting i have through the amazon app is horrendous and i dont see it described anywhere in there. So if there is something i should change, please give me some pointers!
-
-Next question would be attacking my weak points. Im absolutely awful at deads for volume/reps. For the most part of my lifting career i, at most, did 2x5 or 3x2 for deads. This is biting me hard right know.For example, my max DL is around 250kg and while the plan says i should do 212 3x5, i cant do it, not even close. First set i get 4, second only 3, you get the picture. Same for the 3x3 AMRAP the next week, 3 reps on the first set and only 2 on the second.
-
-What i planed on doing is adding extra volume DLs to the plan on the shoulder day (which has the second back session). Seems that like a reasonable plan for fixing my god awful condition of volume DLs?
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Besides that, what is your approach to cutting? Its long overdue for me to start a cut or atleast a "recomp" but i have no clue what to do with my numbers. When i cant hit certain targets while in a defficit, should i just lower them some?
-
-&amp;#x200B;
-
-Some hepl will be greatly appreciated and thanks in advance my friends! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Hi guys,before i hammer you with questions, i just show you how my current plan is and what i want to change to help me eliminate my weaknesses. (Original GZCL programm)
-
-Week 1
-
-* Monday
-
-T1 = Benchpress 3x5 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-This is repeated for the whole week with the different exercises. Basically my T1 lift, followed by one lift for the same muscle and 1 or 2 lifts for a different muscle group endig with an isolation exercise.
-
-The only thing that changes from week to week are the T1 reps/sets and percantages.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 2 looks like this :
-
-T1 = Benchpress 3x3 @ 90% last set AMRAP
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 3
-
-T1 = Benchpress 3x2 @ 95% + 1x5 @ 80%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 4
-
-T1 = Benchpress 2x2 @ 95% + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 5
-
-T1 = Benchpress 3x1 @ 100% AMRAP all sets + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-&amp;#x200B;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 6 deloade and week 7 is testing new maxes. Repeat
-
-&amp;#x200B;
-
-Soooo, how is this looking so far?Im not really sure what exactly the progression should look like from a workout to workout or even a "block" to "block" perspective. Im not a native english speaker, so even though i have codys book, it sometimes is a bit cumbersome to read it. The formatting i have through the amazon app is horrendous and i dont see it described anywhere in there. So if there is something i should change, please give me some pointers!
-
-Next question would be attacking my weak points. Im absolutely awful at deads for volume/reps. For the most part of my lifting career i, at most, did 2x5 or 3x2 for deads. This is biting me hard right know.For example, my max DL is around 250kg and while the plan says i should do 212 3x5, i cant do it, not even close. First set i get 4, second only 3, you get the picture. Same for the 3x3 AMRAP the next week, 3 reps on the first set and only 2 on the second.
-
-What i planed on doing is adding extra volume DLs to the plan on the shoulder day (which has the second back session). Seems that like a reasonable plan for fixing my god awful condition of volume DLs?
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Besides that, what is your approach to cutting? Its long overdue for me to start a cut or atleast a "recomp" but i have no clue what to do with my numbers. When i cant hit certain targets while in a defficit, should i just lower them some?
-
-&amp;#x200B;
-
-Some hepl will be greatly appreciated and thanks in advance my friends! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Hi guys,before i hammer you with questions, i just show you how my current plan is and what i want to change to help me eliminate my weaknesses. (Original GZCL programm)
-
-Week 1
-
-* Monday
-
-T1 = Benchpress 3x5 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-This is repeated for the whole week with the different exercises. Basically my T1 lift, followed by one lift for the same muscle and 1 or 2 lifts for a different muscle group endig with an isolation exercise.
-
-The only thing that changes from week to week are the T1 reps/sets and percantages.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 2 looks like this :
-
-T1 = Benchpress 3x3 @ 90% last set AMRAP
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 3
-
-T1 = Benchpress 3x2 @ 95% + 1x5 @ 80%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 4
-
-T1 = Benchpress 2x2 @ 95% + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&amp;#x200B;
-
-Week 5
-
-T1 = Benchpress 3x1 @ 100% AMRAP all sets + 3x3 @ 85%
-
-T2 = Highbar Squats 3x8
-
-T3 = Close grip BenchpressT3 = Split SquatsT3 = Hammer Curls
-
-&amp;#x200B;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Week 6 deloade and week 7 is testing new maxes. Repeat
-
-&amp;#x200B;
-
-Soooo, how is this looking so far?Im not really sure what exactly the progression should look like from a workout to workout or even a "block" to "block" perspective. Im not a native english speaker, so even though i have codys book, it sometimes is a bit cumbersome to read it. The formatting i have through the amazon app is horrendous and i dont see it described anywhere in there. So if there is something i should change, please give me some pointers!
-
-Next question would be attacking my weak points. Im absolutely awful at deads for volume/reps. For the most part of my lifting career i, at most, did 2x5 or 3x2 for deads. This is biting me hard right know.For example, my max DL is around 250kg and while the plan says i should do 212 3x5, i cant do it, not even close. First set i get 4, second only 3, you get the picture. Same for the 3x3 AMRAP the next week, 3 reps on the first set and only 2 on the second.
-
-What i planed on doing is adding extra volume DLs to the plan on the shoulder day (which has the second back session). Seems that like a reasonable plan for fixing my god awful condition of volume DLs?
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Besides that, what is your approach to cutting? Its long overdue for me to start a cut or atleast a "recomp" but i have no clue what to do with my numbers. When i cant hit certain targets while in a defficit, should i just lower them some?
-
-&amp;#x200B;
-
-Some hepl will be greatly appreciated and thanks in advance my friends! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I'd like to have you guys' feedback on my plan for the fall semester AKA the next 16 weeks.
-
-I'm going to bulk slowly (aiming to gain one or two pounds a month).
-
-Since my entire semester will be online, I have more flexibility with commute eliminated from my day. I'll be going to the gym 6 times a week, and doing cardio everyday.
-
-For lifting, I'm thinking about the 5/3/1 BBB program. I'm past the beginner phase (I can't linearly progress every day/week anymore at all). Since the 5/3/1 program is 4 days a week, I was thinking about doing a U/L/U/L/U/L/R split, essentially adding an extra upper and lower day where I'll work on accessories.
-
-This is the part where I'm not sure.
-
-For cardio, I have access to a pool (a building pool of unknown length unfortunately) and a rower machine.
-
-I want to do a beginner swimming program (like 0 to 1 mile) **and** a beginner rowing program.
-
-Is it too much? I was thinking about finding two programs that are both 3 days a week and alternate them.
-
-
-
-Thanks in advance for your input guys. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Do y'all think 3 sets of deadlifts a week (1 per gym day, taken as close to failure as I can without breaking form) are enough to progress? Been doing a total of 5 weekly sets but I get terrible acid reflux and my workouts go to shit afterwards, so I wanna try spreading them out more. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains (deadlift: 
- What would be the best day to add additional trap work to the Arnold split?
-
-For those unfamiliar the split is chest/back, shoulders/arms, legs.
-
-I’m considering on one of the leg days (deadlift day) but could also see how adding it to shoulder or back day would be a better choice. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Opinions on Push Pull Legs or Pull Push Legs to give my legs some time to rest after deadlifts on Pull day? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains dealifts: 
- are shrugs a waste of time? my trainer says they are and that doing dealifts and overhead presses are good enough.
-
-he basically mainly wants me to focus on dealifts, overhead presses, squats and bench presses.
-
-he also says incline bench presses are a waste of time and are hard on the shoulders... and that barbell curls aren't as good as dumbbell curls... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains dealifts: 
- are shrugs a waste of time? my trainer says they are and that doing dealifts and overhead presses are good enough.
-
-he basically mainly wants me to focus on dealifts, overhead presses, squats and bench presses.
-
-he also says incline bench presses are a waste of time and are hard on the shoulders... and that barbell curls aren't as good as dumbbell curls... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm doing weighted dips now. How much will this strength carry over into bench when I get access to a gym again 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Just eat anything to be honest. There's no real need to eat a specific food but I usually get the munchies after a 1.5h workout so I opt for something in line with my diet to get back some calories like a Banana and some nuts.
-
-Also I feel like the amount of coffeine can really impact the effect of your pre workout probably not in strength gains but in perception (i.e. feeling hyped up) I don't really feel you get the maximal potential out of a single coffe let alone a greentea . 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- The amount of caffeine you take pre workout absolutely matters. In fact, an ergogenic effect on strength is only evident after taking 3x body weight in milligrams of caffeine. Post workout- doesn’t really matter. As long as you getting carbs + protein somewhere before or after your workout you are fine.
-
-Edit: 3-6 milligrams per kilogram of body weight 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains VW/Audi: 
- Beautiful car, and dirt cheap to buy.
-
-&amp;#x200B;
-
-If you buy one, you need to have deep pockets for repair bills.  They are very complex cars, and have very expensive parts.  To pay 3-5 grand a year in maintenance wouldn't be unusual.  I used to work at VW/Audi, and although I love those cars, I would never own one because of the upkeep costs. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strengthening: 
- My left knee is feeling good today. My right knee is killing me. Pretty sure I fucked up something doing split squats the other day.
-
-It occurred to me that the split squats I've been doing for rehab are a *lot* more weight than I thought. I was doing it with a 25 lb curl bar thinking thats not much, but since a split squat is all one leg, that's basically twice the force. Probably not exactly, I probably use the back leg a bit, and it's nice to not put all the strain on my core, but that would explain why I feel so sore afterwards.
-
-Waiting impatiently for my fitness bands. I've seen a lot of improvements after adding clamshells to my rehab routine for my knees, but I see a lot of  PT guides suggesting banded monster walks for strengthening hip stabilizers. I'm pretty sure my knee pain is a result of insufficient stabilization after an ankle injury (got run over), and targeted stretches on the IT band and hip flexors have already helped tremendously. Just need a bit more and *maybe* I can put my chronic leg pain behind me. I'd love to get back into running and work towards my ultimate goal of doing a Spartan Beast. 
+Feel like i’m finally beginning to fill out, close to reaching near 15% BF. Dropped approx 30lbs of fat since the beginning of the year and began taking my lifting seriously around six months ago, what would you guys recommend I train more? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlift: 
- New gym owner decieded to buy a tv for the gym and put it above where people deadlift. So now people can’t even deadlift “louder” because he’s bitching about it. Guess what he plays on the tv? Random cringe videos and instagram thots from youtube. 
-</td>
-</tr>
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
 
-<tr>
-<td>Comment contains deadlift: 
- New gym owner decieded to buy a tv for the gym and put it above where people deadlift. So now people can’t even deadlift “louder” because he’s bitching about it. Guess what he plays on the tv? Random cringe videos and instagram thots from youtube. 
-</td>
-</tr>
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
 
-<tr>
-<td>Comment contains lifts: 
- lifts are still shit and weight loss is starting to plateau. feeling tired in the mornings too. 
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
+
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I workout from home doing beach body programs. No, I’m not a coach I just have 3 kids and it’s cheaper than a gym and more convenient then loading them up! Anyway, I have been doing a lifting program and need to up my weights but dumbbells have been out of stock for months. People are reselling them for triple price and I can barely afford normal price. 😐 
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
+
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
+
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
+
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Today was perhaps the worst squat day I ever had. I am relatively new to training back squats but I had previously squatted 225 for 3-4 reps on several occasions as a soft max of sorts.
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
 
-When I worked up to that weight, I just couldn’t handle it for whatever reason. Tried 225, crumpled under the weight half way out of the hole. Whatever - dropped down to 205 and failed AGAIN on the 3rd rep.
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
 
-Embarassing and baffling. But I had just went returned from taking a break of my cut in the last few days, perhaps that can explain the difference in strength. 
-</td>
-</tr>
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
 
-<tr>
-<td>Comment contains deadlift: 
- Moved, new gym dumbbells stop at 100lbs and if I’m going to deadlift it means no one else has plates and I feel rude af... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains (lifting: 
- I've been trying to start running in the evenings (lifting in the morning) but starts to fucking rain just exactly when I go out AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- Was doing some deadlifting today and a guy came up to me to ask me to move aside, the whole section of that gym was empty but where I was standing was the optimum spot for looking at yourself in the mirror. He asked me to move from there so he can stand there. I had to move other equipment away to make space for myself 😤was a bit annoyed! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- If I lift 60kg at bench press as my max weight, 2 sets of 50% max meaning training at 30kg for 12-15 reps ? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- While deadlifting should i just focus on getting the bar up while keeping my back straight or should i actually focus on the hip hinge? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Hello there! I am wondering if my work-out program is too harsh on my body without realising it and I need some advice.
-
-I am 18 years old girl and currently hit the gym for 5 times a week. 4 days I do weights and one day cardio, which is usually boxing and some HIIT.
-I have been training from an year and a couple of months. 
-
-My stats are:
-Height 161 cm
-Weight 50.3 kgs
-Goals: Currently, I just want to maintain and just be active, because I enjoy it!
-
-This is my current work-out plan. I do two times the Day 1 work-out and two times the Day 2 one. I am doing high reps.
-
-Day 1
-
-Upper Body (Back, Shoulders) :
-1. Shoulder Press 3x20 - Dumbbells 3 kgs
-2. Laternal Raise 3x20 Dumbbells 3kgs
-3. Barbell Rows 3x20 20 kgs
-4. Back hyperextensions 3x20 10 kg plate
-
-Lower Body:
-1. Leg Press 3x20 - 30 kgs
-2. Landmine thruster 3x15 20 kg
-3. Hip abduction 4x25 59kgs
-4. Hamstring curl 3x20 18kgs
-5. Single leg Romanian deadlift 3x20 Dumbbells 5kgs
-
-
-Day 2
-
-Upper Body (Chest, Bicep, Triceps) :
-1. Chest Cable Cross-over 3x20 5kgs
-2. Dips 3×5 + Chin ups 3x5 Bodyweight
-3. Bicep curls 3x15 Dubbells 3 kgs
-4. Tricep Pull Down 3x20 7,5 kgs
-
-Lower Body:
-1. Deadlift 4x25 15 kgs
-2. Squat 3x20 15kgs 20 kgs
-3. Kettlebell Swing 3x20 12 kgs
-4. Hip Thrust 3x20 20 kgs
-5. Glute kicks 3x15 5kgs 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- Hello there! I am wondering if my work-out program is too harsh on my body without realising it and I need some advice.
-
-I am 18 years old girl and currently hit the gym for 5 times a week. 4 days I do weights and one day cardio, which is usually boxing and some HIIT.
-I have been training from an year and a couple of months. 
-
-My stats are:
-Height 161 cm
-Weight 50.3 kgs
-Goals: Currently, I just want to maintain and just be active, because I enjoy it!
-
-This is my current work-out plan. I do two times the Day 1 work-out and two times the Day 2 one. I am doing high reps.
-
-Day 1
-
-Upper Body (Back, Shoulders) :
-1. Shoulder Press 3x20 - Dumbbells 3 kgs
-2. Laternal Raise 3x20 Dumbbells 3kgs
-3. Barbell Rows 3x20 20 kgs
-4. Back hyperextensions 3x20 10 kg plate
-
-Lower Body:
-1. Leg Press 3x20 - 30 kgs
-2. Landmine thruster 3x15 20 kg
-3. Hip abduction 4x25 59kgs
-4. Hamstring curl 3x20 18kgs
-5. Single leg Romanian deadlift 3x20 Dumbbells 5kgs
-
-
-Day 2
-
-Upper Body (Chest, Bicep, Triceps) :
-1. Chest Cable Cross-over 3x20 5kgs
-2. Dips 3×5 + Chin ups 3x5 Bodyweight
-3. Bicep curls 3x15 Dubbells 3 kgs
-4. Tricep Pull Down 3x20 7,5 kgs
-
-Lower Body:
-1. Deadlift 4x25 15 kgs
-2. Squat 3x20 15kgs 20 kgs
-3. Kettlebell Swing 3x20 12 kgs
-4. Hip Thrust 3x20 20 kgs
-5. Glute kicks 3x15 5kgs 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- #  Monday / Friday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*Back Squat - 2 x 5
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Bench Press - 3 x 5
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Pull Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-* \*\*Overhead Press - 3 x 8 - 11
-* \*\*Barbell Curl - 3 x 8 - 11
-
-# Wednesday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Sumo Deadlift - 1 x 5
-* \*\*Romanian Deadlift - 3 x 8 - 11
-* \*Overhead Press - 3 x 5
-* \*\*Lateral Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Rear Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Chin Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-
-# Note
-
-* \*Add 2.5kg every week, Drop 5kg every 5th week
-* \*\* Increase the number of repetitions by 1 every week, when the number of repetitions reaches 12, add 2.5 kg, reduce the repetition to 8
-* Weights are static, all sets of an exercise is performed with the same weight
-* Rest time is 90 seconds
-
-Hey guys, this is the workout program that I do for 2 months so far. Before this program, I trained with 5x5 for 6 months. What I want to achieve with this program is that keeping strength of my lower body in a certain level while strengthening my upper body.
-
-Tell me what are the pros and cons of my program, what i should fix and if it is fit for my goal. Is the volume too low or high for my fitness level? Is the 3 times in a week enough for my program? and etc. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- #  Monday / Friday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*Back Squat - 2 x 5
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Bench Press - 3 x 5
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Pull Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-* \*\*Overhead Press - 3 x 8 - 11
-* \*\*Barbell Curl - 3 x 8 - 11
-
-# Wednesday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Sumo Deadlift - 1 x 5
-* \*\*Romanian Deadlift - 3 x 8 - 11
-* \*Overhead Press - 3 x 5
-* \*\*Lateral Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Rear Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Chin Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-
-# Note
-
-* \*Add 2.5kg every week, Drop 5kg every 5th week
-* \*\* Increase the number of repetitions by 1 every week, when the number of repetitions reaches 12, add 2.5 kg, reduce the repetition to 8
-* Weights are static, all sets of an exercise is performed with the same weight
-* Rest time is 90 seconds
-
-Hey guys, this is the workout program that I do for 2 months so far. Before this program, I trained with 5x5 for 6 months. What I want to achieve with this program is that keeping strength of my lower body in a certain level while strengthening my upper body.
-
-Tell me what are the pros and cons of my program, what i should fix and if it is fit for my goal. Is the volume too low or high for my fitness level? Is the 3 times in a week enough for my program? and etc. 
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- #  Monday / Friday
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
 
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*Back Squat - 2 x 5
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Bench Press - 3 x 5
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Pull Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-* \*\*Overhead Press - 3 x 8 - 11
-* \*\*Barbell Curl - 3 x 8 - 11
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
 
-# Wednesday
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
 
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Sumo Deadlift - 1 x 5
-* \*\*Romanian Deadlift - 3 x 8 - 11
-* \*Overhead Press - 3 x 5
-* \*\*Lateral Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Rear Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Chin Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-
-# Note
-
-* \*Add 2.5kg every week, Drop 5kg every 5th week
-* \*\* Increase the number of repetitions by 1 every week, when the number of repetitions reaches 12, add 2.5 kg, reduce the repetition to 8
-* Weights are static, all sets of an exercise is performed with the same weight
-* Rest time is 90 seconds
-
-Hey guys, this is the workout program that I do for 2 months so far. Before this program, I trained with 5x5 for 6 months. What I want to achieve with this program is that keeping strength of my lower body in a certain level while strengthening my upper body.
-
-Tell me what are the pros and cons of my program, what i should fix and if it is fit for my goal. Is the volume too low or high for my fitness level? Is the 3 times in a week enough for my program? and etc. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strengthening: 
- #  Monday / Friday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*Back Squat - 2 x 5
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Bench Press - 3 x 5
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Pull Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-* \*\*Overhead Press - 3 x 8 - 11
-* \*\*Barbell Curl - 3 x 8 - 11
-
-# Wednesday
-
-* 5 Minutes Warm-Up
-* Cable Face Pull - 2 x 12
-* \*\*Front Squat - 2 x 8 - 11 ( Clean from the ground by Power Clean)
-* \*Sumo Deadlift - 1 x 5
-* \*\*Romanian Deadlift - 3 x 8 - 11
-* \*Overhead Press - 3 x 5
-* \*\*Lateral Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Rear Delt Dumbbell Raise - 2 x 8 - 11
-* \*\*Paused Bench Press - 3 x 8 - 11
-* \*Weighted Chin Up - 3 x 5
-* \*\*Seated Cable Row - 3 x 8 - 11
-
-# Note
-
-* \*Add 2.5kg every week, Drop 5kg every 5th week
-* \*\* Increase the number of repetitions by 1 every week, when the number of repetitions reaches 12, add 2.5 kg, reduce the repetition to 8
-* Weights are static, all sets of an exercise is performed with the same weight
-* Rest time is 90 seconds
-
-Hey guys, this is the workout program that I do for 2 months so far. Before this program, I trained with 5x5 for 6 months. What I want to achieve with this program is that keeping strength of my lower body in a certain level while strengthening my upper body.
-
-Tell me what are the pros and cons of my program, what i should fix and if it is fit for my goal. Is the volume too low or high for my fitness level? Is the 3 times in a week enough for my program? and etc. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I started lifting weights recently but i have a question. How long in between sessions should i rest? I was lifting on monday and did a session today so about 48 hours in between. Is that enough to maximize my muscle growth? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I started lifting weights recently but i have a question. How long in between sessions should i rest? I was lifting on monday and did a session today so about 48 hours in between. Is that enough to maximize my muscle growth? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifted: 
- Question about routines and cutting - which program did you find to be successful on a cut?  I’m going to start a cut for the next 16 weeks - basically 1 lb/week goal - and am also ready to start a new program in a couple weeks once I get my “gym legs” back.  I’ve never lost weight and seriously lifted at the same time - I’ve done one or the other.
-
-Context - I get about 60-70 minutes a day for lifting, up to 5 days a week.  I looked at nSuns and PHAT, but those look like they take 90-120 min to really complete (never run them, so don’t know).  I also looked at A2S2, both the linear and the RTF - I thought about doing the second and third blocks.  5/3/1 and Think Big look awesome, but I understand Wendler and Pollack have both recommend against running these on a cut.
-
-Any recommendations? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Question about routines and cutting - which program did you find to be successful on a cut?  I’m going to start a cut for the next 16 weeks - basically 1 lb/week goal - and am also ready to start a new program in a couple weeks once I get my “gym legs” back.  I’ve never lost weight and seriously lifted at the same time - I’ve done one or the other.
-
-Context - I get about 60-70 minutes a day for lifting, up to 5 days a week.  I looked at nSuns and PHAT, but those look like they take 90-120 min to really complete (never run them, so don’t know).  I also looked at A2S2, both the linear and the RTF - I thought about doing the second and third blocks.  5/3/1 and Think Big look awesome, but I understand Wendler and Pollack have both recommend against running these on a cut.
-
-Any recommendations? 
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
-  
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
 
-I am 18M and weigh 120lbs and 5'7. I just moved back into college and I am looking for some advice on my workout plan. My gym is only open at 1-hour sessions at a time but I can sign up multiple times a day. My current plan is from a coach back in high school where it focuses on muscle building and strength so lots of free weights and machines to build supporting muscles. I am lacking cardio and ab work in this plan though. My plan is during the week do one session of cardio (most likely erging because I dislike running and I rowed my 4 years in high school) then do a session of weightlifting afterward. Then on the weekends, I would do yoga and ab work with Wednesday being my rest day. I am just looking for advice/thoughts on how I could better execute and advice on the workouts in general. I also need help with what workouts to do during the cardio session and Ill post the strength training below. Any help would be greatly appreciated in my path to gains!
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
 
-&amp;#x200B;
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
 
-Monday: Leg Day
-
-Squats 5x5
-
-Leg Press Machine 3x8
-
-Hamstring Curl 3x8
-
-Weighted Calf Raises (standing or seated) 3x8
-
-&amp;#x200B;
-
-Tuesday: Chest and Triceps
-
-Bench Press 5x5
-
-Fly Machine 3x8
-
-Dips 3x8
-
-Overhead Tricep Extension 3x8
-
-Tricep Cable Pushdowns 3x8
-
-&amp;#x200B;
-
-Wednesday: Rest
-
-&amp;#x200B;
-
-Thursday: Biceps and Back
-
-Deadlifts 5x5
-
-Bent over Barbell rows 3x8
-
-Seated Rows 3x8
-
-Lat Pulldowns 3x8
-
-Hammer curls 3x8
-
-EZ-curl bar 3x8
-
-Bonus - Preacher Curls 3x8
-
-&amp;#x200B;
-
-Friday: Shoulders
-
-Dumbell Lateral Raise 3x8
-
-Plate Front Raise 3x8
-
-Reverse Machine Fly 3x8
-
-Dumbell Overhead Press 3x8
-
-Bonus - Shrugs 3x8 
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains weightlifting: 
-  
+<td>Comment contains Deadlift:: 
+ [29M/6'3"/185lbs](http://imgur.com/a/cMq6UuF)
 
-I am 18M and weigh 120lbs and 5'7. I just moved back into college and I am looking for some advice on my workout plan. My gym is only open at 1-hour sessions at a time but I can sign up multiple times a day. My current plan is from a coach back in high school where it focuses on muscle building and strength so lots of free weights and machines to build supporting muscles. I am lacking cardio and ab work in this plan though. My plan is during the week do one session of cardio (most likely erging because I dislike running and I rowed my 4 years in high school) then do a session of weightlifting afterward. Then on the weekends, I would do yoga and ab work with Wednesday being my rest day. I am just looking for advice/thoughts on how I could better execute and advice on the workouts in general. I also need help with what workouts to do during the cardio session and Ill post the strength training below. Any help would be greatly appreciated in my path to gains!
+9 months between the left and right - on the left I was 235, on the right 185. Just looking for a little feedback on my physique progress and what I should maybe work on next. Lower body isn't pictured because I already know it needs to grow, although I feel like my squat and deadlift are bigger than you'd expect by looking at these chicken legs.
 
-&amp;#x200B;
+I was always extremely skinny as a teenager (about 165-170lbs at 6'3") and never did a minute of exercise outside of some outdoor sports occasionally - didn't start lifting until about 24. Bulked up and gained a lot of strength in the first phase of the journey, but it was mostly just fucking around and moving weight without any real programming, so I didn't make as much strength progress as I should have. I eventually got up to the 235 you see on the left and realized I was gaining more fat than muscle, so I went on the first cut of my life for 9 months and lost 50 lbs. I lost quite a bit of strength at first, but am now just about back at the numbers I was doing at my heaviest (I currently weigh 195). These are my best estimates for my 1RMs in lbs -
 
-Monday: Leg Day
-
-Squats 5x5
-
-Leg Press Machine 3x8
-
-Hamstring Curl 3x8
-
-Weighted Calf Raises (standing or seated) 3x8
-
-&amp;#x200B;
-
-Tuesday: Chest and Triceps
-
-Bench Press 5x5
-
-Fly Machine 3x8
-
-Dips 3x8
-
-Overhead Tricep Extension 3x8
-
-Tricep Cable Pushdowns 3x8
-
-&amp;#x200B;
-
-Wednesday: Rest
-
-&amp;#x200B;
-
-Thursday: Biceps and Back
-
-Deadlifts 5x5
-
-Bent over Barbell rows 3x8
-
-Seated Rows 3x8
-
-Lat Pulldowns 3x8
-
-Hammer curls 3x8
-
-EZ-curl bar 3x8
-
-Bonus - Preacher Curls 3x8
-
-&amp;#x200B;
-
-Friday: Shoulders
-
-Dumbell Lateral Raise 3x8
-
-Plate Front Raise 3x8
-
-Reverse Machine Fly 3x8
-
-Dumbell Overhead Press 3x8
-
-Bonus - Shrugs 3x8 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
-  
-
-I am 18M and weigh 120lbs and 5'7. I just moved back into college and I am looking for some advice on my workout plan. My gym is only open at 1-hour sessions at a time but I can sign up multiple times a day. My current plan is from a coach back in high school where it focuses on muscle building and strength so lots of free weights and machines to build supporting muscles. I am lacking cardio and ab work in this plan though. My plan is during the week do one session of cardio (most likely erging because I dislike running and I rowed my 4 years in high school) then do a session of weightlifting afterward. Then on the weekends, I would do yoga and ab work with Wednesday being my rest day. I am just looking for advice/thoughts on how I could better execute and advice on the workouts in general. I also need help with what workouts to do during the cardio session and Ill post the strength training below. Any help would be greatly appreciated in my path to gains!
-
-&amp;#x200B;
-
-Monday: Leg Day
-
-Squats 5x5
-
-Leg Press Machine 3x8
-
-Hamstring Curl 3x8
-
-Weighted Calf Raises (standing or seated) 3x8
-
-&amp;#x200B;
-
-Tuesday: Chest and Triceps
-
-Bench Press 5x5
-
-Fly Machine 3x8
-
-Dips 3x8
-
-Overhead Tricep Extension 3x8
-
-Tricep Cable Pushdowns 3x8
-
-&amp;#x200B;
-
-Wednesday: Rest
-
-&amp;#x200B;
-
-Thursday: Biceps and Back
-
-Deadlifts 5x5
-
-Bent over Barbell rows 3x8
-
-Seated Rows 3x8
-
-Lat Pulldowns 3x8
-
-Hammer curls 3x8
-
-EZ-curl bar 3x8
-
-Bonus - Preacher Curls 3x8
-
-&amp;#x200B;
-
-Friday: Shoulders
-
-Dumbell Lateral Raise 3x8
-
-Plate Front Raise 3x8
-
-Reverse Machine Fly 3x8
-
-Dumbell Overhead Press 3x8
-
-Bonus - Shrugs 3x8 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlifts: 
-  
-
-I am 18M and weigh 120lbs and 5'7. I just moved back into college and I am looking for some advice on my workout plan. My gym is only open at 1-hour sessions at a time but I can sign up multiple times a day. My current plan is from a coach back in high school where it focuses on muscle building and strength so lots of free weights and machines to build supporting muscles. I am lacking cardio and ab work in this plan though. My plan is during the week do one session of cardio (most likely erging because I dislike running and I rowed my 4 years in high school) then do a session of weightlifting afterward. Then on the weekends, I would do yoga and ab work with Wednesday being my rest day. I am just looking for advice/thoughts on how I could better execute and advice on the workouts in general. I also need help with what workouts to do during the cardio session and Ill post the strength training below. Any help would be greatly appreciated in my path to gains!
-
-&amp;#x200B;
-
-Monday: Leg Day
-
-Squats 5x5
-
-Leg Press Machine 3x8
-
-Hamstring Curl 3x8
-
-Weighted Calf Raises (standing or seated) 3x8
-
-&amp;#x200B;
-
-Tuesday: Chest and Triceps
-
-Bench Press 5x5
-
-Fly Machine 3x8
-
-Dips 3x8
-
-Overhead Tricep Extension 3x8
-
-Tricep Cable Pushdowns 3x8
-
-&amp;#x200B;
-
-Wednesday: Rest
-
-&amp;#x200B;
-
-Thursday: Biceps and Back
-
-Deadlifts 5x5
-
-Bent over Barbell rows 3x8
-
-Seated Rows 3x8
-
-Lat Pulldowns 3x8
-
-Hammer curls 3x8
-
-EZ-curl bar 3x8
-
-Bonus - Preacher Curls 3x8
-
-&amp;#x200B;
-
-Friday: Shoulders
-
-Dumbell Lateral Raise 3x8
-
-Plate Front Raise 3x8
-
-Reverse Machine Fly 3x8
-
-Dumbell Overhead Press 3x8
-
-Bonus - Shrugs 3x8 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I wanted an easy squat variation to do after deadlifts, so i thought id do front squats. long story short, I am not flexible enough and it murdered my knees and bruised my shoulders.
-
-Whats a good squat variation to do after deadlifts?
-
-and whats the best way to improve flexibility for front squats? I think both my thoracic and ankle mobility is lacking. I dont own weightlifting shoes so i squat barefoot. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts?: 
- I wanted an easy squat variation to do after deadlifts, so i thought id do front squats. long story short, I am not flexible enough and it murdered my knees and bruised my shoulders.
-
-Whats a good squat variation to do after deadlifts?
-
-and whats the best way to improve flexibility for front squats? I think both my thoracic and ankle mobility is lacking. I dont own weightlifting shoes so i squat barefoot. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- I wanted an easy squat variation to do after deadlifts, so i thought id do front squats. long story short, I am not flexible enough and it murdered my knees and bruised my shoulders.
-
-Whats a good squat variation to do after deadlifts?
-
-and whats the best way to improve flexibility for front squats? I think both my thoracic and ankle mobility is lacking. I dont own weightlifting shoes so i squat barefoot. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- A question about alcohol and when to drink in order to minimize negative effects
-
-
-So I’m running an UL UL split as follows: 
-
-Sunday - off, Monday - Upper, Tuesday - Lower, Wednesday - off, Thursday - Upper, Friday - Lower, Saturday - off
-
-I usually drink on Saturday’s each week with my mates and we all get pretty drunk. I’m well aware of how it negatively effects muscle protein synthesis and reduces testosterone/growth hormone. I recently realized that drinking the day after lifting is still bad even though it’s an off day because the recovery process is mainly within the first 48 hours. I am considering changing my split so that it looks like this:
-
-Sunday - Upper, Monday - Lower, Tuesday - Off, Wednesday - Upper, Thursday - Lower, Friday - off, Saturday - off
-
-I usually lift in the evenings so I’m not worried about a hangover affecting my lifting capability. Any thoughts? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- A question about alcohol and when to drink in order to minimize negative effects
-
-
-So I’m running an UL UL split as follows: 
-
-Sunday - off, Monday - Upper, Tuesday - Lower, Wednesday - off, Thursday - Upper, Friday - Lower, Saturday - off
-
-I usually drink on Saturday’s each week with my mates and we all get pretty drunk. I’m well aware of how it negatively effects muscle protein synthesis and reduces testosterone/growth hormone. I recently realized that drinking the day after lifting is still bad even though it’s an off day because the recovery process is mainly within the first 48 hours. I am considering changing my split so that it looks like this:
-
-Sunday - Upper, Monday - Lower, Tuesday - Off, Wednesday - Upper, Thursday - Lower, Friday - off, Saturday - off
-
-I usually lift in the evenings so I’m not worried about a hangover affecting my lifting capability. Any thoughts? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- A question about alcohol and when to drink in order to minimize negative effects
-
-
-So I’m running an UL UL split as follows: 
-
-Sunday - off, Monday - Upper, Tuesday - Lower, Wednesday - off, Thursday - Upper, Friday - Lower, Saturday - off
-
-I usually drink on Saturday’s each week with my mates and we all get pretty drunk. I’m well aware of how it negatively effects muscle protein synthesis and reduces testosterone/growth hormone. I recently realized that drinking the day after lifting is still bad even though it’s an off day because the recovery process is mainly within the first 48 hours. I am considering changing my split so that it looks like this:
-
-Sunday - Upper, Monday - Lower, Tuesday - Off, Wednesday - Upper, Thursday - Lower, Friday - off, Saturday - off
-
-I usually lift in the evenings so I’m not worried about a hangover affecting my lifting capability. Any thoughts? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm looking to get some simple home workout equipment for strength training, and am looking at dumbbells. I don't want to dedicate a lot of space to storing workout equipment. Are adjustable dumbbells worth the cost for someone like me? Or might i be better served just buying two or three pairs of nonadjustable dumbbells? How often am I likely to grow out of dumbbells as I build muscle? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Is it normal when cutting or gaining to look worse during the middle phase of it? When I bulk there’s a certain “sweet spot” where I don’t look too flabby, and pretty solid. Now that I’m cutting I look like I don’t even lift.
-
-Is it a matter of just getting through this body fat% range until it looks good? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I am new to weight lifting. Like, very new. Like, I haven't even purchased a weight set yet. 😆
-
-My main question that I've never really understood is, how much control does a guy have over the shape of his body after lifting weights, and how much is genetic? I have a pretty good idea of the final shape I want to achieve, but I want to be realistic at the same time. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I am new to weight lifting. Like, very new. Like, I haven't even purchased a weight set yet. 😆
-
-My main question that I've never really understood is, how much control does a guy have over the shape of his body after lifting weights, and how much is genetic? I have a pretty good idea of the final shape I want to achieve, but I want to be realistic at the same time. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- around .8g per lb of lean body mass (at 0% body fat). so if you're trying to be at 150 lbs and 10% body fat, that is a minimum of 108g protein. unless you're on anabolics and lifting double sessions 6 days per week, 1g per lb of total body mass is completely unnecessary. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifter: 
- A meta-analysis of 49 different studies showed that the muscle building benefits of protein greatly plateau after about 0.7-0.8g per pound of bodyweight, or around 1g per pound of lean body mass. Unless you are a very experienced or enhanced lifter, you are probably fine just sticking with the 0.7-0.8 figure.
-
-&amp;#x200B;
-
-[https://muscleevo.net/how-much-protein-build-muscle/](https://muscleevo.net/how-much-protein-build-muscle/) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- This is purely anecdotal, but I've been lifting and training martial arts regularly since 2008. For most of it I never had a body composition I liked. My lowest body fat percentage achieved when I was trying to figure all this out by myself in terms of macros was 18%. Trying to train and gain clean mass is hard. And in my experience you'll only feel good about the weight you put on when you are eating more protein. I'm 5'7 and average around 195-205 pounds. On my high activity days I eat 230g, low activity days I'm eating 210, and this is where I feel best. I generally don't feel strong or recover well when I eat below 170. I would suggest you try 180g for a few weeks and see how your muscles feel. Considering you are 5'9, your frame can handle it so long as you're eating lean meat. The biggest mistake a lot of people make when they eat on a surplus to gain is too much fat and bad carbs. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifters: 
- &gt; If you’re of healthy weight, active, and wish to build muscle, aim for 1.6–2.4 g/kg (0.73–1.10 g/lb). Intakes as high as 3.3 g/kg may help experienced lifters minimize fat gain when bulking.
-
-https://examine.com/nutrition/how-much-protein-do-you-need/
-
-All you need to know about protein intake is in this article. It covers protein ranges based on all relevant factors and discusses the research behind those guidelines in great depth. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifted: 
- What would be a good routine to follow for someone who lifted weights on and off before and now is slowly learning the form for the compound lifts but still wants to see hypertrophy (since I can’t go too hard on the main lifts because of bad form/posture). 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- What would be a good routine to follow for someone who lifted weights on and off before and now is slowly learning the form for the compound lifts but still wants to see hypertrophy (since I can’t go too hard on the main lifts because of bad form/posture). 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- What would be a good routine to follow for someone who lifted weights on and off before and now is slowly learning the form for the compound lifts but still wants to see hypertrophy (since I can’t go too hard on the main lifts because of bad form/posture). 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- If knots are from overusing the muscle, why do I get them after lifting two days in a row? I don’t think this is a rule 6 question. It’s just super frustrating. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strengthening: 
- I injured a left chest muscle a while ago, and took a break from doing most chest exercises altogether. After a while, my right chest became noticeably bigger just because I was using it more in compound exercises and everyday life.
-
-Now that I’m back at it, I’m having a lot of trouble on the left side. When I use a pec deck, for example, (I’m still doing more machines than free weights, I’m a little scared to jump right back into free weights tbh) I notice that my shoulder and arm get much more fatigued on my left than on my right side. In other words, it seems like I’m primarily using my shoulder and arm muscles on the left instead of my chest muscles.
-
-I’ve tried doing exercises with only my left side and had generally the same results. I think that since I stopped using my chest, but kept strengthening my shoulders and arms, they’re now strong enough to just take over for my weakened chest.
-
-I don’t really know how to get back to normal. It seems like everything I’m doing is just strengthening my shoulder, which will make me even more lopsided. Any advice would be much appreciated, thanks. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strengthening: 
- I injured a left chest muscle a while ago, and took a break from doing most chest exercises altogether. After a while, my right chest became noticeably bigger just because I was using it more in compound exercises and everyday life.
-
-Now that I’m back at it, I’m having a lot of trouble on the left side. When I use a pec deck, for example, (I’m still doing more machines than free weights, I’m a little scared to jump right back into free weights tbh) I notice that my shoulder and arm get much more fatigued on my left than on my right side. In other words, it seems like I’m primarily using my shoulder and arm muscles on the left instead of my chest muscles.
-
-I’ve tried doing exercises with only my left side and had generally the same results. I think that since I stopped using my chest, but kept strengthening my shoulders and arms, they’re now strong enough to just take over for my weakened chest.
-
-I don’t really know how to get back to normal. It seems like everything I’m doing is just strengthening my shoulder, which will make me even more lopsided. Any advice would be much appreciated, thanks. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Hi guys noob question here. Started doing back workouts but I don’t feel any soreness? Does that mean I am not lifting enough/form is incorrect? Any good back dumbbell form videos to share? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Do I need to escalate warmup sets for every lift in my plan or just for the initial movement? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Newcomer to this sub, I've been lifting with dumbbells (all I have access to atm) and was wondering if there was a major difference in lifting progressive weight with diminishing reps (say 12x 35lbs 10x 40lbs 8x 45lbs and 6x 50lbs) vs. doing multiple rounds of the same reps with the same weight (4x (12x 40lbs). Just trying to get the most bang for my buck rep-wise, if there is a difference. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Newcomer to this sub, I've been lifting with dumbbells (all I have access to atm) and was wondering if there was a major difference in lifting progressive weight with diminishing reps (say 12x 35lbs 10x 40lbs 8x 45lbs and 6x 50lbs) vs. doing multiple rounds of the same reps with the same weight (4x (12x 40lbs). Just trying to get the most bang for my buck rep-wise, if there is a difference. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Please rate, criticize and help me to improve my current routine. The main ideas are 3 big lifts with 3 minute rest periods and 2 pairs of superset accessories with short rest in-between. I want to start with back exercises to have better mind muscle connection with my lats during heavy lifts. My goal is to have healthy posture and strong forearms. 6' 180lbs 27, orm 1/2/3/3.5
-
-A
-
-RING PULL UPS 4x5
-
-DEADLIFT 3x5
-
-OVERHEAD PRESS 3x5
-
-lat side raise 2x12
-
-straight arm pull 2x12
-
-pec flys 2x12
-
-rotator cuff 2x12
-
-B
-
-INVERTED ROW 4x5
-
-SQUAT 3x5
-
-DIPS 3x5
-
-leg raise 2xF
-
-hip thrust 2x12
-
-wrist roller 2x45s
-
-facepulls 2x12
-
-C
-
-DMB/PENDLEY ROW 4x5
-
-FARMER WALK 3x50m
-
-INCLINE/FLAT PRESS 3x5
-
-lunges 2x12
-
-ab wheel 2x45s
-
-overhead tricep 2x12
-
-hammer curls 2x12
-
-AxBxCxx
-
-MAIN DROP SETS supersets pairs if you can do more reps, then add 1kg for upper body or 2kg for lower body per week 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Please rate, criticize and help me to improve my current routine. The main ideas are 3 big lifts with 3 minute rest periods and 2 pairs of superset accessories with short rest in-between. I want to start with back exercises to have better mind muscle connection with my lats during heavy lifts. My goal is to have healthy posture and strong forearms. 6' 180lbs 27, orm 1/2/3/3.5
-
-A
-
-RING PULL UPS 4x5
-
-DEADLIFT 3x5
-
-OVERHEAD PRESS 3x5
-
-lat side raise 2x12
-
-straight arm pull 2x12
-
-pec flys 2x12
-
-rotator cuff 2x12
-
-B
-
-INVERTED ROW 4x5
-
-SQUAT 3x5
-
-DIPS 3x5
-
-leg raise 2xF
-
-hip thrust 2x12
-
-wrist roller 2x45s
-
-facepulls 2x12
-
-C
-
-DMB/PENDLEY ROW 4x5
-
-FARMER WALK 3x50m
-
-INCLINE/FLAT PRESS 3x5
-
-lunges 2x12
-
-ab wheel 2x45s
-
-overhead tricep 2x12
-
-hammer curls 2x12
-
-AxBxCxx
-
-MAIN DROP SETS supersets pairs if you can do more reps, then add 1kg for upper body or 2kg for lower body per week 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Anyone just lose the will to do cardio during weight loss? Kinda where I’m at rn, I happily do my lifts, but there’s just no enthusiasm for cardio and I just kinda lose the will to do it halfway through 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Alright ladies and gentlemen, this might be a moderately long post, however, I'm in dire need of input. On the one side, we have John Meadows' programs, which I have tried running, but get absolutely trashed after 2-3 weeks, and on the other side we have the rep/set/load week to week build up from Renaissance Periodization. 
-
-I am currently running RP Templates, however, my friend who has been lifting for less time than me, is generally more athletic in background and better built genetically, who is also stronger-ish than me on most movements, completely throws off the RP training style and is a John Meadows disciple. He's forcing me almost to run the Warlock Program which I've seen has most sets at RPE 9 week to week, just short of the maximum recoverable volume for most people (e.g. 17 sets for chest, 17 sets for back, 15 sets quads). 
-
-My question to you oh so numerous and experienced redditors is: Am I missing out on something here, is one or the other flat out wrong or better, what is your experience with training approaches such as these? Thank you?
-
-TL;DR John Meadows approach/ Renaissance Periodization approach 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlifts: 
- I really don't enjoy or feel the benefits of Romanian Deadlifts. Are they fairly essential? If not, any alternatives you would suggest? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- I read the wiki while looking for a fitness routine. However I don’t like HIIT and I also had some troubles with using the barbell instead of dumbells. I also really like exercises like adductor, abductor, and hip thrust so I tried to include these as well. Can someone give me feedback whether this is ok for a beginner? I will exchange workout A and B and try to go to the gym 3 times a week. I will try to do couch to 5K the other 3 days in the week and have one rest day. 
-
-I’m btw 22 year old female and weight around 64kg now. My goal is to get to 55kg. 
-
-
-Warming up:
-• Stationary bike 10 min
-• Rowing machine 10 min 
-• Step machine 10 min 
-
-Workout A: upper body
-• Lat pull down 3x15
-• Standing dumbells press 3x15
-• Barbell row 3x15
-• Barbell press 3x15
-
-Workout B: lower body
-• Deadlift 3x15
-• Squat 3x15
-• Abductor 3x15 
-• Adductor 3x15
-• Hip thrust 3x15
-
-Cool down: 
-Stair masters 30 min 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I’m in my early 30s, trying to build some muscle and improve cardiovascular health at the same time. I’m 5ft 10, about 158lbs. My primary goal is to build muscle but I also value cardio health. I’ve been roughly following the PPL routine. Monday is push plus squats. Tuesday is pull. Wednesday is a fasting day, with no lifting. Thursday is push, and Friday is pull day with deadlifts. Saturday’s I’ll sometimes do some extra chest and/or legs. 
-
-How can I maximize cardio with that schedule?
-
-I have been doing a pretty slow mile jog up lots of hills in my neighborhood before lifting in early morning hours. Tuesday and Fridays or Saturdays I have been running hill sprints as a form of HIIT in the afternoons. And for the past few weeks, I’ve been running a slow 5k on my rest/fasting day on Wednesdays. 
-
-I try to intersperse some leisurely walks through out my day, about 2 miles total. 
-
-I don’t really enjoy any of the running. I’m naturally inclined toward sprinting so I dislike it less, but having ran a 5k for the first time a few weeks ago feels good to have accomplished too. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I’m in my early 30s, trying to build some muscle and improve cardiovascular health at the same time. I’m 5ft 10, about 158lbs. My primary goal is to build muscle but I also value cardio health. I’ve been roughly following the PPL routine. Monday is push plus squats. Tuesday is pull. Wednesday is a fasting day, with no lifting. Thursday is push, and Friday is pull day with deadlifts. Saturday’s I’ll sometimes do some extra chest and/or legs. 
-
-How can I maximize cardio with that schedule?
-
-I have been doing a pretty slow mile jog up lots of hills in my neighborhood before lifting in early morning hours. Tuesday and Fridays or Saturdays I have been running hill sprints as a form of HIIT in the afternoons. And for the past few weeks, I’ve been running a slow 5k on my rest/fasting day on Wednesdays. 
-
-I try to intersperse some leisurely walks through out my day, about 2 miles total. 
-
-I don’t really enjoy any of the running. I’m naturally inclined toward sprinting so I dislike it less, but having ran a 5k for the first time a few weeks ago feels good to have accomplished too. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I’m in my early 30s, trying to build some muscle and improve cardiovascular health at the same time. I’m 5ft 10, about 158lbs. My primary goal is to build muscle but I also value cardio health. I’ve been roughly following the PPL routine. Monday is push plus squats. Tuesday is pull. Wednesday is a fasting day, with no lifting. Thursday is push, and Friday is pull day with deadlifts. Saturday’s I’ll sometimes do some extra chest and/or legs. 
-
-How can I maximize cardio with that schedule?
-
-I have been doing a pretty slow mile jog up lots of hills in my neighborhood before lifting in early morning hours. Tuesday and Fridays or Saturdays I have been running hill sprints as a form of HIIT in the afternoons. And for the past few weeks, I’ve been running a slow 5k on my rest/fasting day on Wednesdays. 
-
-I try to intersperse some leisurely walks through out my day, about 2 miles total. 
-
-I don’t really enjoy any of the running. I’m naturally inclined toward sprinting so I dislike it less, but having ran a 5k for the first time a few weeks ago feels good to have accomplished too. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- My program (Phraks GSLP) requires pull-ups and I am just not capable. It says to do negatives while you work up the strength and I struggle even with those. I try to hold back but I just fall right down.  
-
-Any machines or dumbbell lifts I can do to get there? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- My program (Phraks GSLP) requires pull-ups and I am just not capable. It says to do negatives while you work up the strength and I struggle even with those. I try to hold back but I just fall right down.  
-
-Any machines or dumbbell lifts I can do to get there? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- My romanian deadlifts and traditional deadlifts are vastly different in the weight I can manage. 
-
-Is this normal? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- My romanian deadlifts and traditional deadlifts are vastly different in the weight I can manage. 
-
-Is this normal? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains liftAnd: 
- Should i run before or after i lift.And no not to warmup to lose fat in my stomach area 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I recently got back issues and was recommended to do these exercises 2-3 times a week: 
-
-Warmup Bicycle,
-
-Lats pulls ,
-
-Leg Press,
-
-Heel lifts,
-
-Standing back extensions,
-
-Bench press,
-
-Serratus Press,
-
-Sit ups,
-
-Plank,
-
-Reverse lunge ,
-
-Deadlift,
-
-
-Which exercises should I add if I wanted to turn this into a full body exercise? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- I recently got back issues and was recommended to do these exercises 2-3 times a week: 
-
-Warmup Bicycle,
-
-Lats pulls ,
-
-Leg Press,
-
-Heel lifts,
-
-Standing back extensions,
-
-Bench press,
-
-Serratus Press,
-
-Sit ups,
-
-Plank,
-
-Reverse lunge ,
-
-Deadlift,
-
-
-Which exercises should I add if I wanted to turn this into a full body exercise? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Is it ok to do 5x5 Barbell Overhead Press and volume seated db shoulder press on the same day? 
-
-I used to do db bench instead, but i'm growing tired of it cant lift more weight, i rather do flies.
-
-1) 5x5 Barbell Overhead Press
-2) 4x6 Weighted Triceps dips
-3) 3x12 Seated Shoulder Press 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- For sumo deadlifts, does the width of my legs matter? I prefer to have my feet near the weights and no one I know does sumo :) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- How do you guys remember your workout plans?
-I have had a look at the 28 Workout programs from stronger by science and wanted to do the 3x per week beginners bench and squat and the 2x per week beginners deadlift program.
-However, I cannot fathom how anyone can remember all these values with the percentages without printing the whole sheet out.
-There must be an easier way to do this. Can you recommend an app for this? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I want to do strength because compound feel great and isolated feels boring. But I also want to look fit, so what kind of training is best suited for me? Hybridhypostrength? Been inconsistently training for 2 years 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Hybridhypostrength?: 
- I want to do strength because compound feel great and isolated feels boring. But I also want to look fit, so what kind of training is best suited for me? Hybridhypostrength? Been inconsistently training for 2 years 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- My dudes, how do I proceed with squat progress while engaging in marathon training? I've been looking at the Smarathlov program so far, but I'm really plateauing just at week 5. It's like I need to avoid running for 3-4 days to squat at peak strength, which isn't viable with both my running and lifting schedules on the program. (Been lifting consistently for 5 years, but have taken up running seriously in the last 8 months alongside it - which is when my squat numbers started nosediving).
-
-Stuff like stress levels, and sleep are consistent and under control. Diet has really cleaned up in the last two years too, but I'm eating to surplus and fulfiling my macros. How can I push my recovery just a tad further to undertake both hobbies without frying out?
-
-You see guys like Nick Bare managing to juggle a powerbuilding program and endurance competitions, and maybe I'm a bit too naiive, but I really hope it's not just courtesy of juicing. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- My dudes, how do I proceed with squat progress while engaging in marathon training? I've been looking at the Smarathlov program so far, but I'm really plateauing just at week 5. It's like I need to avoid running for 3-4 days to squat at peak strength, which isn't viable with both my running and lifting schedules on the program. (Been lifting consistently for 5 years, but have taken up running seriously in the last 8 months alongside it - which is when my squat numbers started nosediving).
-
-Stuff like stress levels, and sleep are consistent and under control. Diet has really cleaned up in the last two years too, but I'm eating to surplus and fulfiling my macros. How can I push my recovery just a tad further to undertake both hobbies without frying out?
-
-You see guys like Nick Bare managing to juggle a powerbuilding program and endurance competitions, and maybe I'm a bit too naiive, but I really hope it's not just courtesy of juicing. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- My dudes, how do I proceed with squat progress while engaging in marathon training? I've been looking at the Smarathlov program so far, but I'm really plateauing just at week 5. It's like I need to avoid running for 3-4 days to squat at peak strength, which isn't viable with both my running and lifting schedules on the program. (Been lifting consistently for 5 years, but have taken up running seriously in the last 8 months alongside it - which is when my squat numbers started nosediving).
-
-Stuff like stress levels, and sleep are consistent and under control. Diet has really cleaned up in the last two years too, but I'm eating to surplus and fulfiling my macros. How can I push my recovery just a tad further to undertake both hobbies without frying out?
-
-You see guys like Nick Bare managing to juggle a powerbuilding program and endurance competitions, and maybe I'm a bit too naiive, but I really hope it's not just courtesy of juicing. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- What should my daily calorie intake be around roughtly too lose body fat? 24 m 5”11 218 I workout 5-6 days a week and I lift heavy? Thank you. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- question: when i do deadlifts, i feel like i can do more if the bar stops slipping out of my hands. My forearms arent that big but what is the best way to train my forearms so that they no longer become the bottleneck to my deadlifts?
-
-im 90kg and my deadlifts are currently 65kg plates+20kg oly bar . 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts?: 
- question: when i do deadlifts, i feel like i can do more if the bar stops slipping out of my hands. My forearms arent that big but what is the best way to train my forearms so that they no longer become the bottleneck to my deadlifts?
-
-im 90kg and my deadlifts are currently 65kg plates+20kg oly bar . 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- question: when i do deadlifts, i feel like i can do more if the bar stops slipping out of my hands. My forearms arent that big but what is the best way to train my forearms so that they no longer become the bottleneck to my deadlifts?
-
-im 90kg and my deadlifts are currently 65kg plates+20kg oly bar . 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I started the 5/3/1 beginners today. Pretty decent all around. Question, is program suppose to help you get stronger or build more muscle? I kind of want to aim for more strength and I'm not sure this is suitable.       
-Also, I don't get the point of doing 1 set of 5 at the beginning, and then doing the same 5 sets at the end. Why not just do 6 sets together? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- BJJ guy.  Purely anecdotal, but when I'm jogging consistently (3-4 days/week, between 3-4 miles at a pretty easy pace), I recover between rolling rounds so much faster.  My brain feels better, I eat better, it just helps everything "click" with me.  That's the best way I can describe it.  I feel shittier when I don't run, lift, etc.  And that seems to not jive because I'm doing WAY more physical activity. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Cardio is very important.  Idc if your a bodybuilder, you need to do cardio.
-When I was a bodybuilder I emphasized cardio just as much as I did lifting and dieting. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Distance running benefits endurance. You will see more weight lifting cardio benefits with sprinting (running stairs, cone drills, hill sprints, suicides, etc... ) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Yes. Running helped my lifting at work, going up flights of stairs and swimming considerably. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- According to Mark Rippetoe, if you are a complete ~~DYEL~~ novice, you can make some transferable gains. Specifically, he says that your bench press can go up by riding a bicycle.
-
-However that lasts for only a very tiny amount of time in your overall lifting career 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Yes, Greg Nuckols has research having a good baseline level of cardio helps with lifting too 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- I have been wondering this too.  I picked up trail running during the summer because I couldn’t hit the gym and now I don’t sweat nearly as much as I used to when I’m weightlifting. 
+Bench: 220
+Squat: 330
+Deadlift: 430
+OHP: 135 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strengthen: 
- Yes a more efficient heart and lungs will benefit you in all forms of physical activity, running will strengthen your legs and core mostly so the full benefits of running will not directly transfer to say rowing for example, you may reach muscular exhausting rowing before you reach cardiovascular exhaustion because your cardiovascular endurance is higher due to your running but the muscles engaged during rowing are not as trained as your legs are.
+ [35M, 309 lbs, 6'0"](http://imgur.com/a/QvQQ0Xu)
 
-Does this make sense? 
-</td>
-</tr>
+This is a month of progress for me since starting resistance bands/ cardio at home working out almost daily, along with starting calorie counting 2 weeks ago (currently on 2800 calories). 
 
-<tr>
-<td>Comment contains lift: 
- It won't be 1:1, but yes: It's more complex a system than "Cardio works your heart and lungs," but  there's some truth to that. Running works long-twitch muscles in your soleus, glutes, core, etc. but it also improves the efficiency of your circulatory system which will help in just about every physical activity. Hell: \*RESTING\* after a heavy lift can be taxing on your circulatory system. 
-</td>
-</tr>
+My biggest problem is currently 2 things
 
-<tr>
-<td>Comment contains lift: 
- I'm probably late to this so I don't know if anyone will see my rant or not, but
+1) my right arm struggles with the same resistance as my left, which makes me feel like im not getting the full workout on it. Part way through the sets my right arm will give out and i cant finish the workout on it. I was curious if i need to dial back the resistance on my bands, making my left arm not get as good a workout so my right arm will catch up, or deal with the resistance on my right arm even if i dont get the full set in on it [(eg, this happens on my 3rd set of standing chest presses)](http://imgur.com/a/rrgFfhV)
 
-I came to this subreddit just to rant about this, and I'm glad I saw your post. To answer, yes cardio is extremely important and will make you much better at other, "non-cardio" physical activities
-
-I feel like 2 years of my progress have been severely hindered due to lack of cardio. I started off as severely underweight; and literally every online guide, every trainer, every everything said I should eat a lot, lift a lot. And I did. And I made gains. I went from 49kg to 80kg in these 2 years, about 15kg\~ of muscle mass and 15kg of fat mass. I was given the impression that cardio was only effectively used for burning calories, losing fat, and warming up.
-
-So I did absolutely zero cardio, and I got to a point where one heavy squat would leave me so breathless I couldn't really continue the reps, even though my muscles were fine. I'd get dizzy and nauseous and thought that's what squatting was supposed to feel like - I only realized there was a problem when I tried diving and found out I couldn't even hold my breath for 25 seconds under water while every other semi-trained person was doing 1-2 minutes.
-
-Of course overweight people are recommended to start with cardio which will in turn help their lifting later on. But for everyone who started at an anorexic weight as I did is recommended to just eat and lift and in hindsight, that's a very bad fucking idea. If I could start all over again, I'd eat like a monster and just run for the first 3 months of trying to transform until I could at least run 4km at an above average time. Then I'd start heavy lifting, while maintaining cardio on rest days. I don't know why people seem to believe cardio is bad for bulking, it only allows you to eat even more and makes your metabolism more efficient. It might not be the best thing for 100% pure muscle gain, but in the long run it will lead to more muscle gains because you'll be healthier, energetic, and you'll be able to use your muscles much much much more efficiently in the gym. 
-
-There is nothing worse than not being able to finish a set simply because you're fucking out of breathe
-
-Also, on an unrelated note, fuck the whole bulking/cutting cycle. It took me 2 years to gain 15kg of muscle, but now I have 15kg of fat that will take 3-6 months of starvation to get rid of, alongside with 1kg of muscle or so 
+2) currently I do kneeling push ups. I cant keep my core steady enough to be able to do normal push ups all the way down. Ive encorporated crunches and scissor kicks to try and strengthen my core. Was wondering if there is anything else I can do, or if doing push ups is just something that will take time for me to get to. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I'm probably late to this so I don't know if anyone will see my rant or not, but
+ 22M, 5'6", 158lb
 
-I came to this subreddit just to rant about this, and I'm glad I saw your post. To answer, yes cardio is extremely important and will make you much better at other, "non-cardio" physical activities
+Have been an athlete my whole life, but got into weight lifting 3 months ago. Just now starting to get the hang of it. I'm seeing a lot of guys around my height weighing a lot less and looking like they got 15lb on me. Guessing bodyfat is around 11%,but could be wrong. Some if my friends say its because my legs are bigger,but I honestly think they're average.
 
-I feel like 2 years of my progress have been severely hindered due to lack of cardio. I started off as severely underweight; and literally every online guide, every trainer, every everything said I should eat a lot, lift a lot. And I did. And I made gains. I went from 49kg to 80kg in these 2 years, about 15kg\~ of muscle mass and 15kg of fat mass. I was given the impression that cardio was only effectively used for burning calories, losing fat, and warming up.
-
-So I did absolutely zero cardio, and I got to a point where one heavy squat would leave me so breathless I couldn't really continue the reps, even though my muscles were fine. I'd get dizzy and nauseous and thought that's what squatting was supposed to feel like - I only realized there was a problem when I tried diving and found out I couldn't even hold my breath for 25 seconds under water while every other semi-trained person was doing 1-2 minutes.
-
-Of course overweight people are recommended to start with cardio which will in turn help their lifting later on. But for everyone who started at an anorexic weight as I did is recommended to just eat and lift and in hindsight, that's a very bad fucking idea. If I could start all over again, I'd eat like a monster and just run for the first 3 months of trying to transform until I could at least run 4km at an above average time. Then I'd start heavy lifting, while maintaining cardio on rest days. I don't know why people seem to believe cardio is bad for bulking, it only allows you to eat even more and makes your metabolism more efficient. It might not be the best thing for 100% pure muscle gain, but in the long run it will lead to more muscle gains because you'll be healthier, energetic, and you'll be able to use your muscles much much much more efficiently in the gym. 
-
-There is nothing worse than not being able to finish a set simply because you're fucking out of breathe
-
-Also, on an unrelated note, fuck the whole bulking/cutting cycle. It took me 2 years to gain 15kg of muscle, but now I have 15kg of fat that will take 3-6 months of starvation to get rid of, alongside with 1kg of muscle or so 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm probably late to this so I don't know if anyone will see my rant or not, but
-
-I came to this subreddit just to rant about this, and I'm glad I saw your post. To answer, yes cardio is extremely important and will make you much better at other, "non-cardio" physical activities
-
-I feel like 2 years of my progress have been severely hindered due to lack of cardio. I started off as severely underweight; and literally every online guide, every trainer, every everything said I should eat a lot, lift a lot. And I did. And I made gains. I went from 49kg to 80kg in these 2 years, about 15kg\~ of muscle mass and 15kg of fat mass. I was given the impression that cardio was only effectively used for burning calories, losing fat, and warming up.
-
-So I did absolutely zero cardio, and I got to a point where one heavy squat would leave me so breathless I couldn't really continue the reps, even though my muscles were fine. I'd get dizzy and nauseous and thought that's what squatting was supposed to feel like - I only realized there was a problem when I tried diving and found out I couldn't even hold my breath for 25 seconds under water while every other semi-trained person was doing 1-2 minutes.
-
-Of course overweight people are recommended to start with cardio which will in turn help their lifting later on. But for everyone who started at an anorexic weight as I did is recommended to just eat and lift and in hindsight, that's a very bad fucking idea. If I could start all over again, I'd eat like a monster and just run for the first 3 months of trying to transform until I could at least run 4km at an above average time. Then I'd start heavy lifting, while maintaining cardio on rest days. I don't know why people seem to believe cardio is bad for bulking, it only allows you to eat even more and makes your metabolism more efficient. It might not be the best thing for 100% pure muscle gain, but in the long run it will lead to more muscle gains because you'll be healthier, energetic, and you'll be able to use your muscles much much much more efficiently in the gym. 
-
-There is nothing worse than not being able to finish a set simply because you're fucking out of breathe
-
-Also, on an unrelated note, fuck the whole bulking/cutting cycle. It took me 2 years to gain 15kg of muscle, but now I have 15kg of fat that will take 3-6 months of starvation to get rid of, alongside with 1kg of muscle or so 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I'm probably late to this so I don't know if anyone will see my rant or not, but
-
-I came to this subreddit just to rant about this, and I'm glad I saw your post. To answer, yes cardio is extremely important and will make you much better at other, "non-cardio" physical activities
-
-I feel like 2 years of my progress have been severely hindered due to lack of cardio. I started off as severely underweight; and literally every online guide, every trainer, every everything said I should eat a lot, lift a lot. And I did. And I made gains. I went from 49kg to 80kg in these 2 years, about 15kg\~ of muscle mass and 15kg of fat mass. I was given the impression that cardio was only effectively used for burning calories, losing fat, and warming up.
-
-So I did absolutely zero cardio, and I got to a point where one heavy squat would leave me so breathless I couldn't really continue the reps, even though my muscles were fine. I'd get dizzy and nauseous and thought that's what squatting was supposed to feel like - I only realized there was a problem when I tried diving and found out I couldn't even hold my breath for 25 seconds under water while every other semi-trained person was doing 1-2 minutes.
-
-Of course overweight people are recommended to start with cardio which will in turn help their lifting later on. But for everyone who started at an anorexic weight as I did is recommended to just eat and lift and in hindsight, that's a very bad fucking idea. If I could start all over again, I'd eat like a monster and just run for the first 3 months of trying to transform until I could at least run 4km at an above average time. Then I'd start heavy lifting, while maintaining cardio on rest days. I don't know why people seem to believe cardio is bad for bulking, it only allows you to eat even more and makes your metabolism more efficient. It might not be the best thing for 100% pure muscle gain, but in the long run it will lead to more muscle gains because you'll be healthier, energetic, and you'll be able to use your muscles much much much more efficiently in the gym. 
-
-There is nothing worse than not being able to finish a set simply because you're fucking out of breathe
-
-Also, on an unrelated note, fuck the whole bulking/cutting cycle. It took me 2 years to gain 15kg of muscle, but now I have 15kg of fat that will take 3-6 months of starvation to get rid of, alongside with 1kg of muscle or so 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- For sure, yeah.
-
-The more different kinds of physical activities that you do, the better.
-
-I started off weightlifting and got up to bench pressing 350 pounds. It's not world-record by any means, but I sure didn't do that on the first day I started, either.
-
-Then I was involved with martial arts and became a 5th degree, and the weightlifting helped a lot. Much more power, and didn't do the whole "muscle slows you down" bullshit.
-
-Then I started to get into a running kick and did ultra marathons of 50 miles.
-
-I think all of them work together. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- For sure, yeah.
-
-The more different kinds of physical activities that you do, the better.
-
-I started off weightlifting and got up to bench pressing 350 pounds. It's not world-record by any means, but I sure didn't do that on the first day I started, either.
-
-Then I was involved with martial arts and became a 5th degree, and the weightlifting helped a lot. Much more power, and didn't do the whole "muscle slows you down" bullshit.
-
-Then I started to get into a running kick and did ultra marathons of 50 miles.
-
-I think all of them work together. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Running on the treadmill increases my cardio marginally. But playing football is a completely different workout. A treadmill does nothing for joints, flexibility, burst strength, etc. 
-
-Also, the motivation in the real world pushes you a lot harder, so you get a much better workout. Time goes much faster playing sports too, so you work out for far longer.
-
-A gym is better than nothing. The real world is better than a gym. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- It's staggering the amount of misinformation in these comments. I'm late to the party, and my comment will probably get buried, however for anyone that happens to read; this thread is a great example of why you shouldn't listen to the "wisdom" of the masses.
-
-The answer to OP's question is pretty much a definite no. The reason for this is touched upon by some commenters, and has to do with a principle in exercise science called specificity - also known as the SAID principle. Essentially, specificity refers to the observation that the gains we make from exercise training are highly specific to that particular mode of training. Transfer of training from one mode into another is very limited and largely dependent on the extent to which the modes of training resemble each other.
-
-OP if you want to get better at lifting and carrying heavy things, running will do nothing other than provide a placebo (more on that in a sec), unless of course you lift and carry heavy things while running. You must do these exercises in order to get better at them, or do exercises that resemble them in utilisation of muscle mechanics and energy systems. For example, farmers walks, yoke carries, deadlifts, overhead presses and other similar exercises will, when trained properly, help you with your manual labour tasks because they likely closely resemble those tasks. There will be a limit to the extent to which they transfer though.
-
-All these people saying oh yeah, I did XYZ exercise and found an improvement in ABC task are conflating their subjective experience with genuine effect. Fatigue, for example, had a large psychological component. Every one of these anecdotes could be explained by each OP simply *believing* that they will have better performance in ABC task because they do XYZ exercise. It's more than likely placebo.
-
-tldr: The answer to the question is no. If you want to get better at lifting and carrying stuff, then do more lifting and carrying of stuff. Look up the principle of specificity or the [SAID principle](https://en.m.wikipedia.org/wiki/SAID_principle). It's easy to know an exercise like running won't improve something so vastly different as manual labour tasks by thinking about how athletes train. Strongmen for example do a lot of lifting and carrying. I can guarantee you they don't run to get better at it. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Hit 225 on deadlifts last week. As someone who's been unable to hit 2 plates for years due to chronic back pain and crap flexibility, I'm really happy to break that milestone. Hit 235 this week but getting 2 plates is still the biggest thing to me. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Started lifting 40 days ago (22 male). 
-
-Early on, I threw 95 pounds on the bar to bench  and had to bail after the weight fell onto me. 
-
-Just did 3x5 95 today. It felt great to know I was getting stronger, even if I started weak. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- After five weeks of benching, today I finally did 135lb for my 1RM on bench as a 5'2 140lb woman.
-
-In the same day, I also PR'd on deadlift at 245lb 1RM and peed myself a little. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Just came back from a year of training at maintenance and not advancing from any lifts. After co-vid I came  back to the gym motivated and started my bulk. (dw, I was really lean from all those home workouts and running, etc..) 
-
-It's just fun to be back at a good weight. Lifting heavier than I really did before in terms of progression. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Slept but didnt sleep. Had a nap but didnt refresh me enough. I did 3x3 on deadlifts lower reps then last week overall. Was meant to be 3x5 today but alas. However the reps did feel easier vs last week and less of struggle!
-
-Last week was 3 sets
-
-1st was 4 reps
-2nd 5,
-Third 3.
-
-I'm just happy I managed to do some work! In other better news my squat increased again, by 6kg shouldnt be long til i hit 100kg again (at 90kg 3x5 now) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I was warming up for deadlifts. Put on 70 kg on the bar and slapped on the thick gripz.
-
-Ripped 3 of those bad bois.
-
-My pre-lockdown pr was 65 for 3. I got so hyped that people looked at me going "Yeeeeeeeeeeeeeeeaaaaaaaahhhhhhh, fuck yeah, we did it bois." quietly to myself as i shook in exultation.
-
-I then failed to do 72.5 kg for one. Bodyweight fat grip deadlift here I come. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I was warming up for deadlifts. Put on 70 kg on the bar and slapped on the thick gripz.
-
-Ripped 3 of those bad bois.
-
-My pre-lockdown pr was 65 for 3. I got so hyped that people looked at me going "Yeeeeeeeeeeeeeeeaaaaaaaahhhhhhh, fuck yeah, we did it bois." quietly to myself as i shook in exultation.
-
-I then failed to do 72.5 kg for one. Bodyweight fat grip deadlift here I come. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I feel like my deadlift form is getting better... taking it one step at a time. Have always had lower back pain after deadlifting. Working on starting with hips high enough so that they don't shoot up before a pull 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- I feel like my deadlift form is getting better... taking it one step at a time. Have always had lower back pain after deadlifting. Working on starting with hips high enough so that they don't shoot up before a pull 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- i did this workout in 19 minutes and 1 second:
-
-10 rounds (for time):
-
-3 bar muscle ups
-
-35 double unders
-
-6 toes-to-bar
-
-3 deadlifts @ 255#
-
-i'm happy with me, good job me 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
-
-
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
-
-
-My OHP was my best lift.
-
-
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
-
-
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
-
-
-My OHP was my best lift.
-
-
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
-
-
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
-
-
-My OHP was my best lift.
-
-
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
-
-
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
-
-
-My OHP was my best lift.
-
-
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
+Pics
+http://imgur.com/a/b6vqOh4 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains Deadlift: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
+ 28M, 6’1, 178lbs 
 
+[Front 1](https://i.imgur.com/8xhhqKd.jpg)
 
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
+[Back 1](https://imgur.com/a/ebNJxDY)
 
+[Front 2](https://i.imgur.com/zCJd1vo.jpg)
 
-My OHP was my best lift.
+Bench 1rm: 300lbs Deadlift 1rm: 545lbs
 
+[2016 (worst shape, \~200lbs)](https://imgur.com/a/F4WRGWN)
 
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
+ [Sept 2018 (start of recomp, \~190lbs)](https://imgur.com/a/vGSpEVy) 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifts: 
- So I've retested my maxes now that I've been back at the gym for a couple of days. (And that I'm about 30 pounds lighter and couldn't lift for 3 months. I went from 200 to 168 pounds)
+<td>Comment contains Stronglifts: 
+ [18M, 190cm (6'2), 76kg (167lbs)](https://imgur.com/a/LF1XPnP)
 
-
-I've lost about 50 pounds on my upper body lifts and about 100 pounds on my squats and deadlift.
-
-
-My OHP was my best lift.
-
-
-OHP - 200 to 175 (maybe 5 pounds more)
-
-Bench - 335 to 275 (definitely max)
-
-Squat - 400 to 275 (could have gone heavier, but had no safety rack or spotter)
-
-Deadlift - 425 to 325 (no straps, I usually use straps for heavy weights)
-
-
-It's a good start, I think as I slowly gain the weight back and get consistent in the gym again I'm going to come back stronger on all of the lifts. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- After coming back from a herniated disc I'm back up to a 320lbs deadlift for 3 reps 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Turned 17 last week and hit a 425 deadlift 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I hit a deadlift PR of 160kg today. I've been on and off lifting for years but this has been my best PR to date. Once I got back into the gym when it reopened when restrictions were lifted  I swore to never use my belt and it seems to have paid off. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I hit a deadlift PR of 160kg today. I've been on and off lifting for years but this has been my best PR to date. Once I got back into the gym when it reopened when restrictions were lifted  I swore to never use my belt and it seems to have paid off. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifted: 
- I hit a deadlift PR of 160kg today. I've been on and off lifting for years but this has been my best PR to date. Once I got back into the gym when it reopened when restrictions were lifted  I swore to never use my belt and it seems to have paid off. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strengthening: 
- I started squats with a 45-rep challenge that.. HURT, but then I healed up, came back, did 15, rested, then continued with cardio on my next workout day. The squats are already strengthening me in movement and that's so exciting!! (For background, I've been dancing three times a week for a few months now and the squats thing was me trying to add a new thing to my routine). 
-
-I love squats now and am trying to keep them kinda low in number so that I can do them every other day and build up over time. Maybe 5-10 every other day. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Several months ago I quit drinking and started doing beginner's 5/3/1.  Today I fell below 200 lbs for the first time in years and my lifts are progressing awesomely.  That's several victories! 
+I've always been a skinny kid and I'm bulking now, but I wonder if I should continue, because my body fat level has probably never been so high and I'm gaining mostly abdominal fat and my face is becoming more and more puffy. My clothes feel tighter and my family noticed that I'm becoming more puffy. I probably hold a lot of water. Every morning when I wake up I have many [indentaions](https://imgur.com/a/67csTyM) in the skin. I've been doing calisthenics workout 5/6 times a week for almost three years. In July, I started barbell training. Firstly, I was following Stronglifts, but I had really poor results and I switched to Greyskull LP. The reason I'm gaining mostly abdominal fat is probably that I'm not getting stronger and I'm not able to progressively overload my workouts. I thought maybe I wasn't eating enough so I've increased my calories and it seems I only gained fat, because my strength hasn't increased almost whatsoever. I don't know what else I should do. I count calories and steps, I work out consistently, I have never drunk or smoked in my life, I do not drink sugary drinks, I prepare all my meals and sleep at least 8h per night (often even up to 10h). Most people don't even do all these things and they still have way better progress than me. Does anyone have any advices? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Been rehabbing my knee due to arthritis that I developed in March. I was on crutches and couldn’t walk for months. Fast forward to yesterday, just squatted 225 x 2 for the first time since I was diagnosed. Felt so good threw 235 on for one rep afterwards. It feels good to be getting my strength back. 
+ [18M, 190cm (6'2), 76kg (167lbs)](https://imgur.com/a/LF1XPnP)
+
+I've always been a skinny kid and I'm bulking now, but I wonder if I should continue, because my body fat level has probably never been so high and I'm gaining mostly abdominal fat and my face is becoming more and more puffy. My clothes feel tighter and my family noticed that I'm becoming more puffy. I probably hold a lot of water. Every morning when I wake up I have many [indentaions](https://imgur.com/a/67csTyM) in the skin. I've been doing calisthenics workout 5/6 times a week for almost three years. In July, I started barbell training. Firstly, I was following Stronglifts, but I had really poor results and I switched to Greyskull LP. The reason I'm gaining mostly abdominal fat is probably that I'm not getting stronger and I'm not able to progressively overload my workouts. I thought maybe I wasn't eating enough so I've increased my calories and it seems I only gained fat, because my strength hasn't increased almost whatsoever. I don't know what else I should do. I count calories and steps, I work out consistently, I have never drunk or smoked in my life, I do not drink sugary drinks, I prepare all my meals and sleep at least 8h per night (often even up to 10h). Most people don't even do all these things and they still have way better progress than me. Does anyone have any advices? 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifting: 
- Been doing the periodic fasting (eating within 7-8 hours per day) every day and it's insane how much weight I've been losing, even though I haven't really cut down on sweets/snacks that much in those eating windows. Sliced my weight down 20 pounds in a few months and I am starting to see a lot of muscle mass that I've been building underneath. Feels so satisfying to see all that weight lifting finally show up with the loss of excess body mass over it. 
+<td>Comment contains lift: 
+ 25M/ 6 ft/ 163 lbs/74kg ~ 4 years of training
+
+https://imgur.com/a/fAIO2qV
+
+Started as a really scrawny guy at 60 kg/132 lbs. Been alternating PPL and nsuns program consistently for 4 years now (5 days a week) and would love to hear feedback on my physique. Any points of improvement? I'd estimate myself to be around 12% bodyfat but would like to hear your opinions as well.
+
+Main lift numbers:
+
+Bench: 102.5 kg/225 lbs 1rm
+
+OHP: 62.5 kg/ 138 lbs 2 rm
+
+Deadlift: 160 kg/353 lbs 1rm
+
+Squat: 120 kg/ 265 lbs 5rm 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift:: 
+ 25M/ 6 ft/ 163 lbs/74kg ~ 4 years of training
+
+https://imgur.com/a/fAIO2qV
+
+Started as a really scrawny guy at 60 kg/132 lbs. Been alternating PPL and nsuns program consistently for 4 years now (5 days a week) and would love to hear feedback on my physique. Any points of improvement? I'd estimate myself to be around 12% bodyfat but would like to hear your opinions as well.
+
+Main lift numbers:
+
+Bench: 102.5 kg/225 lbs 1rm
+
+OHP: 62.5 kg/ 138 lbs 2 rm
+
+Deadlift: 160 kg/353 lbs 1rm
+
+Squat: 120 kg/ 265 lbs 5rm 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains ago](https://wwwredditcom/r/DotA2/comments/htfo5u/death_pact_on_enchant_creeps_is_way_too_broken_mr/fyh9l7c/?utm_source=reddit&amputm_medium=web2x&ampcontext=3): 
+  [dadiasahil94](https://www.reddit.com/user/dadiasahil94/) 2 points·[1 month ago](https://www.reddit.com/r/DotA2/comments/htfo5u/death_pact_on_enchant_creeps_is_way_too_broken_mr/fyh9l7c/?utm_source=reddit&amp;utm_medium=web2x&amp;context=3)
+
+Hey, I am a clinkz spammer with about 600 games in total (with old clinkz + new burning army clinkz) Let me tell you the essence of clinkz   
+
+
+New player btw   
+Lying to get reddit points is sad bro. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains riki: 
+ You’re a new player? This comment you posted said otherwise. Thanks to u/aom1neDa1ki- for finding this.
+
+Hey, I am a clinkz spammer with about 600 games in total (with old clinkz + new burning army clinkz) Let me tell you the essence of clinkz :
+
+Learn to play around his strafe timing - once it goes on cooldown, he is useless for the next 16 seconds
+
+Let me tell you how to counter him with heroes:
+
+1.	⁠Pick supports with disable / saves:
+
+•	⁠Lion (hex + earthspike) ,
+•	⁠Shaman (hex + shackle),
+•	⁠Lich (sinister gaze),
+•	⁠Oracle (disarm + dispell)
+•	⁠Shadow demon (disruption + dispell)
+
+Let me tell you how to counter him with items:
+
+1.	⁠Supports : Buy ghost scepter (self-save) /haven halberd (for disarm)/ euls (for dispelling strafe)
+2.	⁠Tanky Heroes : Buy blade mail
+3.	⁠Strafe removal : He is completely reliant to having strafe to kill enemy, try to bait out these spells.
+
+Before you cry, ghost scepter is a very cheap item (even for supports). You can buy it before the 15 min mark too.
+
+Remeber clinkz is very fragile hero, once you disengage in team fights he has to wait for strafe to come back online (16 sec) at max level.
+
+Clinkz is kind of like riki, he takes advantage of :
+
+1.	⁠Un-Coordinated teams - aka farming alone without vision
+2.	⁠Those who dont want to build the right items
+
+Regarding clinkz ultimate, I think what we have now (7.27C) is perfect without any change. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ how hard to i brace my core and contract my abs when i lift heavy? should i be doing it as hard as i can? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Due to a previous injury I haven’t been able to deadlift or squat for the last year. I’ve been doing leg presses, lunges, hip thrusts, etc. My PT says I can start incorporating squats and deadlifts. I figured I’d just pick a beginner powerlifting routine, but the thing is my bench is 340 (obviously not “beginner”), so I wasn’t sure what program to do. 
+
+I’ve gone through a bunch of beginners programs but with my situation none really seem to work with my 4 day schedule. I feel like I’ll have to follow a novice or advance program with bench while running a beginners program for squat and deadlift. Trying to get into powerlifting 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlifts: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
+ Due to a previous injury I haven’t been able to deadlift or squat for the last year. I’ve been doing leg presses, lunges, hip thrusts, etc. My PT says I can start incorporating squats and deadlifts. I figured I’d just pick a beginner powerlifting routine, but the thing is my bench is 340 (obviously not “beginner”), so I wasn’t sure what program to do. 
 
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
-
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
-
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
-
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
-
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains non-powerlifting: 
- Pulled 170 kg already like two years ago, tried a bunch of programs and stuff but progress seemed to kinda stall. Before quarantine bullshit I was doing 531 for deadlifts that I was kind of avoiding because I thought AMRAP sets for deadlifts sound pretty dangerous to me... Well it didn't seem too bad and felt like my deadlift strength was skyrocketing. Now after the quarantine I was just doing some simple linear progression to recoup my strength and DL was just feeling so strong I decided to try maxing out today, 180 kg came up very decent so I hit 190 kg too, so a nice 20 kg PR for me today. Definitely going to continue with 531 when I get my actual program rolling (squats are being plagued by knee/quad tendon issues).
-
-Other minor PR was that I managed to hit a set of 5 with the heaviest dumbbells that non-powerlifting gyms tend to have (40 kg) on flat bench. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- M, 180 lbs. Finally able to bench 2 plates, OHP 1 plate, Squat 3 plates, and Deadlift 4 plates. Its been a long grind but seeing all of it pay off is such a great feeling. Now for the real tough part, successfully committing to a cut. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I managed to deadlift 273 lbs, which puts me within ten pounds of my goal for the year of doing double my bodyweight.  I’m thrilled!  Now I just need to watch my ice cream intake so that my goal doesn’t get any harder... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- My Squats are almost back to pre-lockdown numbers. I'm gonna try and get to 120kg squats and then I'm considering moving to more weightlifting type training when my strength feels more settled (it'll lead to a bit more aerobic gains for Kendo I think) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- My Squats are almost back to pre-lockdown numbers. I'm gonna try and get to 120kg squats and then I'm considering moving to more weightlifting type training when my strength feels more settled (it'll lead to a bit more aerobic gains for Kendo I think) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Started lifting 3 months ago when the gyms reopened. Had a body analysis done and a trainer made a training plan for me, that i should stick to 3 days a week.
-
-Today i had a checkup, where we redid the body analysis and adapted the workout.
-
-Basically i put on just a little weight, but all of that was muscle mass, and i lost body fat, overall bodyfatpercentage went down.
-
-For some reason i expected "crazy results" because i've been seriously pushing myself a lot, but i am still very very happy. It has only been 3 months and progress is definitley in the right direction. I am very proud of myself, that i build up the discipline to never skip a single workout.
-
-I am now fueled to start the new program tomorrow morning and am highly motivated. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifted: 
- I'm a newbie and it's really a very small achievement, but I deadlifted 50kgs today and I'm really happy with it. And earlier this week I stabilized my bench press form a lot. Also did 10k+ steps for 3 days, and started doing a lot more cardio alongside my strength stuff.
-
-Here's to continued strength gains... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm a newbie and it's really a very small achievement, but I deadlifted 50kgs today and I'm really happy with it. And earlier this week I stabilized my bench press form a lot. Also did 10k+ steps for 3 days, and started doing a lot more cardio alongside my strength stuff.
-
-Here's to continued strength gains... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm a newbie and it's really a very small achievement, but I deadlifted 50kgs today and I'm really happy with it. And earlier this week I stabilized my bench press form a lot. Also did 10k+ steps for 3 days, and started doing a lot more cardio alongside my strength stuff.
-
-Here's to continued strength gains... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I'm doing a 5x5 and once I squated my bodyweight I was worried I wouldn't be able to squat anymore. Im 160 lbs and now I'm squating 175 with no problems. Hopefully all my other lifts follow this pattern! 
+I’ve gone through a bunch of beginners programs but with my situation none really seem to work with my 4 day schedule. I feel like I’ll have to follow a novice or advance program with bench while running a beginners program for squat and deadlift. Trying to get into powerlifting 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains powerlifting: 
- I stopped going to the gym when the quarantine started, but a couple weeks ago I joined my friend at her gym with her trainer and it was amazing and I've been going since.
-Her trainer is really into kettlebell competition movements that I'm not familiar with (used to do powerlifting type of routine) and it's exhilarating to feel my body move in completely new ways! 
-</td>
-</tr>
+ Due to a previous injury I haven’t been able to deadlift or squat for the last year. I’ve been doing leg presses, lunges, hip thrusts, etc. My PT says I can start incorporating squats and deadlifts. I figured I’d just pick a beginner powerlifting routine, but the thing is my bench is 340 (obviously not “beginner”), so I wasn’t sure what program to do. 
 
-<tr>
-<td>Comment contains deadlifted: 
- Hook gripped 585lb/266kg yesterday! I’ve deadlifted more with straps, but this was a 35lb hook grip PR! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I'm doing a three day full-body program a friend made me, it's high volume and pretty straight forward(most lifts are 10x5, except for the mains that are 5x5 and a few others) . Will using this program instead of the 4-5 day advanced programs in the wiki halter my progress? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- Can anyone help me learn to hit and grow my quads?
-
-I did Bulgarian Split Squats and it seems to hit my glutes more. The only time I seem to hit my quads is when deadlifting.
-
-I really wanna get big quads, idk if anyone can help 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Is it possible to lift (for women) without making my bottom bigger? I'd like to keep my bottom as small as possible while starting lifting at home. Are there any workouts that give the same results without the larger bottom? (Asking because everyone recommends lifting if you want a big "booty" and I don't) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Is it possible to lift (for women) without making my bottom bigger? I'd like to keep my bottom as small as possible while starting lifting at home. Are there any workouts that give the same results without the larger bottom? (Asking because everyone recommends lifting if you want a big "booty" and I don't) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Is it possible to lift (for women) without making my bottom bigger? I'd like to keep my bottom as small as possible while starting lifting at home. Are there any workouts that give the same results without the larger bottom? (Asking because everyone recommends lifting if you want a big "booty" and I don't) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts?: 
- I've been having back issues - Can you tell if i'm too push dominant (weak delts?) by my lifts?
-
- 
-
-Push day:
-
-Incline barbel bench press: 170lbsx8 for 3 sets
-
-Flat dumbell bench press: 75lbsx10 for 3 sets
-
-Pec deck machine flies: 165lbsx10 for 3 sets
-
-Lateral Raises: 15lbsx20 for 3 sets
-
-&amp;#x200B;
-
- 
-
-Pull day (On days i deadlift I don't do pullups and vice versa):
-
-Machine rows: 160lbsx10 for 3 sets with good form (can do 180lbsx10 for a set with iffy form)
-
-Dumbell curls in 21s style: 35lbs for 3 sets
-
-Rope facepulls: 25lbsx20 for 3 sets
-
-Deadlifts: Worked my way up to 255lbsx5 (was doing around 320lbsx5 a couple years ago) but i'm in the process of correcting my form.
-
-Pullups: 14 for 3 sets with bodyweight of around 145lbs. 
+I’ve gone through a bunch of beginners programs but with my situation none really seem to work with my 4 day schedule. I feel like I’ll have to follow a novice or advance program with bench while running a beginners program for squat and deadlift. Trying to get into powerlifting 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlift: 
- I've been having back issues - Can you tell if i'm too push dominant (weak delts?) by my lifts?
+ Due to a previous injury I haven’t been able to deadlift or squat for the last year. I’ve been doing leg presses, lunges, hip thrusts, etc. My PT says I can start incorporating squats and deadlifts. I figured I’d just pick a beginner powerlifting routine, but the thing is my bench is 340 (obviously not “beginner”), so I wasn’t sure what program to do. 
 
- 
-
-Push day:
-
-Incline barbel bench press: 170lbsx8 for 3 sets
-
-Flat dumbell bench press: 75lbsx10 for 3 sets
-
-Pec deck machine flies: 165lbsx10 for 3 sets
-
-Lateral Raises: 15lbsx20 for 3 sets
-
-&amp;#x200B;
-
- 
-
-Pull day (On days i deadlift I don't do pullups and vice versa):
-
-Machine rows: 160lbsx10 for 3 sets with good form (can do 180lbsx10 for a set with iffy form)
-
-Dumbell curls in 21s style: 35lbs for 3 sets
-
-Rope facepulls: 25lbsx20 for 3 sets
-
-Deadlifts: Worked my way up to 255lbsx5 (was doing around 320lbsx5 a couple years ago) but i'm in the process of correcting my form.
-
-Pullups: 14 for 3 sets with bodyweight of around 145lbs. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlifts:: 
- I've been having back issues - Can you tell if i'm too push dominant (weak delts?) by my lifts?
-
- 
-
-Push day:
-
-Incline barbel bench press: 170lbsx8 for 3 sets
-
-Flat dumbell bench press: 75lbsx10 for 3 sets
-
-Pec deck machine flies: 165lbsx10 for 3 sets
-
-Lateral Raises: 15lbsx20 for 3 sets
-
-&amp;#x200B;
-
- 
-
-Pull day (On days i deadlift I don't do pullups and vice versa):
-
-Machine rows: 160lbsx10 for 3 sets with good form (can do 180lbsx10 for a set with iffy form)
-
-Dumbell curls in 21s style: 35lbs for 3 sets
-
-Rope facepulls: 25lbsx20 for 3 sets
-
-Deadlifts: Worked my way up to 255lbsx5 (was doing around 320lbsx5 a couple years ago) but i'm in the process of correcting my form.
-
-Pullups: 14 for 3 sets with bodyweight of around 145lbs. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Is it important to include one isolation exercise for lower back or is it already worked alot during many other compound lifts.
-
-Lower back hyperextensions for example. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I need a weight lifting app that doesn't suck. What do you all use?
-
-I have used jefit quite a bit but it's frustrating to use in the gym. The last time I tried it I could easily switch exercises around, say if a piece of equipment was being used. Finally getting back into the gym after months off and hoping to get some new suggestions.
-
-Looking for a simple logging app that does time intervals. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- What's a good site/brand to get affordable lifting shoes from? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting?: 
- Is lower back soreness normal after deadlifting?
-
-I sometimes get sore in the lower back after deadlifting. It goes away after about 10 minutes when I am not deadlifting anymore. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- Is lower back soreness normal after deadlifting?
-
-I sometimes get sore in the lower back after deadlifting. It goes away after about 10 minutes when I am not deadlifting anymore. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- Is lower back soreness normal after deadlifting?
-
-I sometimes get sore in the lower back after deadlifting. It goes away after about 10 minutes when I am not deadlifting anymore. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- If I wanted to incorporate swimming into my workout routine, which days of my lifting split should I do it? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- wondering about how much not running for two weeks will affect me? I'm worried and paranoid lol. 
-
- I've been leaving work late and i lift heavy objects at work so i come out not wanting to run. I fit in some strength when i can, I did do a 8 mile hike last weekend, and some ufc training. what made me worry is that i hit my max and anaerobic base while running two weeks ago, but i found out i could only run a mile and a half before stopping. maybe i was stupid and running in 100 degrees was a bad idea? or my endurance is decreasing 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- wondering about how much not running for two weeks will affect me? I'm worried and paranoid lol. 
-
- I've been leaving work late and i lift heavy objects at work so i come out not wanting to run. I fit in some strength when i can, I did do a 8 mile hike last weekend, and some ufc training. what made me worry is that i hit my max and anaerobic base while running two weeks ago, but i found out i could only run a mile and a half before stopping. maybe i was stupid and running in 100 degrees was a bad idea? or my endurance is decreasing 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I'm on a cut and my bench and ohp are progressing but my squat and deadlift arent. I've got form issues with both, but is there any other reason they wouldn't be progressing?
-
-Should I instead just aim to maintain strength on everything as I go down in weight? Because I'm boxing as well, the gaining of strength on a deficit would be placing additional recovery demands on me, wouldnt it? Leading to greater risk of injury?
-
-And I just barely hit 5 reps of 90% on ohp. It felt pretty damn taxing. So should I just try maintain?
-
-I should add that leg strength is without a doubt my priority 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm on a cut and my bench and ohp are progressing but my squat and deadlift arent. I've got form issues with both, but is there any other reason they wouldn't be progressing?
-
-Should I instead just aim to maintain strength on everything as I go down in weight? Because I'm boxing as well, the gaining of strength on a deficit would be placing additional recovery demands on me, wouldnt it? Leading to greater risk of injury?
-
-And I just barely hit 5 reps of 90% on ohp. It felt pretty damn taxing. So should I just try maintain?
-
-I should add that leg strength is without a doubt my priority 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm on a cut and my bench and ohp are progressing but my squat and deadlift arent. I've got form issues with both, but is there any other reason they wouldn't be progressing?
-
-Should I instead just aim to maintain strength on everything as I go down in weight? Because I'm boxing as well, the gaining of strength on a deficit would be placing additional recovery demands on me, wouldnt it? Leading to greater risk of injury?
-
-And I just barely hit 5 reps of 90% on ohp. It felt pretty damn taxing. So should I just try maintain?
-
-I should add that leg strength is without a doubt my priority 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm on a cut and my bench and ohp are progressing but my squat and deadlift arent. I've got form issues with both, but is there any other reason they wouldn't be progressing?
-
-Should I instead just aim to maintain strength on everything as I go down in weight? Because I'm boxing as well, the gaining of strength on a deficit would be placing additional recovery demands on me, wouldnt it? Leading to greater risk of injury?
-
-And I just barely hit 5 reps of 90% on ohp. It felt pretty damn taxing. So should I just try maintain?
-
-I should add that leg strength is without a doubt my priority 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Would it be a good idea to purchase a 300lbs olympic set or get a gym membership? I am not sure if I should wait for the price to drop, so I could buy the barbell set and work out at home. I found a deal on craiglist for $500 for the 300lbs olympic barbell set. I currently have 200 lbs dumbbell set (2x100), pull up bar, squat and bench rack, ez curl bar, and resistand bands at home. I have not been lifting for the past 6 months, so I am trying to get back to it. The current weights are fine, but certain exercises are getting harder to perform without the barbell. The best gym that I could find is $40 a month with one year contract at my location. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Hey! 
-
-How's it going? 😎
-
-For all you fellow portuguese-speaking athletes that are interested in training &amp; nutrition, [Breaking My Limits](http://breakingmylimits.com/) is the blog for you!
-
-You can find us on [Instagram](https://www.instagram.com/breakingmylimits) and [Facebook](https://www.facebook.com/BreakingMyLimitscoaching) for training &amp; nutrition content very often, so make sure you don't skip these!
-
-The main topics are hypertrophy and strength training, as well as nutrition  for sports performance and body composition. Every topic is discussed with a scientific background, making sure to support claims with referenced evidence.
-
-It's definitely worth a read for all fitness and sports enthusiasts!
-
-Take care and Happy Gains! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains [@oliviasfit](https://wwwinstagramcom/oliviasfit/): 
- Hi guys! I started a fitness Instragram, [@olivias.fit](https://www.instagram.com/olivias.fit/), a couple weeks ago where my mission is to prove that you don't have to starve yourself to be skinny and fit. It is mostly targeted towards women but it can certainly apply to men too. 
-
-I used to have the mindset that less is more when it came to food and ate 1400 calories per day. Now, I have successfully reverse dieted to be able to maintain my weight (118lbs/53.5kg) eating 2100 calories per day. I want to share my story and help others get out of the dieting mindset. Please follow me to help spread the message! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains (strength: 
- I have a YouTube channel that focuses on hybrid training (strength and running) and how the two can be vastly helpful to one another! Hope you can check it and leave some likes and subscribe!! Have an awesome Saturday!
-
-
-[Crucible Culture YouTube](https://www.youtube.com/channel/UCoayoXPbeZNURCuOJM_xmPQ) 
+I’ve gone through a bunch of beginners programs but with my situation none really seem to work with my 4 day schedule. I feel like I’ll have to follow a novice or advance program with bench while running a beginners program for squat and deadlift. Trying to get into powerlifting 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains powerlifting: 
- Hi everyone!   
-  
-During quarantine I started making **PR powerlifting chalkboards**! Record your PRs for squats, deads, and bench and hang them up in your home gym or room! :)  
-Feel free to check them out [here!](https://www.etsy.com/listing/776727955/pr-chalkboard-for-powerlifting) 
+ Due to a previous injury I haven’t been able to deadlift or squat for the last year. I’ve been doing leg presses, lunges, hip thrusts, etc. My PT says I can start incorporating squats and deadlifts. I figured I’d just pick a beginner powerlifting routine, but the thing is my bench is 340 (obviously not “beginner”), so I wasn’t sure what program to do. 
+
+I’ve gone through a bunch of beginners programs but with my situation none really seem to work with my 4 day schedule. I feel like I’ll have to follow a novice or advance program with bench while running a beginners program for squat and deadlift. Trying to get into powerlifting 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifts: 
- Hey, I'm looking for a coach recommendation. My main goals are getting stronger (current S/B/D 350/300/375), and aesthetics (currently around 15-20% BF, at 183 lbs). I'm also looking for some *very* basic technique cues at the olympic lifts (I don't want to compete, I just think they're cool), as I'm trying to learn the snatch and C+J.
+<td>Comment contains deadlifts?: 
+ If I dont have a dumbell, and my weights cap out around 30lbs, would I be better off doing nordic curls, or kettlebells swings to replace deadlifts? 
+</td>
+</tr>
 
-&amp;#x200B;
-
-I'd like to keep it under 125$/month if possible; does anyone have any recommendations? 
+<tr>
+<td>Comment contains deadlifts: 
+ Whats the purpose behind doing seated deadlifts or zercher rack pulls? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Hi everyone my fitness blog on YouTube is EzraM619. The thumbnails with my dog in it are the most recent videos I have posted which are the ones I recommend you watch. There are bits of good information in some of the videos you can use. I use equipment and sometimes just bodyweight to condition and strength train. I have a variety of Gym equipment so as I keep posting these videos I’ll be using all the different types of equipment I have like dumbbells, kettle bells stuff like that. Some of the videos do have commentary and some special sound effects I made so I hope you enjoy. FYI I’m almost done with my bachelors degree in exercise science, I also was in the Navy for 8yrs and was a PRT coordinator, which means I got people ready for physical readiness test we had to take. These videos are more for your imagination if you get bored doing the same thing over and over. if you like what I do you can do it or maybe even modify the exercises I do to your liking either way I hope you enjoy and if you do like share and subscribe :-) 
+ Is the 5/3/1 BBB more of a strength routine or a mass/hypertrophy routine? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Any recommendations for quality lifting belt ? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ I’m doing a push pull legs routine but wonder where to incorporate shoulder lifts. Tips? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Accessories for Boring But Big?
+
+I just started Boring But Big today after 6 months off from weights.
+
+I did the deadlift day, so I only did deadlifts, but then I didn't fancy any of the accessories from the 5/3/1 app so I did pull-ups. But I think that was too much after the deads.
+
+Will my size gains suffer if I don't do any accessories?
+
+Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Accessories for Boring But Big?
+
+I just started Boring But Big today after 6 months off from weights.
+
+I did the deadlift day, so I only did deadlifts, but then I didn't fancy any of the accessories from the 5/3/1 app so I did pull-ups. But I think that was too much after the deads.
+
+Will my size gains suffer if I don't do any accessories?
+
+Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Currently running nSuns 5 day and just wondering if there’s any issue swapping around the order of the deadlift day with the second bench day?
+
+If I’m busy at the weekend and can’t do the bench day on Saturday, I miss it entirely as I can’t do the two bench days consecutively on Sunday-Monday. But if I swapped deadlift to Saturday I could do it on Sunday if I was busy on Saturday. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Currently running nSuns 5 day and just wondering if there’s any issue swapping around the order of the deadlift day with the second bench day?
+
+If I’m busy at the weekend and can’t do the bench day on Saturday, I miss it entirely as I can’t do the two bench days consecutively on Sunday-Monday. But if I swapped deadlift to Saturday I could do it on Sunday if I was busy on Saturday. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains ([https://wwwredditcom/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://wwwredditcom/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)): 
+ Programming question:
+
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
+
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
+
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
+
+Just curious how other people would deal with that situation? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Programming question:
+
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
+
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
+
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
+
+Just curious how other people would deal with that situation? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains Deadlift: 
- So I made this push, pull, leg program for me and I was wondering what you think. Is it too much? Too little? Feel free to give advice and change stuff in the program.
+ Programming question:
 
-I've trained for just over a year now and felt like it was a good time to try a new program. So what do you think?
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
 
-The Program:
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
 
-&amp;#x200B;
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
 
-Push Day
-
-3x8 Bench Press
-
-3x8 Incline Dumbell Bench Press
-
-3x10 Seated Shoulder Press Machine
-
-3x10 Rear Delt Raise
-
-3x12 Triceps Pressdowns
-
-&amp;#x200B;
-
-Pull Day
-
-3x8 Deadlift
-
-3x10 Pulldowns
-
-3x8 Seated Chest Supported Row
-
-3x10 Standing Bicep Curl
-
-Abs Exercises
-
-&amp;#x200B;
-
-Leg Day
-
-3x8 Squats
-
-3x10 Leg Extensions
-
-3x10 Hamstring Curls
-
-2x10 Hyperextensions
-
-3x10 Calf Raises 
+Just curious how other people would deal with that situation? 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifter): 
- How fast should I be gaining weight without too much of it being fat? I've been gaining weight at 3 pounds per week give or take and started off from 5'9" 125 pounds and am now at about 135 pounds in 3 weeks. (So a beginner lifter).
+<td>Comment contains Deadlifting: 
+ Programming question:
 
-I don't look too different when I look in the mirror to be honest (I goofed and didn't take a before after picture). My ribs still show a bit and I still have my skinny boi abs (which I'm sure will go away as I gain more weight). But I'm just wondering if this rate of growth is unusually high or low or right on track.
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
 
-I'm ok gaining a bit of fat since I figure that'll help me fill out at a reasonable level but I don't want to really get to any stage where I just straight up look flabby if that makes sense.  I've been working really hard with the Reddit PPL program and have been pushing myself to eat a lot more than before.
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
 
-I'm not tracking my calories at the moment but I just figured that if I maintained 125 pounds for years, I just have to eat a significant amount more than what I ate for those years and it's been working for the most part.
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
 
-But at a certain point, I assume that muscle gain should slow down and if I keep my weight gain at the same rate forever, it'll mostly be fat? What should I be looking out for you avoid that down the road and am I ok for now? 
+Just curious how other people would deal with that situation? 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifting: 
- If I do cardio for a few hours before (ie a different part of the day) of my lifting, will it effect lifts? I figure doing cardio right before lifting could effect it but what about 3 horus before? 
-</td>
-</tr>
+<td>Comment contains lift: 
+ Programming question:
 
-<tr>
-<td>Comment contains lifts?: 
- If I do cardio for a few hours before (ie a different part of the day) of my lifting, will it effect lifts? I figure doing cardio right before lifting could effect it but what about 3 horus before? 
-</td>
-</tr>
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
 
-<tr>
-<td>Comment contains lifting: 
- If I do cardio for a few hours before (ie a different part of the day) of my lifting, will it effect lifts? I figure doing cardio right before lifting could effect it but what about 3 horus before? 
-</td>
-</tr>
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
 
-<tr>
-<td>Comment contains crabwalk](https://lifetrimmerscom/wp-content/uploads/2018/12/resistance-band-crab-walkjpg)?: 
- Where exactly am I supposed to feel [a crabwalk](https://lifetrimmers.com/wp-content/uploads/2018/12/resistance-band-crab-walk.jpg)? I'm asking myself if I have problems activating my abductors (or part of them) - I feel it fairly low in my glutes (on the side) and I'm wondering if it shouldn't be higher. I'm gonna ask  my PT next week, too, but I'd like to observe what I'm going (in)correctly until then and try some stuff. 
-</td>
-</tr>
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
 
-<tr>
-<td>Comment contains lifted: 
- Went to do bench press, so I wiped down the bench, loaded the weights, got myself mentally prepared and lifted the bar only to realize that my wrist still isn't quite healed.  So I did one rep and figured I should give it more time to heal instead of risking re-injury.  Broke everything down and wiped the bench again.
-
-Yes, I'm the guy that did one rep on the bench press this week and called it good. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Got asked if i ever competed after finishing my deadlifts this week. As a middle aged guy 3 years out from having my bowels stitched together after cancer treatment i will admit that felt good. 
+Just curious how other people would deal with that situation? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlift: 
- Just when I thought curling in the squat rack from last week was enough...
+ Programming question:
 
-REVERSE CURLING IN THE SQUAT RACK.
+I wanna create a routine following the philosophy and method outlined in the "General Gainz" post by GZCL ([https://www.reddit.com/r/gzcl/comments/aqkdgo/happy\_gday\_gainerz/](https://www.reddit.com/r/gzcl/comments/aqkdgo/happy_gday_gainerz/)).
 
-But hey, it's just one of those weeks I guess. Yesterday was deadlift day, and the ARMAP set of 137.5kg. Considering I've done exclusively trap bar deadlift before lockdown, and only since coming back been doing straight-bar, I was stoked to hit 8 clean reps.
+It will be 4 days a week. I generally prefer full body to upper/lower because I feel like I can get more volume in that way. However that leads me to the problem that 1 lift will always not have a rest day before. For me, I feel like the best option would be doing T1 Squat/T2 Bench after a T1 OHP/T2 Deadlift day. My Squat (180kg) and Bench (130kg) are currently stronger than my OHP (70kg), and I haven't been Deadlifting in a while and need to do some catchup there.
 
-Only when I was re-racking everything did I realise my maths was off and it was 127.5kg instead. 
-</td>
-</tr>
+Upper/Lower would obviously allow me to just do legs a day after upper body without neglecting any lift, but doing lunges after squat and deadlift is just horrible
 
-<tr>
-<td>Comment contains deadlift: 
- Just when I thought curling in the squat rack from last week was enough...
-
-REVERSE CURLING IN THE SQUAT RACK.
-
-But hey, it's just one of those weeks I guess. Yesterday was deadlift day, and the ARMAP set of 137.5kg. Considering I've done exclusively trap bar deadlift before lockdown, and only since coming back been doing straight-bar, I was stoked to hit 8 clean reps.
-
-Only when I was re-racking everything did I realise my maths was off and it was 127.5kg instead. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- Am really loving my home gym efficiency gains. Do a set of deadlifts, rest and do some laundry, do another set, take out the trash,...
-
-Plus I do love working out in sports boxer underwear only:-).
-
-And I always bring a large cup of coffee. 
-
-One time I even did some curls in the squat rack but this aggravated my golfer's elbow... 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Returned back to the gym for the first time in 6 months. I'm impressed with all the social distancing and cleaning going on, and I felt quite safe (safer than being in the supermarket).
-
-I was impressed with my cardio. Hadn't done the spin bike, but ramped up my running and circuit training in these 6 months but was able to do 40 minutes on it without difficulty. 150bpm, felt quite calm.
-
-I was less impressed with my strength. Did back and arms and I've essentially lost half my strength. Numbers were all down by half. 
-
-Felt good being back though and I'm looking forward to a new challenge. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Returned back to the gym for the first time in 6 months. I'm impressed with all the social distancing and cleaning going on, and I felt quite safe (safer than being in the supermarket).
-
-I was impressed with my cardio. Hadn't done the spin bike, but ramped up my running and circuit training in these 6 months but was able to do 40 minutes on it without difficulty. 150bpm, felt quite calm.
-
-I was less impressed with my strength. Did back and arms and I've essentially lost half my strength. Numbers were all down by half. 
-
-Felt good being back though and I'm looking forward to a new challenge. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Struck a deal with the owner of my gym. They open at 5am but on Mondays, Wednesday’s, and Saturdays I can get there at 4am and have the place to myself for an hour. I get up at 3:15, do a little warm up at home, get to the gym right at 4, lift until a little before 5, finish with a run around the lake behind my house, and get my full workout in without seeing anyone. 
-
-It sucks going to bed around 8pm and getting up early, but this is the safest way for me to workout. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- A girl at the gym asked me to spot her bench. I had been watching her quarter rep and half rep some sets before this. I could tell she was ego lifting a bit and I was so tempted to say something. I kept my mouth shut and gave her a couple spots and tried to be encouraging after each attempt. 
-
-On the last set she brought up that she worries about letting the bar go lower and she needs to work on it. I agreed that getting the bar low can be a little scary but if she drops the weight pretty low then she can practice it without the fear of failure and slowly add weight back up. She agreed to try it on her next bench day. 
-
-I feel like if I'd said something right away she would have ignored the advice and potentially hurt herself. Hopefully now she works on it and hits that 1 plate rep she attempted with good form 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifted: 
- I deadlifted and benched for the first time ever yesterday! I went with my pretty experienced friend and even though I only benched the bar and deadlifted 50lbs (I’m a little weakling) I feel really proud of myself and I can’t wait to learn more!! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifted: 
- I deadlifted and benched for the first time ever yesterday! I went with my pretty experienced friend and even though I only benched the bar and deadlifted 50lbs (I’m a little weakling) I feel really proud of myself and I can’t wait to learn more!! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Yesterday I had a fantastic deadlift session. Today I decided to do a morning run in the forest despite being barely able to walk. Tripped over a root and faceplanted hard. 
-Wondering if there is a moral to this story. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains uplifting: 
- Two regulars who workout the same time as me, who are mostly doing upper body work and not as much lower body/legs were doing squats next to me.
-
-After their sets, one of the guys stopped up to look at me doing my sets and, quietly through my headphones I could hear the he told his friend "See man, I want to be able to do that as well!"
-
-That was a nice little uplifting feeling in my sets 💪 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I love deadlifts. I do not love the lake of sweat that appears on the floor that my towel never seems to fully able to soak up.
-
-
-Feels extra bad when I go get extra paper towels to dry it up and someone has already taken the bar and is standing in the sweat puddle. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Hit a pr of 180x3 on deadlift while cutting as a 17 yo and 180 pounds 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- First day back at gym after lifting at home. Really enjoyed the session.
-
-Reality quickly hit home when I now need to wipe down every machine after use including all dumbbells etc. I get why obviously. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I've just moved from one gym to another. Same chain but different site. They have the the same cable machines but I swear they are all labelled in pounds rather than kg. If. It it means I'm lifting literally double, which is definitely not the case! So confusing why they did this. Kg for life! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- It's has been 5 months without gym and training from home, now i had to stop for some days due to a shoulder injury that came back (almost sure it's tendinitis) and i realized that it's useless to pursue my initial goal in this circumstances thinking that there will be no vaccine until the end of the year or the beginning of the next.
-
-I wanted to gain weight to build muscle but without more added weights to lift or not having enough food to reach 3,300 calories, I gave up: i'm just gonna cut. I have a good jump rope, which I will give more time, and I will continue with the training that I have for now.
-
-This sucks. But if i'm not gonna get big at least i'm gonna be ripped. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Dumbells were not in correct places but I did not notice.. so I did overhead press with 2 different weights, wondering why I had a really hard time finishing my set with my left arm... Only to notice the weight difference when I dropped them to the floor. Then saw some other guys trying to figure out where the weights were too.... Please put the dumbells in their correct spot :(
-
-
-Other day some dude came walking to me, asking me where his drinking bottle was.. I tried to explain that I didn't see it and joked that I did not steal it. He looked up very confused and embarrassed. I was not the guy he thought I was. (His friends was next to me on the other bench, same shirt). We laughed a good amount. These things make the solo-training  a bit better haha
-
-
-And another from this week,
-
-I was half way through my squat sets, my towel, phone and drinking bottle was at the squat rack with all the weights on the bar. Went to get a drink just to come back to a (new) guy clearing all the weights from the bar. Told him I was not done yet, but only had some sets  left and he looked really embarrassed, kind of scared like 'what have I done now', and after some hesitating he asked me if I could let him know when I was done. I remember my first time at the gym, feeling so uncomfortable. Now it's like a second home.
-
-This week was also the first week that I went 1 rep too far on the incline bench press, not being able to lift it anymore and do the roll of shame. Nobody saw. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- One time a random guy asks me to spot him on a bench press. I say sure why not. He does a few reps and then he can't  lift the bar off his chest. I try to help him BUT I CAN'T because the weight is too heavy. I try to lift it but I'm too weak and exhausted. Gladly other two guys came to help and the guy I was spotting did not get injured. It was embarassing and also dangerous. Now I always refuse to spot random people. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- One time a random guy asks me to spot him on a bench press. I say sure why not. He does a few reps and then he can't  lift the bar off his chest. I try to help him BUT I CAN'T because the weight is too heavy. I try to lift it but I'm too weak and exhausted. Gladly other two guys came to help and the guy I was spotting did not get injured. It was embarassing and also dangerous. Now I always refuse to spot random people. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- M 32 / 5'10" / 148 lbs (current)
-
-[https://i.imgur.com/4iBP5m1.jpg](https://i.imgur.com/4iBP5m1.jpg)
-
-Before photo: 170 lbs, May 15th 2020
-
-The before/after format here might be a bit unusual but looking for ideas about how to continue my progress.  My long term goals are to increase strength and muscle mass, while ending up at least as lean as I currently am.
-
-I have been lifting 2x week with a basic progressive overload program for the past 6 weeks, and cycling \~50 miles/week for the past 6 months.
-
-The weight loss was primarily a result of tracking weight over time/adjusting diet, with some weeks of strict calorie counting in there.  At this point, I'm thinking I should not go any lighter, and have switched to a slight calorie surplus, with the idea of slowly gaining muscle mass as I continue weight training.
-
-Please let me know if you have any advice! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- M 32 / 5'10" / 148 lbs (current)
-
-[https://i.imgur.com/4iBP5m1.jpg](https://i.imgur.com/4iBP5m1.jpg)
-
-Before photo: 170 lbs, May 15th 2020
-
-The before/after format here might be a bit unusual but looking for ideas about how to continue my progress.  My long term goals are to increase strength and muscle mass, while ending up at least as lean as I currently am.
-
-I have been lifting 2x week with a basic progressive overload program for the past 6 weeks, and cycling \~50 miles/week for the past 6 months.
-
-The weight loss was primarily a result of tracking weight over time/adjusting diet, with some weeks of strict calorie counting in there.  At this point, I'm thinking I should not go any lighter, and have switched to a slight calorie surplus, with the idea of slowly gaining muscle mass as I continue weight training.
-
-Please let me know if you have any advice! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- M 16 / 5’11 / 149lbs
-
-https://imgur.com/a/QgFocfh
-
-Bulk or Cut? Also BF% estimates pls! I just started lifting a little less than 2 months ago, so I’m a beginner, but I need advice on whether I need to bulk to gain more muscle, or cut then build my way up. Ideally I would like to build a noticeable amount of muscle and have visible abs, which will probably take many more months. Will bulking or cutting speed this process up, or should I continue to eat at maintenance and do my usual routine, or something else? PS. I’m not very educated on fitness stuff yet, so some of that might just sound obvious and ignorant, but I’m just looking for answers on what I should do. Any advice/feedback is much appreciated. Thanks! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts:: 
- 33/M/6ft 187lbs 
-
-https://imgur.com/a/OCyqYsD
-
-Current lifts: 325/235/410
-
-So close to 190! I think I want to get to 195 then cut back down to 180-185. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- My workout routine is kind of a mess. I worked put a lot two years ago, life got in the way, quarantine hit and was working out daily, then I began working at a summer camp and was not actively working out, but still running around and occasionally lifting heavy things and what not. Any ideas for arms and how to get rid of my silly little gut?
-
-https://imgur.com/a/2wqDJPo 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains powerlifting: 
- M20/5'11"/185lbs
-
-https://imgur.com/a/Eh599Mc
-
-I've just started some actual powerlifting training after three years of only doing average gym-bro things, mostly on a PPLPPL split up until now! I am aware that I need some more size on my chest and traps, but that will be a concern for after my meet in November (as long as it goes ahead) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- F/27/135lbs/5’7”
-
-https://i.imgur.com/g0ATkXW.jpg
-
-https://i.imgur.com/90XSu3g.jpg
-
-Been doing an unintentional cut lately. Work and trips have been keeping me busy and the hotel gyms are still closed, throwing off my lifting schedule. When I’m at home I follow a 4-day split (LPPL). The plan is to get back on my bulk for the next 6 months and try to put on at least another 5-6lbs. I think I’ll be happier with my physique in the 140s, with a little more muscle on my frame. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- [18M/5’11”/150lbs](https://imgur.com/a/Ap3GRn1)
-
-Would really appreciate any comments or bf% estimates. I just wanna see my abs for once in my life and build muscle. Been lifting for about a year but I’ve been on a cut for about two months. Should I keep cutting or try to put on more muscle? Many thanks 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Hey, I'm looking for coaching recommendation. My main goals are getting stronger (current S/B/D 350/300/375), and aesthetics (currently around 15-20% BF, at 183 lbs). I'm also looking for some *very* basic technique cues at the olympic lifts (I don't want to compete, I just think they're cool), as I'm trying to learn the snatch and C+J.
-
-&amp;#x200B;
-
-I'd like to keep it under 125$/month if possible; does anyone have any recommendations? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- M20 started gzclp 3 weeks ago. The gym I currently go doesn't have 1.25 kg plates so I can't increase by 2.5 kg on upper body lifts like I should. I bought 2 1.25 kg plates just to find out that they don't fit in the barbell at my gym. I will change gym in 3 weeks so I don't want to buy more plates. I was thinking of doing for T1 bench and Ohp one week with 5 sets for 4 reps(or 5?) Instead of 5x3 and the next week to increase by 5 kg instead. And for T2 bench and Ohp to increase by 5 kg and do 3x7 instead of 3x10 and the next week do 3x10 with the same weight. Is this a good idea? If not what would you do? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Normal chin ups with decent TUT time under tension is getting easier for me now so I've been trying archer chin ups. I know weighted is an option but a dip belt I ordered hasn't arrived yet and I'm actually having fun trying out the archer variant.
-
-Question: I can only manage 3-5 reps per set atm for each arm, I'm sure it's enough to build strength but is this even optimal?
-
-Edit: I've also been doing negatives on archer chin up (I think that's what it's called) where I just start from the the top and slowly descend down. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains [Strengthstandardscom](https://Strengthstandardscom): 
- How much weight is respectable for a t-bar row? I add 190 lbs to a 35 lb bar (not sure how to account for the bar weight with t-bar rows) supported at the back with a sand bag and do that for 5's. [Strengthstandards.com](https://Strengthstandards.com) tells me this is DYEL and I'm an idiot for thinking otherwise. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Im having a little trouble organizing my preferred order of training cetain muscle groups to allow for adequate rest between each session. Trying to avoid pushing motions on consectutive days (not following but basing my workouts on push/pull) however with a bit of modification. The problem I am having is ensuring i can get the volume i want without hindering recovery, if possible i'd love to train 4 days per week but i don't thinks its possible given my goals so 5 days a week is what I am look at.
-
-Here is what I am thinkng -
-
-Weekly session:
-
-Chest x2
-Shoulders x2
-Biceps x2
-Triceps x2
-Forearms x2
-Abdominal x2
-Back x1
-Legs x1
-
-
-Day 1: Chest + Triceps + Abs
-Day 2: Back + Biceps + Forearms
-Day 3: Shoulders + Legs
-Day 4: REST
-Day 5: Biceps + Forearms 
-Day 6: Chest + Triceps + Abs
-Day 7: REST
-Day 8: Shoulders + Legs
-Day 9: Back + Biceps + Forearms 
-Day 10: Chest + Triceps + And
-Day 11: REST
-Day 12: Shoulders + Legs
-Day 13: Biceps + Forearms 
-Day 14: REST
-
-* NOTE I've edited the weekly routine for what I had written all my thiughts/desires and requirements for and made it into a two week routine which changes scheduling a little bit to ensure adequate rest. 
-
-So over 2 week period, frequencies are - 
-Biceps/Forearms x4
-Shoulders/Legs x3 
-Chest/Triceps/Abs x3
-Back x2 (I'm ok with this cause main bicep movement is chin ups)
-
-Some scheduling issues might arise if I try to flow this into day 15 etc, cause of back only being done twice possibly have to do it day 15 or 16 with biceps again without more than 48h although I think I'd just prefer to restart the whole two week cycle from the beginning. 
-Rest days x4
-
-
-
-So i'm looking at a way to structure this to hit all those groups twice per week with the willigness to scale down some isolation work and focus more on compound movements for instance not needing triceps twice per week. My goals are to increase shoulder size, specifically traps and delts. Increase chest size, increase biceps size aswell as forearms. A strong back is also a priority for me but i think one workour per week to alow ample recovery here is sufficient as I will use chin-ups on biceps days. 
-
-A concern I have is excessive forearm work possibly causing fatigue on day 3,6 and 10 for chest and shoulder movement but we will see how this goes. Forearm strength and size is a priority for me as it's a weak point - I know that plenty of indirect work will target it but I want to be serious and intentful on achieving my results so do want direct training. 
-
-
-I've been training for about 2 years inconsistently and am able to train consistently now due to health reasons. Last year I trained for 5 months straight toward the end of the year and was my most consistent period and been training again since June of this year. 
-I weighed 73kg middle of last year and am now sitting at 82.5kg standing @ 6'1'' and goal is to get to 90kg with little incremental weight gains. I am bulking but not going to eat more than 3,500 on any given day although roughly 3,500 is my target but wont mind if i fall short around 3,200-3,300 so long as my protein intake is around 180-190g.
-
-Cheers for any advice guys 
+Just curious how other people would deal with that situation? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains weightlifting: 
- I'm a 17-year-old boy (Height: 5'7" Weight: 168 pounds) and interested in starting to work out after my Accutane treatments...
-
-Working out is entirely new to me. The gym is new to me. And the equipment looks very complicated and I'm unfamiliar with it. 
-
-I'm very interested in doing weightlifting. But I'm lost in knowing where to start.
-
-I'm very anxious going into gyms since I might look stupid using the wrong equipment, and I have no one in my life that is doing body-building, so I'm doing this alone... So this is going to be a challenge for me. Hoping I can get some responses and advice from you guys! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Hey guys, I recently bought myself a bench and some dumbbells but I struggle to find the right workout routine and weights for certain exercises. Most of the time I end up getting frustrated because I either end up feeling like I didn't use enough und weights, or I get top exhausted midway through. I have a skinny fat type of body so I have little to no strength sadly. Any help ist appreciated, thank you really much 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains weightlifting: 
- First time doing any weightlifting in my entire life. Took my time today to learn properly from videos and be careful and still walking away with some stiffness and dull soreness in my right back muscle near my neck and shoulder and some soreness in my lower back. When I bend down to my left, I feel it on the *right* side of my neck by my ear. 
-
-99% sure this is normal and I’m just learning proper form + training muscles I have not touched before. Also I hold my shoulders on accident when I do deadlifts, bet that’s contributing. What sayeth the fitness court? Just need to improve form? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- First time doing any weightlifting in my entire life. Took my time today to learn properly from videos and be careful and still walking away with some stiffness and dull soreness in my right back muscle near my neck and shoulder and some soreness in my lower back. When I bend down to my left, I feel it on the *right* side of my neck by my ear. 
-
-99% sure this is normal and I’m just learning proper form + training muscles I have not touched before. Also I hold my shoulders on accident when I do deadlifts, bet that’s contributing. What sayeth the fitness court? Just need to improve form? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I’m relatively new to lifting weights and working out. I’ve been working with a trainer and we meet first thing before work at 5 am. I’ve been basically rolling out of bed and going straight to the gym. 
-
-I often start to feel sick whenever we start to exercise core muscles, especially abs. What should I be eating/drinking right before and early morning workout and do I need to allow it time to settle? I’d prefer not having to wake up way earlier than I already am. 
+ Why do weightlifting belts help so much? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlift: 
- Doing Nsuns 6 day deadlift, running a 5k every day &amp; Training BJJ 5 days a week. I have one complete rest day with no activity once a week. 
-
-My main question comes in regards to my lifting. Is this all too much? My gains have yet to suffer &amp; I haven’t plateaued yet in the program, but I fear that it could come eventually. 
-
-So What does r/Fitness think? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Doing Nsuns 6 day deadlift, running a 5k every day &amp; Training BJJ 5 days a week. I have one complete rest day with no activity once a week. 
-
-My main question comes in regards to my lifting. Is this all too much? My gains have yet to suffer &amp; I haven’t plateaued yet in the program, but I fear that it could come eventually. 
-
-So What does r/Fitness think? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- Should you still expect to progress on your lift numbers while cutting? For example, if I'm trying to cut from 155 lbs down to 145 lbs at 2lbs a week, that would put me at 5 weeks. 
-
-If I was lifting for 5 weeks on a linear progression would my lifts still be going up on those 5 weeks I was cutting, assuming I eat still the recommended amount of protein? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Should you still expect to progress on your lift numbers while cutting? For example, if I'm trying to cut from 155 lbs down to 145 lbs at 2lbs a week, that would put me at 5 weeks. 
-
-If I was lifting for 5 weeks on a linear progression would my lifts still be going up on those 5 weeks I was cutting, assuming I eat still the recommended amount of protein? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Should you still expect to progress on your lift numbers while cutting? For example, if I'm trying to cut from 155 lbs down to 145 lbs at 2lbs a week, that would put me at 5 weeks. 
-
-If I was lifting for 5 weeks on a linear progression would my lifts still be going up on those 5 weeks I was cutting, assuming I eat still the recommended amount of protein? 
+ What are your thoughts on my deadlift program (I’m 21M 81Kg). 8R of 40Kg [1 minute rest], 6 of 50Kg [1 minute rest], 6 of 60Kg [1 minute rest], 6 of 70Kg [1 Minute rest], 4 of 80kg, 4 of 90kg, 2 of 100kg, 2 of 110kg
+Is this okay for strength training or should I just go heavy (110kg+) and forget about the first few sets 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- So, running.
-
-I've been working at this since quarantine with trial and error.  Ditched the bro-science about only strength training burning fat and went back to BodyProject/Fitness Blender videos and nutrition planning.  Found noticeable results (I look slimmer, but far from toned).  
-
-Now that I have better lung capacity, how often should I be running and how long?  I'm looking at 2mi/3 days a week and the other two days on some strength training.  I'm waiting for the weather to cool down a bit.  
-
-Any runners out there could share their weight loss stories?  Thanks! 
+ What are your thoughts on my deadlift program (I’m 21M 81Kg). 8R of 40Kg [1 minute rest], 6 of 50Kg [1 minute rest], 6 of 60Kg [1 minute rest], 6 of 70Kg [1 Minute rest], 4 of 80kg, 4 of 90kg, 2 of 100kg, 2 of 110kg
+Is this okay for strength training or should I just go heavy (110kg+) and forget about the first few sets 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains strength: 
- So, running.
-
-I've been working at this since quarantine with trial and error.  Ditched the bro-science about only strength training burning fat and went back to BodyProject/Fitness Blender videos and nutrition planning.  Found noticeable results (I look slimmer, but far from toned).  
-
-Now that I have better lung capacity, how often should I be running and how long?  I'm looking at 2mi/3 days a week and the other two days on some strength training.  I'm waiting for the weather to cool down a bit.  
-
-Any runners out there could share their weight loss stories?  Thanks! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- If I do 25k steps a day and just started strength training should I bother about doing any other cardio? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifters: 
- do deload weeks work? for recreational lifters. why not just take an off-week and then come back to the same weight the following week, minus perhaps 1 or 2 reps/sets 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm  5'6", 170 pounds, fitbit scale says 26% body fat although I don't feel like I have that much fat. I lift 3-4 times a week and run 3 miles 1-2 days a week. 
-
-I've been trying to lose body fat but my scale says i'm mostly losing muscle mass. In the last 3 weeks i've lost 10 pounds but according to my scale most of it was lean mass. I'm eating a lot of protein but calories might be in a deficit.
-
-I'm lost on what I should be doing differently. Should I try to cut more to get rid of the fat, or bulk? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I train 5x a week and focus on compound lifts (my routine looks a bit like nSuns). What would be the difference between separating lower and upper work (press and bench on workout A, squat and deadlift on workout B) or going  for a mix (bench and squat on workout A, deadlift and press on workout B)?
-
-I assume the first would be better for recovery, but two upper/lower compounds on the same day would impact the intensity, wouldn't it?
-
-p.s. I always find the declined bench helps me keep a consistent form in my press. Is there any reason why I should still prioritize the flat bench press? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I train 5x a week and focus on compound lifts (my routine looks a bit like nSuns). What would be the difference between separating lower and upper work (press and bench on workout A, squat and deadlift on workout B) or going  for a mix (bench and squat on workout A, deadlift and press on workout B)?
-
-I assume the first would be better for recovery, but two upper/lower compounds on the same day would impact the intensity, wouldn't it?
-
-p.s. I always find the declined bench helps me keep a consistent form in my press. Is there any reason why I should still prioritize the flat bench press? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I train 5x a week and focus on compound lifts (my routine looks a bit like nSuns). What would be the difference between separating lower and upper work (press and bench on workout A, squat and deadlift on workout B) or going  for a mix (bench and squat on workout A, deadlift and press on workout B)?
-
-I assume the first would be better for recovery, but two upper/lower compounds on the same day would impact the intensity, wouldn't it?
-
-p.s. I always find the declined bench helps me keep a consistent form in my press. Is there any reason why I should still prioritize the flat bench press? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm looking to add a conditioning day to my 4-day routine at the end of the week (Average to Savage right now, since I got it cheap!), but I'm not sure what to do. I would like to follow a routine, just like I do strength training, and don't want to freestyle it. I'm not sure whether I'm supposed to nearly kill myself or do some minute-on-minute-off thing...
-
-I don't want to have to hop on a treadmill for 20 minutes though because that's boring as shit.
-
-My gym doesn't have prowlers, kegs, farmer handles, and rope to pull weight with (or any of that cool strongman stuff like tires), so forget about using those because it's just a regular gym.
-
-Otherwise there's kettlebells, sandbags (that aren't *too* heavy), a box to load plates with, and battleropes.
-
-What do? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I'm running 5/3/1, really liking it so far. Making good progress.
-
-For assistance work, I do big muscles (5x10 of the major compound of the day + lat pulldowns/pull ups, etc..)
-
-Most often, I also do 5x10 @50% of an other compound as well to add some volume. So e.g military press on deadlift days, squats on bench days.
-
-  
-
-
-Is that a good idea? Or would it better to some dumbbell assistance work in stead of the compound lift muscle group?
-
-I have about 1h 4x a week, I like to work hard, but don't want to waste time doing stuff that is essential useless. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm running 5/3/1, really liking it so far. Making good progress.
-
-For assistance work, I do big muscles (5x10 of the major compound of the day + lat pulldowns/pull ups, etc..)
-
-Most often, I also do 5x10 @50% of an other compound as well to add some volume. So e.g military press on deadlift days, squats on bench days.
-
-  
-
-
-Is that a good idea? Or would it better to some dumbbell assistance work in stead of the compound lift muscle group?
-
-I have about 1h 4x a week, I like to work hard, but don't want to waste time doing stuff that is essential useless. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm M 181cm 91kg
-I started last week RR. My goal is to gain strength and flexibility. Do I have to loose weight to optimal 81kg or keep my current weight to have heavier body for exercise? 
-If the recommendation is loose weight do I calculate protein intake on my current weight or target weight? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I can't squat with proper form due to poor ankle and hip mobility. I am doing stretches to fix this.
-
-My goal is to build strength and size. Is doing a good replacement until I am able to do regular barbell squats? How important is it that I eventually switch over to full squats? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I do workout at home without gym equipment so I always lift 5kg rice bag etc... So is it good to lift the same amount of weight every time, will there be significant progress? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I do workout at home without gym equipment so I always lift 5kg rice bag etc... So is it good to lift the same amount of weight every time, will there be significant progress? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Do you go up on accessories when you go up on the main lifts, or the other way around? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Fuck deadlift
-
-Any alternatives? 
+<td>Comment contains strengthen: 
+ So I started bench pressing 2 weeks ago (learned the form in high school) and I started at 25 lbs (95 total) which was too easy, then went to 40 lbs (125 total) which was still too easy, and now I’m doing 42.5 lbs (130 lbs total). This is for 5x5. My friend told me that I should stay at lighter weight to strengthen my supporting muscles as I’m new to weight lifting again. Is he right? He says I need to focus more on form cause my form can get worse with higher weight but less weight feels too easy so I’m not sure. I don’t really struggle to complete 5x5 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- It's Friday. I got dog shit sleep before working out today, luckily I got all my lifting done but by that time I felt like I'd throw up whatever I didn't shit out for breakfast if I pushed and did cardio.
-
-Yay for 5 hours of sleep split into about 2.5 hours each. I love getting shot and mauled and waking up after dying in a dream 🤦‍♂️😔 
+ So I started bench pressing 2 weeks ago (learned the form in high school) and I started at 25 lbs (95 total) which was too easy, then went to 40 lbs (125 total) which was still too easy, and now I’m doing 42.5 lbs (130 lbs total). This is for 5x5. My friend told me that I should stay at lighter weight to strengthen my supporting muscles as I’m new to weight lifting again. Is he right? He says I need to focus more on form cause my form can get worse with higher weight but less weight feels too easy so I’m not sure. I don’t really struggle to complete 5x5 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I hate wearing a mask while lifting.
-
-I hate getting OD sweaty and having to repeatedly towel off and change shirts.
-
-I hate having to gently drop the weight due to noise complaints despite practicing for olympic lifts.
-
-I still love training &lt;3 making gains all throughout quarantine :) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I hate wearing a mask while lifting.
-
-I hate getting OD sweaty and having to repeatedly towel off and change shirts.
-
-I hate having to gently drop the weight due to noise complaints despite practicing for olympic lifts.
-
-I still love training &lt;3 making gains all throughout quarantine :) 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I know I’m a day late, but I have a good reason. I broke two vertebrae in my back Saturday out boating. There goes any chance of getting to the pre-Rona lifts this year. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I’ve had to lower my weights down because I’ve got some mild tendinitis I don’t want to irritate, can’t lift nearly as heavy as I was or else I might fuck it up worse 
+ I’m new to lifting and I’ve been bench pressing with the bar only. I’m trying to get comfortable with the bar and the movement before I put weight on it. It’s been a week since I started. How much weight should I add? Should I start with 10lb? 20lb? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I miss lifting heavy.  Unfortunately, I live in a tiny condo unit with squeaky thin floors above someone else, causing me to live in paranoia that I'm too loud.  I picked up some light adjustable dumbells for upper body work.  Any leg work (even body weight squats) makes the floor squeak like crazy.  Anyone feeling the same pain? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I just miss weights. I miss them. I haven't seen a plate or a bar since February. I miss the smell of iron and sweat. I miss the intense calm that settles in as you go through warm up sets. I miss the deep focus as you take mental inventories of all your muscles and cues that you've built up over time when you're about to drop into a squat or brace for a deadlift.
-
-I miss my pants feeling a little more snug in the seat and thighs. I miss my t-shirts subtly stretching across my torso because my back fills them up.
-
-I run and bike 3-5 times a week now. It's not the same. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I’m really struggling to get my routines and habits back after quarantine. Yesterday I cried at the gym because I couldn’t get the fucking weights off the ground. It was close to my max deadlift, but I was just being too hard on myself. Anyway, starting counseling on Friday.... Don’t neglect your emotional gains, friends. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- First time really tweaking my lower back last week, over arched during bench then did deadlifts right after knowing my back wasn't right. Lower back pain is a lot scarier than I thought it would be. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- How the FUCK do I do dumbbell deadlifts. People say this works your lower back but it only works the quads and glutes for me 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I'm on Week 2 of being back into training, and my lower back is my limiting factor. 
-
-I'm still able to squat 4 plates, but now my lower back is killing me. I've been lifting for almost 7 years so I know what doms should feel like, but this just feels like an injury instead. 
-
-This week I was meant to do 205kg for 5x5, but now I've reset my program to lower the squats to 100kg which feels ridiculously easy all because I need to build up my lower back strength again. 
-
-In a way it's good, because now it'll teach me to be cautious in my training so that I can continue to lift even when I'm 50 and 60. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm on Week 2 of being back into training, and my lower back is my limiting factor. 
-
-I'm still able to squat 4 plates, but now my lower back is killing me. I've been lifting for almost 7 years so I know what doms should feel like, but this just feels like an injury instead. 
-
-This week I was meant to do 205kg for 5x5, but now I've reset my program to lower the squats to 100kg which feels ridiculously easy all because I need to build up my lower back strength again. 
-
-In a way it's good, because now it'll teach me to be cautious in my training so that I can continue to lift even when I'm 50 and 60. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm on Week 2 of being back into training, and my lower back is my limiting factor. 
-
-I'm still able to squat 4 plates, but now my lower back is killing me. I've been lifting for almost 7 years so I know what doms should feel like, but this just feels like an injury instead. 
-
-This week I was meant to do 205kg for 5x5, but now I've reset my program to lower the squats to 100kg which feels ridiculously easy all because I need to build up my lower back strength again. 
-
-In a way it's good, because now it'll teach me to be cautious in my training so that I can continue to lift even when I'm 50 and 60. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- My gym has never been great with social media or updating their website. I never cared until now. I’m hopeful they’ll open on Monday as my state is now allowing but their social media is dead quiet and their website has updated with a “safety page” but no actual information on if they’re opening and how things will work as a customer.
-
-Literally everything else about this gym is great but damn it I want to know if I can lift again. I’m losing my marbles! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- When I set my weight to be able to lift 8-12 reps max, I have to lower the weight by the 3rd set or I fail before my 8th rep. Is this normal?
-Should I pick my max weight so that my max rep on my last set is between 8-12 or do it the way I'm doing it? 
-My goal is to gain muscle/strength.
-Thank you 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains muscle/strength: 
- When I set my weight to be able to lift 8-12 reps max, I have to lower the weight by the 3rd set or I fail before my 8th rep. Is this normal?
-Should I pick my max weight so that my max rep on my last set is between 8-12 or do it the way I'm doing it? 
-My goal is to gain muscle/strength.
-Thank you 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I don’t know how much you lift but it’s pretty easy to just use your knees to “kick” the weights into starting position. I’ve seen people on YouTube do this with 150+ lb dumbbells so just learn how to do that instead of buying some gimmicky thing. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I can see the practical use of these, especially if you have a prior shoulder/muscle injury; but personally I think if you require power hooks you should stick with a straight barbell if you feel the need for them, at least until you can adequately control and support the desired weight of the dumbbell you wish to lift. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift(damage: 
- I tried these out, but found them awkward and difficult to re-rack especially on everything but flat bench press.  If you do buy a set make sure you get a good pair rated for the weight you will use and expect damage if you have to bailout on a lift(damage to the device or flooring). 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- The amount of salt in this thread makes the dead sea look like freshwater. 
-People upset cause you call yourself amateur while lifting more than majority of them ever will. 
-I think you offended people who try to class themselves at above average or elite 😂😂😂 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifter: 
- While I am exceedingly skeptical of OPs claims to be shoulder pressing 120lb dumbbells in each hand.
-
-  Some products do exist and have merit, especially for spinlock type dumbbells or the like that OP references.
-
-  Kick up method or cleaning can certainly become a limiting issue, as well as dropping such dumbbells is not a good idea and getting them back down safely for the weights could be unsafe for the lifter.
-
-  Sure, sure, just go lighter and do more reps is somewhat an option, but there's no reason using such products as hooks or dumbbell J-hook attachments etc is anything but a good thing if you have access and do want to use em. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- 28/M/55kgs/158cm.
-As you might have guessed, I am of very small build. My body type would be skinny fat. I lost some belly fat by dieting for last few months but I still have the love handles.
-
-I started going to the gym for the first time in my life about a week ago. I am pretty feeble and right now just lifting the lightest weight is difficult for me. And I am having issues maintaining proper posture while lifting weights. My brain simply cannot pick up the correct movements by seeing another person. I need someone to actually grab my arms or legs and put it in  correct position for the first time.
-
-And the trainer is not of much of help. He keeps on saying that I need to pay for a personal trainer since for general training, he is not going to correct my posture. This is already affecting my anxiety issues that kept me away from the gym for so long. 
-
-So my question is whether I really need to pay for a personal trainer (its pretty expensive) or as a complete beginner the general trainer should help me correcting my posture? Should I change the gym? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- 28/M/55kgs/158cm.
-As you might have guessed, I am of very small build. My body type would be skinny fat. I lost some belly fat by dieting for last few months but I still have the love handles.
-
-I started going to the gym for the first time in my life about a week ago. I am pretty feeble and right now just lifting the lightest weight is difficult for me. And I am having issues maintaining proper posture while lifting weights. My brain simply cannot pick up the correct movements by seeing another person. I need someone to actually grab my arms or legs and put it in  correct position for the first time.
-
-And the trainer is not of much of help. He keeps on saying that I need to pay for a personal trainer since for general training, he is not going to correct my posture. This is already affecting my anxiety issues that kept me away from the gym for so long. 
-
-So my question is whether I really need to pay for a personal trainer (its pretty expensive) or as a complete beginner the general trainer should help me correcting my posture? Should I change the gym? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- # Is this too much volume for a cut?    
-
-24yo, M, 176cm height, 76.5kg weight, around 15%bf, been lifting for 3 years.  TDEE is between 2500-2700 calories ( from different calculators ), and i am eating around 2200 calories ( 200g protein, 140g fat, 0 carbs ) ;  
-
-**My lifting numbers are :**     
-
-Deadlift : 110kg x 5 ;  
-
-Squat : 72.5 kg x 6 ;  
-
-Bench: 72.5 x 7 ;  
-
-OHP : 30 x 6 ;   
-
-&amp;#x200B;
-
-**I just started this routine, which i can say i love it, because it literally** `kills` **me :**  
-
-**Monday :**  
-
-· Planks 6 x 30s  
-
-· Squat 5/3/1 + 4x5 FSL  
-
-· OHP 5x10    
-
-· BB Row 5x10    
-
-· Incline Db Bench 3x10    
-
-· Reverse peck deck 3x15    
-
-· Leg raises &amp; side bends  
-
-**Tuesday :**    
-
-· Band Pullapart x10  after each set  
-
-· Bench 5/3/1  + 4x5 FSL  
-
-· Straight Leg Deadlift 5x10  
-
-· Pullups 5x10    
-
-· Dips 3x10   
-
-· Front Squat 3x10    
-
-· Calf raise 4x12   
-
-· Neck curl 3x12   
-
-· Planks
-
-**Wednesday :** Sprints, pushups, handstands or Other HIIT  
-
-**Thursday :**   
-
-· Plank 6x30s  
-
-· Deadlift 5/3/1  + 4x5 FSL  
-
-· Bench 5x10   
-
-· Shrugs 5x12   
-
-· Lat raise 3x15   
-
-· Ez-bar Curl 3x15   
-
-· Side Bends  
-
-**Friday :**  
-
-· Band Pullapart x10  after each set  
-
-· Press 5/3/1  + 4x5 FSL   
-
-· Front Squat 5x10   
-
-· Chinups 5x10   
-
-· DB Tricep ext 3x10   
-
-· Cable curl 3x10     
-
-· Calf raise 4x12   
-
-· Hip Thrust 3x12    
-
-· Ab wheel 3x12   
-
-· Pushups 3x20     
-
-&amp;#x200B;
-
-*I superset every exersise 2 by 2 ( Planks - Squats ; Band Pullaparat - Press ; Front squat - Chinups  ; etc. )*    
-
-&amp;#x200B;
-
-I'm gonna continue to do it until my body will say  ^(fuck you) , but i wanted to see if anyone went through something simmilar, more or less. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- # Is this too much volume for a cut?    
-
-24yo, M, 176cm height, 76.5kg weight, around 15%bf, been lifting for 3 years.  TDEE is between 2500-2700 calories ( from different calculators ), and i am eating around 2200 calories ( 200g protein, 140g fat, 0 carbs ) ;  
-
-**My lifting numbers are :**     
-
-Deadlift : 110kg x 5 ;  
-
-Squat : 72.5 kg x 6 ;  
-
-Bench: 72.5 x 7 ;  
-
-OHP : 30 x 6 ;   
-
-&amp;#x200B;
-
-**I just started this routine, which i can say i love it, because it literally** `kills` **me :**  
-
-**Monday :**  
-
-· Planks 6 x 30s  
-
-· Squat 5/3/1 + 4x5 FSL  
-
-· OHP 5x10    
-
-· BB Row 5x10    
-
-· Incline Db Bench 3x10    
-
-· Reverse peck deck 3x15    
-
-· Leg raises &amp; side bends  
-
-**Tuesday :**    
-
-· Band Pullapart x10  after each set  
-
-· Bench 5/3/1  + 4x5 FSL  
-
-· Straight Leg Deadlift 5x10  
-
-· Pullups 5x10    
-
-· Dips 3x10   
-
-· Front Squat 3x10    
-
-· Calf raise 4x12   
-
-· Neck curl 3x12   
-
-· Planks
-
-**Wednesday :** Sprints, pushups, handstands or Other HIIT  
-
-**Thursday :**   
-
-· Plank 6x30s  
-
-· Deadlift 5/3/1  + 4x5 FSL  
-
-· Bench 5x10   
-
-· Shrugs 5x12   
-
-· Lat raise 3x15   
-
-· Ez-bar Curl 3x15   
-
-· Side Bends  
-
-**Friday :**  
-
-· Band Pullapart x10  after each set  
-
-· Press 5/3/1  + 4x5 FSL   
-
-· Front Squat 5x10   
-
-· Chinups 5x10   
-
-· DB Tricep ext 3x10   
-
-· Cable curl 3x10     
-
-· Calf raise 4x12   
-
-· Hip Thrust 3x12    
-
-· Ab wheel 3x12   
-
-· Pushups 3x20     
-
-&amp;#x200B;
-
-*I superset every exersise 2 by 2 ( Planks - Squats ; Band Pullaparat - Press ; Front squat - Chinups  ; etc. )*    
-
-&amp;#x200B;
-
-I'm gonna continue to do it until my body will say  ^(fuck you) , but i wanted to see if anyone went through something simmilar, more or less. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- # Is this too much volume for a cut?    
-
-24yo, M, 176cm height, 76.5kg weight, around 15%bf, been lifting for 3 years.  TDEE is between 2500-2700 calories ( from different calculators ), and i am eating around 2200 calories ( 200g protein, 140g fat, 0 carbs ) ;  
-
-**My lifting numbers are :**     
-
-Deadlift : 110kg x 5 ;  
-
-Squat : 72.5 kg x 6 ;  
-
-Bench: 72.5 x 7 ;  
-
-OHP : 30 x 6 ;   
-
-&amp;#x200B;
-
-**I just started this routine, which i can say i love it, because it literally** `kills` **me :**  
-
-**Monday :**  
-
-· Planks 6 x 30s  
-
-· Squat 5/3/1 + 4x5 FSL  
-
-· OHP 5x10    
-
-· BB Row 5x10    
-
-· Incline Db Bench 3x10    
-
-· Reverse peck deck 3x15    
-
-· Leg raises &amp; side bends  
-
-**Tuesday :**    
-
-· Band Pullapart x10  after each set  
-
-· Bench 5/3/1  + 4x5 FSL  
-
-· Straight Leg Deadlift 5x10  
-
-· Pullups 5x10    
-
-· Dips 3x10   
-
-· Front Squat 3x10    
-
-· Calf raise 4x12   
-
-· Neck curl 3x12   
-
-· Planks
-
-**Wednesday :** Sprints, pushups, handstands or Other HIIT  
-
-**Thursday :**   
-
-· Plank 6x30s  
-
-· Deadlift 5/3/1  + 4x5 FSL  
-
-· Bench 5x10   
-
-· Shrugs 5x12   
-
-· Lat raise 3x15   
-
-· Ez-bar Curl 3x15   
-
-· Side Bends  
-
-**Friday :**  
-
-· Band Pullapart x10  after each set  
-
-· Press 5/3/1  + 4x5 FSL   
-
-· Front Squat 5x10   
-
-· Chinups 5x10   
-
-· DB Tricep ext 3x10   
-
-· Cable curl 3x10     
-
-· Calf raise 4x12   
-
-· Hip Thrust 3x12    
-
-· Ab wheel 3x12   
-
-· Pushups 3x20     
-
-&amp;#x200B;
-
-*I superset every exersise 2 by 2 ( Planks - Squats ; Band Pullaparat - Press ; Front squat - Chinups  ; etc. )*    
-
-&amp;#x200B;
-
-I'm gonna continue to do it until my body will say  ^(fuck you) , but i wanted to see if anyone went through something simmilar, more or less. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- # Is this too much volume for a cut?    
-
-24yo, M, 176cm height, 76.5kg weight, around 15%bf, been lifting for 3 years.  TDEE is between 2500-2700 calories ( from different calculators ), and i am eating around 2200 calories ( 200g protein, 140g fat, 0 carbs ) ;  
-
-**My lifting numbers are :**     
-
-Deadlift : 110kg x 5 ;  
-
-Squat : 72.5 kg x 6 ;  
-
-Bench: 72.5 x 7 ;  
-
-OHP : 30 x 6 ;   
-
-&amp;#x200B;
-
-**I just started this routine, which i can say i love it, because it literally** `kills` **me :**  
-
-**Monday :**  
-
-· Planks 6 x 30s  
-
-· Squat 5/3/1 + 4x5 FSL  
-
-· OHP 5x10    
-
-· BB Row 5x10    
-
-· Incline Db Bench 3x10    
-
-· Reverse peck deck 3x15    
-
-· Leg raises &amp; side bends  
-
-**Tuesday :**    
-
-· Band Pullapart x10  after each set  
-
-· Bench 5/3/1  + 4x5 FSL  
-
-· Straight Leg Deadlift 5x10  
-
-· Pullups 5x10    
-
-· Dips 3x10   
-
-· Front Squat 3x10    
-
-· Calf raise 4x12   
-
-· Neck curl 3x12   
-
-· Planks
-
-**Wednesday :** Sprints, pushups, handstands or Other HIIT  
-
-**Thursday :**   
-
-· Plank 6x30s  
-
-· Deadlift 5/3/1  + 4x5 FSL  
-
-· Bench 5x10   
-
-· Shrugs 5x12   
-
-· Lat raise 3x15   
-
-· Ez-bar Curl 3x15   
-
-· Side Bends  
-
-**Friday :**  
-
-· Band Pullapart x10  after each set  
-
-· Press 5/3/1  + 4x5 FSL   
-
-· Front Squat 5x10   
-
-· Chinups 5x10   
-
-· DB Tricep ext 3x10   
-
-· Cable curl 3x10     
-
-· Calf raise 4x12   
-
-· Hip Thrust 3x12    
-
-· Ab wheel 3x12   
-
-· Pushups 3x20     
-
-&amp;#x200B;
-
-*I superset every exersise 2 by 2 ( Planks - Squats ; Band Pullaparat - Press ; Front squat - Chinups  ; etc. )*    
-
-&amp;#x200B;
-
-I'm gonna continue to do it until my body will say  ^(fuck you) , but i wanted to see if anyone went through something simmilar, more or less. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains Deadlift: 
- # Is this too much volume for a cut?    
-
-24yo, M, 176cm height, 76.5kg weight, around 15%bf, been lifting for 3 years.  TDEE is between 2500-2700 calories ( from different calculators ), and i am eating around 2200 calories ( 200g protein, 140g fat, 0 carbs ) ;  
-
-**My lifting numbers are :**     
-
-Deadlift : 110kg x 5 ;  
-
-Squat : 72.5 kg x 6 ;  
-
-Bench: 72.5 x 7 ;  
-
-OHP : 30 x 6 ;   
-
-&amp;#x200B;
-
-**I just started this routine, which i can say i love it, because it literally** `kills` **me :**  
-
-**Monday :**  
-
-· Planks 6 x 30s  
-
-· Squat 5/3/1 + 4x5 FSL  
-
-· OHP 5x10    
-
-· BB Row 5x10    
-
-· Incline Db Bench 3x10    
-
-· Reverse peck deck 3x15    
-
-· Leg raises &amp; side bends  
-
-**Tuesday :**    
-
-· Band Pullapart x10  after each set  
-
-· Bench 5/3/1  + 4x5 FSL  
-
-· Straight Leg Deadlift 5x10  
-
-· Pullups 5x10    
-
-· Dips 3x10   
-
-· Front Squat 3x10    
-
-· Calf raise 4x12   
-
-· Neck curl 3x12   
-
-· Planks
-
-**Wednesday :** Sprints, pushups, handstands or Other HIIT  
-
-**Thursday :**   
-
-· Plank 6x30s  
-
-· Deadlift 5/3/1  + 4x5 FSL  
-
-· Bench 5x10   
-
-· Shrugs 5x12   
-
-· Lat raise 3x15   
-
-· Ez-bar Curl 3x15   
-
-· Side Bends  
-
-**Friday :**  
-
-· Band Pullapart x10  after each set  
-
-· Press 5/3/1  + 4x5 FSL   
-
-· Front Squat 5x10   
-
-· Chinups 5x10   
-
-· DB Tricep ext 3x10   
-
-· Cable curl 3x10     
-
-· Calf raise 4x12   
-
-· Hip Thrust 3x12    
-
-· Ab wheel 3x12   
-
-· Pushups 3x20     
-
-&amp;#x200B;
-
-*I superset every exersise 2 by 2 ( Planks - Squats ; Band Pullaparat - Press ; Front squat - Chinups  ; etc. )*    
-
-&amp;#x200B;
-
-I'm gonna continue to do it until my body will say  ^(fuck you) , but i wanted to see if anyone went through something simmilar, more or less. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I'm constantly flipping between wanting to cut and wanting to bulk and need some advice. 
-
-Stats: 6 ft (182cm), 73kg (161lbs)
-
-I'm pretty new to lifting anddo not have much muscle. I'm aware that I am on the light side for my height, but I still have a some fat around the belly and pecs (I'd say approx 20% bodyfat). At the moment I'm eating at a slight deficit while getting 1g of prot per lb of bodyweight. I've read from multiple sources that as a relatively new lifter with little muscle, as long as I get enough protein, that I should be able to build muscle while losing the remaning fat I want?
-
-Or is it as simple as I am too light for my height and just need to eat at a surplus? And yes I have read the wiki! Thanks. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifter: 
- I'm constantly flipping between wanting to cut and wanting to bulk and need some advice. 
-
-Stats: 6 ft (182cm), 73kg (161lbs)
-
-I'm pretty new to lifting anddo not have much muscle. I'm aware that I am on the light side for my height, but I still have a some fat around the belly and pecs (I'd say approx 20% bodyfat). At the moment I'm eating at a slight deficit while getting 1g of prot per lb of bodyweight. I've read from multiple sources that as a relatively new lifter with little muscle, as long as I get enough protein, that I should be able to build muscle while losing the remaning fat I want?
-
-Or is it as simple as I am too light for my height and just need to eat at a surplus? And yes I have read the wiki! Thanks. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I’m 26YO, 103kg and180cm. I lift weights 4-5 times a week and go on 2 jogs a week. I eat between 1600-2000 calories per day and I cannot seem to lose more weight. Am I not eating enough calories? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I started lifting about 8 months ago and saw big progress following the Reddit PPL in the beginning. However, I haven't gone up in a single lift in these last four months. Is this because I can't make any more gains while cutting? Bench: 135, OHP: 115, Row: 135, DL: 225, Squat: 135. Weight: 230 (from 310), Age: 25, Gender: Male, Height: 6'2, Calories: 2,000, Goal: Lose weight to the calculated ideal of 185-190, and gain muscle as possible. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I started lifting about 8 months ago and saw big progress following the Reddit PPL in the beginning. However, I haven't gone up in a single lift in these last four months. Is this because I can't make any more gains while cutting? Bench: 135, OHP: 115, Row: 135, DL: 225, Squat: 135. Weight: 230 (from 310), Age: 25, Gender: Male, Height: 6'2, Calories: 2,000, Goal: Lose weight to the calculated ideal of 185-190, and gain muscle as possible. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I'm (24M/75KG/24%BF/170CM) trying to change my skinny fat body shape into a more defined one. I have started strength training 3 times a week (full body workout). I'm planning on adding swimming on both the off days.
-
-Is it advisable to add cardio to the routine as I have read in many places that too much cardio makes you lose muscle in the long run or is it better if added swimming and added a few calories to my diet to compensate for the calorie loss? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm running a LP 6 day Pull (with posterior chain/calves/core) and Push (with Quads and core) with an A and B day for each, focusing on different compounds with appropriate accessories;
-
-Pull A 
-Hex DL 1x3
-
-Push A
-Squat 3x3
-BP 3x3
-OHP 3x8-12
-
-Pull B
-PC 3x1
-
-Push B
-Squat 3x8-12
-OHP 3x3
-BP 3x8-12
-
-Right now I'm using weighted dips and chins as accessory work but was wondering if there would be any benefit in using Pull and Push C day where the main lift would be heavy chins and dips accordingly? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I bench press 2x a week following a PPL program and I was wondering if having a 5x5 and 3x8-12 routine will benefit me in the long run. In my mind, it will cover off for both strength and hypertrophy. Thoughts? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- So I was told a while ago that drinking lots of water was meant to help lose weight and so I've been drinking 2 litres every day since around March because I've always been overweight and now that I have lots of free time because of quarantine, I'm using it to lose weight before going back to college.
-
-I also have been only eating mostly egg based breakfasts and soups for dinner, with the occasional protein and veg meal to replace the soup maybe twice a week at most.
-
-Issue is, I've now heard that water weight can come back very fast and with me basically being on a near all liquid diet, I don't know how badly it will impact my weight gain if I go back to regular meals.
-
-I've been doing a decent amount of exercise, mostly out with the dog and lifting weights and am planning on doing more cardio, but like I said, I have no idea what will happen with the water weight part and don't know whether to change the diet completely when I want to try and build muscle rather than lose weight. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Just got back into working out the past two months. How should i go about setting up a short term and long term workout regimen? Right now I’m slightly cutting/ maintaining to look decent during the summer (as douchy as that sounds lol) but ultimately I’d like to get bigger and stronger. 
-
-I figured in the fall, when beach/ pool season are over with, I’d start a bulk and power lifting regimen to get my strength up. Run that for 6 or so months then start cutting to get ready for summer again. 
-
-For bulking i was going to do SS or PHAT. 
-
-For cutting i was going to do PHAT or PPL (current). 
-
-My lifts are bench: 155 for 5, deadlift 225 for 5. I don’t really squat as i have some back issues. I really haven’t been deadlifting either. Just subbing with exercises that are a big easier on the back haha. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- Just got back into working out the past two months. How should i go about setting up a short term and long term workout regimen? Right now I’m slightly cutting/ maintaining to look decent during the summer (as douchy as that sounds lol) but ultimately I’d like to get bigger and stronger. 
-
-I figured in the fall, when beach/ pool season are over with, I’d start a bulk and power lifting regimen to get my strength up. Run that for 6 or so months then start cutting to get ready for summer again. 
-
-For bulking i was going to do SS or PHAT. 
-
-For cutting i was going to do PHAT or PPL (current). 
-
-My lifts are bench: 155 for 5, deadlift 225 for 5. I don’t really squat as i have some back issues. I really haven’t been deadlifting either. Just subbing with exercises that are a big easier on the back haha. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Just got back into working out the past two months. How should i go about setting up a short term and long term workout regimen? Right now I’m slightly cutting/ maintaining to look decent during the summer (as douchy as that sounds lol) but ultimately I’d like to get bigger and stronger. 
-
-I figured in the fall, when beach/ pool season are over with, I’d start a bulk and power lifting regimen to get my strength up. Run that for 6 or so months then start cutting to get ready for summer again. 
-
-For bulking i was going to do SS or PHAT. 
-
-For cutting i was going to do PHAT or PPL (current). 
-
-My lifts are bench: 155 for 5, deadlift 225 for 5. I don’t really squat as i have some back issues. I really haven’t been deadlifting either. Just subbing with exercises that are a big easier on the back haha. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- Just got back into working out the past two months. How should i go about setting up a short term and long term workout regimen? Right now I’m slightly cutting/ maintaining to look decent during the summer (as douchy as that sounds lol) but ultimately I’d like to get bigger and stronger. 
-
-I figured in the fall, when beach/ pool season are over with, I’d start a bulk and power lifting regimen to get my strength up. Run that for 6 or so months then start cutting to get ready for summer again. 
-
-For bulking i was going to do SS or PHAT. 
-
-For cutting i was going to do PHAT or PPL (current). 
-
-My lifts are bench: 155 for 5, deadlift 225 for 5. I don’t really squat as i have some back issues. I really haven’t been deadlifting either. Just subbing with exercises that are a big easier on the back haha. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifting: 
- Just got back into working out the past two months. How should i go about setting up a short term and long term workout regimen? Right now I’m slightly cutting/ maintaining to look decent during the summer (as douchy as that sounds lol) but ultimately I’d like to get bigger and stronger. 
-
-I figured in the fall, when beach/ pool season are over with, I’d start a bulk and power lifting regimen to get my strength up. Run that for 6 or so months then start cutting to get ready for summer again. 
-
-For bulking i was going to do SS or PHAT. 
-
-For cutting i was going to do PHAT or PPL (current). 
-
-My lifts are bench: 155 for 5, deadlift 225 for 5. I don’t really squat as i have some back issues. I really haven’t been deadlifting either. Just subbing with exercises that are a big easier on the back haha. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifter: 
- how long does it take to see definition in arms? im a very new lifter (7 weeks consistently now) and i definitely have muscle evidenced when i bend my arm or flex my arm, but relaxed i have little to no definition and they look a lil chubby (imo). is this normal? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- Just started doing this recently. Lifted for many years previously, but back at it now! 
-
-Upper- Monday/Thursday
-Lower- Tuesday/Friday
-
-My main 3 for Monday are Bench, OHP, and bent over barbell rows. I do 5x5 sets. I'll do 5x5 of a set weight on Day 1, if I hit all my sets, for day 2 I will add 5 lbs per side. Then of course I do accessory exercises, typically 3x8, with also progressive overload. 
-
-My big focus is squats right now, so I do squats on both lower days. I'll start off at warm up set, add 5lbs, for sets 4 and 5, I'll decrease 5lbs. If I hit all sets, day 2 my first set (and all following ones) will be 5 lbs heavier than the respective set from day 1. Then I follow up RDL'S, sitting and standing calf raises, leg extensions, leg press. All also with progressive overload, but I consider it accessory work.
-
-So far all my lifts are going up, so I'm satisfied. Any thoughts? 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlift: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lift: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I'm currently doing a full body resistance program since I can only lift three days a week. What I'm wondering is I always hear about bench, squat, deadlift, and overhead press being the big 4 lifts. I'm wondering if it's ok to hit all 4 of these lifts everytime I lift and then do some accessory lifts as well or if this will be too much strain on the CNS. 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains strength: 
- I’ve done it for two months. It’s not as optimal as barbell and proper gym training but u can still make decent progress. Also your strength level matters. Since I was new to lifting and weak, I was mostly fine with using adjustable dumbbells up to 50 lbs. if u have higher, than it’s probably better. You can probably do away with most lifts unless ur intermediate lifting level, and deadlifts are a bit harder to achieve with dumbbells. If u max out the weight, just work on increasing reps. Good luck! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I’ve done it for two months. It’s not as optimal as barbell and proper gym training but u can still make decent progress. Also your strength level matters. Since I was new to lifting and weak, I was mostly fine with using adjustable dumbbells up to 50 lbs. if u have higher, than it’s probably better. You can probably do away with most lifts unless ur intermediate lifting level, and deadlifts are a bit harder to achieve with dumbbells. If u max out the weight, just work on increasing reps. Good luck! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- I’ve done it for two months. It’s not as optimal as barbell and proper gym training but u can still make decent progress. Also your strength level matters. Since I was new to lifting and weak, I was mostly fine with using adjustable dumbbells up to 50 lbs. if u have higher, than it’s probably better. You can probably do away with most lifts unless ur intermediate lifting level, and deadlifts are a bit harder to achieve with dumbbells. If u max out the weight, just work on increasing reps. Good luck! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- I’ve done it for two months. It’s not as optimal as barbell and proper gym training but u can still make decent progress. Also your strength level matters. Since I was new to lifting and weak, I was mostly fine with using adjustable dumbbells up to 50 lbs. if u have higher, than it’s probably better. You can probably do away with most lifts unless ur intermediate lifting level, and deadlifts are a bit harder to achieve with dumbbells. If u max out the weight, just work on increasing reps. Good luck! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I’ve done it for two months. It’s not as optimal as barbell and proper gym training but u can still make decent progress. Also your strength level matters. Since I was new to lifting and weak, I was mostly fine with using adjustable dumbbells up to 50 lbs. if u have higher, than it’s probably better. You can probably do away with most lifts unless ur intermediate lifting level, and deadlifts are a bit harder to achieve with dumbbells. If u max out the weight, just work on increasing reps. Good luck! 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains deadlifts: 
- I've pretty much been following the same programme for a year and a half now, with barbell versions in place for compound movements such as bench press, squats, deadlifts, bent-over rows, etc, after I started going to a more serious gym.
-
-I've gained a decent amount of muscle where i used to plainly be skinny-fat, but I'm somewhat spinning my wheels now because I haven't really changed my calorie intake to bulk or cut. I'm 173cm and currently 68kg if that info helps 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- Ppl is one of the best programs, however if you are new to lifting you would see results even with a lower training volume 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifting: 
- There ain't no rules.  Do something and do it hard and do it with conviction and aim to get better each time.  Use dumbbells, use barbells, use fucking cinder blocks, who cares.
-
-You will get to a point where you're too strong for the dumbbells you have.  So what do?  Get heavier dumbbells.  Or move onto something else, like buying a barbell and a power cage, or even lifting logs or whatever.
-
-Quit killing yourself over trying to decide what to do and just do something.  It's like browsing Netflix for a movie to watch and never actually watching anything because you keep looking for the most perfect or better movie. 
+ I broke my wrist skating yesterday and I'm really sad because lifting has been pretty much the center of my life for a while. I'm still gonna hit the gym and do what I can - some leg days, cardio, left arm only exercises, but I'm gonna miss that sweet satisfaction of progressing on my bench/squat/deadlift for the next month or so 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifestyle: 
- The honest answer is that its not as optimal as a PPL program with barbells. But depending on your goals and lifestyle choices who cares? You don't need the most optimal program to get fit. In fact just STARTING and committing to a routine is the hardest part. You WILL make gains and you WILL get stronger with DB. I would say just start the program and go for it! 
+ **How/what and when to eat when you train at night?**
+
+Because of my work scheduke and lifestyle, I started to train around 6-7 pm my hour. After training, i feel like puking so i can’t eat instantly
+
+However at 9-10 pm i’m super damn hungry and if i eat, i’ll feel bloated as fuck. 
+
+I mostly eat protein (I’m on a keto diet). 
+
+I need to lose weight so I train with this purpose
+
+I do 30-40 min/day
+
+20min intense cardio (very intense)
+20 min weightlifting - low weights (because of my medical restrictions i can’t carry too much). 
+
+I’m a girl. Not fit. Not much previous experience
+
+I try to understand how to eat and how to train. 
+I can’t eat before training because I will puke. 
+I can’t eat right after training for the same reason. 
+
+Then 1-2 hrs later i’m starving and I eat a keto meal (meat with basic salad). But eating very late makes me very bloated. 
+
+I drink a lot of water every day. I just feel i have no found my balance yet. Maybe you can give me some ideas. Thanks.
+
+Other info:
+I eat 1500 cals a day. Sometimes 1200-1300. 
+I’m 5’7
+Around 220 lbs now.
+
+I did get more fit after 1 week of daily training but i gained weight, not lost. And i sweat so much every day and my died is tracked and on point. I know it’s water weight but... it’s been more than a week now.. 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifted: 
- I've lifted dumbbells at home for years. It depends on how serious you are about getting strong. Personally, I just wanna look decent and not be a total weakling. Most lifts I haven't maxed out my two 80lb adjustable dumbbells. I do bulgarian split squats and single leg romanian deadlift and I'm still only in the 50-60lb range for those lifts. If you have a pull up bar and an adjustable bench, you will be stronger than people your size who don't lift and look pretty good if you stick with it. I'm pretty casual though. I like to fold laundry, tidy, even occasionally pick up the guitar between sets lol. 
+<td>Comment contains weightlifting: 
+ **How/what and when to eat when you train at night?**
+
+Because of my work scheduke and lifestyle, I started to train around 6-7 pm my hour. After training, i feel like puking so i can’t eat instantly
+
+However at 9-10 pm i’m super damn hungry and if i eat, i’ll feel bloated as fuck. 
+
+I mostly eat protein (I’m on a keto diet). 
+
+I need to lose weight so I train with this purpose
+
+I do 30-40 min/day
+
+20min intense cardio (very intense)
+20 min weightlifting - low weights (because of my medical restrictions i can’t carry too much). 
+
+I’m a girl. Not fit. Not much previous experience
+
+I try to understand how to eat and how to train. 
+I can’t eat before training because I will puke. 
+I can’t eat right after training for the same reason. 
+
+Then 1-2 hrs later i’m starving and I eat a keto meal (meat with basic salad). But eating very late makes me very bloated. 
+
+I drink a lot of water every day. I just feel i have no found my balance yet. Maybe you can give me some ideas. Thanks.
+
+Other info:
+I eat 1500 cals a day. Sometimes 1200-1300. 
+I’m 5’7
+Around 220 lbs now.
+
+I did get more fit after 1 week of daily training but i gained weight, not lost. And i sweat so much every day and my died is tracked and on point. I know it’s water weight but... it’s been more than a week now.. 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifts: 
- I've lifted dumbbells at home for years. It depends on how serious you are about getting strong. Personally, I just wanna look decent and not be a total weakling. Most lifts I haven't maxed out my two 80lb adjustable dumbbells. I do bulgarian split squats and single leg romanian deadlift and I'm still only in the 50-60lb range for those lifts. If you have a pull up bar and an adjustable bench, you will be stronger than people your size who don't lift and look pretty good if you stick with it. I'm pretty casual though. I like to fold laundry, tidy, even occasionally pick up the guitar between sets lol. 
+<td>Comment contains strength: 
+ What am I am "training" so to speak if I routinely do farmer's walks but my 'progression' involves using the same weight every time and only increasing the distance/sets of walks I do? As in, is my grip strength increasing or is this kind of just an endurance increasing exercise unless I also increase weight? 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains deadlift: 
- I've lifted dumbbells at home for years. It depends on how serious you are about getting strong. Personally, I just wanna look decent and not be a total weakling. Most lifts I haven't maxed out my two 80lb adjustable dumbbells. I do bulgarian split squats and single leg romanian deadlift and I'm still only in the 50-60lb range for those lifts. If you have a pull up bar and an adjustable bench, you will be stronger than people your size who don't lift and look pretty good if you stick with it. I'm pretty casual though. I like to fold laundry, tidy, even occasionally pick up the guitar between sets lol. 
+<td>Comment contains lifting: 
+ So I’ve been lifting for a few months now, eating at maintenance to lost fat and gain muscle. Aside from my goal of gaining muscles, my thighs and waist are getting bigger (jeans are a bit tighter), I’m enjoying my PHUL program but I’d like to lose volume in my lower body, is it just a beginners thing that the increase compared to the time I’ve been lifting is unrealistic or would i keep increasing size (till reaching a plateau ofc) if i stick to the same plan? Or should i just substitute my lower hypertrophy with a full day split to minimize lower hypertrophy 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifts: 
- I've lifted dumbbells at home for years. It depends on how serious you are about getting strong. Personally, I just wanna look decent and not be a total weakling. Most lifts I haven't maxed out my two 80lb adjustable dumbbells. I do bulgarian split squats and single leg romanian deadlift and I'm still only in the 50-60lb range for those lifts. If you have a pull up bar and an adjustable bench, you will be stronger than people your size who don't lift and look pretty good if you stick with it. I'm pretty casual though. I like to fold laundry, tidy, even occasionally pick up the guitar between sets lol. 
+<td>Comment contains lifting: 
+ So I’ve been lifting for a few months now, eating at maintenance to lost fat and gain muscle. Aside from my goal of gaining muscles, my thighs and waist are getting bigger (jeans are a bit tighter), I’m enjoying my PHUL program but I’d like to lose volume in my lower body, is it just a beginners thing that the increase compared to the time I’ve been lifting is unrealistic or would i keep increasing size (till reaching a plateau ofc) if i stick to the same plan? Or should i just substitute my lower hypertrophy with a full day split to minimize lower hypertrophy 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Both.
+
+Hiking fitness isn't like other types of fitness. 
+
+When you get better at lifting, you can lift heavier things. But it's still the same *kind* of thing.
+
+When you get better at running, you can run faster or farther but you still run the same *kind* of places.
+
+When you get better at hiking it unlocks adventures you previously could not have had.
+
+Last year I hiked with a friend every weekend and we went on progressively longer, steeper, and higher elevation hikes. At the very end of summer, we did a 3 day backpacking trip to the highest peak in Utah (13k feet +).
+
+That particular location on earth wasn't accessible to us before we did all that hiking. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lift: 
- I've lifted dumbbells at home for years. It depends on how serious you are about getting strong. Personally, I just wanna look decent and not be a total weakling. Most lifts I haven't maxed out my two 80lb adjustable dumbbells. I do bulgarian split squats and single leg romanian deadlift and I'm still only in the 50-60lb range for those lifts. If you have a pull up bar and an adjustable bench, you will be stronger than people your size who don't lift and look pretty good if you stick with it. I'm pretty casual though. I like to fold laundry, tidy, even occasionally pick up the guitar between sets lol. 
+ Both.
+
+Hiking fitness isn't like other types of fitness. 
+
+When you get better at lifting, you can lift heavier things. But it's still the same *kind* of thing.
+
+When you get better at running, you can run faster or farther but you still run the same *kind* of places.
+
+When you get better at hiking it unlocks adventures you previously could not have had.
+
+Last year I hiked with a friend every weekend and we went on progressively longer, steeper, and higher elevation hikes. At the very end of summer, we did a 3 day backpacking trip to the highest peak in Utah (13k feet +).
+
+That particular location on earth wasn't accessible to us before we did all that hiking. 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifts: 
- I haven't ran that exact routine, but I've ran a dumbbell based PPL at home for the past 5 months since the gyms closed. 
+<td>Comment contains powerlifting: 
+ Firstly, you're at a really good spot. 10-12 miles in a day is pretty solid, especially if you include elevation and a loaded ruck. I'm an avid hiker and do regular powerlifting as well, just to give you an idea of my perspective.
 
-I've got a pull-up bar, 2x20kg adjustable dumbbells (max on one is 32kg) and a variety of resistance bands. 
-I simplified my routine, cutting down on the variety of exercises and pretty much supersetting everything for speed and extra volume. I slowly progressively overloaded and made sure to be consistent and disciplined. 
+My suggestion, start looking into multi-day hikes or hikes that have lots of elevation. You may have to pick-up some new gear for multi-day, but there's always good deals if you look and you can buy used  as well. But I've found that that either of these two kinds of hikes were a game changer for me, in terms of being fit for hiking. 
+</td>
+</tr>
 
-Honestly, considering I had a near breakdown when they announced gyms were closing, it's been an excellent several months. Whilst I am no doubt weaker on the big lifts, I have kept all size and dropped some BF% (slightly reduced calories, less beer, kept my cardio up), making me look much better.
+<tr>
+<td>Comment contains strength: 
+ In training with weights progressive overload till after years you reach your genetic ceiling for how much muscle and strength you can have. The same thing should apply to such cardio conditioning as hiking which I think is safer than running for not causing you to digest some muscles to get the energy. Adding weight training might improve your hiking and it is possible to enjoy it once you get used to it. 
+</td>
+</tr>
 
-Don't get me wrong, I can't wait for my gym to reopen, but I'm more than happy enough with my results with such basic equipment. 
+<tr>
+<td>Comment contains powerlifter/strongman: 
+ I'm a powerlifter/strongman, so it isn't the same. But if I apply my principles here, then yes. If your goal is improving, then once you adapt to any stimuli you should push it a lil bit more. Progressive overload. This is if you desire stronger legs, better conditioning and improved fitness. If this is just something you enjoy doing and you do it to stay in decent, reasonable shape, then just stay consistent and you will still reap benefits of regular exercise.
+
+For any exercise, to improve, progressive overload is key:) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains incline/fast: 
+ They train different things. Short yet intense (steep incline/fast pace) has a different training stimulus than going easier for a longer time. I say do both but most of all, just enjoy the hikes 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I’ve been doing an adapted version of the standard PPL routine, with dumbbells and bands, for about two months now. I started lifting in March. Was able to use 52lb adjustable dumbbells and Phrak’s Greyskull LP to make some steady progress. But eventually switched to PPL, except with higher volume due to lower weight. I more recently got 100lbs adjustable screw on dumbbells and have been doing the PPL routine. It’s being going very well. 
+ I decided today that I’m going to quit weight lifting for a while, probably until the end of the year and it feels like a breakup. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I want abs. I food prep, Count macros, lift heavy. But I had 9 pound babies. I’m in my 40s and my gut has always been my problem. Loose skin where abs should live. It’s incredibly frustrating. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ My hands/grip strength is getting absolutely torched by this landscaping work I'm doing combined with my weightlifting.  I feel like I need to find the equivalent of foam rolling but for my fingers 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifting: 
+ My hands/grip strength is getting absolutely torched by this landscaping work I'm doing combined with my weightlifting.  I feel like I need to find the equivalent of foam rolling but for my fingers 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Been lifting for the better part of a year. Started bcs of bad self esteem and weight issues. Since then ive managed to lose a substancial ammount of fat. I have seen very good results and people are noticing the huge difference. I often get comments about me shrinking and shit, but I never seem to be satisfied. In my head, im still the obese guy who havent been able to get any girls and what not. The gym has become a safe place for me, but I have realized my goal is way further down the road than i anticipated. Shit takes  time.. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I’ve been weight lifting for an entire year now and although i look better, I’m realizing just HOW LONG it’s going to take to get where i want. My lifts are nowhere near where i want them to be and I’m always like #175 in the leaderboards on the weightlifting app i use. My fiancée is insanely hot and i want to be able to impress her and not feel like people say “why tf is she with THAT guy?!” Here’s to another year in the gym and hopefully with all that I’ve learned gains will come quicker! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ I’ve been weight lifting for an entire year now and although i look better, I’m realizing just HOW LONG it’s going to take to get where i want. My lifts are nowhere near where i want them to be and I’m always like #175 in the leaderboards on the weightlifting app i use. My fiancée is insanely hot and i want to be able to impress her and not feel like people say “why tf is she with THAT guy?!” Here’s to another year in the gym and hopefully with all that I’ve learned gains will come quicker! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifting: 
+ I’ve been weight lifting for an entire year now and although i look better, I’m realizing just HOW LONG it’s going to take to get where i want. My lifts are nowhere near where i want them to be and I’m always like #175 in the leaderboards on the weightlifting app i use. My fiancée is insanely hot and i want to be able to impress her and not feel like people say “why tf is she with THAT guy?!” Here’s to another year in the gym and hopefully with all that I’ve learned gains will come quicker! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains feet/walking/lifting: 
+ I started a new job and went from completely sedentary to on my feet/walking/lifting 30 hours a week and I am so sore. It's been 2 weeks and the pain is definitely getting to me...I'm ok to do my job but I'm practically incapacitated at home from soreness and exhaustion. Please tell me it gets better. :/ 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Hi I am new here, first post. Apologies if I wrote for too ling
+
+Male 22 , around 70 kg around 5,8 
+Want to do muscle ups, cant even do a regular muscle up with proper form.  I wanna ask you guys what are the strength requirements for a static muscle up (my goal). I have good triceps but quite weak biceps as I dont engage them much and then get tired easily (8 pull ups). I used to be able to do more but gotten weaker. Now I wanna build forearms, biceps and shoulders for the transitional phase in a muscle up. What exercises should I do and till when i.e when do I determine I am progressing strength wise to be able to do a static muscle. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Hi I am new here, first post. Apologies if I wrote for too ling
+
+Male 22 , around 70 kg around 5,8 
+Want to do muscle ups, cant even do a regular muscle up with proper form.  I wanna ask you guys what are the strength requirements for a static muscle up (my goal). I have good triceps but quite weak biceps as I dont engage them much and then get tired easily (8 pull ups). I used to be able to do more but gotten weaker. Now I wanna build forearms, biceps and shoulders for the transitional phase in a muscle up. What exercises should I do and till when i.e when do I determine I am progressing strength wise to be able to do a static muscle. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I’m 21 5’9 (176cm) and 75kg/175lbs. What’s a the most amount of weight for that I can lift to ensure that I don’t damage my back?
+
+My goal isn’t to get muscular or anything, it’s a questions for general health like lifting the couch, beds and other everyday activities. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I’m 21 5’9 (176cm) and 75kg/175lbs. What’s a the most amount of weight for that I can lift to ensure that I don’t damage my back?
+
+My goal isn’t to get muscular or anything, it’s a questions for general health like lifting the couch, beds and other everyday activities. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Hey, 3 questions basically. [M,5'10",77kg]
+
+1. When should I do One Rep Max's? I do deadlifts last. I wanna check my deadlift ORM. SO when do I that? Before every other set? Or just before the deadlift?
+
+2. How to increase OHP weight? I do seated OHP. I can't seem to lift above 60kg. I have bench at 90kg , deadlift at 110kg, squat at 80kg.
+
+3. What are good intermediate numbers I should target based on the above numbers? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains deadlift: 
- I've never done a dumbell only workout, but what I can say is that I have done is a strict dumbbell upper body routine (with squats and deads) and my upper body got much stronger.
+ Hey, 3 questions basically. [M,5'10",77kg]
 
-The only problem you'll run into is loading your romanian deadlift (better than regular deadlifting for BB) because you can easily be lifting 350+ lbs pretty soon. 
+1. When should I do One Rep Max's? I do deadlifts last. I wanna check my deadlift ORM. SO when do I that? Before every other set? Or just before the deadlift?
+
+2. How to increase OHP weight? I do seated OHP. I can't seem to lift above 60kg. I have bench at 90kg , deadlift at 110kg, squat at 80kg.
+
+3. What are good intermediate numbers I should target based on the above numbers? 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains deadlifting: 
- I've never done a dumbell only workout, but what I can say is that I have done is a strict dumbbell upper body routine (with squats and deads) and my upper body got much stronger.
+<td>Comment contains deadlift?: 
+ Hey, 3 questions basically. [M,5'10",77kg]
 
-The only problem you'll run into is loading your romanian deadlift (better than regular deadlifting for BB) because you can easily be lifting 350+ lbs pretty soon. 
+1. When should I do One Rep Max's? I do deadlifts last. I wanna check my deadlift ORM. SO when do I that? Before every other set? Or just before the deadlift?
+
+2. How to increase OHP weight? I do seated OHP. I can't seem to lift above 60kg. I have bench at 90kg , deadlift at 110kg, squat at 80kg.
+
+3. What are good intermediate numbers I should target based on the above numbers? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Hey, 3 questions basically. [M,5'10",77kg]
+
+1. When should I do One Rep Max's? I do deadlifts last. I wanna check my deadlift ORM. SO when do I that? Before every other set? Or just before the deadlift?
+
+2. How to increase OHP weight? I do seated OHP. I can't seem to lift above 60kg. I have bench at 90kg , deadlift at 110kg, squat at 80kg.
+
+3. What are good intermediate numbers I should target based on the above numbers? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Hey, 3 questions basically. [M,5'10",77kg]
+
+1. When should I do One Rep Max's? I do deadlifts last. I wanna check my deadlift ORM. SO when do I that? Before every other set? Or just before the deadlift?
+
+2. How to increase OHP weight? I do seated OHP. I can't seem to lift above 60kg. I have bench at 90kg , deadlift at 110kg, squat at 80kg.
+
+3. What are good intermediate numbers I should target based on the above numbers? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- I've never done a dumbell only workout, but what I can say is that I have done is a strict dumbbell upper body routine (with squats and deads) and my upper body got much stronger.
+ Hello,  
 
-The only problem you'll run into is loading your romanian deadlift (better than regular deadlifting for BB) because you can easily be lifting 350+ lbs pretty soon. 
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Hello,  
+
+
+I'd like to know if anyone follows a similar routine and/or have any tips related to it. I just started cardio every morning and I combine it with light lifting, about half the weight or maybe less than I do on normal work out session. The light lifting is only for muscle groups that I will workout the next day.
+
+&amp;#x200B;
+
+An example:  
+
+
+Monday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Tuesday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Wednesday - Morning: Cardio, Light lifting (Push), Evening: Legs Day
+
+Thursday - Morning: Cardio, Light lifting (Pull), Evening: Push Day
+
+Friday - Morning: Cardio, Light lifting (Legs), Evening: Pull Day
+
+Saturday - Morning: Cardio, Light lifting (Push), Evening:  Legs Day
+
+Sunday - Rest Day  
+
+
+Any tip on this routine? Does anyone have followed a similar approach for the long term?  
+I'd like also to add a Full Body workout but I guess I have to change the total days of my program, from 7 to 8 or 9 (I don't mind working out on Sundays!). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I've been doing bodyweight workouts for 6 months now and finally decided to join a gym so I can isolate some muscles and get better results, what you guys think of this routine that I'll be doing for 2 weeks, so I get used to lifting again? Split: A,B,A,B,A,B, Rest.
+
+&amp;#x200B;
+
+A:
+
+Bench Press Machine               12-15
+
+Machine Fly                                12-15
+
+Lateral Raises                            12-15
+
+Barbell Up Right Row                12-15
+
+Triceps Pushdown                    12-15
+
+Leg Press Machine                   12-15
+
+Leg Extensions                          12-15
+
+Seated Hip Abduction              15-20
+
+Weighted Short Sit-Ups            20-30
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+B:
+
+Wide Grip Lat Pulldown            12-15
+
+Seated Machine Row                12-15
+
+Machine Reverse Fly                 12-15
+
+Hyperextension/Superman      20-30
+
+Dumbbell Bicep Curl                 12-15
+
+Seated Leg Curl                         12-15
+
+Stand One Leg Curl                   12-15
+
+Seated Hip Abduction              15-20
+
+Seated Calf Raises                    15-20 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifted: 
+ So I’m a skinny guy who did 40 reps with 20 pound dumbbells and I cant straighten my arms after 3 days of being sore however my arms are less sore then on day 2 of being sore.  Ive been drinking plenty of water and I haven’t lifted since, should I be worried? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength?: 
+ I’ve been avoiding barbell bicep curls for weeks because of a busted right wrist. Have any of y’all ever dealt with long term wrist pain? Does anyone know any good ways the improve wrist flexibility and strength? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ What's an easy ELI5 answer to when someone asks "why are true 1RM sets more dangerous than say 3RM/5RM sets?" In both situations, that last rep you're basically going all out to lift the weight. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Suggested Edits to this Leg Workout
+
+My current leg day workout is as follows:
+
+Back Squat: 5x8
+
+RDL: 3x8
+
+Dumbell Lunge: 4x20(10 each leg)
+
+Dumbell Hamstring Curl: 3x10
+
+&amp;#x200B;
+
+I do conventional deadlifts on my pull day. Currently, I am working out from home and only have a squat rack, plates and dumbells, no machines or cables. I plan on using progressive overload with this. I am looking to grow my legs, and if you have any suggested edits that would be greatly appreciated. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifter?: 
+ Just wondering if Jon Andersen's Deep Water Beginner Program would be something worth considering for a fairly new lifter? (Lifting for almost a year now) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Why the hell are my deadlifts significantly weaker on some days and super strong on others? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I take one big breath before un-racking it, walk it out, then lift as many reps as I can without exhaling. Usually I get 4 or 5 then I have to pause at the top and take another breath. You should literally be taking one tiny step backwards after un-racking so there's no need to take a second breath. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- I’ve been using this workout since my gym is closed. I enjoy it. Can’t speak to any significant strength gains though since I only have 30lbs for each dumbbell. But it’s better than nothing 
-</td>
-</tr>
-
-<tr>
-<td>Comment contains lifts: 
- It’s better than not training at all. If you only have access to dumbbells then you have to make do with what you have. But if you have access to barbells and squat racks and machines then definitely use them. When it comes to stuff like the bench press and shoulders you definitely do not need a barbell. A lot of people I know only do dumbbell lifts for chest so they don’t injure themselves. 
+ I do small breaths while trying to stay as tight as possible. It's not sustainable but it'll get me to like 8 heavy reps without losing too much strength. Staying tight is actually the biggest thing for me, to the point where I don't even press from an unrack, I actually clean the weight up for every set 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- It depends on the results you are looking for. I have been doing dumbbell-only routines for about two years now. It started due to limited space and money. I already had a flat bench and the dumbbells on hand. I've continued to adjust my routines between similar PPL and also full body circuit training, but remaining consistent for 3-6 months at a time with the chosen routine. Generally, I increase weights after sets of 12 reps become consistently easy. I'm not looking to bulk, so for my situation this has been a great way to build muscle, endurance and core strength for a general healthy lifestyle with calorie maintenance as well. 
+ A lot of these comments are very misleading and far too negative. Brisk walking is in fact considered low intensity cardio and is a good place to start. Calculate your personal max heart rate, try to walk at a pace that targets 60% to 80% of that for about 45 minutes to an hour and you’ll be far better off than if you did nothing or if you had tried to throw yourself into something more intense like running or swimming like some of the other comments are suggesting. Over time increase your pace and as your endurance improves (and your strength increases assuming you’re also working out) you can integrate higher intensity cardio workouts.
+
+The reality is that getting mobile and making the act of exercising a regular part of your routine is where you should start, not some marathon training regiment. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Exercise Scientist here. 
+
+The problem is, if you’ve been doing the 15k steps for a while, and you’re still maintaining your weight or gaining, then that means you are consuming too many calories.
+
+The 15K steps is great for your health, but it’s not going to help you lose weight unless you cut back on calories. 
+
+I would suggest a full body resistance training program at least twice a week, some form of steady-state cardio (walking, running, biking, swimming, etc) at least 3-5 days a week for 30-60 minutes, and a calorie restriction (no less than 1200 per day for a woman, or 1500 for a man).
+
+You can use a [TDEE Calculator](https://tdeecalculator.net) to get a rough estimate on what you can eat in a day. Be extremely honest with your exercise level. Currently, you are getting “light” exercise if all you do is the 15K steps. If you add in the 2 days of lifting and 3-5 days of cardio, then you would be moderate. 
+
+This will give you your maintenance calories. Subtract 100-300 if you want to lose weight slowly, or 500-1000 if you want to lose weight quickly. If you don’t work out for a week, or if you skip days, then adjust accordingly. Be brutally honest with yourself. And, most importantly, be consistent. 
+
+Good luck, and let me know if you need any help. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains (lifting: 
+ Does it burn calories? Yes.
+
+Does it have the same benefits for your heart and visceral fat? Probably not.
+
+If your heart is healthy and you don't have too much visceral fat: You are probably good to go.
+
+If you have visceral fat or if you want your heart muscles to be stronger: do higher intensity workout (lifting or HIIT or something). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Yes, I do as many as 23,000 steps a day at work and lift and just to maintain my weight I have to eat 3100+ calories. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains https://wwwtodaycom/health/fitness-trackers-didn-t-lead-weight-loss-low-cholesterol-blood-t159870: 
+ Step trackers have basically been shown to provide almost no benefit to weight loss:
+
+https://www.today.com/health/fitness-trackers-didn-t-lead-weight-loss-low-cholesterol-blood-t159870
+
+There are more studies like this one if you poke around.
+
+Imo you should be aiming for zone 3 hr, or at least high zone 2, to actually be considered meaningful cardio. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strengthen: 
+ 15k steps is better than 0 steps, but no this wouldn't be cardio. Cardio requires elevation of heart rate and is meant in a small way to also strengthen the heart. If you went on lets say a hike that elevated your heart rate then that would be light cardio, but spread throughout an entire workday no. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Yes, it does, there has been a lot of false info put out there about losing weight and general fitness. You will lose weight no matter what if you're in a caloric deficit, exercising is just supplemental and allows you to reach your deficit easier. People run, bike, and perform HIIT for cardio often times because its a quicker way to burn calories but walking will do just fine and is less impact on your joints. The main thing is adding in weight training during your cut, I personally lift 5-6 days and week and walk about 10k steps a day, with my diet, I lose about 1lb  a week. The more muscle you have, the faster you burn calories and the less fat you store 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifestyle: 
- It depends on the results you are looking for. I have been doing dumbbell-only routines for about two years now. It started due to limited space and money. I already had a flat bench and the dumbbells on hand. I've continued to adjust my routines between similar PPL and also full body circuit training, but remaining consistent for 3-6 months at a time with the chosen routine. Generally, I increase weights after sets of 12 reps become consistently easy. I'm not looking to bulk, so for my situation this has been a great way to build muscle, endurance and core strength for a general healthy lifestyle with calorie maintenance as well. 
+ I lost 65lbs recently and am still losing, aiming for 15lbs more. I was almost the exact same weight as you 5 months ago (a bit more) with a similar daily step count. The amount you are walking is a great base to build a diet and lifestyle that leads to weight loss, but it's nothing without your diet being adjusted and some more exercise. It's a very low intensity cardio workout but I wouldn't add it to the fitness app you are using, just write in your personal specs that you are an active person. I'm just gonna quickly tell you what worked for me and hope it gives you some guidance:
+
+* If you live within 15 miles of your work, cycle to work. Integrate exercise into your life. Use a bike to get around, walk instead of drive. Up that step count where you can. 2k more steps a day is another 14k a week, and 56k a month. After an initial struggle you will begin to enjoy exercise and the natural highs it brings with it.
+* On that topic, get interested in a form of exercise you enjoy. For me, medium to long distance cycling (30 miles plus), soccer, and swimming became my principal interests. Running sports and running in general might have to come later as you don't want to put too much pressure on the legs. I found that once I was about 30lbs down I felt much lighter and more capable of running around. At first, low impact like swimming and cycling will allow you to get those hours of exercise a week in, not only to lose weight but feel way fitter and more physically capable.
+* Stop drinking beer and wine, and any sugary drinks you are consuming. If you drink, drink a white liquor such as gin or vodka, with a calorie free mixer. This will still impede your progress but it's okay on the weekend.
+* Track your calories very strictly at first. Download a calorie counter like myfitnesspal or fatsecret. Use a scale. Cook your meals if you can. Re-educate yourself about what you are eating and how many calories it contains. Find out about its nutritional content. This is the most important thing. Use something that tracks macros - carbohydrate, fat, and protein. Get your carbohydrates through vegetables like carrots, legumes, corn, beets, and fruits. Stop eating rice, grains, bread, and pasta on weekdays. Consume them in moderation at the weekend for your relaxation days/cheat meals/whatever you wanna call them. Remember you are re-educating yourself about food in general and trying to build towards a more sustainable future weight.
+* After 2 months I stopped doing this as I had developed a good understanding of what to avoid and had a way better understanding of portion size. I know you didn't ask about food but it really is the most important aspect of all this - what you are putting in your mouth. You could do 2 hours of exercise a day but if you are eating and drinking badly it will have a very low impact.
+
+My weight loss has been dramatic because I put in the time and effort to re-educating myself about food and getting interested in exercise, and integrating it into my life. Anyone can do it if they try. It's worth it, and good luck! 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains lifters: 
- For intermediate lifters, are the benefits of dumbbell PPL significantly reduced? Moving from having access to a barbell to possibly no gym access and wanted to buy dumbbells. 
+<td>Comment contains lifestyle: 
+ As others have said more correctly then I am about to.  While it doesn't count as cardio it can be a powerful part of helping you get in shape depending on your diet and lifestyle.  By definition cardio exercises are meant to train your cardiovascular system.  Basically unless you are increasing/stressing your heart rate, it isn't cardio. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Walking and low intensity cycling is the only cardio that I do, I’ll also only hit about 10k steps a day with about 40ish mins on the bike. I hate running and HIIT so much. I’m not sure why but I can force myself to do stuff that I hate in every category except for cardio. My endurance for running is consequently horrible and I’m out of breath insanely fast. I think I’d only be bothered to change if my lifting endurance was greatly affected. I need to do better though. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Weightlifting: 
+ Weightlifting, hiit and slow cardio.
+
+Does all of these things yield different kind of health and fitness benefits in terms of feeling good and mental performance/ mental health? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlifts: 
+ Deadlifts before or after squats? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ What are people's thoughts on this routine for a girl focusing on legs, butt, and abs? Lifting three times per week and HIIT three times per week. Thoughts?
+
+Day A
+
+3x5 deadlifts
+
+3x5 bentover row
+
+3x5 dumbell overhead press
+
+3x12 lunge
+
+3x8 hip thrusts
+
+4x15 calf raises
+
+Abs
+
+
+Day B
+
+3x5 goblet squat
+
+3x5 bench press
+
+3x8 Romanian deadlifts
+
+3x8 Leg Curls
+
+3x12 Reverse Lunges
+
+4x15 calf raises
+
+Abs 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ What are people's thoughts on this routine for a girl focusing on legs, butt, and abs? Lifting three times per week and HIIT three times per week. Thoughts?
+
+Day A
+
+3x5 deadlifts
+
+3x5 bentover row
+
+3x5 dumbell overhead press
+
+3x12 lunge
+
+3x8 hip thrusts
+
+4x15 calf raises
+
+Abs
+
+
+Day B
+
+3x5 goblet squat
+
+3x5 bench press
+
+3x8 Romanian deadlifts
+
+3x8 Leg Curls
+
+3x12 Reverse Lunges
+
+4x15 calf raises
+
+Abs 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift:: 
+ Hello, I've been working out again for 2 months doing a PPL split 6 times a week. Yesterday I've did a musclemass, body fat calculation with a scale. The results were too good to be true and I just wanted some opinions on it. 
+
+I went from 73kg to 79kg
+
+Muscle mass 35.4kg to 40.2kg
+
+Bodyfat 10.0kg to 8.9kg. 
+
+My PR's(1 rep PRs):
+
+Benchpress: 75kg
+Deadlift: 130kg
+Squat: 90kg
+
+
+Like the numbers tell me im doing good but if i look in the mirror i have decent shoulders/arms/chest but i still look skinnyfat and have love handles.
+
+Like, my results say i have around 11.6% BF which i really doubt.
+
+
+https://imgur.com/a/N6993Cn
+
+Should I be cutting or bulking?my goal is to look muscular. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlifts: 
+ My split vs upper/lower
+
+I have had a pretty average routine (don't know the name) where I did the following...
+Monday: Legs (3 exercises), Shoulders (3 exercises)
+
+Tuesday: Chest (3 exercises), Triceps (3 exercises)
+
+Wednesday: Back (3 exercises), Biceps (3 exercises)
+
+Thursday: Legs (3 exercises), Shoulders (3 exercises)
+
+Friday: Chest (3 exercises), Triceps (3 exercises)
+
+Saturday: Back (3 exercises), Biceps (3 exercises)
+
+Sunday: Rest
+
+One compound on each day such as Squats for legs day, Deadlifts for back day and Bench Press (mostly incline) for chest day. I start with Legs + Shoulders because I like doing shoulders before chest for some reason I feel like I'm much stronger if my shoulders are pumped
+This worked very well, saw some really good gains but over time lost motivation and I felt like I spent too many days on the gym I was busy and skipped few days or even weeks at a time.
+So I decided to switch to a Upper/Lower split for the past 2 months and I guess it's early to tell but it feels horrible for upper body. I feel like I do way too little exercises on each muscle, don't really get any pump or strength gain. It is amazing for my legs though I've seen some good results! But for upper body it's almost like a joke. It's not that I'm tired at the end of the exercise but doing your entire upper body takes shitload of time and I don't want to switch to PPL because that would be a 6 day routine which then I might as well go back to my old one
+I should also mention I always do 4x8-12 on each exercise.
+How can I solve this? Switch to heavier weights and do 5x5? Skip all the isolating movements and ONLY do compounds like Deadlift + Bench Press + Overhead Shoulder Press on upper day? Or is this routine just not for me and I should switch back to 6 day? Or do you recommend any other routines? 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Did this routine for about ten months as a beginner before transitioning to a barbell PPL program. As a beginner it did a lot for me, I started out very skinny and have since put on a good amount of muscle. If you are a beginner as well I recommend it highly, I think dumbbell routines are a great way to get started and allow a great transition to a more solid barbell PPL later on. Do keep in mind the program is more based on building hypertrophy (building muscle) instead of actually building strength, which is why I recommend transitioning to a barbell PPL at some point. 
+ My split vs upper/lower
+
+I have had a pretty average routine (don't know the name) where I did the following...
+Monday: Legs (3 exercises), Shoulders (3 exercises)
+
+Tuesday: Chest (3 exercises), Triceps (3 exercises)
+
+Wednesday: Back (3 exercises), Biceps (3 exercises)
+
+Thursday: Legs (3 exercises), Shoulders (3 exercises)
+
+Friday: Chest (3 exercises), Triceps (3 exercises)
+
+Saturday: Back (3 exercises), Biceps (3 exercises)
+
+Sunday: Rest
+
+One compound on each day such as Squats for legs day, Deadlifts for back day and Bench Press (mostly incline) for chest day. I start with Legs + Shoulders because I like doing shoulders before chest for some reason I feel like I'm much stronger if my shoulders are pumped
+This worked very well, saw some really good gains but over time lost motivation and I felt like I spent too many days on the gym I was busy and skipped few days or even weeks at a time.
+So I decided to switch to a Upper/Lower split for the past 2 months and I guess it's early to tell but it feels horrible for upper body. I feel like I do way too little exercises on each muscle, don't really get any pump or strength gain. It is amazing for my legs though I've seen some good results! But for upper body it's almost like a joke. It's not that I'm tired at the end of the exercise but doing your entire upper body takes shitload of time and I don't want to switch to PPL because that would be a 6 day routine which then I might as well go back to my old one
+I should also mention I always do 4x8-12 on each exercise.
+How can I solve this? Switch to heavier weights and do 5x5? Skip all the isolating movements and ONLY do compounds like Deadlift + Bench Press + Overhead Shoulder Press on upper day? Or is this routine just not for me and I should switch back to 6 day? Or do you recommend any other routines? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ My split vs upper/lower
+
+I have had a pretty average routine (don't know the name) where I did the following...
+Monday: Legs (3 exercises), Shoulders (3 exercises)
+
+Tuesday: Chest (3 exercises), Triceps (3 exercises)
+
+Wednesday: Back (3 exercises), Biceps (3 exercises)
+
+Thursday: Legs (3 exercises), Shoulders (3 exercises)
+
+Friday: Chest (3 exercises), Triceps (3 exercises)
+
+Saturday: Back (3 exercises), Biceps (3 exercises)
+
+Sunday: Rest
+
+One compound on each day such as Squats for legs day, Deadlifts for back day and Bench Press (mostly incline) for chest day. I start with Legs + Shoulders because I like doing shoulders before chest for some reason I feel like I'm much stronger if my shoulders are pumped
+This worked very well, saw some really good gains but over time lost motivation and I felt like I spent too many days on the gym I was busy and skipped few days or even weeks at a time.
+So I decided to switch to a Upper/Lower split for the past 2 months and I guess it's early to tell but it feels horrible for upper body. I feel like I do way too little exercises on each muscle, don't really get any pump or strength gain. It is amazing for my legs though I've seen some good results! But for upper body it's almost like a joke. It's not that I'm tired at the end of the exercise but doing your entire upper body takes shitload of time and I don't want to switch to PPL because that would be a 6 day routine which then I might as well go back to my old one
+I should also mention I always do 4x8-12 on each exercise.
+How can I solve this? Switch to heavier weights and do 5x5? Skip all the isolating movements and ONLY do compounds like Deadlift + Bench Press + Overhead Shoulder Press on upper day? Or is this routine just not for me and I should switch back to 6 day? Or do you recommend any other routines? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Would it be overkill to do a full body calisthenics workout in the morning and then later in the evening lift weight? I'm doing upper and lower body spilt, if that helps. My goal is to lose weight, I started at 330lbs and lost 71lbs and still have 61lbs to lose and want to boost weight loss and preserve muscle as much as I can. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I'm sure this has been asked a loooot but i cant seem to find it so i'll ask here;
+
+What if i'm too weak to lift the bar in stuff such as deadlifts? Iv'e tried in the past but the 40 pound bar is just too much for me. What can i do instead? And potentially more broadly speaking, what if im too weak to do say a pull up, a chin up, a push up? The beginner routines don't really go over what to do in that case. Any advice would be greatly appreciated. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts?: 
+ I'm sure this has been asked a loooot but i cant seem to find it so i'll ask here;
+
+What if i'm too weak to lift the bar in stuff such as deadlifts? Iv'e tried in the past but the 40 pound bar is just too much for me. What can i do instead? And potentially more broadly speaking, what if im too weak to do say a pull up, a chin up, a push up? The beginner routines don't really go over what to do in that case. Any advice would be greatly appreciated. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ I’m sure this has been asked a million times but I don’t know the answer. When I’m doing deadlifts, the bar hurts my female hands. I can’t lift a heavy enough bar to get a good deadlift because my little lady hands are week. What is the fix for this?? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I’m sure this has been asked a million times but I don’t know the answer. When I’m doing deadlifts, the bar hurts my female hands. I can’t lift a heavy enough bar to get a good deadlift because my little lady hands are week. What is the fix for this?? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ I’m sure this has been asked a million times but I don’t know the answer. When I’m doing deadlifts, the bar hurts my female hands. I can’t lift a heavy enough bar to get a good deadlift because my little lady hands are week. What is the fix for this?? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Hey guys, quick question. I do a push/pull/legs/rest split but I have around 15-20lbs of fat that I would like to burn. I’ve been thinking about adding some running in but I was unsure if doing cardio on my lift days would affect my muscle growth. Would it be smarter to just run on my rest days or does it really not affect my muscle growth? Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Split](https://wwwmuscleandstrengthcom/workouts/frankoman-dumbbell-only-splithtml): 
+ 180cm/80kg &amp; very sedentary work from home job. Want to lose weight to 72kg/look good.
+
+15 min warm up/100cals on elliptical &gt;&gt;&gt; [Frankomans Dumbell Only Split](https://www.muscleandstrength.com/workouts/frankoman-dumbbell-only-split.html) &gt;&gt;&gt; 30 min HIIT [90% max BPM] &amp; 300cals on elliptical = 500 cals total (Apple Watch) I do this 5 days a week, rest 1 day and on the other do 50mins cardio on elliptical (10min warm-up &gt; 20 min HIIT &gt; 20 min HIIT).
+
+Calorie counting a 1250cal a day diet &amp; 16:8 IF. 100g protein. Once I get to 72kg I will up this to 224g and switch to [this upper body strength program](https://www.coachmag.co.uk/fitness-technology/4355/get-tough-mudder-upper-body-strength).
+
+Am I doing it right? I've read the Wiki and invested a lot of time into this home routine, I don't want to overlook anything 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ 180cm/80kg &amp; very sedentary work from home job. Want to lose weight to 72kg/look good.
+
+15 min warm up/100cals on elliptical &gt;&gt;&gt; [Frankomans Dumbell Only Split](https://www.muscleandstrength.com/workouts/frankoman-dumbbell-only-split.html) &gt;&gt;&gt; 30 min HIIT [90% max BPM] &amp; 300cals on elliptical = 500 cals total (Apple Watch) I do this 5 days a week, rest 1 day and on the other do 50mins cardio on elliptical (10min warm-up &gt; 20 min HIIT &gt; 20 min HIIT).
+
+Calorie counting a 1250cal a day diet &amp; 16:8 IF. 100g protein. Once I get to 72kg I will up this to 224g and switch to [this upper body strength program](https://www.coachmag.co.uk/fitness-technology/4355/get-tough-mudder-upper-body-strength).
+
+Am I doing it right? I've read the Wiki and invested a lot of time into this home routine, I don't want to overlook anything 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains program](https://wwwcoachmagcouk/fitness-technology/4355/get-tough-mudder-upper-body-strength): 
+ 180cm/80kg &amp; very sedentary work from home job. Want to lose weight to 72kg/look good.
+
+15 min warm up/100cals on elliptical &gt;&gt;&gt; [Frankomans Dumbell Only Split](https://www.muscleandstrength.com/workouts/frankoman-dumbbell-only-split.html) &gt;&gt;&gt; 30 min HIIT [90% max BPM] &amp; 300cals on elliptical = 500 cals total (Apple Watch) I do this 5 days a week, rest 1 day and on the other do 50mins cardio on elliptical (10min warm-up &gt; 20 min HIIT &gt; 20 min HIIT).
+
+Calorie counting a 1250cal a day diet &amp; 16:8 IF. 100g protein. Once I get to 72kg I will up this to 224g and switch to [this upper body strength program](https://www.coachmag.co.uk/fitness-technology/4355/get-tough-mudder-upper-body-strength).
+
+Am I doing it right? I've read the Wiki and invested a lot of time into this home routine, I don't want to overlook anything 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifting: 
+ This is my situation. I'm in a kinesiology weightlifting course at university. We lift weights on Thursdays(some days we do "labs" and we are running 1.5 miles one day).  My current solution is an upper/lower split with a whatever happens day on thursday and the friday and Saturday workouts could be fipped if thursday ended up being a leg focused workout. So starting monday it would go lower, upper, rest, kinesiology, lower, upper, rest. Ideas suggestions critics whatever. Fire away 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ This is my situation. I'm in a kinesiology weightlifting course at university. We lift weights on Thursdays(some days we do "labs" and we are running 1.5 miles one day).  My current solution is an upper/lower split with a whatever happens day on thursday and the friday and Saturday workouts could be fipped if thursday ended up being a leg focused workout. So starting monday it would go lower, upper, rest, kinesiology, lower, upper, rest. Ideas suggestions critics whatever. Fire away 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ All of the these are 9 sets with different reps that are weight and percentage based on your max.  Since there are so many sets involved I am already in the gym for an hour to an hour and a half each day.  Ultimately I want to add a 6th day solely for auxiliary lifts so any suggestions would be helpful.  Thanks.
+
+Required info: 23, M, 1 rep max: Bench(195), Squat(275), Dead(265), OHP(Never maxed but using 105 for the percentage based program), Main goal is to get those higher.
+
+Monday: Bench, OHP, Curls
+
+Tuesday: Squat, Sumo Dead, Lat Pulldown
+
+Wednesday: OHP, Incline Bench, Soulder Flys (I think that's what they're called)
+
+Thursday: Deadlift, Front Squat, Back extentions (Any tip on how I could replace this one would be nice because I don't have the equipment for it)
+
+Friday: Bench, CGBP, Rows
+
+So basically that's what I'm doing now and it's been very helpful at improving all of my big 3 but I would like to add another day on Saturdays that I can do strictly auxiliary lifts sorta like body building type things because I'm pretty sure what I do now is strictly strength and power lifting oriented.  Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ All of the these are 9 sets with different reps that are weight and percentage based on your max.  Since there are so many sets involved I am already in the gym for an hour to an hour and a half each day.  Ultimately I want to add a 6th day solely for auxiliary lifts so any suggestions would be helpful.  Thanks.
+
+Required info: 23, M, 1 rep max: Bench(195), Squat(275), Dead(265), OHP(Never maxed but using 105 for the percentage based program), Main goal is to get those higher.
+
+Monday: Bench, OHP, Curls
+
+Tuesday: Squat, Sumo Dead, Lat Pulldown
+
+Wednesday: OHP, Incline Bench, Soulder Flys (I think that's what they're called)
+
+Thursday: Deadlift, Front Squat, Back extentions (Any tip on how I could replace this one would be nice because I don't have the equipment for it)
+
+Friday: Bench, CGBP, Rows
+
+So basically that's what I'm doing now and it's been very helpful at improving all of my big 3 but I would like to add another day on Saturdays that I can do strictly auxiliary lifts sorta like body building type things because I'm pretty sure what I do now is strictly strength and power lifting oriented.  Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ All of the these are 9 sets with different reps that are weight and percentage based on your max.  Since there are so many sets involved I am already in the gym for an hour to an hour and a half each day.  Ultimately I want to add a 6th day solely for auxiliary lifts so any suggestions would be helpful.  Thanks.
+
+Required info: 23, M, 1 rep max: Bench(195), Squat(275), Dead(265), OHP(Never maxed but using 105 for the percentage based program), Main goal is to get those higher.
+
+Monday: Bench, OHP, Curls
+
+Tuesday: Squat, Sumo Dead, Lat Pulldown
+
+Wednesday: OHP, Incline Bench, Soulder Flys (I think that's what they're called)
+
+Thursday: Deadlift, Front Squat, Back extentions (Any tip on how I could replace this one would be nice because I don't have the equipment for it)
+
+Friday: Bench, CGBP, Rows
+
+So basically that's what I'm doing now and it's been very helpful at improving all of my big 3 but I would like to add another day on Saturdays that I can do strictly auxiliary lifts sorta like body building type things because I'm pretty sure what I do now is strictly strength and power lifting oriented.  Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ All of the these are 9 sets with different reps that are weight and percentage based on your max.  Since there are so many sets involved I am already in the gym for an hour to an hour and a half each day.  Ultimately I want to add a 6th day solely for auxiliary lifts so any suggestions would be helpful.  Thanks.
+
+Required info: 23, M, 1 rep max: Bench(195), Squat(275), Dead(265), OHP(Never maxed but using 105 for the percentage based program), Main goal is to get those higher.
+
+Monday: Bench, OHP, Curls
+
+Tuesday: Squat, Sumo Dead, Lat Pulldown
+
+Wednesday: OHP, Incline Bench, Soulder Flys (I think that's what they're called)
+
+Thursday: Deadlift, Front Squat, Back extentions (Any tip on how I could replace this one would be nice because I don't have the equipment for it)
+
+Friday: Bench, CGBP, Rows
+
+So basically that's what I'm doing now and it's been very helpful at improving all of my big 3 but I would like to add another day on Saturdays that I can do strictly auxiliary lifts sorta like body building type things because I'm pretty sure what I do now is strictly strength and power lifting oriented.  Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ All of the these are 9 sets with different reps that are weight and percentage based on your max.  Since there are so many sets involved I am already in the gym for an hour to an hour and a half each day.  Ultimately I want to add a 6th day solely for auxiliary lifts so any suggestions would be helpful.  Thanks.
+
+Required info: 23, M, 1 rep max: Bench(195), Squat(275), Dead(265), OHP(Never maxed but using 105 for the percentage based program), Main goal is to get those higher.
+
+Monday: Bench, OHP, Curls
+
+Tuesday: Squat, Sumo Dead, Lat Pulldown
+
+Wednesday: OHP, Incline Bench, Soulder Flys (I think that's what they're called)
+
+Thursday: Deadlift, Front Squat, Back extentions (Any tip on how I could replace this one would be nice because I don't have the equipment for it)
+
+Friday: Bench, CGBP, Rows
+
+So basically that's what I'm doing now and it's been very helpful at improving all of my big 3 but I would like to add another day on Saturdays that I can do strictly auxiliary lifts sorta like body building type things because I'm pretty sure what I do now is strictly strength and power lifting oriented.  Thanks. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I’m coming out of a wrist injury and will be starting back lifting next week, are there any products I could get to help ease my wrist back into the norm? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Try weighted step ups and single leg deadlifts. Really an unilateral movement will do it 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Hack Squat/ Behind the back deadlift, -OR- Jefferson Deadlift. Try it out! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ Hack Squat/ Behind the back deadlift, -OR- Jefferson Deadlift. Try it out! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I've been training for 10+ years and I've always had good leg strength, but relatively small legs (quads in particular)
+
+3 years ago I added bulgarian split squats and my quads blew up in size.
+
+The only problem is that 1 set takes ages as I have to have a break between legs when I go heavy. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I believe squats are the ultimate mass builder, but there are plenty of exercises that can build massive quads as well. Even if you have a V-squat machine that would be a good change up from the barbell. Hack squat, or even a pendulum squat if you're lucky enough to have one, are probably the best to build mass and for the quad sweep. As long as you get deep and full ROM, they're killer. 
+
+Heavy walking lunges work well for me. But I also do Bulgarian split squats, front squats, leg extension superset goblet squats, and I'm really liking the belt squat lately. I like sissy squats too, though I'll usually do those as a finisher to burn them out or with a superset just to make shit harder, lol. 
+
+If you're feeling like you can't recover from squats, maybe try lifting lighter and in different rep ranges, or try tempo squats or pause squats to change things up a bit. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Variation and confusing your muscles is very important .
+
+Plus, there are so many leg lifts you can do . Lunges, sumo squats and hip thrusts are really underrated . 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Just as a little addition to some of the great recommendations I'm seeing here, low weight trap bar deadlifts can be a great quad builder as well. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength?: 
+ And what if I am not concerned with mass but just strength? (although they can go hand in hand... 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Head, upper back, glutes and feet.
+If any part comes off the bench, then the technique went out the window, and its not a good lift anymore.
+
+
+Edit: four hundred upvotes.. Jesus. Im not worth that much guys. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ [retract the f*cking Scapula](https://youtu.be/JJ5iCcKzg2Q) I found funny but also quite a good and clear video.
+
+And [Australian strength coach, bench tutorial](https://youtu.be/QHWn-D1mLas) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Always pull your shoulders back before you lift 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I usually just bench flat, unless its a max effort. Even then, my arch is pretty shitty and I mainly just do it to get a bit tighter.
+
+Legally speaking, head (depending on federation), shoulders, and buttocks must touch the bench at all times during the lift. Feet must be planted on the floor. USAPL requires flat feet while USPA allows your heels to come off the ground. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ One of the best ways I’ve found to bench press is to form a “bridge or spring” effect. Arch your back enough to where you’re resting on your upper back, while pushing off the ground with your toes(this part can be tricky because depending on leg length, you may have to have your legs somewhat curled while planting toes on ground... others simply have their toes right in front of them planted due to short legs) The inertia/force pushing from your toes to the ground is going away from you, while your upper back is pushing force downward to the ground/bench. Lastly, you performing the bench press, this force is going upwards, away from you. These keys forces in key directions gives you very stable grounds In which to perform the exercise. Lastly, now you’re efficiently using your strength to your advantage... not using pure brute strength to lift the bar from your chest.
+
+It amazes me how some can perform great lifts without using what I just described. Most people just lay flat, and have their feet just loosely sit in front of them without generating in opposite force. Astounding. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ One of the best ways I’ve found to bench press is to form a “bridge or spring” effect. Arch your back enough to where you’re resting on your upper back, while pushing off the ground with your toes(this part can be tricky because depending on leg length, you may have to have your legs somewhat curled while planting toes on ground... others simply have their toes right in front of them planted due to short legs) The inertia/force pushing from your toes to the ground is going away from you, while your upper back is pushing force downward to the ground/bench. Lastly, you performing the bench press, this force is going upwards, away from you. These keys forces in key directions gives you very stable grounds In which to perform the exercise. Lastly, now you’re efficiently using your strength to your advantage... not using pure brute strength to lift the bar from your chest.
+
+It amazes me how some can perform great lifts without using what I just described. Most people just lay flat, and have their feet just loosely sit in front of them without generating in opposite force. Astounding. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ One of the best ways I’ve found to bench press is to form a “bridge or spring” effect. Arch your back enough to where you’re resting on your upper back, while pushing off the ground with your toes(this part can be tricky because depending on leg length, you may have to have your legs somewhat curled while planting toes on ground... others simply have their toes right in front of them planted due to short legs) The inertia/force pushing from your toes to the ground is going away from you, while your upper back is pushing force downward to the ground/bench. Lastly, you performing the bench press, this force is going upwards, away from you. These keys forces in key directions gives you very stable grounds In which to perform the exercise. Lastly, now you’re efficiently using your strength to your advantage... not using pure brute strength to lift the bar from your chest.
+
+It amazes me how some can perform great lifts without using what I just described. Most people just lay flat, and have their feet just loosely sit in front of them without generating in opposite force. Astounding. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ One of the best ways I’ve found to bench press is to form a “bridge or spring” effect. Arch your back enough to where you’re resting on your upper back, while pushing off the ground with your toes(this part can be tricky because depending on leg length, you may have to have your legs somewhat curled while planting toes on ground... others simply have their toes right in front of them planted due to short legs) The inertia/force pushing from your toes to the ground is going away from you, while your upper back is pushing force downward to the ground/bench. Lastly, you performing the bench press, this force is going upwards, away from you. These keys forces in key directions gives you very stable grounds In which to perform the exercise. Lastly, now you’re efficiently using your strength to your advantage... not using pure brute strength to lift the bar from your chest.
+
+It amazes me how some can perform great lifts without using what I just described. Most people just lay flat, and have their feet just loosely sit in front of them without generating in opposite force. Astounding. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Head (please don’t lift your head), upper back then arched to your ass and feet pinned back on the floor. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Can someone explain to me, what exactly is “conditioning”? 
+
+I’ve heard people talk about doing 10-15 mins of condition to help improve their performance in the gym but I’m lost at what they mean by condition, what are conditioning exercises and what makes a good conditioning routine? 
+
+When trying to research it myself I’ve found all kinds of websites that talk about conditioning but they all say to do different things like running 3-5 miles, sprints, burpees, HIIT circuits, prowler, and a lot of the workouts that just seem like stuff in a normal strength or cardio workout which left me sort of confused, so can anyone help clarify what condition is and what it does? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ If I've been losing weight and lifting barbell compounds and I suddenly mostly stop these, and continue to lose weight at a rate of 0.8kg a week whilst still having 0.8g protein per pound of bodyweight, will I lose much muscle and am I at a risk of injury? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains horizontall](https://wwwskimblecom/exercises/20865-hanging-leg-lifts-how-to-do-exercise)y: 
+ For hanging leg raises, what's the difference between just hanging down from the bar or doing it by [gripping horizontall](https://www.skimble.com/exercises/20865-hanging-leg-lifts-how-to-do-exercise)y and pushing my back against the back cushion. If my grip isn't that good, can I do the second one with similar benefit? Thanks! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Has anyone tried bbb beefcake? I want to do it but I’m worried lifts might suffer from having to do accessories for a body part the day before a big lift that uses those same muscle groups. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Has anyone tried bbb beefcake? I want to do it but I’m worried lifts might suffer from having to do accessories for a body part the day before a big lift that uses those same muscle groups. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Is it okay to only "start my diet" once I actually start struggling on lifts as a newbie? Kinda feel like a fat piece of shit eating a big surplus while only benching 22.5 kgs (5x5) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifter's: 
+ Been taking online quizzes to figure out as 'very active", but l'd love your opinion!
+
+So here is a list of the exercise I do in a given week:
+
+- Lifting 3x/wk. I'm new, so it's still light by most lifter's standards, but I'm progressing and lifting as heavy as I can. A typical workout consists of 3 big lifts and 3-4 accessory lifts, with varying set/rep ranges. Overall, a typical workout takes 70-90 minutes, including warmup and cool down.
+
+- Aerobics/HIIT/Circuit Training 3-4x/wk. It varies, but I'm moving more into HIIT and circuit training, and away from steady-state and lower-intensity aerobics. A typical session is 30-60 mins, including warmup and cool down.
+
+- Yoga 5-7 days a week. 15-30 min. I'm not very good, but I try my best😁
+
+- Walking/hiking/cycling 5-7x/wk. Most of the time this is with my kids, and it's low-intensity enough that it doesn't really feel like exercise to me. But every day the weather permits, we at least go for a stroll. Typically I will walk, hike, or bike at least a mile every day it doesn't rain.
+
+So...surely all of that qualifies as "very active", right? I mean, I could imagine being more active, especially since nothing I do lasts more than an hour and a half. But I do some kind of something pretty much 7 days a week. Wednesdays are usually my lightest days, but I do clean my whole house every Wednesday, so it's not like I'm sedentary. And Lord knows I never sit down with two young kids. So "very active" is an honest answer, right? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Been taking online quizzes to figure out as 'very active", but l'd love your opinion!
+
+So here is a list of the exercise I do in a given week:
+
+- Lifting 3x/wk. I'm new, so it's still light by most lifter's standards, but I'm progressing and lifting as heavy as I can. A typical workout consists of 3 big lifts and 3-4 accessory lifts, with varying set/rep ranges. Overall, a typical workout takes 70-90 minutes, including warmup and cool down.
+
+- Aerobics/HIIT/Circuit Training 3-4x/wk. It varies, but I'm moving more into HIIT and circuit training, and away from steady-state and lower-intensity aerobics. A typical session is 30-60 mins, including warmup and cool down.
+
+- Yoga 5-7 days a week. 15-30 min. I'm not very good, but I try my best😁
+
+- Walking/hiking/cycling 5-7x/wk. Most of the time this is with my kids, and it's low-intensity enough that it doesn't really feel like exercise to me. But every day the weather permits, we at least go for a stroll. Typically I will walk, hike, or bike at least a mile every day it doesn't rain.
+
+So...surely all of that qualifies as "very active", right? I mean, I could imagine being more active, especially since nothing I do lasts more than an hour and a half. But I do some kind of something pretty much 7 days a week. Wednesdays are usually my lightest days, but I do clean my whole house every Wednesday, so it's not like I'm sedentary. And Lord knows I never sit down with two young kids. So "very active" is an honest answer, right? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Been taking online quizzes to figure out as 'very active", but l'd love your opinion!
+
+So here is a list of the exercise I do in a given week:
+
+- Lifting 3x/wk. I'm new, so it's still light by most lifter's standards, but I'm progressing and lifting as heavy as I can. A typical workout consists of 3 big lifts and 3-4 accessory lifts, with varying set/rep ranges. Overall, a typical workout takes 70-90 minutes, including warmup and cool down.
+
+- Aerobics/HIIT/Circuit Training 3-4x/wk. It varies, but I'm moving more into HIIT and circuit training, and away from steady-state and lower-intensity aerobics. A typical session is 30-60 mins, including warmup and cool down.
+
+- Yoga 5-7 days a week. 15-30 min. I'm not very good, but I try my best😁
+
+- Walking/hiking/cycling 5-7x/wk. Most of the time this is with my kids, and it's low-intensity enough that it doesn't really feel like exercise to me. But every day the weather permits, we at least go for a stroll. Typically I will walk, hike, or bike at least a mile every day it doesn't rain.
+
+So...surely all of that qualifies as "very active", right? I mean, I could imagine being more active, especially since nothing I do lasts more than an hour and a half. But I do some kind of something pretty much 7 days a week. Wednesdays are usually my lightest days, but I do clean my whole house every Wednesday, so it's not like I'm sedentary. And Lord knows I never sit down with two young kids. So "very active" is an honest answer, right? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Been taking online quizzes to figure out as 'very active", but l'd love your opinion!
+
+So here is a list of the exercise I do in a given week:
+
+- Lifting 3x/wk. I'm new, so it's still light by most lifter's standards, but I'm progressing and lifting as heavy as I can. A typical workout consists of 3 big lifts and 3-4 accessory lifts, with varying set/rep ranges. Overall, a typical workout takes 70-90 minutes, including warmup and cool down.
+
+- Aerobics/HIIT/Circuit Training 3-4x/wk. It varies, but I'm moving more into HIIT and circuit training, and away from steady-state and lower-intensity aerobics. A typical session is 30-60 mins, including warmup and cool down.
+
+- Yoga 5-7 days a week. 15-30 min. I'm not very good, but I try my best😁
+
+- Walking/hiking/cycling 5-7x/wk. Most of the time this is with my kids, and it's low-intensity enough that it doesn't really feel like exercise to me. But every day the weather permits, we at least go for a stroll. Typically I will walk, hike, or bike at least a mile every day it doesn't rain.
+
+So...surely all of that qualifies as "very active", right? I mean, I could imagine being more active, especially since nothing I do lasts more than an hour and a half. But I do some kind of something pretty much 7 days a week. Wednesdays are usually my lightest days, but I do clean my whole house every Wednesday, so it's not like I'm sedentary. And Lord knows I never sit down with two young kids. So "very active" is an honest answer, right? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ M/31/5'7/145lbs 
+
+I've been following GZCLP since December of last year and I'm not really enjoying my training much anymore. I'm not sure why, I just don't look forward to it the same way I used to. 
+
+My working sets: 
+
+Deadlift 265lbs (5x3)
+
+Bench 165lbs (5x3)
+
+OHP 115lbs (2RM)
+
+Squat 195lbs (5x3)
+
+Given my lifts, should I keep pushing through GZCLP or should I hop on something different? My goal is just to be big and strong. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ M/31/5'7/145lbs 
+
+I've been following GZCLP since December of last year and I'm not really enjoying my training much anymore. I'm not sure why, I just don't look forward to it the same way I used to. 
+
+My working sets: 
+
+Deadlift 265lbs (5x3)
+
+Bench 165lbs (5x3)
+
+OHP 115lbs (2RM)
+
+Squat 195lbs (5x3)
+
+Given my lifts, should I keep pushing through GZCLP or should I hop on something different? My goal is just to be big and strong. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Maybe I'm too late to get any response but hey, worth the shot!
+
+
+So I'm trying to workout in my home. I only have one 25 lb dumbbell so I looked for a full body routine and found this one:
+
+
+ https://youtu.be/RNOXsANA8MM
+
+
+
+I tried it and only managed to complete half of it (10 minutes, not the 2 sets). I was wondering if it's ok? Maybe it's a stupid question but I want to know if I'll eventually improve so I can finish it or maybe I'm lifting too much weight or should I do another workout altogether? I'm planning to do it 3 times a week, I just want to be sure I'm not wasting my time lol.
+
+
+A little bit of info about me if it helps:
+
+
+I'm a 26 yo male, 177 cm height, 77 kg weight. I'm doing keto and my goal is to be fit, lose my beer belly  (I'm not fat, but I don't have a flat stomach) and build some muscle and strenght (I don't want a Mr. Olympia level body, just fit and sexy haha). I used to go to the gym and saw really good and fast results, but my life hit a brick wall and I got really depressed. During that time I indulged in very unhealthy habits (junk food, alcohol, drugs) but I'm good now and I want to improve myself a little so any help it's very much appreciated :)
+
+Tl;dr: Is the workout in the video a good starting point for someone who can only complete half of it? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ I like barbell hip thrusts most but also Romanian deadlifts, deep barbell back squats, and glute kick ups with a smith machine. 
+
+Honestly though whatever exercise(s) gives you the best stretch and contraction in your glutes is what you should be doing. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Everyone be wrong
+Squats and deadlifts for kardashian glutes 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ Deadlift 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Romanian dead lifts are good for glutes as it is a hip hinge thrust exercise. Kettlebell swings done right also target hit your butt as well as they involve hip hinging. Extra weapons in the arsenal to target the area if you choose.
+
+In regards to what is better, isometric holds only build strength in quite a specific limited range of motion. Ideally you should work the muscle throughout its entire range of motion, which would make doing reps the better choice. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Romanian dead lifts are good for glutes as it is a hip hinge thrust exercise. Kettlebell swings done right also target hit your butt as well as they involve hip hinging. Extra weapons in the arsenal to target the area if you choose.
+
+In regards to what is better, isometric holds only build strength in quite a specific limited range of motion. Ideally you should work the muscle throughout its entire range of motion, which would make doing reps the better choice. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ If you want maximal glute gains, you should absolutely do both of em, doesn't have to be in the same workout though. I have 2-3 leg days and do hip thrusts one day and glute bridges in another. Bret Contreras aka the "Glute Guy" highly recommends doing both static and regular hip thrusts mixed with glute bridges and banded variants of the exercises. That way you build strength to do all of these exercises much heavier = gains. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Squats n deadlifts all you rly need for legs. Everything else is kinda unnecessary unless you have some muscle imbalance you need to correct. 
+
+You should be activating your flutes plenty on both squats and deadlifts and if not there might be form issues. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Squats n deadlifts all you rly need for legs. Everything else is kinda unnecessary unless you have some muscle imbalance you need to correct. 
+
+You should be activating your flutes plenty on both squats and deadlifts and if not there might be form issues. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Non of them. 100 reps deadlift always do the job :) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts+: 
+ Jacked my wrist up at work, still went in and killed some lower body and core work (leg lifts+ deadbugs are 🔥). Managed 3×5/leg on single leg bodyweight squats when last time I tried I could do a single only on my dominant side 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Finally was able to borrow 2 45 lb plates from a friend and increased my deadlift 3x5s to 320 (minus one rep, its fine) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Looks like im down to about 152\~ now after a few months (been at a deficit for a few months but ive been trying to build up muscle at the same time). Starting to see my abs again and my arms and chest are visually thicker to me which is just nice to see. Im not losing weight as fast as i planned but thats fine, im clearly gaining muscle because all of my lifts have gone up/been significantly better from when i started a few months back.
+
+Also my left side is starting to even out a bit more, i was able to pump out 10x3 with three second pauses the other day on my bench which was awesome. Normally since my left is weaker my right comes in and tries to take on a bit more of the weight so i normally give out on my right arm, not this time! 
+
+My shoulder workouts seem to be helping my bad right one and it isnt grinding much anymore which is also awesome. Doing 10x3 on internal and external rotator cuff exercises with cables and a few other shoulder exercises, it looks to be really helping.
+
+&amp;#x200B;
+
+I did decide not to go today, bad sleep and my schedule for sunday was all messed up because of it so im going to start going Monday, Wednesday, Friday instead. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I usually jogging and running like 40 min and lift 3kg each arm, but today i stay to clean the rooms that i haven't cleaned since 6 month, i finished them but i felt that didn't want to do it, but heck my mind telling me to rest everytime. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ GENTLEMEN. So my deadlift has been stuck at 150 for a few weeks. Finally today I did 150x3, 152.5x3, then now 155x5.
+
+They felt amazing. All my other lifts are doing well. 160kg will be in sight soon. So proud now. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ GENTLEMEN. So my deadlift has been stuck at 150 for a few weeks. Finally today I did 150x3, 152.5x3, then now 155x5.
+
+They felt amazing. All my other lifts are doing well. 160kg will be in sight soon. So proud now. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ A few weeks Low weight high rep 2/3x12 is my new norm then  a week of 531’s to estimate a 1rm. 
+
+I enjoy low weight high rep over 5x5 and experience similar results with less big dick weight lifting.
+
+Low weight high rep is a different sensation as well.  💪
+
+Warming up to running again. 🤮 
+
+7minute miles gg 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Water](https://wwwjtsstrengthcom/deep-water-squat-training/): 
+ Just finished week 4 of [Juggernaut's take on Deep Water](https://www.jtsstrength.com/deep-water-squat-training/) on Friday. I did 100 squats in four sets of 30, 25, 25, and 20 at 65% of my 1rm. I've never done anywhere near that kind of volume before. It was brutal, but I feel pretty good about it. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifetime: 
+ Came back from a deload week and proceeded to hit lifetime PRs for my 5k, Bench, Squat, and Deadlift at my new all-time lowest weight (since the last time I was here when I was in the midst of perma-bulk)! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ Came back from a deload week and proceeded to hit lifetime PRs for my 5k, Bench, Squat, and Deadlift at my new all-time lowest weight (since the last time I was here when I was in the midst of perma-bulk)! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifting: 
+ My fitness victory this week was deadlifting all of the plates we have at home, 430lbs! Now I just gotta figure out where the heck I can buy more plates, it seems like everywhere is sold out. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ dipped below 180lbs for the first time in like year, hit 180lbs bench press for 5 reps on monday and gonna hit 185 tomorrow
+
+
+300lb deadlift and 195lb squat this week as well, gonna start focusing on those 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Started March 2019 with fairly consistent gym going, no cardio but I walk everywhere on campus and I'm a cheap ass bastard so I park like half a mile away. 136 lbs (5'8") and your regular skinny boi body.
+
+Ate lots of calories and gained a bit of muscle, but a bit more of bodyfat. March 2020 and I'm 147 lbs and it's quarantine time (still 5'8" tho). Dropped calories to about 2200 per day and did squats, pushups, and bicep curls at home with some DIY weights. Mostly maintained but started to gain weight and it was definitely not muscle. Maxxed out at 148-149 lbs and a 33" waist size. 
+
+Started cutting about 500 calories a day and started the r/bodyweight RR, plus increased my steps a bunch to exceed my estimated steps from when I was still on campus, as well as HIIT on off days focusing my core. At first I wasn't dropping weight much at all, bouncing between 147-148lbs but my waist size kept dropping so I figured that was a good sign. About 3 months in and I'm in the 145's (reached there like two weeks ago, went slightly back up but back in it now) and I can finally see a 1 pack ab again! (My scoliosis tries real hard to hide it) Current waist size is about 29.5" which is cool I guess. Still hard to fit into shorts but now it's my thighs and ass that gets squeezed so I guess my squats are working pretty well. 
+
+Biggest up is that my bodyweight strength is increasing rapidly. I switched to first two sets are 1 or 2 reps away from failure and final set is to failure which helped a ton and each day I work out I can reach the previous days failure. My plan is to keep cutting to as close to 140lbs as I can get. Hopefully by then I'll feel more comfortable to go back to the gym and start a bit of a bulk! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Month back into gym life and lifts are slowly getting back to pre-quarantine numbers. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Started my lean bulk. Week 1 was great. 
+
+Half of current week, lifts are going up, even lagging ohp. Rest of the current week, I'm feeling sick, got a mild fever and already resting for 3 days and body temperature ain't normal still.
+
+I'm unable to do anything other than wait it out, but calorie surplus feels so wrong, not to mention I don't even know what my tdee would be in couch potato mode.
+
+PS : Half win half rant post. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Finally got to 22 consecutive pull-ups. Up from 16 chin ups in early June. Pull-ups are the most based lift 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I finally did 5x5 135lb bench without failing yesterday. 
+
+About 7 months of inconsistent lifting and gaining 20lb, finally got 1 plate. 6’0 160lb, hoping to eventually be 180~200lb 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting): 
+ Haven’t been under a barbell in 2 years (because PF not bc I stopped lifting) and squatted 145 lbs but failed at 155 lbs on 8/22 but I hit 175 lbs yesterday!!! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Recently started to correct all my form in every exercise, seeing great results and I'm cutting, I have lost 3kg so far from 87kg and I've gained some strength. Added my new favourite exercise to my shoulder routine which is the overhead press. Today was shoulder day and I managed to get 3-5 reps with 50kg or 110 pounds. 
+
+&amp;#x200B;
+
+So I've had a couple of small victories :) and I've noticed my grip strength increase since I got a griper to help rehabilitate my arms because of Bicep-Tendonitis, everything slowly falling into place. 
+
+&amp;#x200B;
+
+Hope all is going well for everyone in r/Fitness too :) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Recently started to correct all my form in every exercise, seeing great results and I'm cutting, I have lost 3kg so far from 87kg and I've gained some strength. Added my new favourite exercise to my shoulder routine which is the overhead press. Today was shoulder day and I managed to get 3-5 reps with 50kg or 110 pounds. 
+
+&amp;#x200B;
+
+So I've had a couple of small victories :) and I've noticed my grip strength increase since I got a griper to help rehabilitate my arms because of Bicep-Tendonitis, everything slowly falling into place. 
+
+&amp;#x200B;
+
+Hope all is going well for everyone in r/Fitness too :) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Finally managed 200 kg deadlift this friday. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Was about a day away from going to the doctor due to (what I thought was) trigger finger. Decided to deadlift yesterday and it’s completely gone. No pain (it never hurt), no stiffness this morning, nothing. I’ll take it. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I do Olympic lifting so when I was about to Snatch 60kg I hear a group of 4 gym bros making fun of me saying my deadlift is weak. So when I fucking drove that weight above my head, no squat, I look at them and simply grin 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ I do Olympic lifting so when I was about to Snatch 60kg I hear a group of 4 gym bros making fun of me saying my deadlift is weak. So when I fucking drove that weight above my head, no squat, I look at them and simply grin 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ I hit a deadlift pr - 5 reps at 405# beltless 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifting: 
+ First day back at the gym tried 3 plate deadlifting raw and snapped my lower back 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ I’m pretty sure I commented my victory of recovery a few months ago but today I hit a new milestone:
+
+After suffering from a disc prolapse between L4 and L5 back in November, I finally hit a body weight deadlift at around 180lbs again under coached supervision. This feels so amazing after suffering from psychological backlash due to fear of never being able to work out again (or actually the fear of never properly walking again, but I actually recovered fast) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifting: 
+ Would a pair of dumbbells be enough for me to start doing weightlifting workouts at home as I don't have access to any gyms? I am a complete beginner to this. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlifts: 
+  
+
+Hi  guys, I (17M 70kg 175cm) was just wondering if anyone could give me any advice regarding  my routine. In my country, the gyms have opened and I have been going  for about a month. I'm currently following an Upper/Lower split right  now, for two days a week, as I'm currently preparing for my end year  exams too. Once exams are done, I plan to continue the routine but up it  to four days a week. Here's my routine
+
+Upper:
+
+Bench Press 3x8 65kg
+
+Incline bench 3x8 50kg
+
+Cable Flies 3x10
+
+Overhead press 3x8 30kg (seems criminally low here, any advice on how to improve this would be greatly appreciated)
+
+Upright rows 3x8 30kg
+
+Pull-ups 3x10 (used to be able to do weighted 10kg before quarantine hit, trying to work that back right now)
+
+Tricep Pushdown 3x10
+
+Bicep Curls 3x10
+
+Lower:
+
+Squats 3x8 85kg (adding 2.5kg to this every time I do this)
+
+Deadlifts 3x5 105kg (also seems to be stalling)
+
+Angled leg press 100kg
+
+Leg Extensions
+
+Leg Curls
+
+Seated Cable rows
+
+I'm  trying to hit every single muscle group within these two workouts, with  one or two assistance exercises for every compound exercise. On my rest  days, I may be able to do a routine of pushups and ab work. I'm just  curious if anyone can see any gaps or problems with my workout routine  that can be fixed? Trying to gain strength and if possible a bit of  weight. Thanks in advance! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+  
+
+Hi  guys, I (17M 70kg 175cm) was just wondering if anyone could give me any advice regarding  my routine. In my country, the gyms have opened and I have been going  for about a month. I'm currently following an Upper/Lower split right  now, for two days a week, as I'm currently preparing for my end year  exams too. Once exams are done, I plan to continue the routine but up it  to four days a week. Here's my routine
+
+Upper:
+
+Bench Press 3x8 65kg
+
+Incline bench 3x8 50kg
+
+Cable Flies 3x10
+
+Overhead press 3x8 30kg (seems criminally low here, any advice on how to improve this would be greatly appreciated)
+
+Upright rows 3x8 30kg
+
+Pull-ups 3x10 (used to be able to do weighted 10kg before quarantine hit, trying to work that back right now)
+
+Tricep Pushdown 3x10
+
+Bicep Curls 3x10
+
+Lower:
+
+Squats 3x8 85kg (adding 2.5kg to this every time I do this)
+
+Deadlifts 3x5 105kg (also seems to be stalling)
+
+Angled leg press 100kg
+
+Leg Extensions
+
+Leg Curls
+
+Seated Cable rows
+
+I'm  trying to hit every single muscle group within these two workouts, with  one or two assistance exercises for every compound exercise. On my rest  days, I may be able to do a routine of pushups and ab work. I'm just  curious if anyone can see any gaps or problems with my workout routine  that can be fixed? Trying to gain strength and if possible a bit of  weight. Thanks in advance! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I feel like I understand the principles of hypertrophy, but I don't understand principles of strength training at all. Are there any resources that summarize them? My goal is to be able to make/adjust my own strength programs like I do with hypertrophy training. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I feel like I understand the principles of hypertrophy, but I don't understand principles of strength training at all. Are there any resources that summarize them? My goal is to be able to make/adjust my own strength programs like I do with hypertrophy training. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Six weeks lifting and I’m starting to notice that my left arm is weaker than the right. I’m doing what past threads said and letting the weaker arm set the pace.
+
+But I also read that dumbbell exercises are also good ways to alleviate this. Any dumbbell exercise suggestions? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains [PHUL](https://wwwmuscleandstrengthcom/workouts/upper-lower-4-day-gym-bodybuilding-workout): 
+ Help me decide
+
+Been following the [P.H.U.L.](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) programme for 13 weeks and ive been seeing some great gains in terms of strenght, although it doesnt feel like I'm fatigued enough on my off days even tho I put maximum effort in each training-day. So Ive been thinking of switching it up again (also since its a 12 week programme). Been having a look at this [4-day split hypertrophy](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) and this [Maximum mass programme](https://www.muscleandstrength.com/workouts/4-day-maximum-mass-workout). Biggest difference is going past failure and only working each muscle once/week.   
+What do you think? Stick with my current one since its been working (although its getting a little boring), or switch to one of theese?   
+
+
+In terms of goals I want to put on size and really HAVE to fuel up to cope with the training.
+
+Ive read the wiki multiple times, dont @ me 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains hypertrophy](https://wwwmuscleandstrengthcom/workouts/upper-lower-4-day-gym-bodybuilding-workout): 
+ Help me decide
+
+Been following the [P.H.U.L.](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) programme for 13 weeks and ive been seeing some great gains in terms of strenght, although it doesnt feel like I'm fatigued enough on my off days even tho I put maximum effort in each training-day. So Ive been thinking of switching it up again (also since its a 12 week programme). Been having a look at this [4-day split hypertrophy](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) and this [Maximum mass programme](https://www.muscleandstrength.com/workouts/4-day-maximum-mass-workout). Biggest difference is going past failure and only working each muscle once/week.   
+What do you think? Stick with my current one since its been working (although its getting a little boring), or switch to one of theese?   
+
+
+In terms of goals I want to put on size and really HAVE to fuel up to cope with the training.
+
+Ive read the wiki multiple times, dont @ me 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains programme](https://wwwmuscleandstrengthcom/workouts/4-day-maximum-mass-workout): 
+ Help me decide
+
+Been following the [P.H.U.L.](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) programme for 13 weeks and ive been seeing some great gains in terms of strenght, although it doesnt feel like I'm fatigued enough on my off days even tho I put maximum effort in each training-day. So Ive been thinking of switching it up again (also since its a 12 week programme). Been having a look at this [4-day split hypertrophy](https://www.muscleandstrength.com/workouts/upper-lower-4-day-gym-bodybuilding-workout) and this [Maximum mass programme](https://www.muscleandstrength.com/workouts/4-day-maximum-mass-workout). Biggest difference is going past failure and only working each muscle once/week.   
+What do you think? Stick with my current one since its been working (although its getting a little boring), or switch to one of theese?   
+
+
+In terms of goals I want to put on size and really HAVE to fuel up to cope with the training.
+
+Ive read the wiki multiple times, dont @ me 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Cutting and strength loss question:
+
+Does losing weight at a rate of 1-1.5 kgs(2-3 lbs) per week also cause stalling even if I'm a beginner lifter?
+
+My chinups progress has stalled at 5 sets of 2 each. My OHP has also stalled at 51 kgs (112 lbs0 and bench at 70 kgs (154 lbs).
+
+I thought at least my chinup progress would keep going up. Is this normal?
+
+I'm 6'1 and currently weigh around 82 kgs (180 lbs). Still skinny fat so cutting, with barebones Greyskull LP. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifter?: 
+ Cutting and strength loss question:
+
+Does losing weight at a rate of 1-1.5 kgs(2-3 lbs) per week also cause stalling even if I'm a beginner lifter?
+
+My chinups progress has stalled at 5 sets of 2 each. My OHP has also stalled at 51 kgs (112 lbs0 and bench at 70 kgs (154 lbs).
+
+I thought at least my chinup progress would keep going up. Is this normal?
+
+I'm 6'1 and currently weigh around 82 kgs (180 lbs). Still skinny fat so cutting, with barebones Greyskull LP. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ i'm doing the reddit ppl but taking a sort of mashed 5/3/1 with RPE approach to the core lifts. i sort of just feel it out, but for instance with my squat i usually do like:
+
+5x @ 7.5 RPE
+
+3-4 @ 8.5 RPE
+
+2-3 @ 9-9.5 RPE
+
+3-4 @ 8.5 RPE
+
+i don't really know if i'm explaining it right/if there is a program with this structure already (i'm sure it exists, i just don't know) but I guess i just want to know if anyone has done anything similar and seen good results. I'm making pretty decent progress in the short time I've been doing so it's working for me so far, but figured I'd see if anyone had any testimonials 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Trying to switch to nSuns 4 day from the 5 day variation because of time constraints, and was wondering if it's ok to swap the high volume chest (and then OHP secondary) day with main lift being OHP and secondary BB row (I don't have enough back volume as is I think).
+
+Is that ok? Would be adding chest DB presses (incline mainly) as an accessory already. 
+
+Cheers! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ My gym has reopened recently and I have gone from doing PPL (months ago) to doing full body workouts. Is there any issue with training full body on consecutive days? I don’t feel fatigued whatsoever after workouts. I usually do either vertical or horizontal presses and pulls for the day and end it with a squat or deadlift. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ I am a total beginner and am confused by so much divergent information on the internet. Can you guys help me please?
+
+My two main questions:
+
+1 - Since my goal is just to have a normal athletic body, are deadlifts and squats enough to build my glutes? Or do I REALLY need exercises like hip thrusts / glute bridges? 
+
+2 - I read all the time that 95% of what matters to obtain a defined abs is the diet / bf%. Is a single exercise for the abs (like crunches or hanging leg raises, 4x12 / 2 times per week) enough to cover the remaining 5%? Or do I really need a wide variety of exercises?  
+
+Thx a lot for the help!!! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I’ve been losing weight since July 27th, losing around 4kg in the time and I now have a BMI of around 21.4. I’m trying to lose fat whilst also lifting but I don’t really have a target weight, at what point should I stop the deficit? I’m thinking once my BMI goes below 21, I start a bulk? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ First of all, one session in the gym doesn't mean anything and it's useless to look at it in isolation. Some researchers would argue, that it takes weeks to build any kind of muscle, not days (which sounds like it's in line with the experience of most folks at the gym, especially those who are intermediate and above). Always look at lifting through the lenses of the 'long run' because that's the only way it really makes sense.
+
+Second of all, some smart folks like Brian Minor or Eric Helms somewhat recently started describing progressive overload in a way that made a lot of sense to me as a formerly obese person, on a perpetual cut, who never bulked and gained muscle somewhat inefficiently. Progressive overload is presented as something you 'do' but in reality, it's a consequence of training. To put it in very simple terms, you get stronger because your muscles got bigger (which takes a long time) or because you've made neurological adaptations (which can be rapid at first but then slow down considerably), not because you've put 5 more lbs on the bar or you've decided to rest 30 seconds less.
+
+This is also the reason why I prefer bodybuilding style training and rep-ranges because it's much more forgivable than the powerlifting style training. As long as you're working somewhat close to failure (0-2 reps in reserve) with an adequate volume then you can be pretty sure you're building muscle (assuming adequate nutrition and recovery). Even if you haven't increased the weight on the exercise in weeks or even months. Kai Greene does lateral raise with like 15lbs. "But, but them steroids!" doesn't really apply here because... everyone does lateral raises with a small amount of weight, and it takes months to progress on it, sometimes years. Does this mean the exercise is useless? Why does everyone with good shoulders do it then? And why do so many people think it's essential? Because, again, as long as you're close enough to failure and you're eating right, you'll build muscle.
+
+I feel like your confusion stems from the fact, that powerlifting style training became so popular in recent years. There are no two ways about it, if you want to get stronger you need to put more weight on the bar. Not every session perhaps, but as often as you can. This is somewhat true for building muscle as well (especially when it comes to compound movements) but much less so. When you mostly care about hypertrophy, the main focus should be intensity and volume. Progressive overload is more of a gauge, you need to look at from time to time to make sure the progress occurs.
+
+Bonus article on the subject:
+
+[https://myojournal.com/progressive-overload-fallacies/](https://myojournal.com/progressive-overload-fallacies/) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains powerlifting: 
+ First of all, one session in the gym doesn't mean anything and it's useless to look at it in isolation. Some researchers would argue, that it takes weeks to build any kind of muscle, not days (which sounds like it's in line with the experience of most folks at the gym, especially those who are intermediate and above). Always look at lifting through the lenses of the 'long run' because that's the only way it really makes sense.
+
+Second of all, some smart folks like Brian Minor or Eric Helms somewhat recently started describing progressive overload in a way that made a lot of sense to me as a formerly obese person, on a perpetual cut, who never bulked and gained muscle somewhat inefficiently. Progressive overload is presented as something you 'do' but in reality, it's a consequence of training. To put it in very simple terms, you get stronger because your muscles got bigger (which takes a long time) or because you've made neurological adaptations (which can be rapid at first but then slow down considerably), not because you've put 5 more lbs on the bar or you've decided to rest 30 seconds less.
+
+This is also the reason why I prefer bodybuilding style training and rep-ranges because it's much more forgivable than the powerlifting style training. As long as you're working somewhat close to failure (0-2 reps in reserve) with an adequate volume then you can be pretty sure you're building muscle (assuming adequate nutrition and recovery). Even if you haven't increased the weight on the exercise in weeks or even months. Kai Greene does lateral raise with like 15lbs. "But, but them steroids!" doesn't really apply here because... everyone does lateral raises with a small amount of weight, and it takes months to progress on it, sometimes years. Does this mean the exercise is useless? Why does everyone with good shoulders do it then? And why do so many people think it's essential? Because, again, as long as you're close enough to failure and you're eating right, you'll build muscle.
+
+I feel like your confusion stems from the fact, that powerlifting style training became so popular in recent years. There are no two ways about it, if you want to get stronger you need to put more weight on the bar. Not every session perhaps, but as often as you can. This is somewhat true for building muscle as well (especially when it comes to compound movements) but much less so. When you mostly care about hypertrophy, the main focus should be intensity and volume. Progressive overload is more of a gauge, you need to look at from time to time to make sure the progress occurs.
+
+Bonus article on the subject:
+
+[https://myojournal.com/progressive-overload-fallacies/](https://myojournal.com/progressive-overload-fallacies/) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains powerlifting: 
+ First of all, one session in the gym doesn't mean anything and it's useless to look at it in isolation. Some researchers would argue, that it takes weeks to build any kind of muscle, not days (which sounds like it's in line with the experience of most folks at the gym, especially those who are intermediate and above). Always look at lifting through the lenses of the 'long run' because that's the only way it really makes sense.
+
+Second of all, some smart folks like Brian Minor or Eric Helms somewhat recently started describing progressive overload in a way that made a lot of sense to me as a formerly obese person, on a perpetual cut, who never bulked and gained muscle somewhat inefficiently. Progressive overload is presented as something you 'do' but in reality, it's a consequence of training. To put it in very simple terms, you get stronger because your muscles got bigger (which takes a long time) or because you've made neurological adaptations (which can be rapid at first but then slow down considerably), not because you've put 5 more lbs on the bar or you've decided to rest 30 seconds less.
+
+This is also the reason why I prefer bodybuilding style training and rep-ranges because it's much more forgivable than the powerlifting style training. As long as you're working somewhat close to failure (0-2 reps in reserve) with an adequate volume then you can be pretty sure you're building muscle (assuming adequate nutrition and recovery). Even if you haven't increased the weight on the exercise in weeks or even months. Kai Greene does lateral raise with like 15lbs. "But, but them steroids!" doesn't really apply here because... everyone does lateral raises with a small amount of weight, and it takes months to progress on it, sometimes years. Does this mean the exercise is useless? Why does everyone with good shoulders do it then? And why do so many people think it's essential? Because, again, as long as you're close enough to failure and you're eating right, you'll build muscle.
+
+I feel like your confusion stems from the fact, that powerlifting style training became so popular in recent years. There are no two ways about it, if you want to get stronger you need to put more weight on the bar. Not every session perhaps, but as often as you can. This is somewhat true for building muscle as well (especially when it comes to compound movements) but much less so. When you mostly care about hypertrophy, the main focus should be intensity and volume. Progressive overload is more of a gauge, you need to look at from time to time to make sure the progress occurs.
+
+Bonus article on the subject:
+
+[https://myojournal.com/progressive-overload-fallacies/](https://myojournal.com/progressive-overload-fallacies/) 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I made this comment on a different thread but it's also relevant here.
+
+Here's how i do it. First some nomenclature
+
+- `S x R x W`: `S` sets, of `R` reps with `W` weight.
+
+- `AMRAP`: As Many Reps As Possible
+
+- `x RM`: `x` Repetition (rep) maximum, how much weight can you do for `x` repetitions. Usually people will know their 1, 3, 5 and maybe even 2 and 8 RM.
+
+- `EMOM`: Every Minute On the Minute, you do the exercise at every minute, this doesn't mean you get to rest 1 minute, you put the bar down and go every 1 minute (it's hard in practice to adhere to but it's what you strive for)
+
+##### Double progression
+
+When you can consistently complete all `R` reps across all `S` sets with your `W` weight, you increase it by a given amount. The amount depends on the lift and how easy the sets felt to you.
+
+##### Increased calculated 1 RM via AMRAP
+
+If you have a heavy AMRAP set and you set a new calculated 1 RM you increase the weight. Also depends on how easy it was and the exercise. 
+
+##### Test set
+
+If you have a dedicated top set whose purpose is to guide your progression in some way, then you increase/decrease the weight depending on your performance. Again, the exercise you do, what programme you're doing and how well you performed will dictate how much you increase the weight by.
+
+##### EMOM test
+
+Similar to *Double Progression*, but you have a minum number of sets with a minimum number of reps at a given weight as a target that you want to achieve. If you manage to do so you increase the weight.
+
+##### Time
+
+For isometrics this is the same as *Double Progression* but instead of reps it's time. I do this with grip training and some calisthenics holds.
+
+##### Form improvements/harder progression
+
+Similar to double progression but more general. Sometimes progress comes not in the form of increased time or weight, but on refining technique. I use this if i plateau for a bit, particularly on hard calisthenics skills/holds. I try harder progressions or improve my form. Often I can't complete all sets like this but i try to improve every cycle.
+
+##### More sets
+
+Add more sets.
+
+### Conclusion
+
+Go to the wiki and pick a beginner programme. They usually tell you how long to rest, how to progress and what exercises to do. In time you can start adding things and customising your plan. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ This might help...
+1 .progressive overload is achieved by either lifting more weight in the same amount of time, or by lifting the same weight in less time. 
+2. If the muscle can complete the last rep does it need to get any bigger/stronger? 
+These are two of my training philosophies I keep in mind when training to build muscle. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ This might help...
+1 .progressive overload is achieved by either lifting more weight in the same amount of time, or by lifting the same weight in less time. 
+2. If the muscle can complete the last rep does it need to get any bigger/stronger? 
+These are two of my training philosophies I keep in mind when training to build muscle. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ In terms of hypertrophy concentric+eccentric&gt;eccentric&gt;concentric&gt;isometric.  
+  
+In terms of strength, isometric only cause a significant increase in strength within a few degrees of the trained joint angle.  
+  
+If you want to handle more weight, within a weight envelope, in the rack position, then an isometric is ideal as it will net very little size but a shit load of strength in the rack position 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ In terms of hypertrophy concentric+eccentric&gt;eccentric&gt;concentric&gt;isometric.  
+  
+In terms of strength, isometric only cause a significant increase in strength within a few degrees of the trained joint angle.  
+  
+If you want to handle more weight, within a weight envelope, in the rack position, then an isometric is ideal as it will net very little size but a shit load of strength in the rack position 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ In terms of hypertrophy concentric+eccentric&gt;eccentric&gt;concentric&gt;isometric.  
+  
+In terms of strength, isometric only cause a significant increase in strength within a few degrees of the trained joint angle.  
+  
+If you want to handle more weight, within a weight envelope, in the rack position, then an isometric is ideal as it will net very little size but a shit load of strength in the rack position 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifter: 
+ As a weightlifter, I do front rack holds anywhere from 100%-120% of my best front squat for as long as I can. They develop my ability to stay tight, breathe properly, and not be a pussy. I also get some core work out of it. 
+
+They were also useful for getting front rack mobility. I don't think they do much for developing the upper back. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ It's far from the same as rows or pull ups, those mainly work the traps and lats while a front squat hold trains your spinal erectors of your upper back and your core. It's a great exercise to improve your back for squats and deadlifts, but in a different way.
+
+I get a lot out of them. I just hate doing them because it's fucking hard lol. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ I used to do front rack holds for time, they have some effect on the upper back. But it mainly taxes your core, to the point i was very shaky after 30s-1 min depending on the weight. The best upper back builder would probably be heavy snatch grip high pulls. Snatch grip block deadlifts work well too and help eliminate the technical difficulties of oly lifting. Arched back good mornings with a safety bar are classic powerlifter exercise for it as well. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I used to do front rack holds for time, they have some effect on the upper back. But it mainly taxes your core, to the point i was very shaky after 30s-1 min depending on the weight. The best upper back builder would probably be heavy snatch grip high pulls. Snatch grip block deadlifts work well too and help eliminate the technical difficulties of oly lifting. Arched back good mornings with a safety bar are classic powerlifter exercise for it as well. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains powerlifter: 
- I would probably add a couple more movements but overall the program looks like it would work for general wellness/physique goals. You're not going to win Mr. Olympia or become a competitive powerlifter with this template... but you can build some muscle and improve your physique. 
+ I used to do front rack holds for time, they have some effect on the upper back. But it mainly taxes your core, to the point i was very shaky after 30s-1 min depending on the weight. The best upper back builder would probably be heavy snatch grip high pulls. Snatch grip block deadlifts work well too and help eliminate the technical difficulties of oly lifting. Arched back good mornings with a safety bar are classic powerlifter exercise for it as well. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifters: 
+ I used heavy front rack holds to improve positioning and elbow Height in my Clean and jerk for a long time, but as far as being on par with dynamic exercises for putting on mass, I would stay away from them. It’s a pretty sport specific tool for weightlifters, so I think there’s definitely better ways to build out the upper back. To sum up, they work in the way their supposed to, but as far as hypertrophy in the upper back, I’d say not worth it 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Personally, I prefer barbell movements for my primaries. I have spent time and gained strength using dumbbells only, and know several people who prefer dumbbell over barbell. 
+ Can’t answer your question based from experience but I would guess that exercise is more beneficial to high level athletes on a specific movement. 
 
-When it comes to brass tacks, it's dumbass simple. The best workout is the one you're most willing to do 3 times a week for multiple months. 
+I’d say generally you’d get more strength progression doing the common back exercises. That being said if you want to give that a try go for it. It’s not always about being optimal it’s about doing things you find enjoyable and you could still progress so why not 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I'm not so sure OLs will do front rack iso holds for upper back strength. I believe it's more so to help with bracing/recruiting stabilizers of the of the core musculature. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- It's totally fine in the general sense and actually pretty necessary if your goals require specificity, Olympic lifting for example. There are some benefits to changing things up. One is preventing mental burnout, that's pretty subjective. Another is periodization which I would argue is more important to competing in something more so than general aesthetic goals. Lastly switching up exercises or variations of exercises as well as rep schemes can save you some wear and tear on the joints as well as potentially bringing up some weak points. 
+ Phenomenal exercise for improving functional fitness abilities. 
 
-Basically only you know what's right for you 
+But do they build the back for a physique?
+
+No. If you’re lifting to look good (and there’s nothing wrong with that, for the record!) then there are much better exercises for you. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength): 
+ It might help a bit with your upper back growth (and core strength) but you should know that this exercise is mostly done for sport specific reasons. If you mostly care about growing a bigger upper back just do the standard exercises such as face pulls, shrugs and rows. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Referencing Mike Israetel not verbatim; this can work up to a late intermediate / advanced point wherein you need to really focus on what you want to improve.
+ Front rack holds are good for getting mobility and core strength and spinal strength, but as an upper back growing exercise no.. they do affect my back though, but mainly with stabilization and alignment. They hit my thoracic spine real good from forcing me to lift my chest and raise the elbows. In that regard theyre therapeutic and useful for addressing imbalances, so with upper back if youve got imbalances of the upper back then you'll definitely feel it. In that regard they will make you stronger, and grow it, up until a point in which you are balanced, aligned, in good form and mobile, but i dont see them being real significant past that point.. with me for instance, i have a harder time elevating my right elbow for the front rack than with my left, the mobility of right and left sides are uneven, and with that i have a harder time lifting the right side of my chest than my left, so i have mildly imbalanced thoracic extension. So front rack holds for time are incredibly useful for me as they force me to intensely concentrate being even and aligned and balanced. 
+</td>
+</tr>
 
-I.e (theoretical example) this training cycle I want to get my chest bigger so everything else takes a slight backseat and you concentrate on your chest movements.
-
-As a side not 4x8/6 for size (again love or hate mike) is not what you’re going to want to do for size you can’t get close to failure with that you would want higher rep ranges because I could guarantee from experience you can hammer yourself with these 4x &lt;10 sets but drop ~25% of the weight and do another 4 sets easily.
-
-Again I believe this is up for dispute in the sports science world but it’s pretty well documented that sets below 10 reps will increase strength more than size and vice versa 
+<tr>
+<td>Comment contains strength: 
+ Front rack holds are good for getting mobility and core strength and spinal strength, but as an upper back growing exercise no.. they do affect my back though, but mainly with stabilization and alignment. They hit my thoracic spine real good from forcing me to lift my chest and raise the elbows. In that regard theyre therapeutic and useful for addressing imbalances, so with upper back if youve got imbalances of the upper back then you'll definitely feel it. In that regard they will make you stronger, and grow it, up until a point in which you are balanced, aligned, in good form and mobile, but i dont see them being real significant past that point.. with me for instance, i have a harder time elevating my right elbow for the front rack than with my left, the mobility of right and left sides are uneven, and with that i have a harder time lifting the right side of my chest than my left, so i have mildly imbalanced thoracic extension. So front rack holds for time are incredibly useful for me as they force me to intensely concentrate being even and aligned and balanced. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lift: 
- I say do the same exercise until it gets boring then switch it up, same function different exercise. Then after you've tried a couple different variations, do what you're feeling that day. If you're having trouble motivating yourself, it's nice to have a favorite lift to look forward to. 
+ Front rack holds are good for getting mobility and core strength and spinal strength, but as an upper back growing exercise no.. they do affect my back though, but mainly with stabilization and alignment. They hit my thoracic spine real good from forcing me to lift my chest and raise the elbows. In that regard theyre therapeutic and useful for addressing imbalances, so with upper back if youve got imbalances of the upper back then you'll definitely feel it. In that regard they will make you stronger, and grow it, up until a point in which you are balanced, aligned, in good form and mobile, but i dont see them being real significant past that point.. with me for instance, i have a harder time elevating my right elbow for the front rack than with my left, the mobility of right and left sides are uneven, and with that i have a harder time lifting the right side of my chest than my left, so i have mildly imbalanced thoracic extension. So front rack holds for time are incredibly useful for me as they force me to intensely concentrate being even and aligned and balanced. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains lifting: 
- More for the runners, all books: 
+ Front rack holds are good for getting mobility and core strength and spinal strength, but as an upper back growing exercise no.. they do affect my back though, but mainly with stabilization and alignment. They hit my thoracic spine real good from forcing me to lift my chest and raise the elbows. In that regard theyre therapeutic and useful for addressing imbalances, so with upper back if youve got imbalances of the upper back then you'll definitely feel it. In that regard they will make you stronger, and grow it, up until a point in which you are balanced, aligned, in good form and mobile, but i dont see them being real significant past that point.. with me for instance, i have a harder time elevating my right elbow for the front rack than with my left, the mobility of right and left sides are uneven, and with that i have a harder time lifting the right side of my chest than my left, so i have mildly imbalanced thoracic extension. So front rack holds for time are incredibly useful for me as they force me to intensely concentrate being even and aligned and balanced. 
+</td>
+</tr>
 
-Hal Koerner's Field Guide to Ultra Running
+<tr>
+<td>Comment contains deadlifts: 
+ Isometrics in general cant produce the same amount of stress as contracting the muscle. Atleast not without the extreme fatigue of the axial loading. Much better off even doing very high volume face pulls. That being said, i use front squats and snatch-grip deadlifts as lower body exercises for people looking to emphasize upper body training and just maintain leg size. They will def add to the yolk and upper back mass to a great degree, but just generate to much fatigue to be the main drivers of upper back volume. Hope this helps! 
+</td>
+</tr>
 
-Krissy Moeh's Running Your First Ultra
-
-Both solid resources for anyone thinking about getting started in Ultra. Also;
-
-Tactical Barbell: Strength Training for the Operational Athlete
-
-Complements the other two books nicely if you want to maintain any kind of decent lifting progress alongside a heavy running program. 
-
-Finally r/ultrarunning is a great little sub for getting almost any ultra-related  question you can think of answered. 
+<tr>
+<td>Comment contains Deadlifts: 
+ Deadlifts and rowing variations are king of back building exercises. 
 </td>
 </tr>
 
 <tr>
 <td>Comment contains strength: 
- Squat University's podcast is pretty good. A lot of insight on strength training, nutrition, physio and more 
-</td>
-</tr>
-
-</table># Relevant for Reddit Digest for relred_throwaway
-<table>
-<tr style="color:red">
-<td>## relred_throwaway</td>
-</tr>
-
-<tr>
-<td>Comment contains store/shift: 
- PIC - person in charge. E.g. manager/shift leader. Anyone who can be in charge of the store/shift. Doesn't matter what offical title you have
-
-Shift Leader - FOH person with actually title that is able to run and take charge a shift. One step above Counter Help and one step below management 
+ I get a lot of good upper back strength from SSB squats, but I doubt front rack iso holds are detrimental. Might as well do 'em. 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains https://developermozillaorg/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining#:~:text=%20%20%20%20Desktop%20%20%2074%20%20%20IE%20No%20support%20No%20: 
-     const specialFoo = foo &amp;&amp; foo.map(e =&gt; e.stuff stuff etc);
+<td>Comment contains [https://playgooglecom/store/apps/details?id=comjangstudiosphgymprotimer](https://playgooglecom/store/apps/details?id=comjangstudiosphgymprotimer): 
+ Hey guys, I created a Gym App called Gym Pro Timer. It is now Live on Google Play Store, you might wanna check it out:
 
-can be replaced with
+[https://play.google.com/store/apps/details?id=com.jangstudiosph.gymprotimer](https://play.google.com/store/apps/details?id=com.jangstudiosph.gymprotimer)
 
-    const specialFoo = foo?.map(e =&gt; e.stuff stuff etc);
+# Gym Pro Timer
 
-This is called Optional Chaining and it will check for whether `foo` is nullish (which means it is either `null` or `undefined`), in which case it will return `undefined` instead of erroring out trying to access non-existent properties of an 'undefined' or 'null' variable.
+Gym Timer designed to Improve Workouts and achieve better results by using Rhythmic Breathing Patterns, Audio Notifications, Visually Appealing and Less Distracting UI.
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining#:~:text=%20%20%20%20Desktop%20%20%20,74%20%20%20IE%20No%20support%20No%20 
+Improve your Fitness while unlocking premium features and account upgrade without spending a single penny! Encouraging users to exercise in exchange for in-app products.
+
+We know how much you love to workout with your own music, so we made our app music friendly. Just open your Spotify or Music app and run it in the background. Gym Pro Timer app can easily adjust it's own volume 😉
+
+**Key Features:**  
+• Interval and Countdown Timer  
+• Breathing Pattern for Interval Workouts  
+• Customizable Single and Routine Workout  
+• Save and Load Workout Settings  
+• Sound Notifications and Adjustable Volume  
+• Portrait and Landscape Mode  
+• Time Manager  
+• Clean Design  
+• Eye Catching Colored Themes
+
+**Perfect for:**  
+✔ HIIT  
+✔ Weight Lifting  
+✔ Round Workouts  
+✔ Circuit Training
+
+**EASY SET UP:**  
+★ Single Workout ★
+
+1. Tap the title and numbers to configure your workout.
+2. Tap the play button to start.
+
+★ Routine Workout ★
+
+1. Save first a workout by tapping the 3 dotted icon besides the Circular Percent Indicator.
+2. Swipe to the Routine Screen.
+3. Configure it by adding your Saved Workout and preferred Prep Time.
+4. Tap the play button to start. 
 </td>
 </tr>
 
 <tr>
-<td>Comment contains [https://mediumcom/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2](https://mediumcom/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2): 
- Without knowing anything, I would say yes.
+<td>Comment contains lifts: 
+ I've been on a two month bulk, my lifts have increased pretty well but my ohp has pretty much been the same. I do PPL so, why isn't it going up? 
+</td>
+</tr>
 
-When you use `&amp;&amp;`, you are effectively deriving a piece of state, so it becomes important to be aware of predicate functions and predicates in general. Once we establish that, you should be using Mealy finite state machines as often as possible for state, because it has implications on making your DOM markup as simple and clear as possible with respect to data flow, and how data is flowing through the component.
+<tr>
+<td>Comment contains strength: 
+ Does this look like a proper back workout? I picked the exercises out myself due to having limited equipment ( Only dumbbells and a pull up bar) Its highly Row based. Goal is to build strength and work on my posture.
 
-I would recommend pieces of state such as:
+4 sets of Pull Ups or Chin Ups (8-15 reps)
 
-&amp;#x200B;
+3 sets of One Arm Dumbbell Rows (8-15 reps)
 
-    const hasUsers = (props.users &amp;&amp; (props.users.length &gt; 0));
+3 sets of Incline Dumbbell Rows (8-15 reps)
 
-and then switch over a finite enum list of states:
+4 sets of Farmers Walk for 30-90 seconds each lap
 
-&amp;#x200B;
+3 sets of Renegade Rows (8-15 reps) 
+</td>
+</tr>
 
-    const allowedStates = ['INITIAL', 'LOADING', 'LOADED', 'ERROR'];
-    
-    // default state
-    this.state = 'INITIAL';
-    
-    // some lifecycle method
-    this.state = 'LOADING';
-    this.users = fetch('http://users');
-    
-    if (this.hasUsers) {
-        this.state = 'LOADED';
-    } else {
-        this.state = 'ERROR';
-    }
+<tr>
+<td>Comment contains deadlifts: 
+ My hamstrings are sore every week and it's very annoying. I only perform romanian deadlifts once a week 
+</td>
+</tr>
 
-In this way, you can see that your DOM markup in that component can only have 4 different variants, and you've fully decoupled them from the imperative logic that inter-mingles with the declarative UI and data flow.
+<tr>
+<td>Comment contains deadlifts: 
+ Hi, I recently found out that I was over-arching my back (to prevent rounding) on my deadlifts and that I wasn't bracing properly. This wasn't a problem until recently when I decided to stop using my weightlifting belt. I developed lower back pain because of my poor bracing technique. My question is, would it be a good idea to regress to trap bar deadlifts to practice proper bracing with a decent amount of weight? Or should I just go back to deadlifting 135 lbs on a straight bar while practicing proper bracing?
 
-Finite state machines allow you to think in terms of what should be on the screen when some conditions are true, and your app is therefore fundamentally simpler because you can think in terms of actions and events that lead to transitions in state and then the appearance of specific states.
+Edit: Here's the [video](https://i.imgur.com/Hs2fSny.mp4) where I started feeling lower back pain from deadlifts. A lot of people that I asked in chatrooms and other forums said I had proper form but there was one guy on r/weightroom that said I was overarching my lumbar spine. I looked into it and I that might be the culprit. 
+</td>
+</tr>
 
-All this hinges on the idea of preferring one state field: `this.state`, and then you spend most of your time thinking in terms of predicates that trigger state transitions. That is specifically how you decouple the downstream guts from the simple facts of the UI appearance. Components are created and destroyed when state changes. You free yourself from the imperative logic surrounding those state changes.
+<tr>
+<td>Comment contains weightlifting: 
+ Hi, I recently found out that I was over-arching my back (to prevent rounding) on my deadlifts and that I wasn't bracing properly. This wasn't a problem until recently when I decided to stop using my weightlifting belt. I developed lower back pain because of my poor bracing technique. My question is, would it be a good idea to regress to trap bar deadlifts to practice proper bracing with a decent amount of weight? Or should I just go back to deadlifting 135 lbs on a straight bar while practicing proper bracing?
 
-With all that said, predicates allow you to create a label and attach arbitrary logic to them in a manner that doesn't really affect the states or transitions to or from states. For example, if you add `&amp;&amp; props.timestamp &gt; now`, it's pretty clear that no weird side effects will occur with respect to physically how the state transitions.
+Edit: Here's the [video](https://i.imgur.com/Hs2fSny.mp4) where I started feeling lower back pain from deadlifts. A lot of people that I asked in chatrooms and other forums said I had proper form but there was one guy on r/weightroom that said I was overarching my lumbar spine. I looked into it and I that might be the culprit. 
+</td>
+</tr>
 
-The danger with `&amp;&amp;` is it makes the reference a compound. Compound units are more complex than single units. 2 is more complex than 1. The part I don't like about this, is you are deriving a single unit by joining multiple units. This isn't instantly dangerous, but it does have very quick bearing on cyclomatic complexity and the fact that derivation of state pieces is more implicit. Finite state machines make the current state explicit, and they also lock the states down to a finite list, so complexity is tamed, and it's impossible for components to create and render at illegal times.
+<tr>
+<td>Comment contains deadlifts: 
+ Hi, I recently found out that I was over-arching my back (to prevent rounding) on my deadlifts and that I wasn't bracing properly. This wasn't a problem until recently when I decided to stop using my weightlifting belt. I developed lower back pain because of my poor bracing technique. My question is, would it be a good idea to regress to trap bar deadlifts to practice proper bracing with a decent amount of weight? Or should I just go back to deadlifting 135 lbs on a straight bar while practicing proper bracing?
 
-The danger is when a component decides to render itself based upon a derivation of state that occurs at an illegal time due to an unforeseen path traversal through the imperative logic. For example, if `isLoaded` is evaluated as truthy for 0.1ms at the wrong time, this can have downstream implications. The worst thing you can have is some code like:
+Edit: Here's the [video](https://i.imgur.com/Hs2fSny.mp4) where I started feeling lower back pain from deadlifts. A lot of people that I asked in chatrooms and other forums said I had proper form but there was one guy on r/weightroom that said I was overarching my lumbar spine. I looked into it and I that might be the culprit. 
+</td>
+</tr>
 
-    if (this.isLoaded &amp;&amp; this.hasData &amp;&amp; !this.hasErrors)
+<tr>
+<td>Comment contains deadlifting: 
+ Hi, I recently found out that I was over-arching my back (to prevent rounding) on my deadlifts and that I wasn't bracing properly. This wasn't a problem until recently when I decided to stop using my weightlifting belt. I developed lower back pain because of my poor bracing technique. My question is, would it be a good idea to regress to trap bar deadlifts to practice proper bracing with a decent amount of weight? Or should I just go back to deadlifting 135 lbs on a straight bar while practicing proper bracing?
 
-Notice how the boolean is derived based on a complex chain of conjunctions. This is horrific compared to:
+Edit: Here's the [video](https://i.imgur.com/Hs2fSny.mp4) where I started feeling lower back pain from deadlifts. A lot of people that I asked in chatrooms and other forums said I had proper form but there was one guy on r/weightroom that said I was overarching my lumbar spine. I looked into it and I that might be the culprit. 
+</td>
+</tr>
 
-    if (this.state === 'LOADED')
+<tr>
+<td>Comment contains deadlifts: 
+ Hi, I recently found out that I was over-arching my back (to prevent rounding) on my deadlifts and that I wasn't bracing properly. This wasn't a problem until recently when I decided to stop using my weightlifting belt. I developed lower back pain because of my poor bracing technique. My question is, would it be a good idea to regress to trap bar deadlifts to practice proper bracing with a decent amount of weight? Or should I just go back to deadlifting 135 lbs on a straight bar while practicing proper bracing?
 
-The first one takes a developer longer to understand what the actual condition is, and it derives the state. The state is implicitly declared.
+Edit: Here's the [video](https://i.imgur.com/Hs2fSny.mp4) where I started feeling lower back pain from deadlifts. A lot of people that I asked in chatrooms and other forums said I had proper form but there was one guy on r/weightroom that said I was overarching my lumbar spine. I looked into it and I that might be the culprit. 
+</td>
+</tr>
 
-The second one makes it instantly obvious that it relates to the loaded state, and the state is explicitly declared. The deal with predicates is they allow you to trap behaviour down to a Boolean. This makes it easy to stack them while keeping declarative logic decoupled from the imperative logic.
+<tr>
+<td>Comment contains lifting: 
+ So i finished bulking up for the first with great results, (155lb -&gt; 190lb). Problem is I lost much definition in my face. Interested in staying fit but personally would rather be a bit skinnier with a more chiseled face. Was thinking of dropping some weight via cardio/dieting while lifting still. Any thoughts? 
+</td>
+</tr>
 
-Read this article to learn more. I glossed over quite a bit: [https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2](https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2)
+<tr>
+<td>Comment contains deadlifting: 
+ Can I include leg workouts into my push/pull schedule? I can only go to the gym 4 times a week, so I cant go with the standard 6 day  p/p/l. Would squatting on push days and deadlifting on pull days be okay? 
+</td>
+</tr>
 
-In my example above, notice how it's physically impossible for the component to be in `'LOADED'` state without `this.users` being set. Imagine how that affects everything. You don't need to worry about illegal states and missing values if you make that potential not possible.  
+<tr>
+<td>Comment contains lifts: 
+ So the gyms in my city opened up around 2 months ago and I thought I would get back into it and take it a little more seriously, before quarantine I did workout for about a year but my diet was horrible and my workouts were half-assed. I'm still weak, only a 100lb bench for like 6reps as a 5'10 165lb guy I know..a little sad..but in these 2 months I've actually surpassed my lifts (even though its only by 5 pounds) from when I did work out and I think that's good. Anyways I wanted to know what you guys thought about [my workout split.](https://imgur.com/a/4MP13HT) I made it myself and the exercises are a combination of what I read and watched online but I'm not even sure if it's optimal or even a good split. Recently, I came across [this video](https://www.youtube.com/watch?v=sv7dtBT4MF4) and he suggests a mix between Upper/Lower and PPL if you workout 5 days a week. I feel like this split is probably better overall but I'm not sure, do you guys think I should switch to that? I know the general rule here is to stick with a split for a while and see what happens but I feel like that's for splits that are actually good which mine probably isnt.. Sorry for the long comment, but any help is appreciated. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Any recommendations for a Push Pull program without legs exercise? I just ruptured my knee tendon (non lifting related) and can't do anything outside of PT for a while 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Looking to introduce some Protein/Whey shakes in my diet. I've heard you can substitute a meal for a shake. Preferably chocolate or vanilla flavored. Just started lifting and an practically a noob, but I need to make up for lack of eating, due to tight food budget with a supplement. Any suggestions. I'm 173lbs 5"9'. Not overweight, actually in okay shape, but definitely have some fat in me stomach. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ my commercial gym has a deadlift bar
+
+people are specifically taking the deadlift bar from the platform to bench with it or someone is specifically swapping out the deadlift bar to deadlift with a stiff bar and putting the deadlift bar onto a bench instead of the bar holder
+
+y tho 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ my commercial gym has a deadlift bar
+
+people are specifically taking the deadlift bar from the platform to bench with it or someone is specifically swapping out the deadlift bar to deadlift with a stiff bar and putting the deadlift bar onto a bench instead of the bar holder
+
+y tho 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ my commercial gym has a deadlift bar
+
+people are specifically taking the deadlift bar from the platform to bench with it or someone is specifically swapping out the deadlift bar to deadlift with a stiff bar and putting the deadlift bar onto a bench instead of the bar holder
+
+y tho 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ my commercial gym has a deadlift bar
+
+people are specifically taking the deadlift bar from the platform to bench with it or someone is specifically swapping out the deadlift bar to deadlift with a stiff bar and putting the deadlift bar onto a bench instead of the bar holder
+
+y tho 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ my commercial gym has a deadlift bar
+
+people are specifically taking the deadlift bar from the platform to bench with it or someone is specifically swapping out the deadlift bar to deadlift with a stiff bar and putting the deadlift bar onto a bench instead of the bar holder
+
+y tho 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ Woo yesterday was my last chest/shoulder/tricep workout with current weird program. Posting my weightloss and lift improvements on victory sunday tomorrow! Starting modified /fit/ beginner program on tuesday.
+
+Im a beginner with 4 months weight losing and 2 months of lifting behind me.
+
+Yesterdays gym was AWESOME. My current workouts are kinda long but im an unemployed crazy person with nothing but time so i dont mind, yesterday took 2h6min with weights. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Woo yesterday was my last chest/shoulder/tricep workout with current weird program. Posting my weightloss and lift improvements on victory sunday tomorrow! Starting modified /fit/ beginner program on tuesday.
+
+Im a beginner with 4 months weight losing and 2 months of lifting behind me.
+
+Yesterdays gym was AWESOME. My current workouts are kinda long but im an unemployed crazy person with nothing but time so i dont mind, yesterday took 2h6min with weights. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains powrrlifter: 
+ There is this guy in the gym he always goes very late so I see him like once a week only.
+Hes in his early 30s, like 5'6 and more on the large side. You'd think he's a powrrlifter or something.
+But all he does is hand balancing stuff and plyometrics. He always places his cellphone on the ground below his head and watches videos while doing handstands and other hand balancing stuff. 
+I noticed he does several sets of like 30 seconds.
+Really unexpected but very impressive. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifting: 
+ Someone told me I had excellent deadlifting form the other day and it made my whole week. I’m always super hard on myself and constantly critiquing my form, so it was nice to hear. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlifted: 
+ Deadlifted 4 plates today! It was a new pr and it looked like RPE 6-7. Kind of crazy since I swear 375 felt like a black hole just a couple of days before. Can strength really vary that much on a day to day basis? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Deadlifted 4 plates today! It was a new pr and it looked like RPE 6-7. Kind of crazy since I swear 375 felt like a black hole just a couple of days before. Can strength really vary that much on a day to day basis? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ First day back after two weeks off! Ran 20mins on treadmill then did strength training. May have over did the leg press as sore now. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Doing some squats in the squat rack and the guy next to me wanted help loading weight into the bar for his deadlift. My workout was amazing after this! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ My apartment’s private gym reopened yesterday, finally. They have a 10 person limit, yet I don’t think I’ve ever seen more than 4 people at a given time. Now, this gym is stacked for its size too, two squat racks, a smith, a bunch of machines and db’s that go up to 100. It’s perfect for me. 
+
+Went yesterday right when they opened with my wife, hit deadlifts, split my pants on my first set. No one ever came in besides us so finished the workout with pants that kept splitting more and more. Today I was down there for 2 hours just cuz. Again no one there, so I had my Bluetooth speaker blasting my music and just went all in. Feels so good to be back. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I practically stopped working out since the gyms closed in March due to lack of motivation, and lost a lot of strength and mass. It's been uphill for the last 8 weeks since the gyms opened but I'm happy to say I'm finally back to roughly the volume I left off at. Never too late! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains Deadlift: 
+ First day back in an actual gym yesterday since March. Been using my garage gym. 
+Deadlift day. Sets felt great. Tweaked my back unloading the bar. Fml. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I went to a proper gym for the first time yesterday and it was fun! Turns out the barbell I was using all this while was &lt;20kg, much thinner than a standard Olympic barbell and I had no idea how much weight exactly I was lifting all this while. 
+
+That aside, there were a bunch of middle aged guys squatting at the Smith machine. One of them was even wearing a lifting belt. Another one of them came to me personally to tell me that I should squat at the Smith machine and how much better it is. Kinda amusing ngl.
+
+Also got kicked out of a golf club gym earlier this week because it's "no females" apparently. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I went to a proper gym for the first time yesterday and it was fun! Turns out the barbell I was using all this while was &lt;20kg, much thinner than a standard Olympic barbell and I had no idea how much weight exactly I was lifting all this while. 
+
+That aside, there were a bunch of middle aged guys squatting at the Smith machine. One of them was even wearing a lifting belt. Another one of them came to me personally to tell me that I should squat at the Smith machine and how much better it is. Kinda amusing ngl.
+
+Also got kicked out of a golf club gym earlier this week because it's "no females" apparently. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Gyms finally reopened on Tuesday here in NJ. Feels so good. I did about 50% of my max lifts just so I don't fuck myself up. I missed the DOMS. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ My week back after the deload has been mixed. 
+
+My chest days have been amazing. Bench had felt so much nicer and I've managed to add a solid 7.5kg on it this week. I'm thinking the rest has helped me sort out my form since before I was barely making progress on it. Although today was annoying. Was working on 5 reps a set, and I was on my 4th. Suddenly this random guy came running over to spot me. Like I appreciate it but him suddenly spotting me really threw me off and messed up my final rep. I did another set alone and managed my 5 reps with ease. 
+
+My leg days though. Oh god. Maybe it's because I delayed doing it for another week on top of the deload. Or I didnt warm up or stretch enough. But I felt so incredibly sick after my first set. Like I honestly thought I was about to be sick. I managed 3 out of 5 sets before i had to call it. I couldve done the other 2 but I didnt want to risk passing out or actually being sick. In my defence though, the strength was there. On my previous session I only managed 3x3 at that weight, so 3x5 is an improvement but I wouldve liked to finish all my sets. Next time though 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Had my first workout in 6 months after my gym closed, lost about 30-40lbs too and basically all strength I ever had (was going gym regularly prior). Tested my maxes Wednesday and probably lost about 90lbs on bench, at least 100 (probably closer to 130 to be honest) squats and didn't even bother checking deadlift. Surprisingly, my maxes on accessories didn't drop that much but that's not really any of my concern. Overall, very humbling struggling with 85lb bench when I used to laugh at that during my warmups. Really hoping my muscle memory kicks in hard when I actually start up old routine next week. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Had my first workout in 6 months after my gym closed, lost about 30-40lbs too and basically all strength I ever had (was going gym regularly prior). Tested my maxes Wednesday and probably lost about 90lbs on bench, at least 100 (probably closer to 130 to be honest) squats and didn't even bother checking deadlift. Surprisingly, my maxes on accessories didn't drop that much but that's not really any of my concern. Overall, very humbling struggling with 85lb bench when I used to laugh at that during my warmups. Really hoping my muscle memory kicks in hard when I actually start up old routine next week. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Context: I love leg day, have perfect form on everything, high numbers.
+
+There's this guy that literally, and I shit you not, only does deadlift and bench press. He would spend around 2h on the bench with multiple weights. His legs are toothpicks, how he stands I don't know. But once he had the nerve to come critique my squat form saying I should go deeper, always go ass to grass, and proceeds to show to do it but only quarter squats. I stand there like yeah sure cool. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ Ripped a callus on my deadlift. Which wasn’t even a pr and was actually light lifting. Then immediately went home and burned that same hand on a pot cooking my prep. Oof. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Ripped a callus on my deadlift. Which wasn’t even a pr and was actually light lifting. Then immediately went home and burned that same hand on a pot cooking my prep. Oof. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Been 2.5 months of going back to gym after 3 months of injury recovery + 3 months of quarantine, and my lifting weights are back to my former glory. Cant wait to be even more stronger than this but I’m overall very happy. 
+
+At least theres something to be happy about in the midst of a bad depression episode. 😂 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ Gyms just opened for me in upstate ny, made it 3x this week. Started with chest, then legs, then shoulders. Couldn't walk for 3 days, lost about 40pct of strength, but love being back. Its been eerily quiet the 3 times I've been. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Played WAP over the speakers in the weight room during a football lifting camp, got booted the fuck out lmfao 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Did deadlifts for the first time yesterday and managed to do 40kg 4x8-12 but I have seen slot of people do deadlifts in much lower rep ranges like 5 reps or something. Anybody know what would be better to build muscle and strength? 5 or 12 reps? And should I use the same set/rep ranges for Benchpress and squats? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Did deadlifts for the first time yesterday and managed to do 40kg 4x8-12 but I have seen slot of people do deadlifts in much lower rep ranges like 5 reps or something. Anybody know what would be better to build muscle and strength? 5 or 12 reps? And should I use the same set/rep ranges for Benchpress and squats? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength?: 
+ Did deadlifts for the first time yesterday and managed to do 40kg 4x8-12 but I have seen slot of people do deadlifts in much lower rep ranges like 5 reps or something. Anybody know what would be better to build muscle and strength? 5 or 12 reps? And should I use the same set/rep ranges for Benchpress and squats? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlifts: 
+ Theres a guy in my gym who benches as much as he deadlifts. ~340 lbs. 
+
+Dude looks great, cut af. Most people dont even notice his skinny chicken legs. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ If you're fatiguing your legs in daily life, I think it's ok if you don't push super heavy weight on leg day. You can certainly grow your legs workout pushing your limits on the compound lifts. Hypertrophy is hypertrophy no matter how you get there. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ Does Judo and work tax your upper body lifts too? What I’m getting at is if you switched the order of your split then that might help. However if you just feel overall too taxed then that won’t work. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ They probably wont get bigger. Try 3 exercises of body weight single leg exercises for 5 reps with 4 second eccentrics once a week when your legs are feeling best and most rested once a week.
+
+Skater squats
+Bulgarian split squat
+Cossack squat
+
+Stretch to remove that lactic acid buildup for better recovery too. 
+
+Ideally elite athletes train 3-4 hours per day so youll have to develop strength to keep pushing even if it hurts until it doesnt ... 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ You may need to up your calorie/carb intake, it seems that you are running out of fuel which makes sense since you're working full time, lifting, and doing judo. If you want to continue at that rate, you will need to eat more and/or lay off the judo and other heavy cardiovascular exercises on your leg days. Before you go into the gym for legs, make sure you eat a carb-heavy meal a little bit before. Also, be aware that you don't need to lift at max every week, you can make great gains in your legs by adding in plyos or increase your reps to 8-10 and maintaining slow and controlled movements. You also may be in need of a recovery week as well, if it has been about 6 weeks since you started that program, lower your weights the whole week and work at about 60% your max.  
+
+Give yourself at least one to 2 days a week to recover or like me do PPL break PPL break, you will still get the same gains without killing yourself. On off days, you can do active recovery like stretching, abs, walking, or even some judo. Listen to your body though, you are very active and you need to make sure that you're giving your body what it needs in terms of food and recovery. Good Luck!
+
+P.s if you're cutting, you will have more difficulty because you're calorie depleted all the time, if that's the case please don't overdo it. When I am cutting, I primarily do LISS cardio because its easier on the body 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ You may need to up your calorie/carb intake, it seems that you are running out of fuel which makes sense since you're working full time, lifting, and doing judo. If you want to continue at that rate, you will need to eat more and/or lay off the judo and other heavy cardiovascular exercises on your leg days. Before you go into the gym for legs, make sure you eat a carb-heavy meal a little bit before. Also, be aware that you don't need to lift at max every week, you can make great gains in your legs by adding in plyos or increase your reps to 8-10 and maintaining slow and controlled movements. You also may be in need of a recovery week as well, if it has been about 6 weeks since you started that program, lower your weights the whole week and work at about 60% your max.  
+
+Give yourself at least one to 2 days a week to recover or like me do PPL break PPL break, you will still get the same gains without killing yourself. On off days, you can do active recovery like stretching, abs, walking, or even some judo. Listen to your body though, you are very active and you need to make sure that you're giving your body what it needs in terms of food and recovery. Good Luck!
+
+P.s if you're cutting, you will have more difficulty because you're calorie depleted all the time, if that's the case please don't overdo it. When I am cutting, I primarily do LISS cardio because its easier on the body 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I'd try doing squats without weights and staying within the bottom half of the range of motion. Dont stand up much higher than having ur legs parallel  with the floor, you'll  feel where it burns. Keep those muscles under tension for as long as you can. Also go very slow through the movement.  Your legs will be shaking in no time and itll help you squat heavier weights. Also do negatives  as well in the bottom half of the range of motion. Meaning like a horse stance for as long as you can hold it until you slowly start to go down. 
+
+Your muscles in that range of motion are weak. You may be on your feet all day but how many times do you actually  bend down into a full squat position? not many I bet.  Try  doing 200 squats every day as soon as you wake up. Most people dont come close to using the full range of motion of their legs in day to day activities and are actually quite weak in the bottom half of the range of motion. There is a reason why the saying friends dont let friends skip leg day exists. Also see how many body weight squats you can do with good form and not bouncing up off the bottom using momentum to cheat up  doesnt help.
+
+Get your 200 body weight squats done as soon as you wake up and before you know it you'll be lifting heavier. Also really stretch your legs out, if your watching tv or whatever spend  some time stretching  them any which way. I'll spend a minimum 20 minutes a day just stretching them and it does wonders. You'll feel stronger and looser.  Try stretching them out  alot for the next week along with a pile of body weight  squats and you'll notice a difference when squatting with weights. When your playing on your phone in bed stick ur legs up like your doing the splits with one foot touching the wall and the other hanging off the bed and just lay there. 
+
+With my job I have to lift steal objects onto pallets or trucks or whatever and some days I move a ridiculous amount of steal, like alot. I'm not a big guy by any means but the legs are capable  of an incredible  amount of work and it really does help stretching them
+
+Hypertrophy training doesnt require super heavy weights, its not strength training. High reps will build muscle and help you lift heavier weights. Of course as you get stronger lift heavier with less reps but still make sure you're doing enough reps 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I'd try doing squats without weights and staying within the bottom half of the range of motion. Dont stand up much higher than having ur legs parallel  with the floor, you'll  feel where it burns. Keep those muscles under tension for as long as you can. Also go very slow through the movement.  Your legs will be shaking in no time and itll help you squat heavier weights. Also do negatives  as well in the bottom half of the range of motion. Meaning like a horse stance for as long as you can hold it until you slowly start to go down. 
+
+Your muscles in that range of motion are weak. You may be on your feet all day but how many times do you actually  bend down into a full squat position? not many I bet.  Try  doing 200 squats every day as soon as you wake up. Most people dont come close to using the full range of motion of their legs in day to day activities and are actually quite weak in the bottom half of the range of motion. There is a reason why the saying friends dont let friends skip leg day exists. Also see how many body weight squats you can do with good form and not bouncing up off the bottom using momentum to cheat up  doesnt help.
+
+Get your 200 body weight squats done as soon as you wake up and before you know it you'll be lifting heavier. Also really stretch your legs out, if your watching tv or whatever spend  some time stretching  them any which way. I'll spend a minimum 20 minutes a day just stretching them and it does wonders. You'll feel stronger and looser.  Try stretching them out  alot for the next week along with a pile of body weight  squats and you'll notice a difference when squatting with weights. When your playing on your phone in bed stick ur legs up like your doing the splits with one foot touching the wall and the other hanging off the bed and just lay there. 
+
+With my job I have to lift steal objects onto pallets or trucks or whatever and some days I move a ridiculous amount of steal, like alot. I'm not a big guy by any means but the legs are capable  of an incredible  amount of work and it really does help stretching them
+
+Hypertrophy training doesnt require super heavy weights, its not strength training. High reps will build muscle and help you lift heavier weights. Of course as you get stronger lift heavier with less reps but still make sure you're doing enough reps 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ I'd try doing squats without weights and staying within the bottom half of the range of motion. Dont stand up much higher than having ur legs parallel  with the floor, you'll  feel where it burns. Keep those muscles under tension for as long as you can. Also go very slow through the movement.  Your legs will be shaking in no time and itll help you squat heavier weights. Also do negatives  as well in the bottom half of the range of motion. Meaning like a horse stance for as long as you can hold it until you slowly start to go down. 
+
+Your muscles in that range of motion are weak. You may be on your feet all day but how many times do you actually  bend down into a full squat position? not many I bet.  Try  doing 200 squats every day as soon as you wake up. Most people dont come close to using the full range of motion of their legs in day to day activities and are actually quite weak in the bottom half of the range of motion. There is a reason why the saying friends dont let friends skip leg day exists. Also see how many body weight squats you can do with good form and not bouncing up off the bottom using momentum to cheat up  doesnt help.
+
+Get your 200 body weight squats done as soon as you wake up and before you know it you'll be lifting heavier. Also really stretch your legs out, if your watching tv or whatever spend  some time stretching  them any which way. I'll spend a minimum 20 minutes a day just stretching them and it does wonders. You'll feel stronger and looser.  Try stretching them out  alot for the next week along with a pile of body weight  squats and you'll notice a difference when squatting with weights. When your playing on your phone in bed stick ur legs up like your doing the splits with one foot touching the wall and the other hanging off the bed and just lay there. 
+
+With my job I have to lift steal objects onto pallets or trucks or whatever and some days I move a ridiculous amount of steal, like alot. I'm not a big guy by any means but the legs are capable  of an incredible  amount of work and it really does help stretching them
+
+Hypertrophy training doesnt require super heavy weights, its not strength training. High reps will build muscle and help you lift heavier weights. Of course as you get stronger lift heavier with less reps but still make sure you're doing enough reps 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I'd try doing squats without weights and staying within the bottom half of the range of motion. Dont stand up much higher than having ur legs parallel  with the floor, you'll  feel where it burns. Keep those muscles under tension for as long as you can. Also go very slow through the movement.  Your legs will be shaking in no time and itll help you squat heavier weights. Also do negatives  as well in the bottom half of the range of motion. Meaning like a horse stance for as long as you can hold it until you slowly start to go down. 
+
+Your muscles in that range of motion are weak. You may be on your feet all day but how many times do you actually  bend down into a full squat position? not many I bet.  Try  doing 200 squats every day as soon as you wake up. Most people dont come close to using the full range of motion of their legs in day to day activities and are actually quite weak in the bottom half of the range of motion. There is a reason why the saying friends dont let friends skip leg day exists. Also see how many body weight squats you can do with good form and not bouncing up off the bottom using momentum to cheat up  doesnt help.
+
+Get your 200 body weight squats done as soon as you wake up and before you know it you'll be lifting heavier. Also really stretch your legs out, if your watching tv or whatever spend  some time stretching  them any which way. I'll spend a minimum 20 minutes a day just stretching them and it does wonders. You'll feel stronger and looser.  Try stretching them out  alot for the next week along with a pile of body weight  squats and you'll notice a difference when squatting with weights. When your playing on your phone in bed stick ur legs up like your doing the splits with one foot touching the wall and the other hanging off the bed and just lay there. 
+
+With my job I have to lift steal objects onto pallets or trucks or whatever and some days I move a ridiculous amount of steal, like alot. I'm not a big guy by any means but the legs are capable  of an incredible  amount of work and it really does help stretching them
+
+Hypertrophy training doesnt require super heavy weights, its not strength training. High reps will build muscle and help you lift heavier weights. Of course as you get stronger lift heavier with less reps but still make sure you're doing enough reps 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I'd try doing squats without weights and staying within the bottom half of the range of motion. Dont stand up much higher than having ur legs parallel  with the floor, you'll  feel where it burns. Keep those muscles under tension for as long as you can. Also go very slow through the movement.  Your legs will be shaking in no time and itll help you squat heavier weights. Also do negatives  as well in the bottom half of the range of motion. Meaning like a horse stance for as long as you can hold it until you slowly start to go down. 
+
+Your muscles in that range of motion are weak. You may be on your feet all day but how many times do you actually  bend down into a full squat position? not many I bet.  Try  doing 200 squats every day as soon as you wake up. Most people dont come close to using the full range of motion of their legs in day to day activities and are actually quite weak in the bottom half of the range of motion. There is a reason why the saying friends dont let friends skip leg day exists. Also see how many body weight squats you can do with good form and not bouncing up off the bottom using momentum to cheat up  doesnt help.
+
+Get your 200 body weight squats done as soon as you wake up and before you know it you'll be lifting heavier. Also really stretch your legs out, if your watching tv or whatever spend  some time stretching  them any which way. I'll spend a minimum 20 minutes a day just stretching them and it does wonders. You'll feel stronger and looser.  Try stretching them out  alot for the next week along with a pile of body weight  squats and you'll notice a difference when squatting with weights. When your playing on your phone in bed stick ur legs up like your doing the splits with one foot touching the wall and the other hanging off the bed and just lay there. 
+
+With my job I have to lift steal objects onto pallets or trucks or whatever and some days I move a ridiculous amount of steal, like alot. I'm not a big guy by any means but the legs are capable  of an incredible  amount of work and it really does help stretching them
+
+Hypertrophy training doesnt require super heavy weights, its not strength training. High reps will build muscle and help you lift heavier weights. Of course as you get stronger lift heavier with less reps but still make sure you're doing enough reps 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I work an office job where no lifting is involved and even I dont do leg day on work days lol.
+
+Do leg day on the days you dont work so your body is fresh. 
+
+I do leg day on Sunday and the rest of the week the other body parts. Works well. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ I’ve tried so many apps and whatnot to log my lift reps and weights and they never stick. Bought a cheap workout log book for $10 on amazon. I use it way more and love it. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ Does anyone has experience with the mid band 5 to track your weight lifting workouts? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ I made CAP3 better for me.
+
+I removed added weight on top of percentages and instead came up with a better RPE and rep-based formula to calculate intensities. It's working really nicely, it has me progressing faster than before on all my main lifts, calisthenics and accessories plust it doesn't leave me so beat up.
+
+I made it with a tool I created for designing and analysing [programmes](https://github.com/dcelisgarza/Lifting.jl). Here's a [link](https://docs.google.com/spreadsheets/d/19Z3WaoJa5iBY3u3AKfELo-h7y3Ty0EisSJ3uZK-4DWw/edit?usp=sharing) to the spreadsheet. It's a trash gmail account so if anyone asks to edit they will go unheeded, just make a copy to your drive.
+
+I do a bunch of supersets so my work capacity and conditioning has gone up too. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains [link](https://docsgooglecom/spreadsheets/d/19Z3WaoJa5iBY3u3AKfELo-h7y3Ty0EisSJ3uZK-4DWw/edit?usp=sharing): 
+ I made CAP3 better for me.
+
+I removed added weight on top of percentages and instead came up with a better RPE and rep-based formula to calculate intensities. It's working really nicely, it has me progressing faster than before on all my main lifts, calisthenics and accessories plust it doesn't leave me so beat up.
+
+I made it with a tool I created for designing and analysing [programmes](https://github.com/dcelisgarza/Lifting.jl). Here's a [link](https://docs.google.com/spreadsheets/d/19Z3WaoJa5iBY3u3AKfELo-h7y3Ty0EisSJ3uZK-4DWw/edit?usp=sharing) to the spreadsheet. It's a trash gmail account so if anyone asks to edit they will go unheeded, just make a copy to your drive.
+
+I do a bunch of supersets so my work capacity and conditioning has gone up too. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ i'm quite happy with Strong, however the subscription is a bit expensive (have 5 months left in the anual subscription) and I keep getting confused between the previous values for the lift and the current ones I will be doing for the session. 
+
+Anyway, started looking for alternatives, something simple with good Apple watch integration and so far [Liftin'](https://liftinapp.co) looks okay. I'll see how it goes when my subscription ends.
+
+Also, anybody has a good excel template for keeping track? If I keep changing app, my progress starts from 0, so I would rather have a recordings history in an excel sheet. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ I've been on a bulk the last couple of months, but I feel the progress this last month has stopped showing, I feel my chest is less defined and arms the same, the pictures were taken at the same time, the morning after my last day of a 5-day routine: https://i.imgur.com/UxPAPI9.png
+
+I'm eating 3k calories per day, doing a clean bulk, bf around 18% in the first pic (don't know in the last one, but I assume it's the same or a bit less). What should I do? Increasing the weight isn't an option (gyms haven't opened here yet and I'm lifting all the weight I have on the 1+ on each big group, so what I'm doing is adding more reps, doing a recently modified nSuns).
+
+Any advice? Should I stick doing the same for another month or two? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains weightlifting: 
+ [https://imgur.com/a/RO8efr4](https://imgur.com/a/RO8efr4)
+
+F22, \~145lbs, 5'5"
+
+Been slowly bulking for 5 months, would like to start cutting more. Mostly weightlifting with some cardio (coming back from illness). I like that I can start to see definition at the top of my abs and in my thighs. I would like to make my thighs and abs more defined, while losing \~10lbs of fat.
+
+Is that reasonable? Tips greatly appreciated! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ https://i.imgur.com/KQpyeVz.jpg
+
+Taken this morning. Stepped on the scale at 170.6lbs. Trying to bulk up from 168 about a week ago. Weight gain has been tough. Thought maintenance was around 2700, I've upped calories to 3100 but I don't think that's enough. I train 6 times a week, 2 of those days are a strong lift. The other 4 are pretty much a push, pull, leg, full split. Using apps to track those programs. Started 2020 at 185, got down to 160 and am bulking up to do another cut later. Want to know to which muscles seems to be underdeveloped (I feel like my chest is) and what does a proper physique look like?
+
+Esit: typo 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ 79kg 188cm
+https://imgur.com/BublGh8
+
+Started at 72kg 5 months ago when I began lifting. Guessing I’m at around 15%? and not happy with my obliques. I’ve been trying to target them but I can’t seem to get rid of my belt of fat around my waist and back..
+Should I go really heavy on calorie deficancy to sort it out or try some new form of exercise? My main concern with going on a heavy calorie deficiancy is loosing strength.. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ 79kg 188cm
+https://imgur.com/BublGh8
+
+Started at 72kg 5 months ago when I began lifting. Guessing I’m at around 15%? and not happy with my obliques. I’ve been trying to target them but I can’t seem to get rid of my belt of fat around my waist and back..
+Should I go really heavy on calorie deficancy to sort it out or try some new form of exercise? My main concern with going on a heavy calorie deficiancy is loosing strength.. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ [5'11~ 170](https://imgur.com/a/0C5phOq) probably shit quality pics.
+
+140x3/225x2/X/235x5? (current ohp/bench/squat/dead, lbs). running nsuns 5day.
 
 
-With all that said, this has to do with closed for modification, open for extension. When you use finite state machines, the current states and transitions are known and explicit, and then you can easily extend components by adding new states, and therefore, the chance of introducing bugs is minimized. For example, if your component supports 5 states and you need a new one, your component now has 6 states and the first 5 still work the same. 
+
+back from knee injury that really limited my deadlift ROM+ squat entirely as of 2 weeks ago. cut during quarantine with scuffed equipment+program, lost lot of strength but almost back where i was at (at 205lb bw). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ [5'11~ 170](https://imgur.com/a/0C5phOq) probably shit quality pics.
+
+140x3/225x2/X/235x5? (current ohp/bench/squat/dead, lbs). running nsuns 5day.
+
+
+
+back from knee injury that really limited my deadlift ROM+ squat entirely as of 2 weeks ago. cut during quarantine with scuffed equipment+program, lost lot of strength but almost back where i was at (at 205lb bw). 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ M21 5’11” 159 lbs [Have been lifting for exactly two years](https://imgur.com/a/LnkC6Tv)
+
+Any critique on my physique? 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting/my: 
+ [M / 21 / 5'11 / 150](https://imgur.com/a/nYsv37L)
+
+Been cutting for around 14 weeks and thinking of tapering it off but I want to get my abs a bit more visible first. My idea is to slow the cut down (to only -250ish cals) for a couple more weeks and then start a lean bulk. Any bf estimates would help me calculate how much more I should lose.
+
+Also in terms of lifting/my physique let me know if theres something lacking that I should pay more attention to! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ [26M 6’1” 172lbs](https://imgur.com/a/2AbeDiZ) 
+
+Never bulked before and frankly don’t want to; have spent my whole life overweight and am terrified to put on mass now that I’ve gotten fairly lean. 
+
+I tried to blend in flexed and relaxed pictures. I’d consider this very good lighting. No pump. 
+
+Best way to proceed? I’ve been losing weight steadily since April but I’m still making progress (slowly) on lifts. Training regularly just over a year and started actually logging workouts and tracking volume in January. 
+
+Also bf% estimate please! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifts: 
+ M/174cm (5'8")/65kg (143lbs)
+
+[Start of June (65kg, End of 5+ months of cutting at that time)](https://imgur.com/a/7Wt6dV2)
+
+[Start of July (65kg, 1 month recomp)](https://imgur.com/a/fCooK2O)
+
+[End of August (65kg, 1 week into calorie surplus)](https://imgur.com/a/N9sk6Ff)
+
+Excuse the bad "posing" and quality. I especially suck at back posing and it's so hard to take a picture, I already suck at normal selfies.
+
+Last 1-2 months I've focused even more on progressing on main and accessory lifts. Main focus has been the lats, hopefully progress can be seen but I reckon morning back looks way leaner compared to later in the day (glycogen store? idk). Already started incorporating some upper back volume as I think it's a lagging area.
+
+Leg pics are missing, they got somewhat smaller as I think I've lost some fat there, but way more defined and "hard". Squats/deadlifts are going up so I don't really care tbh.
+
+Hopefully maintained bodyfat while building some muscle, sure feels great though. On to lean bulking now! 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ 1.77m(5’9-5’10) 73kg 
+[physique](https://imgur.com/gallery/3o6BYhN) 
+Been lifting for about 2 years I have seen changes but lately I’ve been struggling to put on some weight 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ [5’10” 129 pounds](https://imgur.com/a/4ibMFDT)
+
+Been lifting hard for about 3-4 weeks and seen rapid definition build up through my chest and rapid strength increase in my my legs and lower back. Increase deadlift and squat roughly 40-50 pounds since I first maxed. Maxed at 125 on squat my first week and now I’m at a working set of 145 3x5
+
+Feels really good and super happy with the progress I’ve seen so far. Having a lot of trouble just putting on weight because of my job so I’m not able to eat as much as I’d like. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains strength: 
+ [5’10” 129 pounds](https://imgur.com/a/4ibMFDT)
+
+Been lifting hard for about 3-4 weeks and seen rapid definition build up through my chest and rapid strength increase in my my legs and lower back. Increase deadlift and squat roughly 40-50 pounds since I first maxed. Maxed at 125 on squat my first week and now I’m at a working set of 145 3x5
+
+Feels really good and super happy with the progress I’ve seen so far. Having a lot of trouble just putting on weight because of my job so I’m not able to eat as much as I’d like. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains deadlift: 
+ [5’10” 129 pounds](https://imgur.com/a/4ibMFDT)
+
+Been lifting hard for about 3-4 weeks and seen rapid definition build up through my chest and rapid strength increase in my my legs and lower back. Increase deadlift and squat roughly 40-50 pounds since I first maxed. Maxed at 125 on squat my first week and now I’m at a working set of 145 3x5
+
+Feels really good and super happy with the progress I’ve seen so far. Having a lot of trouble just putting on weight because of my job so I’m not able to eat as much as I’d like. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lift: 
+ https://i.imgur.com/dThWCSv.jpg
+
+35 / 5'11" / 168 lbs. Picture taken at the end of summer cut, lowest weight of the year.
+
+Run 40 mpw and lift 3x a week. Don't really have a question, but just wanted to remind people that running need not be seen as counterproductive for lifting or looking good. 
+</td>
+</tr>
+
+<tr>
+<td>Comment contains lifting: 
+ https://i.imgur.com/dThWCSv.jpg
+
+35 / 5'11" / 168 lbs. Picture taken at the end of summer cut, lowest weight of the year.
+
+Run 40 mpw and lift 3x a week. Don't really have a question, but just wanted to remind people that running need not be seen as counterproductive for lifting or looking good. 
 </td>
 </tr>
 

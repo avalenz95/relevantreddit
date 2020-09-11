@@ -110,26 +110,31 @@ func fetchSubredditBanner(subname string) string {
 
 //Redirect user to authorization page
 func handleRedditLogin(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Context-Type", "application/x-www-form-urlencoded")
+	//w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Context-Type", "application/json;charset=utf-8")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Access-Control-Allow-Methods", "GET, OPTIONS")
+	w.Header().Set("Access-Control-Allow-Headers", "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers")
+	if r.Method == "GET" {
+		url, err := url.Parse("reddit.com/api/v1/authorize")
+		if err != nil {
+			log.Fatal(err)
+		}
 
-	url, err := url.Parse("reddit.com/api/v1/authorize")
-	if err != nil {
-		log.Fatal(err)
+		url.Scheme = "https"
+		q := url.Query()
+		q.Add("client_id", creds.Client)
+		q.Add("response_type", "code")
+		q.Add("state", "foobar")              //verify user is user CSRF
+		q.Add("redirect_uri", creds.Redirect) //temp redirect url
+		q.Add("duration", "temporary")        //temp for now may switch to perm later
+		q.Add("scope", "mysubreddits identity history")
+
+		url.RawQuery = q.Encode()
+		fmt.Printf("Redirecting to: %s \n", url)
+
+		http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 	}
-	url.Scheme = "https"
-	q := url.Query()
-	q.Add("client_id", creds.Client)
-	q.Add("response_type", "code")
-	q.Add("state", "foobar")              //verify user is user CSRF
-	q.Add("redirect_uri", creds.Redirect) //temp redirect url
-	q.Add("duration", "temporary")        //temp for now may switch to perm later
-	q.Add("scope", "mysubreddits identity history")
-
-	url.RawQuery = q.Encode()
-	fmt.Printf("Redirecting to: %s \n", url)
-
-	http.Redirect(w, r, url.String(), http.StatusTemporaryRedirect)
 }
 
 //Handle user response from reddit
